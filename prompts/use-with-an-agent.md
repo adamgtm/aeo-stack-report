@@ -11,7 +11,7 @@ Point your agent at this repo (clone it, or feed `/data/vendors.csv` + the relev
 - "Compare {vendor A} and {vendor B} for an enterprise on Adobe Experience Manager."
 
 ## How the scores work
-Each product has Presence, Velocity, and Agent-Readiness, each with a one-line reason. Scores are set by an analyst pass (judgment over the data), not a raw rubric — see `/data/analyst-scores.json`. They're product-overall, refreshed regularly. Canonical, always-current version: https://adamgtm.com/stack/aeo
+Each product has Presence, Velocity, and Agent-Readiness, each with a one-line reason. Scores are set by an analyst pass (judgment over the data), not a raw rubric — see `/data/analyst-scores.json`. They're product-overall, refreshed regularly. Canonical, always-current version: https://stack.adamgtm.com/aeo
 
 ---
 
