@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/hubspot/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/hubspot/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # HubSpot
 
 Boston-based CRM and marketing platform, public on NYSE with roughly 8,000 employees, now threading AI agents across sales, marketing, and service under the Breeze brand. Recent moves: the first AEO tool from a major platform, full-suite Spotlight launches, and a GA developer MCP server.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 44 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 63 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Medium-High** | 3/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 61 | Young product (beta Apr 2026) on ~300k HubSpot distribution |
+| Velocity | 78 | Fast beta iteration; backed by HubSpot machine |
+| Agent-Readiness | Low | Nascent product; no dedicated AEO agent surface |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

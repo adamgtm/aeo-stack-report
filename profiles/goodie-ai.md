@@ -4,6 +4,16 @@
 
 Bootstrapped New York AEO platform (higoodie.com) pairing full-stack visibility tracking with an agentic optimization layer. Tracks brand presence across the broadest model set in the category — 11 surfaces including ChatGPT, Claude, Gemini, Perplexity, AI Overviews, Copilot, DeepSeek, Grok, and Amazon Rufus. Founded 2023 by Mostafa Elbermawy.
 
+## Scores
+
+| Score | Value | Why |
+|---|---|---|
+| Presence | 60 | Bootstrapped ~$1.2M ARR; broadest model coverage (11) |
+| Velocity | 68 | Ships steadily for a small bootstrapped team |
+| Agent-Readiness | Low | No public API or MCP |
+
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+
 ## The Solution & Approach
 
 Goodie closes the loop between monitoring and action: it surfaces visibility, sentiment, citations, and share of voice, then pushes fixes — schema injection, AEO content generation, and feed optimization through commerce integrations. Its research engine (the "AEO Periodic Table," run across 2.2M+ prompts) drives outsized mindshare for a small, bootstrapped team. The founder also runs the growth agency NoGood.

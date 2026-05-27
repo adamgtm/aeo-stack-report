@@ -4,6 +4,16 @@
 
 Adobe's enterprise AEO/GEO application, generally available since October 14, 2025, inside Adobe Experience Cloud with native Adobe Experience Manager integration. It measures brand visibility in AI answers, benchmarks share of voice against competitors, and recommends and implements fixes.
 
+## Scores
+
+| Score | Value | Why |
+|---|---|---|
+| Presence | 69 | New (GA Oct 2025) but Adobe Experience Cloud distribution |
+| Velocity | 78 | Fresh GA, Adobe shipping machine behind it |
+| Agent-Readiness | Medium | Adobe APIs; agent surface still maturing |
+
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+
 ## The Solution & Approach
 
 Adobe LLM Optimizer brings answer-engine optimization into the Experience Cloud stack: it tracks when and how a brand appears across ChatGPT, Perplexity, Copilot, and Gemini, identifies content and technical improvements (FAQs, schema, crawlability), and lets teams review, approve, and push changes into AEM Sites with a single click. The differentiator is distribution and workflow, not measurement alone — it sits where large enterprises already manage their web presence.

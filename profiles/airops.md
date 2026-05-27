@@ -4,6 +4,16 @@
 
 AI content and AEO/GEO workflow platform used by GTM and content teams to research, generate, and optimize at scale. Customers include Ramp, Chime, Wiz, Carta, Klaviyo, Webflow, and Monday. $62M raised at a roughly $225M valuation.
 
+## Scores
+
+| Score | Value | Why |
+|---|---|---|
+| Presence | 76 | $62M raised, $225M val, Ramp/Wiz/Klaviyo logos; native AEO |
+| Velocity | 88 | Headcount 20→100 in a year; fresh Series B |
+| Agent-Readiness | High | Official MCP + Claude Connector, REST API, Client SDK |
+
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+
 ## The Solution & Approach
 
 AirOps lets teams build and run AI content workflows — grounded generation, enrichment, and optimization — then points them at AI-search visibility. The bet is that winning AEO is a content-operations problem as much as a measurement one, so it pairs a workflow engine with agent-ready surfaces rather than shipping a dashboard alone. It has scaled fast, growing headcount from roughly 20 to 100 in a year on the back of a fresh Series B.

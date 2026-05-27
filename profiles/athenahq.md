@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/athenahq/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/athenahq/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AthenaHQ
 
 AthenaHQ is a generative engine optimization platform that tracks and improves how brands get cited across ChatGPT, Perplexity, Claude, and Gemini. Customers include Rootly, Grüns, Lago, and AutoRFP. $3M raised. Recent releases: Oracle claim-correction, the Athena MCP, and the QVEM query-volume model.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 83 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 52 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Medium-High** | 3/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 72 | Punches above $2.7M seed on influencer visibility |
+| Velocity | 56 | Shipping cadence cooled recently; smaller team |
+| Agent-Readiness | Medium | Some API access; no public MCP yet |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

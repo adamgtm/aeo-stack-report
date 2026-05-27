@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/brightedge/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/brightedge/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # BrightEdge
 
 Enterprise SEO incumbent founded in 2007, now retrofitting its data platform for the answer-engine era. Raised $63.9M across four rounds through 2013. Recent releases include AI Hyper Cube cross-engine tracking (March 2026), the AI Catalyst product line (April 2025), and an AI Early Detection System for revenue attribution (September 2025).
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 11 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 28 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Low** | 0/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 71 | ~$120M ARR, 57% of F500; corpus SOV gap |
+| Velocity | 56 | Real AEO line but slow legacy-platform cadence |
+| Agent-Readiness | Low | Enterprise APIs but no agent-native surface |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

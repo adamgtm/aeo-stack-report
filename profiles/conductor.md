@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/conductor/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/conductor/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Conductor
 
 Conductor is an enterprise SEO and content intelligence platform now retrofitting for AEO. Customers include IBM, Coca-Cola, Atlassian, and Airbnb. $210M total funding. Recent moves include the AgentStack AEO suite, a 2026 AEO/GEO benchmarks report, and a State of AEO/GEO CMO investment report.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 40 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 64 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Medium-High** | 3/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 73 | $210M, 16yr enterprise platform, Forrester Leader |
+| Velocity | 76 | AgentStack AEO shipped Apr 2026; steady incumbent pace |
+| Agent-Readiness | Medium | AgentStack AEO new; enterprise integrations but thin agent surface |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

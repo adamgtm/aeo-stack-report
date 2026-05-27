@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/clay/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/clay/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Clay
 
 Clay is the AI-native sales tech platform spanning enrichment, scoring, and outbound execution. Customers include Anthropic, Slack, and Rippling. $5B valuation, $202M raised, $100M ARR crossed in December 2025. Recent ships: Claygent Builder, Clay MCP in Claude and ChatGPT, and Clay Functions.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 55 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 89 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Medium-High** | 3/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 98 | $5B val, $100M+ ARR, 14k customers — ubiquitous GTM product |
+| Velocity | 93 | Relentless shipping cadence; close behind Profound |
+| Agent-Readiness | High | Deep API, integrations, agentic enrichment surfaces |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

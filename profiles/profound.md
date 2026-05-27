@@ -1,4 +1,4 @@
-<!-- canonical: https://stack.adamgtm.com/profound/ · last updated 2026-05-23 -->
+<!-- canonical: https://stack.adamgtm.com/profound/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Profound
 
@@ -6,15 +6,16 @@ Full-suite AEO/GEO platform, enterprise-focused. Customers include Snap, Coinbas
 
 
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 100 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility (how often AI answers name Profound). |
-| **Velocity** | 98 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **High** | API, MCP, SDK, CLI, and llms.txt all present with docs. See Agent Experience below. |
+| Presence | 85 | AEO category leader, $1B unicorn, 700+ logos, owns vocabulary |
+| Velocity | 100 | Most shipping in the group — sets the pace |
+| Agent-Readiness | High | Mature API plus agent surfaces; category-defining tooling |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

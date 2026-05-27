@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/siteimprove/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/siteimprove/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Siteimprove
 
 Web-governance platform founded 2003 in Copenhagen, retrofitting accessibility, SEO, and content compliance with AI-search visibility. Majority-owned by Nordic Capital. Recent moves: Advanced AEO Insights at Adobe Summit, the Siteimprove.ai agentic platform on Amazon Bedrock, and an Optimizely agent-to-agent integration.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 0 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 28 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Low** | 0/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 66 | $100M+ ARR, 5500 customers, Gartner-listed |
+| Velocity | 42 | Slow incumbent cadence; AEO peripheral |
+| Agent-Readiness | Medium | Public REST API; no agent-native layer |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

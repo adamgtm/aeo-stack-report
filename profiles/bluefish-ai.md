@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/bluefish-ai/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/bluefish-ai/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Bluefish AI
 
 Bluefish AI is an enterprise AI marketing platform for brand visibility, influence, and verification across AI channels, used by roughly 10% of the Fortune 500 including Adidas, American Express, LVMH, and Ulta Beauty. $68M raised. Recent: AI Accuracy verification, a Super Bowl AI-visibility study, AI Impact and Influence Analytics.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 35 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 40 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Low** | 0/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 70 | $68M raised, $43M Series B, F500 logos; invisible socially |
+| Velocity | 86 | Well-funded and shipping fast post-raise |
+| Agent-Readiness | Low | Zero agent surfaces despite funding |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

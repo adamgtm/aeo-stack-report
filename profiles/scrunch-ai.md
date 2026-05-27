@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/scrunch-ai/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/scrunch-ai/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Scrunch AI
 
 AEO/GEO platform that serves compressed, machine-readable content to AI crawlers rather than only measuring citations. Customers include RunPod, Lenovo, and Crunchbase. $19M raised. Recent moves: the Agent Experience Platform, Agent Traffic Monitoring, and partnerships with Stacker and Noble.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 67 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 35 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Medium** | 2/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 64 | $19M, G2 High Performer; serve-to-crawlers play |
+| Velocity | 40 | Cadence cooled; raise ~10mo old |
+| Agent-Readiness | Medium | API available; agent surface limited |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/evertune/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/evertune/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Evertune
 
 Evertune measures how brands surface in AI answers when they aren't named in the prompt, ranking visibility across nine engines via its AI Brand Index. Customers include Canada Goose, Miro, and WPP Media's Choreograph. $19M raised. Recent: a Visibility Boost ad agent, a Gartner Market Guide listing, and AI Retargeting partnerships.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 40 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 41 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Low** | 0/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 53 | $19M, Gartner Representative Vendor; measurement→media play |
+| Velocity | 82 | Ships fast; aggressive product expansion |
+| Agent-Readiness | Low | No public agent surfaces yet |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

@@ -4,15 +4,16 @@
 
 daydream is an AI-native SEO and AEO firm built as an agency-as-product: SEO agents execute at scale with a dedicated human Growth Lead per customer. Customers include Twingate, Clay, and Beautiful.ai. $21M raised, capped by a $15M Series A led by WndrCo in April 2026, after a Shorty Award win for its OpenArt programmatic-SEO campaign.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 22 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 35 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Low** | 0/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 22 |  |
+| Velocity | 35 |  |
+| Agent-Readiness | Low |  |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

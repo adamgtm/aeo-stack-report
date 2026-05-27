@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/botify/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/botify/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Botify
 
 Botify is an enterprise SEO platform founded in Paris in 2012, retrofitting its first-party crawl and log-file data into AEO/GEO. About $82M raised, the last a $55M Series C. Recent: AI Visibility (Oct 2025), agentic workflows (Feb 2025), and an April 2026 OpenAI crawl analysis.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 24 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 35 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Low** | 0/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 62 | ~$82M, 500+ brands, Forrester Strong Performer |
+| Velocity | 62 | Steady incumbent shipping; AEO additions ongoing |
+| Agent-Readiness | High | API + MCP + llms.txt — strong agent stack |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

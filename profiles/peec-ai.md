@@ -1,18 +1,19 @@
-<!-- canonical: https://stack.adamgtm.com/peec-ai/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/peec-ai/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Peec AI
 
 AI search analytics and competitor benchmarking platform, the mid-market and agency play in AEO. Customers include Chanel, Axel Springer, ElevenLabs, and Attio. $29M raised. Recent moves: crossed $10M ARR, launched Actions, shipped Agent Analytics crawl tools, and an MCP server.
 
+
 ## Scores
 
-| | Score | Basis |
+| Score | Value | Why |
 |---|---|---|
-| **Presence** | 81 | Share of voice across our corpus (excl. their own pages), influencer + analyst mentions, funding, customer logos. Includes AI Visibility. |
-| **Velocity** | 63 | Ship cadence and recency from the evidence trail, plus recent funding and customer wins. |
-| **Agent-Readiness** | **Medium-High** | 3/5 agent surfaces present with docs. See Agent Experience below. |
+| Presence | 74 | Clear #2 specialist; doubled ARR $4M→$10M in 6mo |
+| Velocity | 86 | Fast specialist shipping; capable MCP recently added |
+| Agent-Readiness | High | Capable MCP server plus monitoring API |
 
-*Presence × Velocity plot to a 2×2 (the AdamGTM Stack quadrant); Agent-Readiness is the platform-for-agents lens.*
+*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 
