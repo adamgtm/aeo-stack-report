@@ -1,3 +1,5 @@
+> **Canonical source:** [https://stack.adamgtm.com/aeo/](https://stack.adamgtm.com/aeo/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
+
 <!-- canonical: https://stack.adamgtm.com/aeo/ · last updated 2026-05-25 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Tools, Build Stacks, and Agencies

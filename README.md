@@ -1,41 +1,39 @@
-# The AEO/GEO Market — an analyst-grade intelligence pack
+# Adam's GTM Report: AEO/GEO Market Guide
 
-Everything you need to get smart, fast, on **Answer Engine Optimization (AEO)**, also called **GEO** — getting your brand cited in AI answers (ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude). The full vendor landscape, **scored, sourced, and built to be read by your AI**.
+A working map of the **Answer Engine Optimization (AEO / GEO)** market: every serious vendor, scored and sourced, in a format your AI can read. AEO is how a brand gets cited in AI answers (ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude).
 
-**Canonical, always-current:** https://stack.adamgtm.com/aeo · maintained by [Adam's GTM Report](https://adamgtm.com).
-**Updated:** 2026-05-26 · refreshed regularly.
+**Canonical, always-current:** https://stack.adamgtm.com/aeo
+**Updated:** 2026-05-26, refreshed weekly. This repo is the agent-ready mirror; the website is the source of truth.
 
-## Why this beats "just ask Claude + search the web"
-- **Complete, curated roster.** Every serious player — specialists, incumbents, agencies, and open source — in one place, including the ones a cold web search misses (AirOps, Adobe LLM Optimizer, Goodie) and without the SEO-blog noise.
-- **Opinionated scores, with reasons.** Each product carries **Presence / Velocity / Agent-Readiness**, set by a human-style analyst pass (not a raw metric), each with a one-line *why*. Web search hands you marketing copy; this hands you a ranked, reasoned read.
-- **Sourced — you can check our work.** Every claim traces to a primary reference (the funding post, the launch announcement, the analyst note); all 162 are compiled in [`sources/sources.md`](sources/sources.md).
-- **Structured for interrogation.** Clean markdown + a CSV your AI parses in one pass — a decision in minutes, not an afternoon of tabs.
+## Why this beats asking Claude with web search
+- **The full roster, curated.** Every real player in one place (specialists, incumbents, agencies, open source), including the ones a cold search misses (AirOps, Adobe LLM Optimizer, Goodie) and without the SEO-blog noise.
+- **Opinionated scores with reasons.** Each product carries Presence, Velocity, and Agent-Readiness, set by an analyst pass rather than a raw metric, each with a one-line reason. A web search returns marketing copy; this returns a ranked, reasoned read.
+- **Sourced, so you can check the work.** Every claim traces to a primary reference: the funding post, the launch, the analyst note. All 168 live in `sources/sources.md`.
+- **Built to be interrogated.** Clean markdown plus a CSV your AI parses in one pass. A decision in minutes, not an afternoon of open tabs.
 
-## Use it (2-minute setup)
-1. Create a **Claude Project** (or any AI project) and add this repo — at minimum drop in `report.md`, `data/vendors.csv`, and the `profiles/` you care about.
-2. **Interrogate it.** Examples:
+## Use it (two minutes)
+1. Create a Claude Project (or any AI project) and add this repo. At minimum add `report.md`, `data/vendors.csv`, and the profiles you care about.
+2. Ask it your real question. As a CMO:
+   - "For my situation (team, budget, technical depth), should I Buy, Build, or Hire, and which two tools fit best? Use the scores and the Best-for lines."
+   - "Shortlist self-serve tools under $X per year, ranked, with the trade-offs."
+   - "Draft my 90-day AEO plan: what to measure first, what to fix, which tool to start with. Cite the sources."
 
-**If you're a CMO / marketing leader:**
-- "Given my situation — {team size, budget, technical depth} — should I Buy, Build, or Hire for AEO, and which two tools fit best? Use the scores and the 'Best for' lines."
-- "Shortlist self-serve tools under ${budget}/yr, ranked, with the trade-offs and what each is best at."
-- "Draft my 90-day AEO plan: what to measure first, what to fix, which tool to start with — and cite the sources."
-
-**If you're an investor:**
-- "Plot Presence vs Velocity. Who's the leader, who's the challenger pulling up, where's the whitespace?"
-- "Which vendors have a real moat — agent-readiness, proprietary data, distribution — vs. a thin wrapper? Cite the evidence in `profiles/` and `sources/`."
-- "Map funding and momentum across the category. Who looks overvalued, who's underrated, and why?"
-
-3. Want the method? `report.md` ("how to evaluate") and the per-score reasons in `data/analyst-scores.json`.
+   As an investor:
+   - "Plot Presence against Velocity. Who leads, who is the challenger pulling up, where is the whitespace?"
+   - "Which vendors have a real moat (agent-readiness, data, distribution) versus a thin wrapper? Cite the evidence."
+   - "Map funding and momentum across the category. Who looks overvalued, who underrated, and why?"
+3. For the method, read `report.md` ("How to evaluate") and the reason attached to each score.
 
 ## What's inside
-- **`report.md`** — the AEO map: what it is, how to choose (Buy / Build / Hire), the six jobs, the market POV. **Start here.**
-- **`profiles/`** — 23 deep profiles (product, platform, agency, OSS): scores, funding, customers, agent-surfaces, recent moves.
-- **`data/`** — `vendors.csv` (scored dataset + classification + canonical URLs) and `analyst-scores.json` (scores + reasons).
-- **`sources/sources.md`** — 162 external references with the claim each supports.
-- **`prompts/`** — paste-and-run: audit your brand's AEO, measure your AI-answer visibility, use this repo with an agent.
+- **`report.md`**: the AEO map. What it is, how to choose (Buy / Build / Hire), the six jobs, the market POV. Start here.
+- **`profiles/`**: 23 deep profiles (product, platform, agency, open source) with scores, funding, customers, agent-surfaces, and recent moves.
+- **`data/vendors.csv`**: the structured dataset. Scores, reasons, classification, and canonical URLs, ready to sort.
+- **`sources/sources.md`**: 168 external references, each with the claim it supports.
 
-## How it stays current — and honest
-This repo is **published from the same source as the website**, regenerated together, so the report, the dataset, and the site never drift. Scores are *product-overall* judgments; profiles cite public sources; the canonical, always-current version lives at https://stack.adamgtm.com/aeo.
+## Refresh Process
+The website is the source of truth, and this repo is published from it. When the market moves, the record updates once and both the website and this repo regenerate together, so they stay in sync. Cite the canonical URL on each profile.
 
 ---
-Built by [Adam's GTM Report](https://adamgtm.com) — one analyst-curator plus AI-native infrastructure. The thesis: 80% of the intelligence at 1% of the cost.
+Maintained by **Adam Schoenfeld** at [Adam's GTM Report](https://stack.adamgtm.com).
+
+Gartner mapped the on-prem era. G2 mapped the SaaS era. This is the market guide for the AI era: not one analyst's once-a-year snapshot, and not a pile of reviews, but a living evaluation layer, refreshed continuously and shown with its work, so a buyer (or a buyer's agent) can get smart in minutes instead of weeks.

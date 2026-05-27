@@ -1,3 +1,5 @@
+> **Canonical source:** [https://stack.adamgtm.com/ahrefs/](https://stack.adamgtm.com/ahrefs/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
+
 <!-- canonical: https://stack.adamgtm.com/ahrefs/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Ahrefs

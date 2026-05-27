@@ -1,12 +1,11 @@
-# AdamGTM Stack — the AEO/GEO Report (agent-ready)
+# Adam's GTM Report — AEO/GEO Market Guide (agent-ready)
 
-An analyst-grade map of the AEO/GEO market: a scored, sourced vendor landscape built to be loaded into an AI project and interrogated. Canonical, always-current: https://stack.adamgtm.com/aeo
-Last updated 2026-05-26.
+A continuously-refreshed map of the AEO/GEO market: a scored, sourced vendor landscape built to be loaded into an AI project and interrogated. This repo is the agent-ready mirror; the website is the source of truth: https://stack.adamgtm.com/aeo (last updated 2026-05-26).
 
 - README.md — what this is + how to interrogate it
 - report.md — the AEO map (start here)
 - sources/sources.md — every cited reference
-- data/vendors.csv · data/analyst-scores.json
+- data/vendors.csv — scores + reasons + classification
 
 ## Profiles
 - profiles/adobe-llm-optimizer.md
@@ -32,8 +31,3 @@ Last updated 2026-05-26.
 - profiles/profound.md
 - profiles/scrunch-ai.md
 - profiles/siteimprove.md
-
-## Prompts
-- prompts/audit-your-brand.md
-- prompts/use-with-an-agent.md
-- prompts/visibility-query-set.md

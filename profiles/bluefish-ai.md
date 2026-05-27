@@ -1,3 +1,5 @@
+> **Canonical source:** [https://stack.adamgtm.com/bluefish-ai/](https://stack.adamgtm.com/bluefish-ai/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
+
 <!-- canonical: https://stack.adamgtm.com/bluefish-ai/ · last updated 2026-05-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Bluefish AI

@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this report — LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research — with the claim it supports and a link. **162 sources across 20 pages.** Check our work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **168 sources across 21 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -36,6 +36,15 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 - **[Web]** [source](https://docs.ahrefs.com/mcp/docs/introduction) — 2026-04-22: Official remote MCP went live across Claude, ChatGPT, Cursor, Claude Code, and Copilot Studio on Lite+ plans, with MCP-scoped API keys. source
 - **[Web]** [source](https://medium.com/@timsoulo/profound-ai-alternatives-why-i-think-ahrefs-brand-radar-is-the-smarter-choice-682f1a589e88) — 2026-04-15: Tim Soulo published a long-form piece positioning Brand Radar against Profound and the AI-visibility pure-plays on the bootstrapped, crawler-infrastructure advantage. s
 - **[LinkedIn]** [source](https://www.linkedin.com/posts/timsoulo_a-free-web-mentions-api-yes-please-activity-7438326047554793472-v0OK) — 2026-03-13: Launched Firehose, a free real-time web-mentions API with Lucene-style query rules, powered by Ahrefs' crawler infrastructure. source
+
+## AirOps  ·  [profiles/airops.md](profiles/airops.md)
+
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/legalzoom-customer-story) — LegalZoom: from AI experiments to systems that saved $600K+ source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio: 46% more traffic from high-intent buyers with a one-person team source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1) — Anthropic case study on the AirOps collaboration (2x productivity, 300% content velocity for Carta) source
+- **[Web]** [source](https://hellopartner.com/2026/05/20/seo-is-out-linqia-and-airops-launch-influencer-led-ai-search-visibility-offering/) — 2026-05-20: Launched an influencer-led AI search visibility offering with Linqia, billed as a first for the category. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_today-were-launching-quill-your-ai-agent-activity-7460305455597330432-nGvh) — 2026-05-13: Launched Quill, an end-to-end AEO agent, at AirOps Next NYC. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/announcing-prompt-discovery) — 2026-04-30: Shipped Prompt Discovery, a multi-source prompt universe builder with a weekly emerging-prompt inbox. source
 
 ## Animalz  ·  [profiles/animalz.md](profiles/animalz.md)
 
