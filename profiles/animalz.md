@@ -8,7 +8,7 @@ Content marketing agency for enterprise SaaS, known for expert-interview-driven 
 
 ## The Solution & Approach
 
-Animalz built its reputation on high-quality, long-form editorial and a "Movement Marketing" method that starts with subject-matter-expert interviews rather than keyword-driven outlines. It has woven AEO through that method, running a conversion-focused, measured program aimed at credibility in complex categories. Pricing is not public, and engagements typically start in the five-figures-per-month range.
+Led by CEO **Ty Magnin** (who previously scaled marketing at Appcues and UiPath), Animalz built its reputation on high-quality, long-form editorial and a "Movement Marketing" method that starts with subject-matter-expert interviews rather than keyword-driven outlines. It has woven AEO through that method, running a conversion-focused, measured program aimed at credibility in complex categories. Pricing is not public, and engagements typically start in the five-figures-per-month range.
 
 ## Best for
 
