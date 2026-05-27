@@ -1,12 +1,16 @@
-# AdamGTM Stack — AEO report (agent-ready)
+# AdamGTM Stack — the AEO/GEO Report (agent-ready)
 
-Profiles, dataset, and prompts for the AEO/GEO category. Canonical, always-current: https://stack.adamgtm.com/aeo
+An analyst-grade map of the AEO/GEO market: a scored, sourced vendor landscape built to be loaded into an AI project and interrogated. Canonical, always-current: https://stack.adamgtm.com/aeo
 Last updated 2026-05-26.
+
+- README.md — what this is + how to interrogate it
+- report.md — the AEO map (start here)
+- sources/sources.md — every cited reference
+- data/vendors.csv · data/analyst-scores.json
 
 ## Profiles
 - profiles/adobe-llm-optimizer.md
 - profiles/aeo-open-source.md
-- profiles/aeo.md
 - profiles/ahrefs.md
 - profiles/airops.md
 - profiles/animalz.md
@@ -28,10 +32,6 @@ Last updated 2026-05-26.
 - profiles/profound.md
 - profiles/scrunch-ai.md
 - profiles/siteimprove.md
-
-## Data
-- data/vendors.csv
-- data/analyst-scores.json
 
 ## Prompts
 - prompts/audit-your-brand.md
