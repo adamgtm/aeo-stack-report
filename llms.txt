@@ -1,0 +1,39 @@
+# AdamGTM Stack — AEO report (agent-ready)
+
+Profiles, dataset, and prompts for the AEO/GEO category. Canonical, always-current: https://stack.adamgtm.com/aeo
+Last updated 2026-05-26.
+
+## Profiles
+- profiles/adobe-llm-optimizer.md
+- profiles/aeo-open-source.md
+- profiles/aeo.md
+- profiles/ahrefs.md
+- profiles/airops.md
+- profiles/animalz.md
+- profiles/athenahq.md
+- profiles/bluefish-ai.md
+- profiles/botify.md
+- profiles/brightedge.md
+- profiles/clay.md
+- profiles/conductor.md
+- profiles/daydream.md
+- profiles/evertune.md
+- profiles/foundation.md
+- profiles/goodie-ai.md
+- profiles/graphite.md
+- profiles/hubspot.md
+- profiles/ipullrank.md
+- profiles/otterly-ai.md
+- profiles/peec-ai.md
+- profiles/profound.md
+- profiles/scrunch-ai.md
+- profiles/siteimprove.md
+
+## Data
+- data/vendors.csv
+- data/analyst-scores.json
+
+## Prompts
+- prompts/audit-your-brand.md
+- prompts/use-with-an-agent.md
+- prompts/visibility-query-set.md
