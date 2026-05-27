@@ -3,7 +3,7 @@
 A working map of the **Answer Engine Optimization (AEO / GEO)** market: every serious vendor, scored and sourced, in a format your AI can read. AEO is how a brand gets cited in AI answers (ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude).
 
 **Canonical, always-current:** https://stack.adamgtm.com/aeo
-**Updated:** 2026-05-26, refreshed weekly. This repo is the agent-ready mirror; the website is the source of truth.
+**Updated:** 2026-05-27, refreshed weekly. This repo is the agent-ready mirror; the website is the source of truth.
 
 ## Why this beats asking Claude with web search
 - **The full roster, curated.** Every real player in one place (specialists, incumbents, agencies, open source), including the ones a cold search misses (AirOps, Adobe LLM Optimizer, Goodie) and without the SEO-blog noise.
