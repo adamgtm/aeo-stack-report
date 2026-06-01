@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/brightedge/](https://stack.adamgtm.com/brightedge/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/brightedge/ · last updated 2026-05-26 -->
+<!-- canonical: https://stack.adamgtm.com/brightedge/ · last updated 2026-05-31 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # BrightEdge
 
-Enterprise SEO incumbent founded in 2007, now retrofitting its data platform for the answer-engine era. Raised $63.9M across four rounds through 2013. Recent releases include AI Hyper Cube cross-engine tracking (March 2026), the AI Catalyst product line (April 2025), and an AI Early Detection System for revenue attribution (September 2025).
+Enterprise SEO platform founded 2007, now retrofitting for the answer-engine era; serves 57% of the Fortune 500 on $63.9M total funding. Recent releases: AI Hyper Cube cross-engine tracking (March 2026), the AI Early Detection System revenue-attribution layer, and Q1 2026 data naming Gemini the #2 consumer AI referral source.
 
 
 ## Scores
@@ -19,19 +19,19 @@ Enterprise SEO incumbent founded in 2007, now retrofitting its data platform for
 
 ## The Solution & Approach
 
-BrightEdge is an enterprise SEO platform retrofitting its data layer for the answer-engine era. The arc runs from the Generative Parser (December 2023) and first-ever Perplexity research (April 2024) through Data Cube X AI capabilities for Google AI Overviews (November 2024), the consolidated AI Catalyst product line (April 2025), and AI Hyper Cube (March 2026), which tracks brand presence across ChatGPT, Gemini, and Perplexity.
+BrightEdge is a long-running enterprise SEO incumbent, founded in 2007 and privately held since a 2013 round, running an incremental AEO/GEO retrofit on top of its installed base. The arc runs from a 2023 Generative Parser through 2024 Data Cube X AI capabilities scoped to Google AI Overviews, the April 2025 AI Catalyst product-line consolidation, and the March 2026 AI Hyper Cube surface that tracks brand presence across ChatGPT, Gemini, and Perplexity.
 
-The angle is incremental, not disruptive. Jim Yu frames each step as completing the search picture rather than replacing it, which fits an incumbent protecting its installed base while selling the new layer on top. In September 2025 BrightEdge published research arguing AI surfaces still accounted for under 1% of search, the opposite of the AEO-native vendors' 'search is being rewritten' pitch.
+Its angle is protect-the-base. BrightEdge pairs the product roadmap with a research drumbeat that frames AI search as additive rather than replacement: under 1% of search, organic still the cornerstone, Google rebounding, and an AI Early Detection System that attributes traffic, leads, and revenue to AI search. That revenue-attribution framing is the enterprise-buyer answer to AEO-native tools that lead with visibility tracking.
 
-Its tell is revenue attribution. The AI Early Detection System attributes traffic, leads, and revenue to AI search, the enterprise-buyer answer to startups that lead with visibility tracking.
+The category POV it pushes is "AI Darwinism" and the AI-agent-as-buyer thesis: Jim Yu argues the AI-search gold rush is over and a consolidation phase has begun, while BrightEdge data projects that most online customers will be AI agents by end of 2026.
 
 ## Best for
 
-Enterprise teams already running BrightEdge for organic search that want to add an AI-visibility layer without leaving their incumbent SEO platform.
+Enterprise teams already invested in organic SEO at scale that want to add an AI-search visibility and revenue-attribution layer on top of an established platform rather than buy a standalone AEO/GEO tool.
 
 ## Pricing & trial
 
-Enterprise sales-led with no public pricing; quote-based via sales contact. No free trial documented.
+Pricing not public. BrightEdge is enterprise sales-led with quote-based pricing and no public pricing page or free trial.
 
 ## Agent Experience
 
@@ -45,34 +45,34 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | No | — |
 
-No public developer surface (API, MCP, SDK, or llms.txt) is documented; BrightEdge presents as an enterprise application rather than a build-on-top platform.
+The research does not document any API, MCP, SDK, CLI, or llms.txt build surface, so its strength as a platform to build on with agents cannot be assessed from public sources.
 
 ## Recent moves
 
-- **2026-03-10**: Launched AI Hyper Cube at its Spark SF event, tracking how brands appear across ChatGPT, Gemini, and Perplexity. [source](https://www.brightedge.com/news/press-releases/brightedge-ai-hypercube-brands-ai-search-visibility)
-- **2026-01-30**: G2 restated the inaugural AEO Grid standings, with BrightEdge as a Contender alongside Semrush and Conductor. [source](https://company.g2.com/news/inside-the-2000-percent-growth-of-the-aeo-software-category-on-g2)
-- **2025-12-03**: Landed as a Contender in the AEO category's first G2 Grid Report, inside G2's Winter 2026 Reports. [source](https://company.g2.com/news/g2-winter-2026-reports)
-- **2025-09-12**: Published research framing AI surfaces as under 1% of search, with organic still dominating referral traffic. [source](https://www.brightedge.com/news/press-releases/brightedge-data-finds-ai-accounts-less-1-search-organic-traffic-continues)
-- **2025-09-03**: Announced the AI Early Detection System and AI Catalyst Recommendations at Spark 25, attributing traffic, leads, and revenue to AI search. [source](https://www.brightedge.com/spark25-optimize-for-ai-once-win-everywhere)
-- **2025-04-09**: Announced AI Catalyst, consolidating its AEO/GEO bet into one product line at the spring Spark AI event. [source](https://www.globenewswire.com/news-release/2025/04/09/3058706/0/en/BrightEdge-AI-Catalyst-Completes-Search-Picture-for-Brands-to-Win-in-AI-Era.html)
+- **2026-05-20**: Published Q1 2026 AI referral data naming Gemini the #2 consumer AI referral source, with Gemini's share rising 4.3% to 11.6% as ChatGPT slid from 89.2% to 81.4%. [source](https://www.brightedge.com/news/press-releases/brightedge-data-gemini-second-largest-ai-referral-source-q1-2026)
+- **2026-04-08**: Published research framing AI search at a tipping point, projecting that most online customers will be AI agents by end of 2026, with agent requests reaching 88% of human organic search activity. [source](https://www.brightedge.com/news/press-releases/brightedge-data-ai-search-reaching-tipping-point-ai-agents-2026)
+- **2026-03-10**: Launched AI Hyper Cube at Spark Live 2026, its deepest cross-engine AEO/GEO surface tracking brand presence and sentiment across ChatGPT, Gemini, and Perplexity, alongside AI Agent Insights and Share of Voice V2. [source](https://www.brightedge.com/news/press-releases/brightedge-ai-hypercube-brands-ai-search-visibility)
+- **2026-03-05**: Published research finding Google AI Overviews are 44% more likely to criticize brands than ChatGPT, positioning AI engines as a brand's new editorialist a week before the AI Hyper Cube launch. [source](https://www.brightedge.com/news/press-releases/brightedge-data-google-ai-overviews-more-likely-to-criticize-brands-than-chatgpt)
+- **2026-01-30**: Restated as a Contender alongside Semrush and Conductor in G2's retrospective on the AEO category's 2,000% growth from 7 products to 150+, with Profound holding the Leader slot. [source](https://company.g2.com/news/inside-the-2000-percent-growth-of-the-aeo-software-category-on-g2)
+- **2026-01-21**: Published an AI Darwinism research narrative arguing the AI-search gold rush is over, and confirmed BrightEdge serves 57% of the Fortune 500. [source](https://www.brightedge.com/news/press-releases/ai-darwinism-brightedge-data-reveals-ai-pioneers-stalling)
 
 ## Company, Financials & Funding History
 
-Founded in 2007 by Jim Yu (CEO, ex-Salesforce) and Lemuel Park (CTO), reportedly at Yu's kitchen table on a $5,000 budget, with the SEO platform launching publicly in June 2010. BrightEdge grew into one of the longest-running enterprise-SEO platforms before its AEO retrofit.
+BrightEdge was founded in 2007 by Jim Yu (CEO, ex-Salesforce) and Lemuel Park (CTO), reportedly at Yu's kitchen table on a $5,000 starting budget, with the SEO platform launching publicly in June 2010. Headquartered in Foster City, CA, it grew into one of the longest-running enterprise-SEO platforms before its AEO retrofit.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2013-06 | Series D | $42.8M (Insight Venture Partners), $63.9M total; Intel Capital, Battery Ventures, Altos Ventures, Illuminate Ventures participating |
+| 2013-06 | Series D | $42.8M (Insight Venture Partners; Intel Capital, Battery Ventures, Altos Ventures, Illuminate Ventures participating), bringing total venture funding to $63.9M |
 | 2012 | Series C | $12.6M (Intel Capital) |
-| 2010 |  | $6.5M |
+| 2010 | Venture | $6.5M |
 | 2008 | Series A | $2M (Altos Ventures) |
 
 ## Analyst placement
 
-[Contender in G2's inaugural Answer Engine Optimization Grid](https://company.g2.com/news/g2-winter-2026-reports) (Winter 2026), alongside Semrush and Conductor, behind Leader Profound and High Performers Otterly.AI and Scrunch AI.
+Named a Contender in G2's inaugural Answer Engine Optimization Grid inside the Winter 2026 Reports (December 3, 2025), alongside Semrush and Conductor, behind Leader Profound and High Performers Otterly.AI and Scrunch AI. [G2 Winter 2026 Reports](https://company.g2.com/news/g2-winter-2026-reports)
 
 ## Links
 
 [Homepage](https://www.brightedge.com) · [LinkedIn](https://www.linkedin.com/company/brightedge)
 
-*Last updated 2026-05-25 · refreshed weekly*
+*Last updated 2026-05-31 · refreshed weekly*

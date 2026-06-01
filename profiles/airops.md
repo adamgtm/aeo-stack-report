@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/airops/](https://stack.adamgtm.com/airops/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/airops/ · last updated 2026-05-26 -->
+<!-- canonical: https://stack.adamgtm.com/airops/ · last updated 2026-05-31 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AirOps
 
-AI content operations platform for marketing teams, positioned as the content ops layer of the AEO/GEO category. Customers include Carta, Webflow, and Klaviyo. $62.5M raised, including a $40M Series B at a $225M valuation. Recent releases: the Quill AEO agent, Prompt Discovery, and an influencer-led partnership with Linqia.
+AirOps is an AI content automation platform for marketing teams, focused on AEO/GEO content operations. Customers include Carta, Webflow, Klaviyo, and Ramp. $62.5M raised at a $225M valuation. Recent releases: the Quill search agent, Prompt Discovery, and an influencer-led AEO partnership with Linqia.
 
 
 ## Scores
@@ -19,19 +19,19 @@ AI content operations platform for marketing teams, positioned as the content op
 
 ## The Solution & Approach
 
-AirOps is an AI content automation platform that generates long-form blog, case study, refresh, and research workflows. Agents run against a customer's brand guidelines and site structure to produce and update content at volume. The company started as a no-AI data-access tool, pivoted into LLM workflows after GPT-3/4, then narrowed onto marketing content as marketers became its dominant users. It now positions as the content ops layer inside the AEO/GEO stack, adjacent to Profound on the measurement side and Writer on enterprise writing.
+AirOps positions as the content operations layer inside the AEO/GEO category. Agents generate long-form blog, case study, refresh, and research content that runs against a customer's brand guidelines and site structure, then tie output back to AI search performance. The May 2026 Quill launch packages the company's prior prompt-mining, measurement, and brand-context surfaces into one buyer-side agent product that CEO Alex Halliday framed as "your AI agent captain to win AI search."
 
-Its category POV ties measurement to action. AirOps research framed as "15,000 prompts, 548,534 retrieved pages, 15% citation rate, the other 85% never made the answer" argues that measurement plus placement belong in one company. The May 2026 Quill launch packages prior prompt-mining, measurement, and brand-context surfaces into a single buyer-side agent that Halliday calls "your AI agent captain to win AI search."
+The company's angle is that measurement and placement belong in one system. Its March 2026 research drop (15,000 prompts, 548,534 retrieved pages, a 15% citation rate) made the case directly: "the other 85% never made the answer." Page360 unified AI search signals, Google Search Console, and GA4 into a single content performance layer, and AirOps Offsite scores which publishers control AI answers so brands can land placements on the sites LLMs trust.
 
-AirOps also pushes a role-naming move, formalizing the "Content Engineer" through its AirOps Champions practitioner community. Its framing leans away from fear-based selling: "AI search rewards brands with a clear perspective. If you have taste, judgment, and something real to say, you have a massive advantage."
+AirOps also pushes a category POV around the "Content Engineer" role, formalized through its AirOps Champions practitioner community. Its product direction leans heavily on MCP as a write surface, not just a read one, with Prompt Mining and the rebuilt Brand Kit both exposing read/write integration to Claude, Cursor, and other MCP-compatible tools.
 
 ## Best for
 
-Marketing teams that want to operationalize content production and refresh for AI search, scaling from one-person teams up to enterprises with brand-guideline and multi-region needs.
+Marketing teams that want an agent-driven content operations layer for AI search, from one-person teams up to enterprises managing multi-region, multi-persona content programs.
 
 ## Pricing & trial
 
-A free Solo tier at $0/month, a sales-quoted Pro tier, and a custom Enterprise tier; see airops.com/pricing. [Pricing](https://airops.com/pricing).
+A free Solo tier ($0) covers ChatGPT Insights and basic integrations; Pro is sales-quoted and Enterprise is custom. [Pricing](https://airops.com/pricing).
 
 ## Agent Experience
 
@@ -45,7 +45,7 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | Yes | [docs](https://airops.com/llms.txt) |
 
-Strong build-on surface: AirOps exposes an API, an MCP server used as both a read and write surface (Prompt Mining and Brand Kit), an llms.txt, and a live Claude Connector.
+Strong build-on platform: an API reference, llms.txt, a published llms surface, MCP with read and write support, and a live Claude Connector make AirOps data both agent-readable and agent-writable.
 
 ## Reference customers
 
@@ -54,30 +54,29 @@ Carta, Webflow, Klaviyo, Kayak, Wiz, Ramp, Brex, Chime, Angi, HeyGen, Bilt, Stat
 ## Case studies & customer stories
 
 - LegalZoom: from AI experiments to systems that saved $600K+ [source](https://www.airops.com/blog/legalzoom-customer-story)
-- Skio: 46% more traffic from high-intent buyers with a one-person team [source](https://www.airops.com/blog/skio-customer-story)
-- Anthropic case study on the AirOps collaboration (2x productivity, 300% content velocity for Carta) [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1)
+- Skio: 46% more traffic from a one-person marketing team [source](https://www.airops.com/blog/skio-customer-story)
 
 ## Recent moves
 
-- **2026-05-21**: Published a LegalZoom case study reporting $600K+ in cost savings and a 90% cut in article refresh time. [source](https://www.airops.com/blog/legalzoom-customer-story)
-- **2026-05-21**: Published a Skio case study: a one-person marketing team drove a 46% click lift in 28 days. [source](https://www.airops.com/blog/skio-customer-story)
-- **2026-05-20**: Launched an influencer-led AI search visibility offering with Linqia, billed as a first for the category. [source](https://hellopartner.com/2026/05/20/seo-is-out-linqia-and-airops-launch-influencer-led-ai-search-visibility-offering/)
-- **2026-05-13**: Launched Quill, an end-to-end AEO agent, at AirOps Next NYC. [source](https://www.linkedin.com/posts/alexhalliday_today-were-launching-quill-your-ai-agent-activity-7460305455597330432-nGvh)
+- **2026-05-21**: Published a LegalZoom case study reporting $600K+ in savings and a 90% cut in article refresh time. [source](https://www.airops.com/blog/legalzoom-customer-story)
+- **2026-05-21**: Published a Skio case study showing a 46% click lift from a one-person marketing team. [source](https://www.airops.com/blog/skio-customer-story)
+- **2026-05-20**: Partnered with Linqia on what the two describe as the first influencer-led AEO offering. [source](https://hellopartner.com/2026/05/20/seo-is-out-linqia-and-airops-launch-influencer-led-ai-search-visibility-offering/)
+- **2026-05-13**: Launched Quill, an end-to-end AEO agent, at the AirOps Next NYC conference. [source](https://www.linkedin.com/posts/alexhalliday_today-were-launching-quill-your-ai-agent-activity-7460305455597330432-nGvh)
 - **2026-04-30**: Shipped Prompt Discovery, a multi-source prompt universe builder with a weekly emerging-prompt inbox. [source](https://www.airops.com/blog/announcing-prompt-discovery)
-- **2026-04-23**: Announced an Anthropic-published case study citing 2x productivity and a 300% content velocity increase for Carta. [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1)
+- **2026-03-24**: Released a rebuilt, fully modular Brand Kit with MCP read/write integration and full versioning. [source](https://www.airops.com/blog/introducing-the-new-airops-brand-kit)
 
 ## Company, Financials & Funding History
 
-Founded around early 2022 in San Francisco by Alex Halliday (CEO, ex-MasterClass, Bungalow, Teespring), Matt Hammel (COO, ex-Bungalow), and Berna Gonzalez (CTO, who built the core AI workflow engine). The company began as a no-AI data-access tool, pivoted into LLM workflows after GPT-3/4, then narrowed onto marketing content as marketers became its dominant users.
+AirOps was founded around early 2022 in San Francisco by Alex Halliday (CEO, previously at Teespring, MasterClass, and Bungalow), Matt Hammel (COO, ex-Bungalow), and Berna Gonzalez (CTO, who built the core AI workflow engine). The original product helped non-technical employees access data; after GPT-3/4 it pivoted into LLM workflows and then narrowed onto marketing content as marketers became its dominant users.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2025-11 | Series B | $40M (Greylock, Mike Duboe), $225M post-money valuation, with Unusual Ventures, Wing, XFund, Village Global, and Frontline VC participating |
-| 2024-10 | Series A | $15.5M (Unusual Ventures, Sandhya Hegde), with Wing, Founder Collective, XFund, and Alt Capital |
-| 2023-04 | Seed | $7M (Wing Venture Capital), with Founder Collective, XFund, Village Global, Apollo Projects, and Lachy Groom. Total raised $62.5M |
+| 2025-11 | Series B | $40M (Greylock, Mike Duboe), $225M post-money valuation, ~$62.5M total raised; Unusual Ventures, Wing, XFund, Village Global, and Frontline VC participating |
+| 2024-10 | Series A | $15.5M (Unusual Ventures, Sandhya Hegde); Wing VC, Founder Collective, XFund, Alt Capital participating |
+| 2023-04 | Seed | $7M (Wing Venture Capital); Founder Collective, XFund, Village Global, Apollo Projects, Lachy Groom participating |
 
 ## Links
 
 [Homepage](https://airops.com) · [Pricing](https://airops.com/pricing) · [LinkedIn](https://linkedin.com/company/airopshq)
 
-*Last updated 2026-05-26 · refreshed weekly*
+*Last updated 2026-05-31 · refreshed weekly*

@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/evertune/](https://stack.adamgtm.com/evertune/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/evertune/ · last updated 2026-05-26 -->
+<!-- canonical: https://stack.adamgtm.com/evertune/ · last updated 2026-05-31 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Evertune
 
-Evertune measures how brands surface in AI answers when they aren't named in the prompt, ranking visibility across nine engines via its AI Brand Index. Customers include Canada Goose, Miro, and WPP Media's Choreograph. $19M raised. Recent: a Visibility Boost ad agent, a Gartner Market Guide listing, and AI Retargeting partnerships.
+An AEO/GEO platform whose AI Brand Index measures how often brands surface in AI answers to category questions where they aren't named, across nine engines. Customers include Canada Goose, Miro, and Roku. $19M raised. Recent moves: a Visibility Boost ad agent for ChatGPT, a Gartner Market Guide listing, and AI retargeting partnerships.
 
 
 ## Scores
@@ -19,19 +19,19 @@ Evertune measures how brands surface in AI answers when they aren't named in the
 
 ## The Solution & Approach
 
-Evertune measures how brands show up across AI engines when they aren't named in the prompt. Its flagship AI Brand Index ranks how often and how prominently a brand surfaces in answers to category questions like "what's the best espresso machine under $200," tracking nine surfaces (ChatGPT, Gemini, Claude, Perplexity, Meta, DeepSeek, Copilot, Google AI Overviews, and AI Mode) and running more than 100,000 prompts per brand report. The Index resolves to three scores: a Visibility Score, an Average Position, and a combined AI Brand Score.
+Evertune is an AEO/GEO platform built around the AI Brand Index, which ranks how often and how prominently a brand surfaces in AI answers to category questions like "what's the best espresso machine under $200" when the brand is not named in the prompt. It tracks nine AI surfaces, including ChatGPT, Gemini, Claude, Perplexity, Meta, DeepSeek, Copilot, Google AI Overviews, and AI Mode, and runs more than 100,000 prompts per brand report. The Index resolves to a Visibility Score, an Average Position, and a combined AI Brand Score.
 
-The founders came out of The Trade Desk, and that adtech pedigree shapes the angle. Where most AEO tools stop at measurement, Evertune has extended into media activation, connecting its visibility data to programmatic and affiliate buying through Partner Connect and integrations with Index Exchange and The Trade Desk.
+The company's angle is statistical scale plus an adtech pedigree. Felicis contrasted Evertune's 100,000+ prompts per report against competitors that "prompt the model just a handful of times," and the founding team came out of The Trade Desk. Recent metrics work, Topic Relevance and Brand Relevance, pushes past raw citation frequency to measure which source URLs actually influence how AI models understand a category, with one internal analysis finding the most-cited source ranked 33rd in real influence.
 
-Its category bet is that measurement is only half the job. Evertune found that over 40% of the top 10,000 sources cited by AI models contain affiliate links or are sponsored, the data rationale for wiring AEO/GEO measurement directly into the channels that shape AI answers. Felicis backed it on statistical scale, contrasting Evertune's 100K+ prompts per report against competitors that prompt the model "a handful of times."
+Evertune's distinct POV is moving from measurement into media activation. Through Partner Connect it has wired GEO intelligence into affiliate (impact.com, PartnerStack), programmatic (Index Exchange, The Trade Desk), and structured shopping channels, and its Visibility Boost agent buys ChatGPT ad placements targeted at queries where a brand's organic AI visibility is weak. It is the first tracked AEO vendor shipping a paid-placement agent on top of its measurement layer.
 
 ## Best for
 
-Enterprise marketing teams that want statistical-scale AI visibility measurement and a path from tracking into media activation across programmatic, affiliate, and paid AI placements.
+Enterprise and adtech-minded marketing teams that want statistical-scale measurement of unprompted AI brand visibility and a path from measurement into affiliate, programmatic, and paid-placement activation.
 
 ## Pricing & trial
 
-Sales-led and not publicly listed, with a third-party comparison citing roughly $36K/yr; no free trial is noted.
+Sales-led; not publicly listed, with a third-party comparison putting it around $36K/yr, and no public free trial.
 
 ## Agent Experience
 
@@ -45,36 +45,36 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | No | — |
 
-Weak as a build-on platform: the docs are a thin help center of about six articles with no public API reference, so there is little to wire into your own agents today.
+Weak as a build-on platform: the docs are a thin help center with no public API reference, so its agent surface is the productized Visibility Boost ad agent rather than developer tooling.
 
 ## Reference customers
 
-Canada Goose, Miro, athenahealth, Roku, Virgin Voyages, HexClad, WPP Media's Choreograph.
+Canada Goose, Miro, athenahealth, Roku, Virgin Voyages, HexClad, WPP Media (Choreograph).
 
 ## Recent moves
 
-- **2026-05-19**: Launched Visibility Boost, an invite-only advertising agent for ChatGPT that buys ad placements targeted to conversations where a brand's organic AI visibility is weakest. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-visibility-boost-ad-agent)
+- **2026-05-19**: Launched Visibility Boost, an invite-only beta ad agent that buys ChatGPT placements targeted at queries where a brand's organic AI visibility is weak. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-visibility-boost-ad-agent)
 - **2026-03-23**: Named a Representative Vendor in Gartner's inaugural 2026 Market Guide for Answer Engine Visibility Tools. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-named-a-representative-vendor-in-the-inaugural-2026-gartner-market-guide-for-answer-engine-visibility-tools)
 - **2026-02-11**: Extended Partner Connect into programmatic advertising via Index Exchange and The Trade Desk, enabling AI retargeting on the publisher sites cited in AI recommendations. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-announces-ai-retargeting-through-new-partnerships-with-index-exchange-and-the-trade-desk)
-- **2026-01-14**: Launched Shopping Intelligence, tracking how AI models recommend specific products in the emerging ChatGPT structured-shopping channel. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-shopping-intelligence-to-track-brand-visibility-in-ai-powered-product-recommendations)
-- **2025-12-16**: Partnered with impact.com (which made a strategic investment) to launch Partner Connect, surfacing AI search-visibility metrics inside impact.com with one-click affiliate and creator campaign activation. [source](https://www.evertune.ai/resources/insights-on-ai/introducing-partner-connect-evertune-and-impact-com-partner-to-bridge-ai-intelligence-and-affiliate-action)
-- **2025-08-12**: Raised a $15M Series A led by Felicis, bringing cumulative funding to $19M. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-raises-15-million-series-a-to-scale-its-ai-marketing-and-discovery-platform)
+- **2026-01-29**: Extended Partner Connect to B2B SaaS through a PartnerStack integration, connecting GEO intelligence to partner ecosystems. [source](https://www.evertune.ai/resources/insights-on-ai/partner-connect-expands-to-b2b-saas-partnerships-with-partnerstack)
+- **2026-01-14**: Launched Shopping Intelligence to track how AI models recommend specific products in ChatGPT's structured-shopping channel. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-shopping-intelligence-to-track-brand-visibility-in-ai-powered-product-recommendations)
+- **2025-12-16**: Partnered with impact.com, which made a strategic investment, launching Partner Connect to link AI search-visibility metrics to affiliate and creator campaigns. [source](https://www.evertune.ai/resources/insights-on-ai/introducing-partner-connect-evertune-and-impact-com-partner-to-bridge-ai-intelligence-and-affiliate-action)
 
 ## Company, Financials & Funding History
 
-Founded in 2024 in New York City, with a Seattle office, by early members of The Trade Desk. CEO Brian Stempeck was The Trade Desk's strategy chief and grew it from 8 people to IPO; co-founders are Ed Chater (CPO) and Poul Costinsky (CSO), who joined The Trade Desk via its Adbrain acquisition.
+Founded in 2024 in New York City (with a Seattle office) by early members of The Trade Desk: CEO Brian Stempeck, the Trade Desk's former strategy chief who helped grow it from eight people to IPO, with co-founders Ed Chater (CPO) and Poul Costinsky (CSO). The team applies its adtech pedigree to AEO/GEO, extending from measurement into media activation.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2025-08 | Series A | $15M (Felicis), $19M cumulative; Eniac Ventures, NextView Ventures, and Roger Ehrenberg returned, plus strategic angels from OpenAI, Meta, Uber, and Antenna |
+| 2025-08 | Series A | $15M (Felicis), $19M total; returning Eniac Ventures, NextView Ventures, and Roger Ehrenberg, plus strategic angels from OpenAI, Meta, Uber, and Antenna |
 | 2024-10 | Seed | $4M (Eniac Ventures), with NextView Ventures and angel Roger Ehrenberg participating |
 
 ## Analyst placement
 
-Named a Representative Vendor in Gartner's inaugural [2026 Market Guide for Answer Engine Visibility Tools](https://www.evertune.ai/resources/insights-on-ai/evertune-named-a-representative-vendor-in-the-inaugural-2026-gartner-market-guide-for-answer-engine-visibility-tools).
+Named a Representative Vendor in Gartner's inaugural 2026 Market Guide for Answer Engine Visibility Tools (March 2026). [source](https://www.evertune.ai/resources/insights-on-ai/evertune-named-a-representative-vendor-in-the-inaugural-2026-gartner-market-guide-for-answer-engine-visibility-tools)
 
 ## Links
 
 [Homepage](https://www.evertune.ai) · [Docs](https://docs.evertune.ai/) · [LinkedIn](https://www.linkedin.com/company/evertune)
 
-*Last updated 2026-05-25 · refreshed weekly*
+*Last updated 2026-05-31 · refreshed weekly*
