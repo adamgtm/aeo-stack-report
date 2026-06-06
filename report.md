@@ -109,7 +109,7 @@ Two kinds: the SEO old guard repointing a decade of muscle, and the AI-native up
 | [iPullRank](/ipullrank/)       | Mike King           | Technical SEO        | "Relevance engineering"; runs SEO Week; 2025 AI Search Marketer of the Year   |
 | [Seer Interactive](/seer/)     | Wil Reynolds        | Data-driven SEO      | 200+ person B-Corp; GEO inside a modern search practice; cited AI research    |
 | [Amsive](/amsive/)             | Lily Ray            | Enterprise SEO       | Named-expert AEO for larger cos; E-E-A-T + technical + AI-search strategy      |
-| [Animalz](/animalz/)           | —                   | B2B SaaS content     | Premium expert-interview content; AEO audit → 90-day roadmap                  |
+| [Animalz](/animalz/)           | Ty Magnin           | B2B SaaS content     | Premium expert-interview content; AEO audit → 90-day roadmap                  |
 | [Foundation](/foundation/)     | Ross Simmonds       | Content distribution | Distribution-led AEO/GEO; "Create Once, Distribute Forever"                       |
 | [daydream](/daydream/)         | Thenuka Karunaratne | AI-native            | Agency-as-product: agents plus a human lead; $21M raised, YC's #3 most-wanted |
 | [GrowthX](/growthx/)           | Marcel Santilli     | AI-native            | AI content engine as pipeline; $12M Series A; Ramp/Reddit/Webflow             |
