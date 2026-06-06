@@ -1,6 +1,6 @@
 > **Canonical source:** [https://stack.adamgtm.com/aeo/](https://stack.adamgtm.com/aeo/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/aeo/ · last updated 2026-05-25 -->
+<!-- canonical: https://stack.adamgtm.com/aeo/ · last updated 2026-06-06 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Tools, Build Stacks, and Agencies
 
@@ -52,15 +52,22 @@ We score the players on three axes built for this market (not Gartner's static s
 | ---------------------------- | ------- | ------------ | ------------------------ | ----------------------------------------------- | ---------- |
 | [Profound](/profound/) | 2023    | $155M        | Enterprise, full-stack   | Measurement + automation + citation marketplace | Sales-led  |
 | [Bluefish](/bluefish-ai/)                     | 2024    | $68M         | Fortune 500 brands       | Brand protection / claim verification           | Sales-led  |
+| [Brandlight](/brandlight/)                  | 2024    | $30M         | Enterprise CMOs          | "AI Market Shelf"; visibility → AI-native ads   | Sales-led  |
 | [Evertune](/evertune/)                     | 2024    | $19M         | Stats-grade measurement  | 100K+ prompts/report; adtech DNA                | Sales-led  |
-| [Scrunch](/scrunch-ai/)                      | 2023    | $19M         | Getting served to agents | Optimization for how AI fetches you             | Self-serve |
+| [Scrunch](/scrunch-ai/)                      | 2023    | $19M (acq.)  | Getting served to agents | Optimization for how AI fetches you · now Sitecore | Self-serve |
 | [Peec](/peec-ai/)                         | 2025    | $29M         | Mid-market, fast         | Analytics + competitor benchmarking             | Self-serve |
 | [AthenaHQ](/athenahq/)                     | 2024    | ~$3M         | Mid-market entry         | Lean SEO + GEO services platform                | Self-serve |
 | [AirOps](/airops/)                          | 2022    | $62M         | Content + AEO workflows  | Build AI content workflows; agent-ready         | Sales-led  |
 | [Goodie AI](/goodie-ai/)                    | 2023    | Bootstrapped | Commerce + model breadth | 11 engines tracked + agentic fixes              | Self-serve |
+| [AIVO](/aivo-meridian/)                     | —       | Undisclosed  | Decision-stage measurement | Do you survive to the *recommendation*, not just appear | Free assessment |
+| [Gumshoe AI](/gumshoe-ai/)                  | 2024    | $2M          | SMB / fast read          | Simulated AI answers; pay-as-you-go             | Self-serve |
 | [OtterlyAI](/otterly-ai/)                    | 2024    | Bootstrapped | Solo marketer / SMB      | "Semrush for AI search," $29/mo                 | Free trial |
 
-Or let a tool you already own absorb it: HubSpot, [Adobe (LLM Optimizer)](/adobe-llm-optimizer/), and the SEO incumbents retrofitting (Ahrefs, BrightEdge, Conductor, Siteimprove, Botify).
+Two more specialists worth a look, a tier down on funding: [Quattr](/quattr/) (AI-native SEO + AEO execution), [Demand-Genius](/demand-genius/) (B2B-only, intent-cluster aggregation, revenue attribution), and [Pixis Visibility](/pixis/) (one of the few that *executes* — audit → brief → draft → publish — not just monitors).
+
+Or let a tool you already own absorb it. The incumbents are retrofitting fast: [Adobe (LLM Optimizer)](/adobe-llm-optimizer/), [Semrush (Enterprise AIO)](/semrush/), HubSpot, Ahrefs, BrightEdge, Conductor, Siteimprove, Botify — plus the listening and analytics giants, [Meltwater](/meltwater/) (AI-answer monitoring on its media-intelligence suite) and [Amplitude](/amplitude/) (free AI Visibility that wires mentions to conversion in its analytics graph).
+
+**The category is consolidating.** Two signals in mid-2026: **Sitecore acquired [Scrunch](/scrunch-ai/)** (announced June 3, ~$225M per Bloomberg, terms undisclosed), and **Adobe completed its ~$1.9B acquisition of Semrush** (closed April 2026) — so Adobe now owns both LLM Optimizer and Semrush's AIO. Note for buyers: the "Semrush bought an AEO tool" story making the rounds is backwards — Semrush built AIO in-house; Adobe bought Semrush.
 
 **Who's getting picked.** G2's first AEO Grid (Dec 2025) named Profound the lone Leader, with Otterly and Scrunch as High Performers. Gartner named Otterly a Cool Vendor; Forrester gave Botify a Strong Performer.
 
@@ -98,11 +105,18 @@ Two kinds: the SEO old guard repointing a decade of muscle, and the AI-native up
 
 | Agency                              | Lead                | Origin               | The pitch                                                                     |
 | ----------------------------------- | ------------------- | -------------------- | ----------------------------------------------------------------------------- |
-| [Graphite](/graphite/)     | Ethan Smith         | Growth / SEO         | Operator method; controlled testing; the "6x LLM-vs-Google conversion" data   |
-| [iPullRank](/ipullrank/)   | Mike King           | Technical SEO        | "Relevance engineering"; runs SEO Week; 2025 AI Search Marketer of the Year   |
-| [Animalz](/animalz/)       | —                   | B2B SaaS content     | Premium expert-interview content; AEO audit → 90-day roadmap                  |
-| [Foundation](/foundation/) | Ross Simmonds       | Content distribution | Distribution-led AEO/GEO; "Create Once, Distribute Forever"                       |
-| [daydream](/daydream/)     | Thenuka Karunaratne | AI-native            | Agency-as-product: agents plus a human lead; $21M raised, YC's #3 most-wanted |
+| [Graphite](/graphite/)         | Ethan Smith         | Growth / SEO         | Operator method; controlled testing; the "6x LLM-vs-Google conversion" data   |
+| [iPullRank](/ipullrank/)       | Mike King           | Technical SEO        | "Relevance engineering"; runs SEO Week; 2025 AI Search Marketer of the Year   |
+| [Seer Interactive](/seer/)     | Wil Reynolds        | Data-driven SEO      | 200+ person B-Corp; GEO inside a modern search practice; cited AI research    |
+| [Amsive](/amsive/)             | Lily Ray            | Enterprise SEO       | Named-expert AEO for larger cos; E-E-A-T + technical + AI-search strategy      |
+| [Animalz](/animalz/)           | —                   | B2B SaaS content     | Premium expert-interview content; AEO audit → 90-day roadmap                  |
+| [Foundation](/foundation/)     | Ross Simmonds       | Content distribution | Distribution-led AEO/GEO; "Create Once, Distribute Forever"                       |
+| [daydream](/daydream/)         | Thenuka Karunaratne | AI-native            | Agency-as-product: agents plus a human lead; $21M raised, YC's #3 most-wanted |
+| [GrowthX](/growthx/)           | Marcel Santilli     | AI-native            | AI content engine as pipeline; $12M Series A; Ramp/Reddit/Webflow             |
+| [Discovered Labs](/discovered-labs/) | Liam Dunne + Ben Moore | AI-native      | "First AEO/GEO agency for B2B SaaS"; ex-Instantly + ex-Stanford AI            |
+| [Obility](/obility/)           | Mike Nierengarten   | B2B demand gen       | GEO managed alongside SEO; pipeline-not-traffic; B2B tech focus               |
+
+Two specialists that don't fit the table: [Noble](/noble/) is the **earned-media activation layer** — it works the prompts where you're absent and negotiates placements on the publishers LLMs cite, then plugs into trackers like Profound, Otterly, and Conductor (it's the "source acquisition" job below, done-for-you). And [Notebook Agency](/notebook-agency/) is Steve Toth's founder-led boutique for B2B SaaS ("AEO is eating SEO").
 
 ## AEO is six jobs, not one
 
@@ -129,4 +143,4 @@ Deep dives on every platform, build resource, and agency: scores, funding, custo
 
 **Should I buy, build, or hire?** Buy for time-to-value, build if you have a technical team and want control, hire for outcomes without staffing it. Most teams start by measuring, then pick.
 
-**What are the best AEO tools?** G2's AEO Grid (Dec 2025): Profound (Leader), Otterly and Scrunch (High Performers). Specialists: Profound, Bluefish, Evertune, Scrunch, Peec, AthenaHQ, Otterly.
+**What are the best AEO tools?** G2's AEO Grid (Dec 2025): Profound (Leader), Otterly and Scrunch (High Performers). Specialists worth a shortlist: Profound, Bluefish, Brandlight, Evertune, Peec, AthenaHQ, AIVO, Gumshoe, Otterly. Incumbents folding it in: Adobe, Semrush, HubSpot, Meltwater, Amplitude. "Best" depends on your situation — use the Buy/Build/Hire read and the scores above.

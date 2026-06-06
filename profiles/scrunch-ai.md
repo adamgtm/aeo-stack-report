@@ -1,18 +1,18 @@
 > **Canonical source:** [https://stack.adamgtm.com/scrunch-ai/](https://stack.adamgtm.com/scrunch-ai/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/scrunch-ai/ · last updated 2026-05-26 -->
+<!-- canonical: https://stack.adamgtm.com/scrunch-ai/ · last updated 2026-06-06 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Scrunch AI
 
-AEO/GEO platform that serves compressed, machine-readable content to AI crawlers rather than only measuring citations. Customers include RunPod, Lenovo, and Crunchbase. $19M raised. Recent moves: the Agent Experience Platform, Agent Traffic Monitoring, and partnerships with Stacker and Noble.
+AEO/GEO platform that serves compressed, machine-readable content to AI crawlers rather than only measuring citations. **Acquired by Sitecore in June 2026** (announced 2026-06-03) — it becomes "a Sitecore Company," with the Agent Experience Platform folding into SitecoreAI. Customers include RunPod, Lenovo, and Crunchbase. ~$19M raised pre-acquisition. Recent moves: the Sitecore acquisition, the Agent Experience Platform, Agent Traffic Monitoring, and partnerships with Stacker and Noble.
 
 
 ## Scores
 
 | Score | Value | Why |
 |---|---|---|
-| Presence | 64 | $19M, G2 High Performer; serve-to-crawlers play |
-| Velocity | 40 | Cadence cooled; raise ~10mo old |
+| Presence | 66 | Acquired by Sitecore (Jun 2026); G2 High Performer; serve-to-crawlers play |
+| Velocity | 40 | Cadence cooled into the acquisition; standalone roadmap now folding into Sitecore |
 | Agent-Readiness | Medium | API available; agent surface limited |
 
 *Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
@@ -57,6 +57,7 @@ RunPod, Lenovo, BairesDev, Crunchbase, Fictiv, Penn State.
 
 ## Recent moves
 
+- **2026-06-03**: Acquired by Sitecore. Scrunch becomes "a Sitecore Company"; the Agent Experience Platform and its insights fold into SitecoreAI's content products. Bloomberg reported the price at ~$225M; the official releases do not disclose terms. [source](https://www.sitecore.com/company/newsroom/press-releases/2026/06/sitecore-acquires-scrunch-and-buying-decisions) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/sitecore-said-to-acquire-scrunch-for-225-million)
 - **2026-02-02**: Named a High Performer in G2's first-ever AEO Grid (Winter 2026), alongside Profound as Leader and Otterly.AI as the other High Performer. [source](https://www.prnewswire.com/news-releases/aeo-software-category-grows-over-2000-on-g2-as-half-of-b2b-buyers-start-their-search-with-ai-chatbots-over-google-302674557.html)
 - **2026-01-29**: Partnered with Stacker to embed AI search visibility reporting for earned media into the Stacker platform. [source](https://finance.yahoo.com/news/stacker-scrunch-partner-bring-ai-130000278.html)
 - **2026-01-08**: Announced a Noble partnership that automates publisher outreach and content drafting at high-impact citation sources, closing the monitor-to-act loop. [source](https://scrunch.com/blog/2026-01-partnership-scrunch-noble)
@@ -66,10 +67,11 @@ RunPod, Lenovo, BairesDev, Crunchbase, Fictiv, Penn State.
 
 ## Company, Financials & Funding History
 
-Founded in fall 2023 in San Francisco by Chris Andrew (CEO) and Robert MacCloy (CTO), who were previously CPO and CTO at Hearsay Systems. The company went from a 2024 public launch to a $15M Series A within about a year.
+Founded in fall 2023 in San Francisco by Chris Andrew (CEO) and Robert MacCloy (CTO), who were previously CPO and CTO at Hearsay Systems. The company went from a 2024 public launch to a $15M Series A within about a year, then to an acquisition by Sitecore in June 2026 — about a year after the raise.
 
 | Date | Round | Amount |
 |---|---|---|
+| 2026-06 | Acquired | By Sitecore (announced 2026-06-03); ~$225M per Bloomberg, terms officially undisclosed |
 | 2025-07 | Series A | $15M led by Decibel, with Mayfield and Homebrew; underwrote the Agent Experience Platform |
 | 2024-11 | Seed | $4M led by Patrick Salyer (Mayfield), with angels Clara Shih, TJ Parker, and Bryant Chou |
 

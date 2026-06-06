@@ -1,6 +1,6 @@
 # Adam's GTM Report — AEO/GEO Market Guide (agent-ready)
 
-A continuously-refreshed map of the AEO/GEO market: a scored, sourced vendor landscape built to be loaded into an AI project and interrogated. This repo is the agent-ready mirror; the website is the source of truth: https://stack.adamgtm.com/aeo (last updated 2026-05-31).
+A continuously-refreshed map of the AEO/GEO market: a scored, sourced vendor landscape built to be loaded into an AI project and interrogated. This repo is the agent-ready mirror; the website is the source of truth: https://stack.adamgtm.com/aeo (last updated 2026-06-06).
 
 - README.md — what this is + how to interrogate it
 - report.md — the AEO map (start here)
@@ -12,22 +12,38 @@ A continuously-refreshed map of the AEO/GEO market: a scored, sourced vendor lan
 - profiles/aeo-open-source.md
 - profiles/ahrefs.md
 - profiles/airops.md
+- profiles/aivo-meridian.md
+- profiles/amplitude.md
+- profiles/amsive.md
 - profiles/animalz.md
 - profiles/athenahq.md
 - profiles/bluefish-ai.md
 - profiles/botify.md
+- profiles/brandlight.md
 - profiles/brightedge.md
 - profiles/clay.md
 - profiles/conductor.md
 - profiles/daydream.md
+- profiles/demand-genius.md
+- profiles/discovered-labs.md
 - profiles/evertune.md
 - profiles/foundation.md
 - profiles/goodie-ai.md
 - profiles/graphite.md
+- profiles/growthx.md
+- profiles/gumshoe-ai.md
 - profiles/hubspot.md
 - profiles/ipullrank.md
+- profiles/meltwater.md
+- profiles/noble.md
+- profiles/notebook-agency.md
+- profiles/obility.md
 - profiles/otterly-ai.md
 - profiles/peec-ai.md
+- profiles/pixis.md
 - profiles/profound.md
+- profiles/quattr.md
 - profiles/scrunch-ai.md
+- profiles/seer.md
+- profiles/semrush.md
 - profiles/siteimprove.md

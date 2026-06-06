@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **180 sources across 22 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **231 sources across 37 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -45,6 +45,24 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 - **[Blog/Newsletter]** [source](https://www.airops.com/blog/announcing-prompt-discovery) — 2026-04-30: Shipped Prompt Discovery, a multi-source prompt universe builder with a weekly emerging-prompt inbox. source
 - **[Blog/Newsletter]** [source](https://www.airops.com/blog/introducing-the-new-airops-brand-kit) — 2026-03-24: Released a rebuilt, fully modular Brand Kit with MCP read/write integration and full versioning. source
 
+## AIVO  ·  [profiles/aivo-meridian.md](profiles/aivo-meridian.md)
+
+- **[Web]** [source](https://www.aivojournal.org/weve-named-the-category/) — 2026-05-13: Published the Agentic Brand Control category paper (WP-2026-12, Zenodo DOI 10.5281/zenodo.20154028), formally naming the category and the Conversational Survival Rate m
+- **[Web]** [source](https://www.aivojournal.org/introducing-aivo-optimize-the-self-serve-decision-stage-diagnostic-for-ai-visibility/) — 2026-05-06: Introduced AIVO Optimize, a self-serve decision-stage diagnostic running the CODA method with no integration required. source
+- **[Web]** [source](https://fortune.com/2026/01/13/agentic-commerce-generative-engine-optimization-geo-unreliable-aivo-standard/) — 2026-01-13: Founder Tim de Rosen featured in Fortune arguing GEO is unreliable for non-product brand information (governance, certifications, financial stability) and positioning t
+- **[Web]** [source](https://www.aivojournal.org/about/) — 2025-07: Launched the AIVO Journal (aivojournal.org) as the publication of record for AI Visibility Optimization research. source
+
+## Amplitude  ·  [profiles/amplitude.md](profiles/amplitude.md)
+
+- **[News/Press]** [source](https://investors.amplitude.com/news-releases/news-release-details/amplitude-announces-fourth-quarter-and-fiscal-year-2025) — 2026-02-18: Reported Q4 and FY2025 results — $343.2M full-year revenue (up 15%), $366M ARR, 698 customers above $100K ARR (up 18%); also launched AI Feedback and acquired InfiniGro
+- **[Blog/Newsletter]** [source](https://amplitude.com/blog/amplitude-expands-ai-visibility) — 2026-02-05: Shipped AI Visibility 1.5 — brand-voice content generation, cross-engine traffic (ChatGPT, Perplexity, Gemini, Claude) into Amplitude Analytics, week-over-week reportin
+- **[Blog/Newsletter]** [source](https://amplitude.com/blog/ai-visibility-launch) — 2025-10-29: Launched AI Visibility — visibility score across major LLMs over hundreds of prompts, competitive rankings, prompt/source analysis, and traffic/ROI attribution tying AI
+
+## Amsive  ·  [profiles/amsive.md](profiles/amsive.md)
+
+- **[News/Press]** [AEO offering](https://www.amsive.com/insights/news/amsive-expands-proven-search-capabilities-with-answer-engine-optimization-aeo-to-navigate-the-ai-search-era/) — Amsive treats AEO as an extension of a mature SEO practice, not a reset. The AEO offering covers brand-visibility auditing across AI platforms, optimizing content for conversationa
+- **[Web]** [Algorythmic](https://algorythmic.co) — Amsive treats AEO as an extension of a mature SEO practice, not a reset. The AEO offering covers brand-visibility auditing across AI platforms, optimizing content for conversationa
+
 ## Animalz  ·  [profiles/animalz.md](profiles/animalz.md)
 
 - **[Blog/Newsletter]** [survey of AEO agencies](https://www.animalz.co/blog/best-aeo-agencies) — Recognized as one of the established B2B SaaS content agencies adapting to the AI-search era; publishes its own survey of AEO agencies.
@@ -80,6 +98,14 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 - **[Blog/Newsletter]** [source](https://www.botify.com/blog/welcoming-executive-leaders) — 2026-02-05: Expanded the executive team with Romain Seguy as CFO and Joe Doran as CPO, plus new partnerships and product-marketing leaders, tooling up around the AEO and agentic-co
 - **[News/Press]** [source](https://www.businesswire.com/news/home/20251022669493/en/Botify-Launches-AI-Visibility-to-Eliminate-Blind-Spots-for-Brands) — 2025-10-22: Launched AI Visibility, a beta within Botify Analytics measuring brand presence across Google AI Mode, ChatGPT, and Perplexity, with 86% of clients live at launch. sour
 - **[News/Press]** [source](https://www.businesswire.com/news/home/20250701273121/en/Botify-Named-a-Strong-Performer-in-Search-Engine-Optimization-Solutions-Q3-2025-Evaluation) — Forrester named Botify a Strong Performer in The Forrester Wave: Search Engine Optimization Solutions, Q3 2025, scoring it highest-possible on Vision and AI-Integrated SEO among se
+
+## Brandlight  ·  [profiles/brandlight.md](profiles/brandlight.md)
+
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/the-ai-market-shelf-just-got-bigger-brandlight-raises-30m-to-continue-leading-enterprise-cmos-into-the-era-of-ai-native-ads-302684759.html) — Brandlight is an enterprise platform for monitoring and shaping how brands show up in AI-driven discovery. It tracks how AI answers get generated across engines and verticals, surf
+- **[Web]** [source](https://www.calcalistech.com/ctechnews/article/h18lbwqpbx) — 2026-02-17: Announced expansion from AI search visibility into AI ads and agentic commerce, positioning as the "control room" for the agentic web where search, commerce, ads, and a
+- **[Web]** [source](https://www.adweek.com/media/check-out-brandlights-30m-pitch-deck-used-to-help-brands-navigate-the-agentic-web/) — 2026-02-17: Adweek published Brandlight's $30M pitch deck used to pitch enterprise CMOs on navigating the agentic web. source
+- **[News/Press]** [source](https://www.thedrum.com/news/2026-every-company-will-budget-ai-visibility-says-brandlight-s-imri-marcus) — 2026-02: CEO Imri Marcus argued in The Drum that by 2026 every company will budget for AI visibility as a dedicated line item. source
+- **[Web]** [source](https://www.ynetnews.com/business/article/hyx8tznv11l) — Founded October 2024 in New York by Imri Marcus (CEO), Uri Gafni, and Didi (Dvir) Dvash. The company reported ~35 employees across Israel and the U.S. at the time of its Series A, 
 
 ## BrightEdge  ·  [profiles/brightedge.md](profiles/brightedge.md)
 
@@ -123,6 +149,17 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 - **[Web]** [source](https://www.withdaydream.com/library/announcing-daydream-v2-0) — 2025-05-01: Announced V2.0, expanding from programmatic-SEO-only to a full-spectrum partner spanning programmatic, editorial, technical, and AEO/GEO. source
 - **[Web]** [source](https://journal.withdaydream.com/p/daydream-acquires-positional-yc-s21) — 2025-04-03: Acquired Positional (YC S21), adding editorial SEO capabilities including internal linking, content optimization, and buyer-journey mapping. source
 
+## Demand-Genius  ·  [profiles/demand-genius.md](profiles/demand-genius.md)
+
+- **[Web]** [source](https://demand-genius.com/resource/how-demand-genius-evolved-from-manual-content-attribution-to-aeo-platform/) — 2026-05-13: Published a detailed account of evolving from a manual content-attribution tool into an AEO platform with AI agents — sitemap scraping replacing manual URL entry, 14 co
+- **[LinkedIn]** [source](https://www.linkedin.com/company/demand-genius) — ~2026-02: Posted analysis of 50,000 B2B content pieces, finding only ~7% of newly published content is evergreen and under 20% shows strong authority signals. source
+
+## Discovered Labs  ·  [profiles/discovered-labs.md](profiles/discovered-labs.md)
+
+- **[Web]** [AEO service](https://discoveredlabs.com/services/answer-engine-optimization-agency) — Discovered Labs treats AI search as a channel you engineer into, not a checklist. The pitch is that AEO works alongside traditional SEO, so the same content earns Google rankings a
+- **[LinkedIn]** [helped take Instantly.ai to ~$20M ARR](https://www.linkedin.com/in/liamdunne05) — Discovered Labs treats AI search as a channel you engineer into, not a checklist. The pitch is that AEO works alongside traditional SEO, so the same content earns Google rankings a
+- **[LinkedIn]** [ex-Stanford AI researcher](https://uk.linkedin.com/in/benkarlmoore) — Discovered Labs treats AI search as a channel you engineer into, not a checklist. The pitch is that AEO works alongside traditional SEO, so the same content earns Google rankings a
+
 ## Evertune  ·  [profiles/evertune.md](profiles/evertune.md)
 
 - **[Web]** [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-visibility-boost-ad-agent) — 2026-05-19: Launched Visibility Boost, an invite-only beta ad agent that buys ChatGPT placements targeted at queries where a brand's organic AI visibility is weak. source
@@ -145,6 +182,18 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 - **[Blog/Newsletter]** [The Ultimate Guide to AEO](https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith) — Graphite is a research-driven growth agency that treats AEO as a measurable growth channel rather than a checklist. The pitch is controlled testing and focus: rather than chase eve
 
+## GrowthX  ·  [profiles/growthx.md](profiles/growthx.md)
+
+- **[Blog/Newsletter]** [source](https://growthx.ai/blog/series-a) — Ramp, Reddit, Webflow, Abnormal, Superhuman, Bolt (StackBlitz), Vapi, Lovable (source).
+
+## Gumshoe AI  ·  [profiles/gumshoe-ai.md](profiles/gumshoe-ai.md)
+
+- **[Blog/Newsletter]** [source](https://sparktoro.com/blog/new-research-ais-are-highly-inconsistent-when-recommending-brands-or-products-marketers-should-take-care-when-tracking-ai-visibility/) — No published customer case studies found. The most cited external work is research-driven: a joint study with SparkToro on the consistency of AI brand recommendations. source
+- **[Blog/Newsletter]** [source](https://gumshoe.ai/blog/how-much-data-do-you-need-to-measure-ai-visibility-with-confidence/) — 2026-02-11: Published "How Much Data Do You Need to Measure AI Visibility with Confidence?" — a joint study with SparkToro on consistency of AI brand recommendations and the statis
+- **[Blog/Newsletter]** [source](https://gumshoe.ai/blog/gumshoe-ai-manual-mastering-visibility-growth-in-the-ai-search-era/) — 2026-01-22: Published the Gumshoe AI Manual, a guide on AI search visibility and why traditional SEO isn't enough when LLMs answer directly. source
+- **[Blog/Newsletter]** [source](https://gumshoe.ai/blog/) — 2026-01-20: Published "How APIs Unlock Better Insights Into AI Search Visibility," arguing API responses beat web-interface results for monitoring. source
+- **[Blog/Newsletter]** [source](https://gumshoe.ai/blog/gumshoe-raises-2m-pre-seed-to-help-marketers-navigate-ai-search/) — 2025-05-01: Announced a $2M pre-seed led by Pioneer Square Labs to help marketers navigate AI search; entered public beta with hundreds of companies and planned a commercial model 
+
 ## HubSpot  ·  [profiles/hubspot.md](profiles/hubspot.md)
 
 - **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot AEO case study source
@@ -159,6 +208,26 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 ## iPullRank  ·  [profiles/ipullrank.md](profiles/ipullrank.md)
 
 - **[Web]** [The AI Search Manual](https://ipullrank.com/ai-search-manual) — Mike King reframes AEO as relevance engineering: the intersection of information retrieval, user experience, AI, content strategy, and digital PR to improve visibility across searc
+
+## Meltwater  ·  [profiles/meltwater.md](profiles/meltwater.md)
+
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/05/12/3292744/0/en/linkedin-is-the-2-most-cited-source-in-ai-answers-new-meltwater-report-finds.html) — 2026-05-12: Published "LinkedIn is the #2 most-cited source in AI answers" — 9.5M AI citations analyzed across 16 B2B categories via GenAI Lens. source
+- **[News/Press]** [source](https://www.meltwater.com/en/about/press-releases/meltwater-debuts-industry-first-genai-lens) — 2025-07-29: Launched GenAI Lens, tracking brand representation across ChatGPT, Claude, Gemini, Perplexity, Grok, and DeepSeek with sentiment, citation sourcing, and competitive Sha
+
+## Noble  ·  [profiles/noble.md](profiles/noble.md)
+
+- **[Blog/Newsletter]** [Profound](https://www.tryprofound.com/blog/introducing-noble-nodes-for-profound-agents) — Because activation is a distinct slot from monitoring, Noble shows up as the execution layer that trackers hand off to. Confirmed integrations: Profound (a "Noble node" inside Prof
+- **[Blog/Newsletter]** [Otterly](https://otterly.ai/blog/otterlyai-noble-partnership-ai-search-outreach/) — Because activation is a distinct slot from monitoring, Noble shows up as the execution layer that trackers hand off to. Confirmed integrations: Profound (a "Noble node" inside Prof
+- **[Blog/Newsletter]** [Conductor](https://www.conductor.com/blog/conductor-noble-partnership) — Because activation is a distinct slot from monitoring, Noble shows up as the execution layer that trackers hand off to. Confirmed integrations: Profound (a "Noble node" inside Prof
+
+## Notebook Agency  ·  [profiles/notebook-agency.md](profiles/notebook-agency.md)
+
+- **[Web]** [GEO/AEO course at CXL](https://cxl.com/institute/online-courses/optimize-pages-for-ai-search-with-aeo-cohort/) — Notebook Agency grew out of Steve Toth's newsletters and his collection of 300+ documented SEO strategies, and has carried that operator voice into AI search. The work is organic a
+
+## Obility  ·  [profiles/obility.md](profiles/obility.md)
+
+- **[Web]** [Generative Engine Optimization (GEO)](https://www.obilityb2b.com/services/generative-engine-optimization-geo/) — B2B digital marketing agency for hyper-growth tech and SaaS companies, founded in 2011 by Mike Nierengarten and based in Portland, OR. Obility positions on pipeline and revenue rat
+- **[Web]** [Boomi](https://www.obilityb2b.com/work/generative-engine-optimization/) — Snowflake, Fastly, Autodesk, Hitachi Vantara. GEO/SEO case studies include Boomi and ServicePower.
 
 ## Open Source AEO Projects & Resources  ·  [profiles/aeo-open-source.md](profiles/aeo-open-source.md)
 
@@ -217,6 +286,14 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 - **[Web]** [source](https://peec.ai/changelog) — 2026-04-27: Shipped Agent Analytics with Crawl Insights and Crawlability, its first move into the technical, crawl side of GEO. source
 - **[Web]** [G2](https://www.g2.com/products/peec-ai/reviews) — Carries a 4.9/5 rating across 11 verified reviews on G2; the AEO category G2 Grid "Leader" designation in the Winter 2026 reports is held by Profound, with Peec positioned as the a
 
+## Pixis Visibility  ·  [profiles/pixis.md](profiles/pixis.md)
+
+- **[Web]** [source](https://pixis.ai/) — 2026-03-26: Pixis (parent) selected for a dedicated Google Partner Program around AI-native performance marketing. source
+- **[Blog/Newsletter]** [Profound](https://pixis.ai/blog/profound-vs-pixis-visibility-which-ai-visibility-platform-actually-executes/) — 2026: Published a run of head-to-head comparison pages positioning Visibility as the AEO tool that "actually executes" — vs Profound, AirOps, Semrush, Conductor, Evertune, and Blue
+- **[Blog/Newsletter]** [AirOps](https://pixis.ai/blog/airops-vs-pixis-visibility-how-a-workflow-builder-and-a-visibility-operating-system-actually-compare/) — 2026: Published a run of head-to-head comparison pages positioning Visibility as the AEO tool that "actually executes" — vs Profound, AirOps, Semrush, Conductor, Evertune, and Blue
+- **[Blog/Newsletter]** [Semrush](https://pixis.ai/blog/semrush-vs-pixis-move-from-seo-tracking-to-geo-execution/) — 2026: Published a run of head-to-head comparison pages positioning Visibility as the AEO tool that "actually executes" — vs Profound, AirOps, Semrush, Conductor, Evertune, and Blue
+- **[Web]** [source](https://tracxn.com/d/companies/pixis/___zOcf7mPg1iO2xtL98qOjJjwCje9so1xTGaupBhwyCE) — 2025-05-15: Pixis (parent) acquired Passion Digital, a London performance-marketing agency. source
+
 ## Profound  ·  [profiles/profound.md](profiles/profound.md)
 
 - **[LinkedIn]** [source](https://www.linkedin.com/posts/tryprofound_expedia-isnt-waiting-to-see-how-ai-search-ugcPost-7453436452236861440-9Pzp) — Expedia on building for an AI-first customer journey (Zero Click SF recap). source
@@ -229,15 +306,34 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 - **[LinkedIn]** [source](https://www.linkedin.com/posts/jsca_today-we-introduce-a-new-role-to-the-marketing-activity-7449851044035112960-3xzY) — 2026-04-14: Launched the "Marketing Engineer" role to 1,500+ reactions, the category's most-shared positioning move. source
 - **[Blog/Newsletter]** [source](https://www.tryprofound.com/blog/profound-named-definitive-aeo-leader-in-g2-winter-report-2026) — 2025-12-03: Named definitive Leader in G2's first AEO category. source
 
+## Quattr  ·  [profiles/quattr.md](profiles/quattr.md)
+
+- **[Blog/Newsletter]** [source](https://www.quattr.com/blog/ai-seo-agent-giga) — CloudEagle.ai: 33 pages restructured with GIGA → 113% organic click growth, 3x AI Citation Share, 328 net-new Page 1 rankings in 12 weeks (vendor-reported). source
+- **[Web]** [source](https://www.quattr.com/case-studies/kiteworks-quadrupled-traffic-with-quattr) — Kiteworks: non-brand traffic up 300% with Quattr, via WordPress SDK integration (vendor-reported). source
+- **[Web]** [source](https://martechseries.com/predictive-ai/ai-platforms-machine-learning/quattr-launches-ai-landing-page-generator-that-closes-the-gap-between-paid-campaigns-ai-search-visibility/) — 2026-05-07: Launched the GIGA Landing Page Generator (Early Access in Content AI), generating deployment-ready pages in under 15 minutes across 8 analyzed surfaces. source
+- **[News/Press]** [source](https://www.quattr.com/press-release/g2-spring-report-2026) — 2026-03-17: Announced G2 Spring 2026 results — 43 badges across 53 reports; self-cited #1 in AEO Results, Usability, and Relationship indexes (vendor-cited, not independent fact). 
+
 ## Scrunch AI  ·  [profiles/scrunch-ai.md](profiles/scrunch-ai.md)
 
 - **[Blog/Newsletter]** [source](https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-/) — RunPod turned ChatGPT into a top acquisition channel within 90 days, reporting ~40 new customers/day and 4x growth in monthly paying customers source
+- **[News/Press]** [source](https://www.sitecore.com/company/newsroom/press-releases/2026/06/sitecore-acquires-scrunch-and-buying-decisions) — 2026-06-03: Acquired by Sitecore. Scrunch becomes "a Sitecore Company"; the Agent Experience Platform and its insights fold into SitecoreAI's content products. Bloomberg reported t
+- **[News/Press]** [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/sitecore-said-to-acquire-scrunch-for-225-million) — 2026-06-03: Acquired by Sitecore. Scrunch becomes "a Sitecore Company"; the Agent Experience Platform and its insights fold into SitecoreAI's content products. Bloomberg reported t
 - **[News/Press]** [source](https://www.prnewswire.com/news-releases/aeo-software-category-grows-over-2000-on-g2-as-half-of-b2b-buyers-start-their-search-with-ai-chatbots-over-google-302674557.html) — 2026-02-02: Named a High Performer in G2's first-ever AEO Grid (Winter 2026), alongside Profound as Leader and Otterly.AI as the other High Performer. source
 - **[News/Press]** [source](https://finance.yahoo.com/news/stacker-scrunch-partner-bring-ai-130000278.html) — 2026-01-29: Partnered with Stacker to embed AI search visibility reporting for earned media into the Stacker platform. source
 - **[Blog/Newsletter]** [source](https://scrunch.com/blog/2026-01-partnership-scrunch-noble) — 2026-01-08: Announced a Noble partnership that automates publisher outreach and content drafting at high-impact citation sources, closing the monitor-to-act loop. source
 - **[Blog/Newsletter]** [source](https://scrunch.com/blog/agent-traffic-monitoring/) — 2025-10-01: Launched Agent Traffic Monitoring into general availability, integrating at the CDN layer with Cloudflare, Akamai, Vercel, and WordPress. source
 - **[Blog/Newsletter]** [source](https://scrunch.com/blog/2025-07-announcing-our-series-a/) — 2025-07-22: Raised a $15M Series A led by Decibel and announced the Agent Experience Platform, with 500+ brands and an average 40% referral traffic lift reported. source
 - **[News/Press]** [source](https://company.g2.com/news/g2-winter-2026-reports) — Named a High Performer in G2's inaugural AEO Grid (Winter 2026), where Profound earned Leader status and Scrunch and Otterly.AI were the named High Performers. source
+
+## Semrush (Enterprise AIO)  ·  [profiles/semrush.md](profiles/semrush.md)
+
+- **[News/Press]** [source](https://news.adobe.com/news/2026/04/adobe-completes-semrush-acquisition) — 2026-04-28: Adobe completed its ~$1.9B all-cash acquisition of Semrush ($12.00/share), folding it into Adobe's CX Enterprise stack alongside LLM Optimizer and Brand Concierge. sour
+- **[News/Press]** [source](https://www.semrush.com/news/445236-semrush-enterprise-adds-log-file-analysis-to-site-intelligence-and-ai-optimization/) — 2026-02-02: Added log-file analysis — Bot Analytics in Site Intelligence and Agent Analytics in AIO — to show how search and AI bots crawl and read a site. source
+- **[News/Press]** [source](https://www.semrush.com/news/442193-query-fan-out-analysis-comes-to-semrush-enterprise-ai-optimization-revealing-the-search-signals-behind-ai-responses/) — 2026-01-15: Released Query Fan-Out Analysis in AIO, revealing the Google search queries that fuel AI responses in systems like ChatGPT. source
+- **[News/Press]** [source](https://www.semrush.com/news/439224-semrush-enterprise-ai-optimization-adds-new-ai-search-forecasting-capabilities/) — 2025-12-11: Added AI Search Forecasting to AIO — projecting potential traffic, reach, and brand-mention gains from prompt-level gaps. source
+- **[News/Press]** [source](https://news.adobe.com/news/2025/11/adobe-to-acquire-semrush) — 2025-11: Adobe announced the deal to acquire Semrush for ~$1.9B. source
+- **[News/Press]** [source](https://www.semrush.com/news/422790-semrush-launches-ai-visibility-index-the-definitive-industry-benchmark-for-brand-performance-in-ai-search/) — 2025-09-08: Launched the AI Visibility Index, an industry benchmark of brand performance across AI search, built on Enterprise AIO data. source
+- **[Web]** [AI Visibility Index](https://ai-visibility-index.semrush.com/) — Positions the AI Visibility Index as its own industry benchmark for brand performance in AI search. Third-party analyst placement for the AIO line specifically is thin in our corpu
 
 ## Siteimprove  ·  [profiles/siteimprove.md](profiles/siteimprove.md)
 
