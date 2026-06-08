@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/clay/](https://stack.adamgtm.com/clay/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/clay/ · last updated 2026-05-31 -->
+<!-- canonical: https://stack.adamgtm.com/clay/ · last updated 2026-06-07 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Clay
 
-Clay is an AI-native GTM data and sales-automation platform used by Google, OpenAI, Stripe, and Anthropic. $202M raised at a $5B valuation, $100M ARR. Recent releases: Claygent Builder, Clay MCP across Claude and ChatGPT, and Clay Functions.
+Clay is an AI-native GTM data and workflow platform whose customers include Google, OpenAI, Anthropic, and Stripe. It has raised $202M at a roughly $5B valuation and crossed $100M ARR. Recent moves: Clay in OpenAI Codex, Claygent Builder, and Clay MCP across Claude and ChatGPT.
 
 
 ## Scores
@@ -19,19 +19,19 @@ Clay is an AI-native GTM data and sales-automation platform used by Google, Open
 
 ## The Solution & Approach
 
-Clay is an AI-native sales-tech platform built around programmable tables that pull live data from the internet, enrich it, and act on it. It started as a programmable-spreadsheet product in 2017, repositioned to outbound data enrichment for growth and sales teams in 2022, and moved to "AI agents for GTM" with the 2023 launch of Claygent, its AI research agent. It crossed $100M ARR in December 2025 at a $5B valuation.
+Clay is an AI-native platform for go-to-market data and workflows, founded in 2017 in New York around the idea of programmable spreadsheets that pull live data from the internet. It repositioned into outbound data enrichment in 2022, then launched Claygent, an AI research agent, in 2023. That shift anchored the move from a data-enrichment workbench to AI agents for GTM. Clay crossed $100M ARR in December 2025 and reports 452K active users and 2.4B+ AI runs.
 
-Clay's angle is distribution through the model layer. It launched inside ChatGPT (December 2025), then inside Claude powered by Anthropic (January 2026), then unified the play with Clay MCP across Claude and ChatGPT on all modern plans (April 2026). Claygent Builder, shipped May 2026 free on every plan, lets users spin up GTM agents in natural language, test them on real data, and deploy them. Each move pulls agentic capability down a plan tier while widening the user surface.
+Clay's angle is the connective data-and-workflow layer beneath the GTM stack. It built Functions and MCP so the logic ops teams build can be consumed by reps, and it pushed that capability down every plan tier rather than gating it to Enterprise. Its distribution arc rides the model layer: inside ChatGPT (December 2025), inside Claude (January 2026), MCP across both (April 2026), and OpenAI Codex (June 2026).
 
-Clay also pushes a category POV: it is credited with originating the GTM Engineer role and has built a full identity layer around it, including the AlphaForge training bootcamp, the GTM Talent Hub directory, and the Clay Cup competition. It publishes first-party "How Clay Uses Clay" playbooks for ABM, SEO/AEO, and recruiting as a content moat, and is repeatedly named by operators as the platform standalone sales-tech tools cannot compete with in the AI GTM consolidation.
+Clay also owns a category POV. It is widely credited with originating the GTM Engineer role, and has built a labor pipeline around it through the AlphaForge training bootcamp, the GTM Talent Hub, and the Clay Cup competition. Adam Schoenfeld named Clay "the $5B AI GTM leader" in his consolidation thesis, relaying Manny Medina's line that "Clay just parked their tanks on the lawn of every sales tech company."
 
 ## Best for
 
-Sales and GTM teams that want a programmable data, enrichment, and agent layer at the center of their stack, especially those staffing GTM Engineers.
+Teams that want a programmable, AI-native data and workflow layer at the center of their GTM stack, from individual operators on the free plan to enterprises standardizing on GTM Engineering.
 
 ## Pricing & trial
 
-Public self-serve pricing with a free plan ($0, no card required), Launch at $167/mo, Growth at $446/mo, and custom Enterprise; annual billing saves 10%. [Pricing](https://clay.com/pricing).
+Tiered self-serve with a free plan (no card required), paid plans from $167/mo (Launch) and $446/mo (Growth), and custom Enterprise pricing; annual billing saves 10%. [Pricing](https://clay.com/pricing).
 
 ## Agent Experience
 
@@ -45,7 +45,7 @@ How you build on this platform (or wire it into your own agents):
 | CLI | Yes | [docs](https://university.clay.com/docs/clip-to-clay-extension) |
 | llms.txt | No | — |
 
-Strong build-on surface: Clay MCP runs inside Claude and ChatGPT on all modern plans, backed by an API reference and Functions for reusable, ops-built logic reps can call from chat.
+Strong: Clay exposes its workflows through MCP in both Claude and ChatGPT on all modern plans, alongside an API reference and a Functions primitive, and ships inside OpenAI Codex, making it one of the more agent-callable GTM data layers.
 
 ## Reference customers
 
@@ -53,39 +53,40 @@ Google, Uber, OpenAI, Stripe, Anthropic, Canva, Notion, Figma, HubSpot, Intercom
 
 ## Case studies & customer stories
 
-- How Clay Runs ABM at Scale: 300 accounts, 1:1 personalization [source](https://www.clay.com/blog/how-clay-runs-abm-campaigns)
+- How Clay Runs ABM at Scale: 300 Accounts, 1:1 Personalization [source](https://www.clay.com/blog/how-clay-runs-abm-campaigns)
 - How Clay Uses Clay for SEO and AEO [source](https://www.clay.com/blog/how-clay-uses-clay-for-seo-and-aeo)
 - How Clay uses Clay for recruiting top talent [source](https://www.clay.com/blog/how-clay-uses-clay-for-recruiting-top-talent)
+- Ads in Clay: 90%+ LinkedIn match rates at Slack, Anthropic, and Rippling [source](https://www.linkedin.com/feed/update/urn:li:activity:7427361629895516161)
 
 ## Recent moves
 
-- **2026-05-26**: Published a customer-base flex naming Google, Uber, OpenAI, Stripe, Anthropic, Canva, Notion, Figma, HubSpot, and Intercom as GTM teams running on Clay. [source](https://www.linkedin.com/posts/grow-with-clay_gtm-teams-whose-infrastructure-is-held-together-activity-7465048814630993921-JpvU)
-- **2026-05-21**: Opened applications for its AlphaForge GTM Engineering training bootcamp, with 50 free spots in the cohort. [source](https://www.linkedin.com/posts/grow-with-clay_applications-for-our-gtme-training-bootcamp-activity-7463233135355428864-kdfh)
-- **2026-05-19**: Landed at #3 on Brex's Spring 2026 list of fastest-growing software vendors by spend. [source](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS)
-- **2026-05-07**: Shipped Claygent Builder, a natural-language way to build, test, and deploy GTM agents, free on every plan. [source](https://www.linkedin.com/posts/grow-with-clay_introducing-claygent-builder-spin-up-activity-7458156143803211776-K5CS)
-- **2026-05-05**: Added outsourced sales-development agency demandDrive as a Studio Partner in its services-partner program. [source](https://www.clay.com/blog/demanddrive)
-- **2026-05-04**: Amplified Brendan Short's report showing more GTM Engineer job postings in the first four months of 2026 than in all of 2025. [source](https://www.linkedin.com/posts/grow-with-clay_theres-been-more-gtm-engineer-job-postings-activity-7457060276899852288-YhTT)
+- **2026-06-05**: Recapped its GTM London event and showcased a Clay workflow that scores PE firms before a call using PitchBook data. [source](https://www.linkedin.com/posts/grow-with-clay_gtm-was-gmt-thank-you-to-everyone-who-activity-7468693989681057792-v3sA)
+- **2026-06-02**: Shipped inside OpenAI Codex as a named launch partner, so reps can prioritize accounts, research buyers, and send outreach from the Codex surface. [source](https://www.linkedin.com/posts/grow-with-clay_new-clay-is-officially-in-openai-codex-activity-7467616966292307969-B74I)
+- **2026-05-26**: Published a customer-base claim naming Google, Uber, OpenAI, Stripe, Anthropic, Canva, Notion, Figma, HubSpot, and Intercom as teams whose GTM infrastructure runs on Clay. [source](https://www.linkedin.com/posts/grow-with-clay_gtm-teams-whose-infrastructure-is-held-together-activity-7465048814630993921-JpvU)
+- **2026-05-21**: Published a dogfooded case study on using Clay for recruiting, sourcing candidates and enriching 800 applications for one role in a week. [source](https://www.clay.com/blog/how-clay-uses-clay-for-recruiting-top-talent)
+- **2026-05-19**: Placed #3 on Brex's Spring 2026 list of fastest-growing software vendors by spend. [source](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS)
+- **2026-05-19**: Launched Clay Cup Round 2, an elimination bracket of 32 GTM engineers from 25 countries with a $50,000 prize pool. [source](https://community.clay.com/x/announcements/x7b4p29jr16u/round-2-of-clay-cup-live-now-top-32-gtm-engineers)
 
 ## Company, Financials & Funding History
 
-Clay was founded in June 2017 in New York by Kareem Amin and Nicolae Rusan around the idea of programmable spreadsheets that pull live data from the internet; Varun Anand joined as co-founder in 2021. It took 6+ years to reach its first $1M and about two more to grow from $1M to $100M ARR, reaching a $5B valuation.
+Founded June 2017 in New York by Kareem Amin and Nicolae Rusan around programmable spreadsheets that pull live data from the internet. Varun Anand joined as a co-founder in 2021. Clay went from taking 6+ years to reach its first $1M in ARR to a roughly $5B valuation by early 2026.
 
 | Date | Round | Amount |
 |---|---|---|
 | 2017-06 | Seed | $2.5M (First Round Capital), at founding |
 | 2024-06 | Series A | $13.5M (Sequoia), previously undisclosed |
-| 2024-06 | Series B | $46M at $500M valuation (Meritech, with Sequoia, First Round, Box Group, Boldstart); $62M total disclosed |
-| 2025-01 | Series B extension | $40M at $1.25B valuation (Meritech), citing 6x 2024 growth; $102M total |
-| 2025-05 | Employee tender | $20M at $1.5B valuation (Sequoia) |
-| 2025-08 | Series C | $100M at $3.1B valuation (CapitalG / Alphabet) |
-| 2026-01 | Second employee tender | up to $55M at $5B valuation (DST Global) |
+| 2024-06 | Series B | $46M at a $500M valuation (Meritech, with Sequoia, First Round, Box Group, Boldstart); $62M total disclosed |
+| 2025-01 | Series B extension | $40M at a $1.25B valuation (Meritech), citing 6x growth in 2024; total capital to $102M |
+| 2025-05 | Employee tender | $20M at a $1.5B valuation (Sequoia-led) |
+| 2025-08 | Series C | $100M at a $3.1B valuation (CapitalG / Alphabet) |
+| 2026-01 | Employee tender | up to $55M at a $5B valuation (DST Global-led), 3x+ the valuation nine months prior |
 
 ## Analyst placement
 
-Named to the Forbes AI 50, the only GTM company on the list ([source](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi)). Also featured in Inc. Magazine's Spring 2026 edition, named a HubSpot Essential App for Sales, and placed #3 on Brex's Spring 2026 fastest-growing-vendors-by-spend list.
+Named to the Forbes AI 50 (2026) as the only GTM company on the list, and placed #3 on Brex's Spring 2026 ranking of fastest-growing software vendors by spend. [Forbes AI 50](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi)
 
 ## Links
 
 [Homepage](https://clay.com) · [Pricing](https://clay.com/pricing) · [LinkedIn](https://linkedin.com/company/grow-with-clay)
 
-*Last updated 2026-05-31 · refreshed weekly*
+*Last updated 2026-06-07 · refreshed weekly*

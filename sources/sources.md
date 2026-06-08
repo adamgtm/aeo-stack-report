@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **231 sources across 37 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **229 sources across 37 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -32,18 +32,18 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Ahrefs  ·  [profiles/ahrefs.md](profiles/ahrefs.md)
 
-- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/new-features/) — 2026-05-28: Site Explorer's Organic Keywords and Intent charts updated to count every ranking position rather than unique keywords only, improving accuracy for large multi-position
-- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/agent-a-for-content-marketing/) — 2026-05-19: Launched Agent A, a standalone $99/month AI marketing agent with full access to Ahrefs data that autonomously runs content, competitor-monitoring, reporting, and link-b
-- **[Web]** [source](https://docs.ahrefs.com/mcp/docs/introduction) — 2026-04-22: Official remote MCP went live across Claude, ChatGPT, Cursor, Claude Code, and Copilot Studio on Lite and higher plans, with MCP-scoped API keys and workspace admin cap
+- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/new-features/) — 2026-05-28: Site Explorer's Organic Keywords and Intent charts updated to count every ranking position rather than unique keywords only, improving accuracy for large, multi-positio
+- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/agent-a-for-content-marketing/) — 2026-05-19: Launched Agent A, a standalone AI marketing agent at $99/month with full access to Ahrefs data and native connections to Slack, HubSpot, WordPress, and Notion. source
 
 ## AirOps  ·  [profiles/airops.md](profiles/airops.md)
 
 - **[Blog/Newsletter]** [source](https://www.airops.com/blog/legalzoom-customer-story) — LegalZoom: from AI experiments to systems that saved $600K+ source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio: 46% more traffic from a one-person marketing team source
-- **[Web]** [source](https://hellopartner.com/2026/05/20/seo-is-out-linqia-and-airops-launch-influencer-led-ai-search-visibility-offering/) — 2026-05-20: Partnered with Linqia on what the two describe as the first influencer-led AEO offering. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_today-were-launching-quill-your-ai-agent-activity-7460305455597330432-nGvh) — 2026-05-13: Launched Quill, an end-to-end AEO agent, at the AirOps Next NYC conference. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/announcing-prompt-discovery) — 2026-04-30: Shipped Prompt Discovery, a multi-source prompt universe builder with a weekly emerging-prompt inbox. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/introducing-the-new-airops-brand-kit) — 2026-03-24: Released a rebuilt, fully modular Brand Kit with MCP read/write integration and full versioning. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio: 46% more traffic from high-intent buyers with a one-person team source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1) — Anthropic case study on the AirOps + Claude collaboration source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/webinar-recap-whats-new-at-airops-and-quill) — 2026-05-27: Published a webinar recap detailing Quill's campaign-management layer, which converts sentiment gaps and citation issues into focused campaigns with human-review checkp
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/airops-next-2026-recap) — 2026-05-20: Released first-party research at AirOps Next 2026 finding YouTube has surpassed Reddit as the most-cited domain in AI answers and that off-site presence drives up to 85
+- **[Web]** [source](https://hellopartner.com/2026/05/20/seo-is-out-linqia-and-airops-launch-influencer-led-ai-search-visibility-offering/) — 2026-05-20: Launched an influencer-led AEO offering with Linqia, extending AI search visibility into influencer campaigns. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_today-were-launching-quill-your-ai-agent-activity-7460305455597330432-nGvh) — 2026-05-13: Launched Quill, an end-to-end AI search agent, at AirOps Next NYC. source
 
 ## AIVO  ·  [profiles/aivo-meridian.md](profiles/aivo-meridian.md)
 
@@ -69,15 +69,15 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AthenaHQ  ·  [profiles/athenahq.md](profiles/athenahq.md)
 
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_mr-worldwide-seo-the-good-news-ai-activity-7458512934076526593-EKxx) — Nuvadermis 5x'd its AI citation rate and tripled share of voice against larger competitors source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_a-perfect-partnership-how-autorfp-drove-activity-7447636170165022720-ELN4) — AutoRFP: 22.4% of inbound leads attributed ChatGPT to finding them source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_how-lago-achieved-50-increase-in-demos-from-ugcPost-7421551783296020480-HGUV) — Lago drove a 50% increase in demos from AI search, 3% to 33% AI Overview impressions in 6 months source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_mr-worldwide-seo-the-good-news-ai-activity-7458512934076526593-EKxx) — Nuvadermis 5x'd citation rate and tripled AI-search share of voice source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_a-perfect-partnership-how-autorfp-drove-activity-7447636170165022720-ELN4) — AutoRFP drove 10x ChatGPT traffic; 22.4% of inbound leads attribute ChatGPT source
 - **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_you-need-a-better-way-to-grow-how-gr%C3%BCns-activity-7440748066804006912-1xCM) — Grüns grew AI SEO citations 23x in two months source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_the-best-feeling-seeing-your-customers-win-activity-7438210343195123713-hL-N) — Rootly owns 52.6% of AI Search Share of Voice source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_that-a-boy-after-writing-what-i-activity-7457052581639536641-_fub) — 2026-05-04: Launched Oracle, which discovers and actions incorrect or mismatching claims AI models make about a brand; a Canva demo surfaced 87 contradictions in one week. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_linkedin-data-is-powering-llms-now-what-activity-7452714061202575360-cpHJ) — 2026-04-22: Published a tracked-data finding that LinkedIn owned content carries domain authority rivaling top-tier media outlets for LLM citations. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_people-trust-specifics-duane-forrester-activity-7447993923194650624-4dai) — 2026-04-09: Duane Forrester ranked AthenaHQ the #1 AI Search tool, top-right of his quadrant on both coverage and confidence. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/athena-hq_this-week-we-launched-our-mcp-thank-you-ugcPost-7440434599790362624-1oLN) — 2026-04-01: Launched the Athena MCP with OAuth-scoped, enterprise-grade authentication. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_the-best-feeling-seeing-your-customers-win-activity-7438210343195123713-hL-N) — Rootly owns 52.6% of AI Search share of voice source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_how-lago-achieved-50-increase-in-demos-from-ugcPost-7421551783296020480-HGUV) — Lago drove a 50% increase in demos from AI search source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_that-a-boy-after-writing-what-i-activity-7457052581639536641-_fub) — 2026-05-04: Launched Oracle by AthenaHQ, which discovers and actions incorrect or conflicting claims AI models make about a brand (a Canva demo found 87 contradictions in one week)
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_linkedin-data-is-powering-llms-now-what-activity-7452714061202575360-cpHJ) — 2026-04-22: Published tracked-data finding positioning LinkedIn owned content as a Tier-A LLM citation surface, with domain authority rivaling top-tier media outlets. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_people-trust-specifics-duane-forrester-activity-7447993923194650624-4dai) — 2026-04-09: Duane Forrester ranked AthenaHQ the #1 AI Search tool, placing it top-right of the quadrant and first on both coverage and confidence. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/athena-hq_this-week-we-launched-our-mcp-thank-you-ugcPost-7440434599790362624-1oLN) — 2026-04-01: Launched its MCP server with OAuth-scoped authentication, making Athena's data agent-accessible. source
 
 ## Bluefish AI  ·  [profiles/bluefish-ai.md](profiles/bluefish-ai.md)
 
@@ -91,13 +91,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Botify  ·  [profiles/botify.md](profiles/botify.md)
 
-- **[Blog/Newsletter]** [source](https://www.botify.com/blog/openai-tripled-web-crawl) — 2026-04-23: Published "OpenAI Has Tripled Their Crawl of the Web," an analysis of ~7 billion log files finding GPTBot up 2.9x post-GPT-5 while ChatGPT-User events fell 28%. source
-- **[News/Press]** [source](https://www.businesswire.com/news/home/20260323764887/en/Botify-Launches-Agentic-Feeds-to-Power-the-Shift-from-Search-to-Agent-Driven-Discovery) — 2026-03-24: Launched Agentic Feeds in tech preview, automating AI-optimized product feeds aligned to OpenAI's Agentic Commerce Protocol and Google's Universal Commerce Protocol, wi
-- **[Web]** [source](https://ppc.land/ai-bots-crawl-retail-sites-198x-more-than-google-new-report-warns/) — 2026-03-07: Co-published a joint agentic-commerce playbook with Retail Economics, AWS, and DataDome, reporting OpenAI performs 198 crawls per visit it delivers and AI-bot traffic g
-- **[News/Press]** [source](https://www.businesswire.com/news/home/20260305677124/en/DataDome-and-Botify-Partner-to-Give-Businesses-Full-Control-Over-Agentic-Commerce-from-Discovery-to-Transaction) — 2026-03-05: Partnered with DataDome to combine Botify's optimization for AI agents with DataDome's ability to distinguish legitimate agents from malicious ones across the discovery
-- **[Blog/Newsletter]** [source](https://www.botify.com/blog/welcoming-executive-leaders) — 2026-02-05: Expanded the executive team with Romain Seguy as CFO and Joe Doran as CPO, plus new partnerships and product-marketing leaders, tooling up around the AEO and agentic-co
-- **[News/Press]** [source](https://www.businesswire.com/news/home/20251022669493/en/Botify-Launches-AI-Visibility-to-Eliminate-Blind-Spots-for-Brands) — 2025-10-22: Launched AI Visibility, a beta within Botify Analytics measuring brand presence across Google AI Mode, ChatGPT, and Perplexity, with 86% of clients live at launch. sour
-- **[News/Press]** [source](https://www.businesswire.com/news/home/20250701273121/en/Botify-Named-a-Strong-Performer-in-Search-Engine-Optimization-Solutions-Q3-2025-Evaluation) — Forrester named Botify a Strong Performer in The Forrester Wave: Search Engine Optimization Solutions, Q3 2025, scoring it highest-possible on Vision and AI-Integrated SEO among se
+- **[Blog/Newsletter]** [source](https://www.botify.com/blog/openai-tripled-web-crawl) — 2026-04-23: Published "OpenAI Has Tripled Their Crawl of the Web," an analysis of roughly 7 billion log files finding OpenAI's crawl up 2.9x post-GPT-5 and closing from 1.38% to ab
+- **[News/Press]** [source](https://www.businesswire.com/news/home/20260323764887/en/Botify-Launches-Agentic-Feeds-to-Power-the-Shift-from-Search-to-Agent-Driven-Discovery) — 2026-03-24: Launched Agentic Feeds in tech preview, automating AI-optimized product feeds for agent discovery aligned to OpenAI's Agentic Commerce Protocol and Google's Universal C
+- **[Web]** [source](https://ppc.land/ai-bots-crawl-retail-sites-198x-more-than-google-new-report-warns/) — 2026-03-07: Co-published a 35-page agentic-commerce playbook with Retail Economics, AWS, and DataDome reporting OpenAI performs 198 crawls per visit it delivers to retail sites and
+- **[News/Press]** [source](https://www.businesswire.com/news/home/20260305677124/en/DataDome-and-Botify-Partner-to-Give-Businesses-Full-Control-Over-Agentic-Commerce-from-Discovery-to-Transaction) — 2026-03-05: Announced a partnership with DataDome combining Botify's optimization for AI agents with DataDome's ability to distinguish legitimate agents from malicious ones across 
+- **[Blog/Newsletter]** [source](https://www.botify.com/blog/welcoming-executive-leaders) — 2026-02-05: Expanded the executive team, adding Romain Seguy as CFO and Joe Doran as CPO plus new partnership, product-marketing, and strategic-growth leaders, tooling up around th
+- **[News/Press]** [source](https://www.businesswire.com/news/home/20251022669493/en/Botify-Launches-AI-Visibility-to-Eliminate-Blind-Spots-for-Brands) — 2025-10-22: Launched AI Visibility, a beta within Botify Analytics measuring brand mentions, citations, and sentiment across Google AI Mode, ChatGPT, and Perplexity, grounded in fi
+- **[News/Press]** [source](https://www.businesswire.com/news/home/20250701273121/en/Botify-Named-a-Strong-Performer-in-Search-Engine-Optimization-Solutions-Q3-2025-Evaluation) — Forrester named Botify a Strong Performer in The Forrester Wave: Search Engine Optimization Solutions, Q3 2025, one of seven providers evaluated, scoring it highest-possible on 11 
 
 ## Brandlight  ·  [profiles/brandlight.md](profiles/brandlight.md)
 
@@ -119,16 +119,16 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Clay  ·  [profiles/clay.md](profiles/clay.md)
 
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-runs-abm-campaigns) — How Clay Runs ABM at Scale: 300 accounts, 1:1 personalization source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-runs-abm-campaigns) — How Clay Runs ABM at Scale: 300 Accounts, 1:1 Personalization source
 - **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-seo-and-aeo) — How Clay Uses Clay for SEO and AEO source
 - **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-recruiting-top-talent) — How Clay uses Clay for recruiting top talent source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_gtm-teams-whose-infrastructure-is-held-together-activity-7465048814630993921-JpvU) — 2026-05-26: Published a customer-base flex naming Google, Uber, OpenAI, Stripe, Anthropic, Canva, Notion, Figma, HubSpot, and Intercom as GTM teams running on Clay. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_applications-for-our-gtme-training-bootcamp-activity-7463233135355428864-kdfh) — 2026-05-21: Opened applications for its AlphaForge GTM Engineering training bootcamp, with 50 free spots in the cohort. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — 2026-05-19: Landed at #3 on Brex's Spring 2026 list of fastest-growing software vendors by spend. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_introducing-claygent-builder-spin-up-activity-7458156143803211776-K5CS) — 2026-05-07: Shipped Claygent Builder, a natural-language way to build, test, and deploy GTM agents, free on every plan. source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/demanddrive) — 2026-05-05: Added outsourced sales-development agency demandDrive as a Studio Partner in its services-partner program. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_theres-been-more-gtm-engineer-job-postings-activity-7457060276899852288-YhTT) — 2026-05-04: Amplified Brendan Short's report showing more GTM Engineer job postings in the first four months of 2026 than in all of 2025. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — Named to the Forbes AI 50, the only GTM company on the list (source). Also featured in Inc. Magazine's Spring 2026 edition, named a HubSpot Essential App for Sales, and placed #3 o
+- **[LinkedIn]** [source](https://www.linkedin.com/feed/update/urn:li:activity:7427361629895516161) — Ads in Clay: 90%+ LinkedIn match rates at Slack, Anthropic, and Rippling source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_gtm-was-gmt-thank-you-to-everyone-who-activity-7468693989681057792-v3sA) — 2026-06-05: Recapped its GTM London event and showcased a Clay workflow that scores PE firms before a call using PitchBook data. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-clay-is-officially-in-openai-codex-activity-7467616966292307969-B74I) — 2026-06-02: Shipped inside OpenAI Codex as a named launch partner, so reps can prioritize accounts, research buyers, and send outreach from the Codex surface. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_gtm-teams-whose-infrastructure-is-held-together-activity-7465048814630993921-JpvU) — 2026-05-26: Published a customer-base claim naming Google, Uber, OpenAI, Stripe, Anthropic, Canva, Notion, Figma, HubSpot, and Intercom as teams whose GTM infrastructure runs on Cl
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — 2026-05-19: Placed #3 on Brex's Spring 2026 list of fastest-growing software vendors by spend. source
+- **[Web]** [source](https://community.clay.com/x/announcements/x7b4p29jr16u/round-2-of-clay-cup-live-now-top-32-gtm-engineers) — 2026-05-19: Launched Clay Cup Round 2, an elimination bracket of 32 GTM engineers from 25 countries with a $50,000 prize pool. source
+- **[LinkedIn]** [Forbes AI 50](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — Named to the Forbes AI 50 (2026) as the only GTM company on the list, and placed #3 on Brex's Spring 2026 ranking of fastest-growing software vendors by spend. Forbes AI 50
 
 ## Conductor  ·  [profiles/conductor.md](profiles/conductor.md)
 
@@ -278,13 +278,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Peec AI  ·  [profiles/peec-ai.md](profiles/peec-ai.md)
 
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-momentum-boosted-ai-search-visibility-by-10x-with-peec-ai) — Momentum boosted AI search visibility 10x with Peec AI source
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai) — Mint Position helps fintech clients unlock 16% more AI search visibility source
-- **[News/Press]** [source](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/) — 2026-05-23: Crossed $10M ARR, more than doubling from $4M at the November 2025 Series A close in roughly six months. source
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/patterns-we-see-in-chatgpt-query-fanouts) — 2026-05-15: Published research on ChatGPT query fanout patterns, finding ChatGPT averages 2.1 fanouts per query and injects "best" into about 24% of advice-style queries. source
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/introducing-actions) — 2026-05-08: Launched Actions, which converts AI visibility data into a prioritized worklist with suggested next steps where competitors are winning. source
-- **[Web]** [source](https://peec.ai/changelog) — 2026-04-27: Shipped Agent Analytics with Crawl Insights and Crawlability, its first move into the technical, crawl side of GEO. source
-- **[Web]** [G2](https://www.g2.com/products/peec-ai/reviews) — Carries a 4.9/5 rating across 11 verified reviews on G2; the AEO category G2 Grid "Leader" designation in the Winter 2026 reports is held by Profound, with Peec positioned as the a
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-momentum-boosted-ai-search-visibility-by-10x-with-peec-ai) — Momentum boosted AI-search visibility 10x with Peec AI source
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai) — Mint Position unlocks 16% more AI-search visibility for fintech clients source
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/05/28/3303009/0/en/peec-ai-hits-10m-arr-16-months-after-launch-as-brands-race-to-optimize-for-ai-search.html) — 2026-05-28: Official press release confirmed $10M ARR 16 months after launch, with 2,500+ customers, 70+ employees, and a new NYC office; named customers now include Squarespace an
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/ai-overviews-is-the-most-undertracked-ai-search-500-000-prompts-show-why) — 2026-05-28: Published a 500,000-prompt study finding AI Overviews appeared in 86.7% of April 2026 searches, arguing it is the most undertracked AI-search surface. source
+- **[Web]** [source](https://peec.ai/mcp-challenge) — 2026-05-28: Concluded the first round of its MCP Challenge, a build competition that drew 100+ global builders with $10,000 in prizes, with a second round set for June 2026. source
+- **[News/Press]** [source](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/) — 2026-05-23: TechCrunch reported Peec crossed $10M ARR, more than doubling from $4M at its November 2025 Series A in roughly six months. source
+- **[Web]** [G2](https://www.g2.com/products/peec-ai/reviews) — Carries a 4.9/5 rating across 11 verified reviews on G2 (May 2026); the AEO category G2 Grid Leader designation in the Winter 2026 reports is held by Profound, with Peec positioned
 
 ## Pixis Visibility  ·  [profiles/pixis.md](profiles/pixis.md)
 
@@ -315,15 +315,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Scrunch AI  ·  [profiles/scrunch-ai.md](profiles/scrunch-ai.md)
 
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-/) — RunPod turned ChatGPT into a top acquisition channel within 90 days, reporting ~40 new customers/day and 4x growth in monthly paying customers source
-- **[News/Press]** [source](https://www.sitecore.com/company/newsroom/press-releases/2026/06/sitecore-acquires-scrunch-and-buying-decisions) — 2026-06-03: Acquired by Sitecore. Scrunch becomes "a Sitecore Company"; the Agent Experience Platform and its insights fold into SitecoreAI's content products. Bloomberg reported t
-- **[News/Press]** [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/sitecore-said-to-acquire-scrunch-for-225-million) — 2026-06-03: Acquired by Sitecore. Scrunch becomes "a Sitecore Company"; the Agent Experience Platform and its insights fold into SitecoreAI's content products. Bloomberg reported t
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/aeo-software-category-grows-over-2000-on-g2-as-half-of-b2b-buyers-start-their-search-with-ai-chatbots-over-google-302674557.html) — 2026-02-02: Named a High Performer in G2's first-ever AEO Grid (Winter 2026), alongside Profound as Leader and Otterly.AI as the other High Performer. source
-- **[News/Press]** [source](https://finance.yahoo.com/news/stacker-scrunch-partner-bring-ai-130000278.html) — 2026-01-29: Partnered with Stacker to embed AI search visibility reporting for earned media into the Stacker platform. source
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/2026-01-partnership-scrunch-noble) — 2026-01-08: Announced a Noble partnership that automates publisher outreach and content drafting at high-impact citation sources, closing the monitor-to-act loop. source
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/agent-traffic-monitoring/) — 2025-10-01: Launched Agent Traffic Monitoring into general availability, integrating at the CDN layer with Cloudflare, Akamai, Vercel, and WordPress. source
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/2025-07-announcing-our-series-a/) — 2025-07-22: Raised a $15M Series A led by Decibel and announced the Agent Experience Platform, with 500+ brands and an average 40% referral traffic lift reported. source
-- **[News/Press]** [source](https://company.g2.com/news/g2-winter-2026-reports) — Named a High Performer in G2's inaugural AEO Grid (Winter 2026), where Profound earned Leader status and Scrunch and Otterly.AI were the named High Performers. source
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-/) — RunPod turned ChatGPT into a top acquisition channel, reporting 4x growth in monthly paying customers within 90 days source
+- **[News/Press]** [source](https://www.sitecore.com/company/newsroom/press-releases/2026/06/sitecore-acquires-scrunch-and-buying-decisions) — 2026-06-03: Acquired by Sitecore (~$225M per Bloomberg, terms undisclosed); the Agent Experience Platform folds into SitecoreAI's content products, the first major M&A exit among A
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/scrunch-mcp-talk-to-and-act-on-ai-search-data-in-natural-language) — 2026-05-12: Launched Scrunch MCP, a Model Context Protocol server connecting AI-search data to Claude, ChatGPT, and Copilot with read and write actions, available on all plans. sou
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/aeo-software-category-grows-over-2000-on-g2-as-half-of-b2b-buyers-start-their-search-with-ai-chatbots-over-google-302674557.html) — 2026-02-02: Named a High Performer in G2's first AEO Grid (Winter 2026), alongside Otterly.AI, as the category grew over 2000% to 150+ products. source
+- **[News/Press]** [source](https://finance.yahoo.com/news/stacker-scrunch-partner-bring-ai-130000278.html) — 2026-01-29: Partnered with Stacker to embed AI search visibility reporting into the Stacker platform, focused on how earned media influences AI citations. source
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/2026-01-partnership-scrunch-noble) — 2026-01-08: Announced a partnership with Noble that automates publisher outreach at high-impact citation sources Scrunch identifies, closing the monitor-to-act loop. source
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/agent-traffic-monitoring/) — 2025-10-01: Brought Agent Traffic Monitoring to general availability, tracking AI agent visit volume, platforms, activity type, and top pages across Cloudflare, Akamai, Vercel, and
 
 ## Semrush (Enterprise AIO)  ·  [profiles/semrush.md](profiles/semrush.md)
 
@@ -337,12 +335,12 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Siteimprove  ·  [profiles/siteimprove.md](profiles/siteimprove.md)
 
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/merkle-partners-with-siteimprove-to-build-first-ever-accessibility-practice-302048438.html) — Merkle builds its first-ever accessibility practice on Siteimprove, citing a Forrester Wave Strong Performer placement source
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/siteimprove-customers-push-ahead-on-european-accessibility-act-compliance-302629513.html) — Customer-progress report on European Accessibility Act compliance across 538 sites and 2.3M+ pages, with Danske Bank, Shell, and Merkle named source
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/siteimprove-announces-2026-global-accessibility-customer-award-winners-recognized-for-accessibility-advocacy-ai-innovations-and-measurable-impact-302778558.html) — 2026-05-21: Published its 2026 Global Accessibility Customer Award Winners, naming ten enterprise customers including Barclays, Shell, Harvard University, BlackRock, and GSK. sourc
-- **[News/Press]** [source](https://www.siteimprove.com/press/siteimprove-launches-advanced-aeo-insights-for-ai-visibility/) — 2026-04-20: Launched Advanced AEO Insights inside Siteimprove.ai at Adobe Summit, tracking AI citations, share of answers, and brand sentiment across answer engines. source
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/siteimprove-customers-push-ahead-on-european-accessibility-act-compliance-302629513.html) — Siteimprove customers (Danske Bank, Shell, Merkle) push ahead on European Accessibility Act compliance source
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/merkle-partners-with-siteimprove-to-build-first-ever-accessibility-practice-302048438.html) — Merkle builds its first-ever accessibility practice on Siteimprove source
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/siteimprove-announces-2026-global-accessibility-customer-award-winners-recognized-for-accessibility-advocacy-ai-innovations-and-measurable-impact-302778558.html) — 2026-05-21: Published the 2026 Global Accessibility Customer Award Winners, naming ten enterprise customers including Barclays, Shell, Harvard University, and BlackRock. source
+- **[News/Press]** [source](https://www.siteimprove.com/press/siteimprove-launches-advanced-aeo-insights-for-ai-visibility/) — 2026-04-20: Launched Advanced AEO Insights inside the Siteimprove.ai Search solution at Adobe Summit, tracking AI citations, share of answers, brand sentiment, and revenue attribut
 - **[News/Press]** [source](https://www.prnewswire.com/news-releases/siteimprove-earns-great-place-to-work-certification-302735907.html) — 2026-04-07: Earned Great Place To Work Certification in the US, with 90% of employees rating it a great place to work. source
-- **[News/Press]** [source](https://www.siteimprove.com/press/siteimprove-strengthens-executive-team-with-cmo-jen-jones-to-scale-growth-strategy-and-agentic-category-leadership/) — 2026-03-03: Appointed Jen Jones, formerly of commercetools, as Chief Marketing Officer to align brand and demand around the agentic platform. source
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/siteimprove-expands-its-agentic-content-intelligence-platform-with-conversational-analytics-agent-pdf-and-image-accessibility-agent-and-keyword-intelligence-agent-302698008.html) — 2026-02-26: Expanded Siteimprove.ai with a Conversational Analytics Agent, a PDF and Image Accessibility Agent, and a Keyword Intelligence Agent covering traditional search and AEO
-- **[Web]** [2025 Gartner Market Guide for Enterprise SEO Platforms](https://www.siteimprove.com/hello/representative-vendor-in-the-2025-gartner-market-guide-for-enterprise-seo-platforms/) — Representative Vendor in the 2026 Gartner Market Guide for Answer Engine Optimization (source), following a Representative Vendor placement in the 2025 Gartner Market Guide for Ent
+- **[News/Press]** [source](https://www.siteimprove.com/press/siteimprove-strengthens-executive-team-with-cmo-jen-jones-to-scale-growth-strategy-and-agentic-category-leadership/) — 2026-03-03: Appointed Jen Jones (from commercetools) as Chief Marketing Officer to align brand and demand-gen around the agentic content intelligence platform. source
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/siteimprove-expands-its-agentic-content-intelligence-platform-with-conversational-analytics-agent-pdf-and-image-accessibility-agent-and-keyword-intelligence-agent-302698008.html) — 2026-02-26: Expanded the agentic platform with three new agents: a Conversational Analytics Agent, a PDF and Image Accessibility Agent, and a Keyword Intelligence Agent for search 
+- **[Web]** [source](https://www.siteimprove.com/hello/representative-vendor-in-the-2025-gartner-market-guide-for-enterprise-seo-platforms/) — Representative Vendor in the 2026 Gartner Market Guide for Answer Engine Optimization (source) and the 2025 Gartner Market Guide for Enterprise SEO Platforms (source). Named a Stro
 
