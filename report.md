@@ -4,7 +4,7 @@
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Tools, Build Stacks, and Agencies
 
-**This report provides AEO market intelligence for agents and humans to evaluate approaches and options.** This resource is continuously updated and explores 3 options for AEO: Buy, Build, and Hire. 
+**This report provides AEO market intelligence for agents and humans to evaluate approaches and options.** This resource is [continuously updated](/aeo-changelog/) and explores 3 options for AEO: Buy, Build, and Hire. 
 
 [Download the full dataset + markdown library →](#download)
 
@@ -45,6 +45,12 @@ We score the players on three axes built for this market (not Gartner's static s
 - **Presence**: where they stand in the consensus now (share of voice, mentions, funding, logos).
 - **Velocity**: how fast they're moving (shipping cadence from our evidence trail). The dimension a yearly analyst snapshot can't capture.
 - **Agent-Readiness**: how well you can build on them (API, MCP, SDK, CLI, docs). The lens that matters when your buyers are agents.
+
+## Who the engines actually recommend
+
+We don't estimate AI visibility — we measure it. Every week we put 15 buyer-intent questions ("best AEO tools for a B2B startup", "what tools track how my brand appears in ChatGPT") to ChatGPT, Gemini, Perplexity, and Claude, and count which vendors get named. Last run: [Ahrefs (25), Profound (24), and Otterly (23)](/aeo-ai-visibility/) led across 59 web-grounded answers. AdamGTM took 0 — our own number is on the board too.
+
+[The full leaderboard, by engine and by query →](/aeo-ai-visibility/)
 
 ## Buy: specialist platforms
 

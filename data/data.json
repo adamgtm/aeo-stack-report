@@ -1,0 +1,1495 @@
+{
+ "category": {
+  "slug": "aeo",
+  "title": "AEO Tools, Build Stacks & Agencies",
+  "subtitle": "How to choose your answer-engine strategy: Buy, Build, or Hire. The players, how to read them, kept current.",
+  "canonical_url": "https://stack.adamgtm.com/aeo/",
+  "md_url": "https://stack.adamgtm.com/aeo/index.md"
+ },
+ "generated": "2026-06-14",
+ "maintainer": "Adam's GTM Report — https://adamgtm.com",
+ "method": {
+  "scores": "Presence / Velocity / Agent-Readiness, set by the AdamGTM Analyst Desk, refreshed weekly, relative across the tracked set. Each carries a short reason.",
+  "ai_visibility": "Weekly run of buyer-intent queries across ChatGPT, Gemini, Perplexity, and Claude; counts are how often each vendor is named in web-grounded answers. Latest run: 2026-05-31."
+ },
+ "ai_visibility_run": {
+  "run_date": "2026-05-31",
+  "n_queries": 15,
+  "n_web_answers": 59,
+  "engines": [
+   "ChatGPT",
+   "Gemini",
+   "Perplexity",
+   "Claude"
+  ]
+ },
+ "entities": [
+  {
+   "slug": "adobe-llm-optimizer",
+   "name": "Adobe LLM Optimizer",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Adobe's enterprise AEO/GEO application, generally available since October 14, 2025, inside Adobe Experience Cloud with native Adobe Experience Manager integration. It measures brand visibility in AI answers, benchmarks share of voice against competitors, and recommends and implements fixes.",
+   "scores": {
+    "presence": {
+     "value": "69",
+     "why": "New (GA Oct 2025) but Adobe Experience Cloud distribution"
+    },
+    "velocity": {
+     "value": "78",
+     "why": "Fresh GA, Adobe shipping machine behind it"
+    },
+    "agent_readiness": {
+     "value": "Medium",
+     "why": "Adobe APIs; agent surface still maturing"
+    }
+   },
+   "agent_surfaces": {
+    "api": "Partial (Adobe Experience Cloud APIs)",
+    "mcp": "Emerging (Adobe-wide MCP in AEM/Journey Optimizer)",
+    "sdk": "Via Adobe platform",
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "product_page": "https://business.adobe.com/products/llm-optimizer.html",
+    "docs": "https://experienceleague.adobe.com/en/docs/llm-optimizer",
+    "launch_announcement": "https://news.adobe.com/news/2025/10/adobe-delivers-llm-optimizer-businesses-boost-visibility-across-ai-powered-chat-services-browsers"
+   },
+   "canonical_url": "https://stack.adamgtm.com/adobe-llm-optimizer/",
+   "md_url": "https://stack.adamgtm.com/adobe-llm-optimizer/index.md",
+   "last_updated": "2026-05-26",
+   "ai_visibility": {
+    "web_mentions": 1,
+    "parametric_mentions": 0,
+    "engines": [
+     "Perplexity"
+    ]
+   }
+  },
+  {
+   "slug": "aeo-open-source",
+   "name": "Open Source AEO Projects & Resources",
+   "solution_type": "Build",
+   "entity_type": "resource",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "The open-source side of AEO/GEO is moving fast. This is the curated landscape — skill packs, frameworks, trackers, publisher-side tooling, and the academic work — for teams that want to build rather than buy. Star counts are a rough proxy for traction, not quality; pick on fit and license.",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {},
+   "canonical_url": "https://stack.adamgtm.com/aeo-open-source/",
+   "md_url": "https://stack.adamgtm.com/aeo-open-source/index.md",
+   "last_updated": "2026-05-26"
+  },
+  {
+   "slug": "ahrefs",
+   "name": "Ahrefs",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Singapore-based, bootstrapped SEO platform (~196 employees) extending from its crawler infrastructure into AEO/GEO. Recent releases: the Brand Radar AI-visibility index plus Custom Prompt Tracking, the free Firehose web-mentions API, official MCP across five AI clients, and Agent A, a standalone $99/month AI marketing agent.",
+   "scores": {
+    "presence": {
+     "value": "70",
+     "why": "~$149M rev, bootstrapped, dominant SEO; AEO bolt-on"
+    },
+    "velocity": {
+     "value": "62",
+     "why": "Steady; AEO is strong add-on not core focus"
+    },
+    "agent_readiness": {
+     "value": "Medium",
+     "why": "Official MCP plus mature API"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://ahrefs.com",
+    "pricing": "https://ahrefs.com/pricing",
+    "linkedin": "https://www.linkedin.com/company/ahrefs"
+   },
+   "canonical_url": "https://stack.adamgtm.com/ahrefs/",
+   "md_url": "https://stack.adamgtm.com/ahrefs/index.md",
+   "last_updated": "2026-06-14",
+   "ai_visibility": {
+    "web_mentions": 25,
+    "parametric_mentions": 6,
+    "engines": [
+     "ChatGPT",
+     "Gemini",
+     "Perplexity",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "airops",
+   "name": "AirOps",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "AirOps is an AEO/GEO content operations platform for marketing teams, with customers including Carta, Webflow, and Klaviyo. It raised a $40M Series B at a $225M valuation (about $62.5M total). Recent releases: the Quill AI search agent, Prompt Discovery, and a rebuilt Brand Kit.",
+   "scores": {
+    "presence": {
+     "value": "76",
+     "why": "$62M raised, $225M val, Ramp/Wiz/Klaviyo logos; native AEO"
+    },
+    "velocity": {
+     "value": "88",
+     "why": "Headcount 20→100 in a year; fresh Series B"
+    },
+    "agent_readiness": {
+     "value": "High",
+     "why": "Official MCP + Claude Connector, REST API, Client SDK"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": true
+   },
+   "links": {
+    "homepage": "https://airops.com",
+    "pricing": "https://airops.com/pricing",
+    "linkedin": "https://linkedin.com/company/airopshq"
+   },
+   "canonical_url": "https://stack.adamgtm.com/airops/",
+   "md_url": "https://stack.adamgtm.com/airops/index.md",
+   "last_updated": "2026-06-07",
+   "ai_visibility": {
+    "web_mentions": 2,
+    "parametric_mentions": 0,
+    "engines": [
+     "ChatGPT",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "aivo-meridian",
+   "name": "AIVO",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Decision-stage AI-answer measurement platform that scores whether a brand survives to the final purchase recommendation, not just whether it shows up. Coined the category \"Agentic Brand Control\" and the metric Conversational Survival Rate. Runs multi-turn buying-sequence probes across ChatGPT, Gemini, Perplexity, Claude, and Grok. Founder commentary featured in Fortune (Jan 2026). Funding and cust",
+   "scores": {
+    "presence": {
+     "value": "52",
+     "why": "Strong thought-leadership (Fortune, AIVO Journal) but no disclosed funding, customers, or analyst placement"
+    },
+    "velocity": {
+     "value": "60",
+     "why": "Active publish/ship cadence — AIVO Optimize, AIVO Edge, and the Agentic Brand Control category paper all May 2026"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "No API/MCP/SDK/CLI product surface; only a public spec repo for the AIVO Standard"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://aivomeridian.com/",
+    "aivo_journal": "https://www.aivojournal.org/",
+    "free_assessment": "https://www.aivoedge.net/survival-assessment.html",
+    "founder_linkedin": "https://www.linkedin.com/in/timothy-de-rosen-260b0833/"
+   },
+   "canonical_url": "https://stack.adamgtm.com/aivo-meridian/",
+   "md_url": "https://stack.adamgtm.com/aivo-meridian/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "amplitude",
+   "name": "Amplitude",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Public product-analytics platform (NASDAQ: AMPL) extending into AI visibility. The classic Amplitude Analytics, Experiment, and Session Replay suite now sits alongside AI Visibility, a visibility score across ChatGPT, Google AI Overviews, Gemini, and Claude. The wedge that no pure-play has: AI mentions wire straight into Amplitude's analytics graph, so a visibility score lands next to the traffic,",
+   "scores": {
+    "presence": {
+     "value": "68",
+     "why": "Public co (~$343M FY25 rev, 698 $100K+ customers); 27K+ brands ran the free AI Visibility tool — but AEO is a new line, modest category share-of-voice"
+    },
+    "velocity": {
+     "value": "66",
+     "why": "Launched Oct 2025, shipped AI Visibility 1.5 in Feb 2026 — real cadence on the AEO line, above an SEO bolt-on"
+    },
+    "agent_readiness": {
+     "value": "High",
+     "why": "Official OAuth MCP server (free on Starter), mature REST APIs, Browser/Node/Python SDKs"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": true,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://amplitude.com",
+    "ai_visibility": "https://amplitude.com/ai-visibility",
+    "docs": "https://amplitude.com/docs",
+    "linkedin": "https://www.linkedin.com/company/amplitude-analytics"
+   },
+   "canonical_url": "https://stack.adamgtm.com/amplitude/",
+   "md_url": "https://stack.adamgtm.com/amplitude/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "amsive",
+   "name": "Amsive",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Full-service performance marketing agency and home of Lily Ray, VP of SEO & AI Search and one of the most recognized figures in SEO and AEO. In June 2025 Amsive formally expanded its search practice with an Answer Engine Optimization offering aimed at brands navigating AI search, leaning on a search team of more than 35 specialists.",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://www.amsive.com",
+    "aeo_announcement": "https://www.amsive.com/insights/news/amsive-expands-proven-search-capabilities-with-answer-engine-optimization-aeo-to-navigate-the-ai-search-era/",
+    "lily_ray_on_linkedin": "https://www.linkedin.com/in/lily-ray-3a1782a"
+   },
+   "canonical_url": "https://stack.adamgtm.com/amsive/",
+   "md_url": "https://stack.adamgtm.com/amsive/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "animalz",
+   "name": "Animalz",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Content marketing agency for enterprise SaaS, known for expert-interview-driven editorial, now running an AEO program. Engagements start with an AEO audit that benchmarks a brand's AI visibility against competitors and produces a 90-day execution roadmap.",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://www.animalz.co",
+    "on_aeo_agencies": "https://www.animalz.co/blog/best-aeo-agencies"
+   },
+   "canonical_url": "https://stack.adamgtm.com/animalz/",
+   "md_url": "https://stack.adamgtm.com/animalz/index.md",
+   "last_updated": "2026-05-26"
+  },
+  {
+   "slug": "athenahq",
+   "name": "AthenaHQ",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "AthenaHQ is an AEO/GEO optimization platform for AI-search visibility, used by Coupons.com, Checkr, and Rootly, with about $3M raised. Recent work includes the Athena Citation Engine validation, Oracle for correcting AI claims about a brand, and an OAuth-scoped MCP server.",
+   "scores": {
+    "presence": {
+     "value": "72",
+     "why": "Punches above $2.7M seed on influencer visibility"
+    },
+    "velocity": {
+     "value": "56",
+     "why": "Shipping cadence cooled recently; smaller team"
+    },
+    "agent_readiness": {
+     "value": "Medium",
+     "why": "Some API access; no public MCP yet"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": false,
+    "sdk": true,
+    "cli": false,
+    "llms_txt": true
+   },
+   "links": {
+    "homepage": "https://athenahq.ai",
+    "pricing": "https://athenahq.ai/pricing",
+    "linkedin": "https://www.linkedin.com/company/athena-hq"
+   },
+   "canonical_url": "https://stack.adamgtm.com/athenahq/",
+   "md_url": "https://stack.adamgtm.com/athenahq/index.md",
+   "last_updated": "2026-06-14",
+   "ai_visibility": {
+    "web_mentions": 9,
+    "parametric_mentions": 0,
+    "engines": [
+     "ChatGPT",
+     "Gemini",
+     "Perplexity",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "bluefish-ai",
+   "name": "Bluefish AI",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Enterprise AEO/GEO platform for Fortune 500 brands, focused on AI visibility, influence, and brand verification across ChatGPT, Google AI, Claude, and Perplexity. Customers include Adidas, LVMH, and American Express. $68M raised. Recent releases: AI Accuracy verification, the State of Enterprise Brands benchmark, and Collections.",
+   "scores": {
+    "presence": {
+     "value": "70",
+     "why": "$68M raised, $43M Series B, F500 logos; invisible socially"
+    },
+    "velocity": {
+     "value": "86",
+     "why": "Well-funded and shipping fast post-raise"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "Zero agent surfaces despite funding"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.bluefishai.com",
+    "linkedin": "https://www.linkedin.com/company/bluefish-ai"
+   },
+   "canonical_url": "https://stack.adamgtm.com/bluefish-ai/",
+   "md_url": "https://stack.adamgtm.com/bluefish-ai/index.md",
+   "last_updated": "2026-06-14",
+   "ai_visibility": {
+    "web_mentions": 1,
+    "parametric_mentions": 0,
+    "engines": [
+     "Perplexity"
+    ]
+   }
+  },
+  {
+   "slug": "botify",
+   "name": "Botify",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Enterprise SEO platform from Paris, now an AEO/GEO platform built on first-party crawl and log-file data, with 500+ customers and ~$85M raised. Recent releases include AI Visibility, Agentic Feeds, and Product Cards that track brand presence in AI shopping carousels.",
+   "scores": {
+    "presence": {
+     "value": "62",
+     "why": "~$82M, 500+ brands, Forrester Strong Performer"
+    },
+    "velocity": {
+     "value": "62",
+     "why": "Steady incumbent shipping; AEO additions ongoing"
+    },
+    "agent_readiness": {
+     "value": "High",
+     "why": "API + MCP + llms.txt — strong agent stack"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.botify.com",
+    "linkedin": "https://www.linkedin.com/company/botify"
+   },
+   "canonical_url": "https://stack.adamgtm.com/botify/",
+   "md_url": "https://stack.adamgtm.com/botify/index.md",
+   "last_updated": "2026-06-14"
+  },
+  {
+   "slug": "brandlight",
+   "name": "Brandlight",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Enterprise AI-visibility platform positioning toward AI-native advertising — what it calls the \"AI Market Shelf.\" Customers include Kimberly-Clark, Estée Lauder, LG, and The Hartford. $30M Series A led by Pelion in Feb 2026 (~$35.75M total). Recent direction: expanding from AI search visibility into AI ads and agentic commerce.",
+   "scores": {
+    "presence": {
+     "value": "70",
+     "why": "$30M Series A (~$35.75M total), real F500 logos (Kimberly-Clark, Estée Lauder, LG, The Hartford); but quiet corpus share-of-voice"
+    },
+    "velocity": {
+     "value": "80",
+     "why": "Fresh Feb-2026 raise; actively expanding from AI search into AI ads + agentic commerce, though public ship trail is thin"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "RESTful API only, enterprise-gated; no public MCP/SDK/CLI/llms.txt"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.brandlight.ai",
+    "about": "https://www.brandlight.ai/about",
+    "commerce": "https://www.brandlight.ai/product/commerce",
+    "linkedin": "https://www.linkedin.com/company/brandlight-ai"
+   },
+   "canonical_url": "https://stack.adamgtm.com/brandlight/",
+   "md_url": "https://stack.adamgtm.com/brandlight/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "brightedge",
+   "name": "BrightEdge",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Enterprise SEO platform founded in 2007, now retrofitting for the AEO/GEO era. Serves 57% of the Fortune 500, with customer speakers including Persimmon, Kantar, and Belron. Raised $63.9M in venture funding. Recent releases: AI Hyper Cube, Share of Voice V2, and AI Agent Insights, all shipped at Spark Live 2026.",
+   "scores": {
+    "presence": {
+     "value": "71",
+     "why": "~$120M ARR, 57% of F500; corpus SOV gap"
+    },
+    "velocity": {
+     "value": "56",
+     "why": "Real AEO line but slow legacy-platform cadence"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "Enterprise APIs but no agent-native surface"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.brightedge.com",
+    "linkedin": "https://www.linkedin.com/company/brightedge"
+   },
+   "canonical_url": "https://stack.adamgtm.com/brightedge/",
+   "md_url": "https://stack.adamgtm.com/brightedge/index.md",
+   "last_updated": "2026-06-14",
+   "ai_visibility": {
+    "web_mentions": 12,
+    "parametric_mentions": 2,
+    "engines": [
+     "ChatGPT",
+     "Gemini",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "clay",
+   "name": "Clay",
+   "solution_type": "Build",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Clay is an AI-native GTM data platform for enrichment, scoring, and outbound, used by OpenAI, Anthropic, Stripe, Notion, and Figma. $202M raised at a $5B valuation, $100M+ ARR. Recent: a ClayDR Claude function, an OpenAI Codex integration, and the Claygent Builder.",
+   "scores": {
+    "presence": {
+     "value": "98",
+     "why": "$5B val, $100M+ ARR, 14k customers — ubiquitous GTM product"
+    },
+    "velocity": {
+     "value": "93",
+     "why": "Relentless shipping cadence; close behind Profound"
+    },
+    "agent_readiness": {
+     "value": "High",
+     "why": "Deep API, integrations, agentic enrichment surfaces"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": false,
+    "cli": true,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://clay.com",
+    "pricing": "https://clay.com/pricing",
+    "linkedin": "https://linkedin.com/company/grow-with-clay"
+   },
+   "canonical_url": "https://stack.adamgtm.com/clay/",
+   "md_url": "https://stack.adamgtm.com/clay/index.md",
+   "last_updated": "2026-06-14"
+  },
+  {
+   "slug": "conductor",
+   "name": "Conductor",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Conductor is an enterprise SEO and content intelligence platform now retrofitting for AEO. Customers include IBM, Coca-Cola, Atlassian, and Airbnb. $210M total funding. Recent moves include the AgentStack AEO suite, a 2026 AEO/GEO benchmarks report, and a State of AEO/GEO CMO investment report.",
+   "scores": {
+    "presence": {
+     "value": "73",
+     "why": "$210M, 16yr enterprise platform, Forrester Leader"
+    },
+    "velocity": {
+     "value": "76",
+     "why": "AgentStack AEO shipped Apr 2026; steady incumbent pace"
+    },
+    "agent_readiness": {
+     "value": "Medium",
+     "why": "AgentStack AEO new; enterprise integrations but thin agent surface"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": true
+   },
+   "links": {
+    "homepage": "https://conductor.com",
+    "pricing": "https://conductor.com/pricing",
+    "linkedin": "https://www.linkedin.com/company/conductor-inc-"
+   },
+   "canonical_url": "https://stack.adamgtm.com/conductor/",
+   "md_url": "https://stack.adamgtm.com/conductor/index.md",
+   "last_updated": "2026-05-26",
+   "ai_visibility": {
+    "web_mentions": 4,
+    "parametric_mentions": 0,
+    "engines": [
+     "ChatGPT",
+     "Gemini",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "daydream",
+   "name": "daydream",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "AI-native SEO and AEO/GEO agency-as-product that pairs SEO agents with a dedicated human Growth Lead per customer. Customers include Twingate, Clay, and Beautiful.ai. $21M raised. Recent moves: the autonomous Sunbeam agent, a $15M Series A led by WndrCo, and a V2.0 full-spectrum relaunch.",
+   "scores": {
+    "presence": {
+     "value": "—",
+     "why": ""
+    },
+    "velocity": {
+     "value": "—",
+     "why": ""
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": ""
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.withdaydream.com",
+    "linkedin": "https://www.linkedin.com/company/withdaydream"
+   },
+   "canonical_url": "https://stack.adamgtm.com/daydream/",
+   "md_url": "https://stack.adamgtm.com/daydream/index.md",
+   "last_updated": "2026-06-14"
+  },
+  {
+   "slug": "demand-genius",
+   "name": "Demand-Genius",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "B2B-specific AEO and content-intelligence platform that tracks how AI engines present a brand to buying committees and ties content to pipeline and revenue, with customers including Braze, Cognism, Captify, Sensat, Cleo, and TryHackMe. Funding not disclosed. Recent work: an evolution from manual content attribution into an AEO platform with AI agents, intent-cluster visibility tracking across five",
+   "scores": {
+    "presence": {
+     "value": "52",
+     "why": "Early and small (2-10 staff); funding not disclosed, but real B2B logos (Braze, Cognism, Captify)"
+    },
+    "velocity": {
+     "value": "58",
+     "why": "Shipping fast off a 2024 launch; evolved attribution → AEO platform, steady content research cadence"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "No API, MCP, SDK, CLI, or llms.txt found"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://demand-genius.com",
+    "pricing": "https://demand-genius.com/pricing/",
+    "content_intelligence": "https://demand-genius.com/use-cases/content-intelligence/",
+    "linkedin": "https://www.linkedin.com/company/demand-genius"
+   },
+   "canonical_url": "https://stack.adamgtm.com/demand-genius/",
+   "md_url": "https://stack.adamgtm.com/demand-genius/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "discovered-labs",
+   "name": "Discovered Labs",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Organic search agency that bills itself as \"the first AEO/GEO agency for B2B SaaS.\" It combines SEO and AEO to get B2B software ranked on Google and recommended by ChatGPT, Claude, Perplexity, and Google AI Overviews. Co-founded by Liam Dunne, who helped scale Instantly.ai to ~$20M ARR, and Ben Moore, an ex-Stanford AI researcher who led engineering at Aurora and built fraud systems at Stripe, Coi",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://discoveredlabs.com",
+    "about": "https://discoveredlabs.com/about",
+    "aeo_services": "https://discoveredlabs.com/services/answer-engine-optimization-agency",
+    "liam_dunne_on_linkedin": "https://www.linkedin.com/in/liamdunne05",
+    "ben_moore_on_linkedin": "https://uk.linkedin.com/in/benkarlmoore"
+   },
+   "canonical_url": "https://stack.adamgtm.com/discovered-labs/",
+   "md_url": "https://stack.adamgtm.com/discovered-labs/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "evertune",
+   "name": "Evertune",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "An AEO/GEO platform whose AI Brand Index measures how often brands surface in AI answers to category questions where they aren't named, across nine engines. Customers include Canada Goose, Miro, and Roku. $19M raised. Recent moves: a Visibility Boost ad agent for ChatGPT, a Gartner Market Guide listing, and AI retargeting partnerships.",
+   "scores": {
+    "presence": {
+     "value": "53",
+     "why": "$19M, Gartner Representative Vendor; measurement→media play"
+    },
+    "velocity": {
+     "value": "82",
+     "why": "Ships fast; aggressive product expansion"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "No public agent surfaces yet"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.evertune.ai",
+    "docs": "https://docs.evertune.ai/",
+    "linkedin": "https://www.linkedin.com/company/evertune"
+   },
+   "canonical_url": "https://stack.adamgtm.com/evertune/",
+   "md_url": "https://stack.adamgtm.com/evertune/index.md",
+   "last_updated": "2026-05-31",
+   "ai_visibility": {
+    "web_mentions": 2,
+    "parametric_mentions": 0,
+    "engines": [
+     "Perplexity"
+    ]
+   }
+  },
+  {
+   "slug": "foundation",
+   "name": "Foundation",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Halifax-based content marketing and distribution agency led by founder and CEO Ross Simmonds, now positioned as an AI-visibility agency. Distribution-led AEO/GEO under the \"Create Once, Distribute Forever\" method. Clients include Canva, Procore, Snowflake, and Jobber.",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://foundationinc.co",
+    "ross_simmonds": "https://foundationinc.co/team/ross-simmonds/"
+   },
+   "canonical_url": "https://stack.adamgtm.com/foundation/",
+   "md_url": "https://stack.adamgtm.com/foundation/index.md",
+   "last_updated": "2026-05-26"
+  },
+  {
+   "slug": "goodie-ai",
+   "name": "Goodie AI",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Commerce-vertical AEO/GEO platform tracking brand visibility across ChatGPT, Amazon Rufus, and Perplexity Shopping. Founded 2024 by NoGood's Mostafa ElBermawy and bootstrapped to roughly $1.2M ARR. Recent moves: the 2026 AI Search Traffic Report, the Goodie 2.0 rebuild, and an Agentic Commerce Optimizer.",
+   "scores": {
+    "presence": {
+     "value": "60",
+     "why": "Bootstrapped ~$1.2M ARR; broadest model coverage (11)"
+    },
+    "velocity": {
+     "value": "68",
+     "why": "Ships steadily for a small bootstrapped team"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "No public API or MCP"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://higoodie.com",
+    "pricing": "https://higoodie.com/pricing/",
+    "linkedin": "https://www.linkedin.com/company/goodie-ai"
+   },
+   "canonical_url": "https://stack.adamgtm.com/goodie-ai/",
+   "md_url": "https://stack.adamgtm.com/goodie-ai/index.md",
+   "last_updated": "2026-05-31",
+   "ai_visibility": {
+    "web_mentions": 2,
+    "parametric_mentions": 1,
+    "engines": [
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "graphite",
+   "name": "Graphite",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Growth-marketing agency turned AEO/GEO product, pairing a self-service Topical SEO platform (Topic Graph, Internal Links API) with done-for-you services. Customers include Webflow and Fourthwall. Recent work includes the 'AI Is Much Bigger Than You Think' study and co-hosting AEO Conf 2026.",
+   "scores": {
+    "presence": {
+     "value": "—",
+     "why": ""
+    },
+    "velocity": {
+     "value": "—",
+     "why": ""
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": ""
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://graphite.io"
+   },
+   "canonical_url": "https://stack.adamgtm.com/graphite/",
+   "md_url": "https://stack.adamgtm.com/graphite/index.md",
+   "last_updated": "2026-06-14"
+  },
+  {
+   "slug": "growthx",
+   "name": "GrowthX",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "AI-native growth agency (growthx.ai, not the unrelated growthx.com or growthx.digital) founded in 2024 by CEO Marcel Santilli and CTO Daniel Lopes, with customers including Ramp, Reddit, Webflow, Abnormal, and Superhuman. It runs an expert-guided AI content engine — editorial, programmatic SEO, case studies, content refresh, and AEO — pitched as content-as-pipeline that wins both Google rankings a",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://growthx.ai",
+    "series_a_announcement": "https://growthx.ai/blog/series-a",
+    "marcel_santilli_on_linkedin": "https://www.linkedin.com/in/marcelsantilli"
+   },
+   "canonical_url": "https://stack.adamgtm.com/growthx/",
+   "md_url": "https://stack.adamgtm.com/growthx/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "gumshoe-ai",
+   "name": "Gumshoe AI",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Pure-play AEO/GEO analytics that simulates buyer conversations across AI models to show how a brand gets mentioned, recommended, and cited. $2M pre-seed led by Pioneer Square Labs. Pay-as-you-go pricing ($0.10/conversation) with the first three reports free. Recent work: a joint SparkToro study on how many queries it takes to measure AI visibility with confidence, and a published Gumshoe AI Manual",
+   "scores": {
+    "presence": {
+     "value": "55",
+     "why": "Early-stage ($2M pre-seed), but credible founders + real press; broad freemium reach"
+    },
+    "velocity": {
+     "value": "45",
+     "why": "Steady research/content cadence; no major product launches since the raise"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "API in development; no MCP/SDK/CLI; no root llms.txt"
+    }
+   },
+   "agent_surfaces": {
+    "api": "In development",
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://gumshoe.ai",
+    "pricing": "https://www.gumshoe.ai/pricing",
+    "blog": "https://gumshoe.ai/blog/",
+    "psl_profile": "https://www.psl.com/companies/gumshoe"
+   },
+   "canonical_url": "https://stack.adamgtm.com/gumshoe-ai/",
+   "md_url": "https://stack.adamgtm.com/gumshoe-ai/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "hubspot",
+   "name": "HubSpot",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "HubSpot is a Boston CRM and marketing platform, founded 2006, now built around Breeze, its AI agent layer. Public on NYSE, about 300,000 customers, $881M Q1 2026 revenue. Recent: the first AEO tool from a major platform, a Breeze Agent CLI, and the INBOUND-to-UNBOUND rebrand.",
+   "scores": {
+    "presence": {
+     "value": "61",
+     "why": "Young product (beta Apr 2026) on ~300k HubSpot distribution"
+    },
+    "velocity": {
+     "value": "78",
+     "why": "Fast beta iteration; backed by HubSpot machine"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "Nascent product; no dedicated AEO agent surface"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": true,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.hubspot.com",
+    "pricing": "https://www.hubspot.com/pricing",
+    "linkedin": "https://www.linkedin.com/company/hubspot"
+   },
+   "canonical_url": "https://stack.adamgtm.com/hubspot/",
+   "md_url": "https://stack.adamgtm.com/hubspot/index.md",
+   "last_updated": "2026-06-14",
+   "ai_visibility": {
+    "web_mentions": 7,
+    "parametric_mentions": 0,
+    "engines": [
+     "ChatGPT",
+     "Perplexity"
+    ]
+   }
+  },
+  {
+   "slug": "ipullrank",
+   "name": "iPullRank",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "iPullRank is Mike King's New York technical-SEO agency, repositioned around AI search under its Relevance Engineering framework. Recent work spans the open-source Qforia query fan-out tool, the 24-chapter AI Search Manual, a click-to-citation measurement framework, and original research on AI bot traffic and Gmail as a ranking signal.",
+   "scores": {
+    "presence": {
+     "value": "—",
+     "why": ""
+    },
+    "velocity": {
+     "value": "—",
+     "why": ""
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": ""
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://ipullrank.com"
+   },
+   "canonical_url": "https://stack.adamgtm.com/ipullrank/",
+   "md_url": "https://stack.adamgtm.com/ipullrank/index.md",
+   "last_updated": "2026-06-14",
+   "ai_visibility": {
+    "web_mentions": 1,
+    "parametric_mentions": 0,
+    "engines": [
+     "Perplexity"
+    ]
+   }
+  },
+  {
+   "slug": "meltwater",
+   "name": "Meltwater",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Media-intelligence incumbent that bolted AI-answer monitoring onto its listening suite. Taken private by Marlin Equity Partners and Altor in 2023; around 28,000 corporate customers and 1,700 employees. The classic PR, social-listening, and influencer suite now sits alongside GenAI Lens, an AI-visibility tracker across 7 platforms, and Mira, the AI assistant layer. Recent moves: GenAI Lens launch, ",
+   "scores": {
+    "presence": {
+     "value": "68",
+     "why": "Huge company (~28K customers, ~3.5B NOK rev); AEO is a 2025 bolt-on, not the brand"
+    },
+    "velocity": {
+     "value": "48",
+     "why": "Incumbent cadence; AEO line ships in spurts, not weekly"
+    },
+    "agent_readiness": {
+     "value": "Medium",
+     "why": "REST API plus an official Mira MCP server; no SDK/CLI/llms.txt"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.meltwater.com",
+    "genai_lens": "https://www.meltwater.com/en/products/genai-lens",
+    "ai_visibility_tracking": "https://www.meltwater.com/en/capabilities/ai-visibility-tracking",
+    "developer_portal": "https://developer.meltwater.com/docs/meltwater-api/reference/overview/",
+    "pricing": "https://www.meltwater.com/en/pricing",
+    "linkedin": "https://www.linkedin.com/company/meltwater-group"
+   },
+   "canonical_url": "https://stack.adamgtm.com/meltwater/",
+   "md_url": "https://stack.adamgtm.com/meltwater/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "noble",
+   "name": "Noble",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "The earned-media and source-acquisition layer for AEO. Noble finds the prompts where a brand is absent from AI answers, contacts the third-party publishers the LLMs actually cite, and negotiates placements it calls \"Mention Offers.\" It's the activation arm that monitoring tools plug into — a different slot in the stack than a tracker. Company details (founder, funding, headcount) are undisclosed.",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://thatsnoble.com",
+    "about": "https://www.thatsnoble.com/about-us",
+    "dashboard": "https://dashboard.thatsnoble.com",
+    "profound_partnership": "https://www.tryprofound.com/blog/introducing-noble-nodes-for-profound-agents",
+    "otterly_partnership": "https://otterly.ai/blog/otterlyai-noble-partnership-ai-search-outreach/",
+    "conductor_partnership": "https://www.conductor.com/blog/conductor-noble-partnership"
+   },
+   "canonical_url": "https://stack.adamgtm.com/noble/",
+   "md_url": "https://stack.adamgtm.com/noble/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "notebook-agency",
+   "name": "Notebook Agency",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Founder-led boutique SEO/GEO shop for B2B SaaS, founded 2019 and run by Steve Toth, creator of the SEO Notebook and AI Notebook newsletters (27K+ combined subscribers). Frames the shift bluntly — \"AEO is eating SEO\" — and brings that point of view to a small, senior team rather than a monitoring tool.",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://notebook.agency",
+    "llm_info": "https://notebook.agency/llm-info",
+    "seo_notebook": "https://seonotebook.com",
+    "ai_notebook": "https://ainotebook.com",
+    "steve_toth_on_linkedin": "https://ca.linkedin.com/in/stevetothjr"
+   },
+   "canonical_url": "https://stack.adamgtm.com/notebook-agency/",
+   "md_url": "https://stack.adamgtm.com/notebook-agency/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "obility",
+   "name": "Obility",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "B2B digital marketing agency for hyper-growth tech and SaaS companies, founded in 2011 by Mike Nierengarten and based in Portland, OR. Obility positions on pipeline and revenue rather than traffic, and runs a branded Generative Engine Optimization (GEO) service framed as complementary to SEO rather than a replacement.",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://www.obilityb2b.com",
+    "geo_service": "https://www.obilityb2b.com/services/generative-engine-optimization-geo/",
+    "on_geo_agencies": "https://www.obilityb2b.com/blog/top-generative-engine-optimization-geo-agencies-for-b2b-marketing/"
+   },
+   "canonical_url": "https://stack.adamgtm.com/obility/",
+   "md_url": "https://stack.adamgtm.com/obility/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "otterly-ai",
+   "name": "OtterlyAI",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "A bootstrapped, product-led AI-search monitoring platform positioned as \"Semrush for AI search,\" tracking brand visibility across six AI engines for customers including Videoloft and Bacula Enterprise. Recent moves: a Public API, a Claude Skill, and a Marketplace of 101 marketing workflows.",
+   "scores": {
+    "presence": {
+     "value": "54",
+     "why": "Bootstrapped category floor ($29/mo), Gartner Cool Vendor"
+    },
+    "velocity": {
+     "value": "58",
+     "why": "Decent cadence for solo-scale tool"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "Consume-only; no agent surfaces"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://otterly.ai",
+    "pricing": "https://otterly.ai/pricing",
+    "linkedin": "https://www.linkedin.com/company/otterly-ai"
+   },
+   "canonical_url": "https://stack.adamgtm.com/otterly-ai/",
+   "md_url": "https://stack.adamgtm.com/otterly-ai/index.md",
+   "last_updated": "2026-06-14",
+   "ai_visibility": {
+    "web_mentions": 23,
+    "parametric_mentions": 2,
+    "engines": [
+     "ChatGPT",
+     "Perplexity",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "peec-ai",
+   "name": "Peec AI",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "AEO/GEO analytics platform for mid-market and agency teams, tracking brand visibility across ChatGPT, Perplexity, and Google AI Overviews. Customers include Squarespace, Hugo Boss, Attio, and TUI. $29M raised, company-confirmed $10M ARR. Recent releases: Actions, Agent Analytics crawl tools, and an MCP server.",
+   "scores": {
+    "presence": {
+     "value": "74",
+     "why": "Clear #2 specialist; doubled ARR $4M→$10M in 6mo"
+    },
+    "velocity": {
+     "value": "86",
+     "why": "Fast specialist shipping; capable MCP recently added"
+    },
+    "agent_readiness": {
+     "value": "High",
+     "why": "Capable MCP server plus monitoring API"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": true
+   },
+   "links": {
+    "homepage": "https://peec.ai",
+    "pricing": "https://peec.ai/pricing",
+    "docs": "https://docs.peec.ai/",
+    "linkedin": "https://linkedin.com/company/peec-ai"
+   },
+   "canonical_url": "https://stack.adamgtm.com/peec-ai/",
+   "md_url": "https://stack.adamgtm.com/peec-ai/index.md",
+   "last_updated": "2026-06-07",
+   "ai_visibility": {
+    "web_mentions": 20,
+    "parametric_mentions": 2,
+    "engines": [
+     "ChatGPT",
+     "Gemini",
+     "Perplexity",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "pixis",
+   "name": "Pixis Visibility",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Pixis Visibility is a unified SEO + GEO \"operating system\" that not only tracks AI-search visibility but executes on it — site audit, content briefs, AI drafting, and one-click WordPress publishing in one loop. It tracks brand citations across ChatGPT, Perplexity, Gemini, and Google AI Overview. It's a newer product line from Pixis, a well-funded AI ad-optimization company (~$209M raised). Self-se",
+   "scores": {
+    "presence": {
+     "value": "58",
+     "why": "Backed by a ~$209M-raised ad-infra parent, but the Visibility line is new with thin AEO share of voice in our corpus"
+    },
+    "velocity": {
+     "value": "70",
+     "why": "Active comparison-page output and a $99/site self-serve launch; not yet a steady dated release cadence"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "No public API, MCP, SDK, CLI, or llms.txt found for the Visibility product"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://pixis.ai",
+    "product": "https://pixis.ai/products/pixis-visibility",
+    "lp": "https://visibility.pixis.ai",
+    "linkedin": "https://www.linkedin.com/company/pixis-ai"
+   },
+   "canonical_url": "https://stack.adamgtm.com/pixis/",
+   "md_url": "https://stack.adamgtm.com/pixis/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "profound",
+   "name": "Profound",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Full-suite AEO/GEO platform, enterprise-focused. Customers include Snap, Coinbase, Figma, and Expedia. $155M raised at a roughly $1B valuation. Recent releases: Agent Analytics benchmarking, OpenAI Ads nodes, and a 2026 roadmap of always-on Background Agents.",
+   "scores": {
+    "presence": {
+     "value": "85",
+     "why": "AEO category leader, $1B unicorn, 700+ logos, owns vocabulary"
+    },
+    "velocity": {
+     "value": "100",
+     "why": "Most shipping in the group — sets the pace"
+    },
+    "agent_readiness": {
+     "value": "High",
+     "why": "Mature API plus agent surfaces; category-defining tooling"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": true,
+    "cli": true,
+    "llms_txt": true,
+    "assistant_app": false
+   },
+   "links": {
+    "homepage": "https://tryprofound.com",
+    "pricing": "https://tryprofound.com/pricing",
+    "docs": "https://docs.tryprofound.com/",
+    "linkedin": "https://www.linkedin.com/company/tryprofound"
+   },
+   "canonical_url": "https://stack.adamgtm.com/profound/",
+   "md_url": "https://stack.adamgtm.com/profound/index.md",
+   "last_updated": "2026-05-26",
+   "ai_visibility": {
+    "web_mentions": 24,
+    "parametric_mentions": 2,
+    "engines": [
+     "ChatGPT",
+     "Gemini",
+     "Perplexity",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "quattr",
+   "name": "Quattr",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Quattr is an AI-native search visibility platform that unifies SEO, AEO, and GEO into one workflow for mid-market and enterprise brands. Customers cited include Realtor.com, Housing.com, and McAfee. Roughly $7.1M raised. Recent releases: the GIGA execution agent, a GIGA Landing Page Generator, and an Autonomous Internal Linking API.",
+   "scores": {
+    "presence": {
+     "value": "62",
+     "why": "~$7M raised (modest for the group), Realtor/Housing/McAfee logos; SEO-rooted, category-adjacent on AEO"
+    },
+    "velocity": {
+     "value": "70",
+     "why": "Steady ship cadence — GIGA agent + Landing Page Generator in 2026; no fresh round to add lift"
+    },
+    "agent_readiness": {
+     "value": "Low",
+     "why": "Deployment API + WordPress/HubSpot SDKs, but no public dev docs, MCP, CLI, or llms.txt"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": false,
+    "sdk": true,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.quattr.com",
+    "pricing": "https://www.quattr.com/pricing",
+    "features": "https://www.quattr.com/features",
+    "linkedin": "https://www.linkedin.com/company/quattr"
+   },
+   "canonical_url": "https://stack.adamgtm.com/quattr/",
+   "md_url": "https://stack.adamgtm.com/quattr/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "scrunch-ai",
+   "name": "Scrunch AI",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Scrunch AI is an AEO/GEO platform whose Agent Experience Platform serves compressed, machine-readable content to AI crawlers rather than only measuring citations. Customers include RunPod, Lenovo, and Crunchbase. Raised about $19M before its June 2026 acquisition by Sitecore (~$225M per Bloomberg). Recent releases: Scrunch MCP and Agent Traffic Monitoring.",
+   "scores": {
+    "presence": {
+     "value": "66",
+     "why": "Acquired by Sitecore (Jun 2026); G2 High Performer; serve-to-crawlers play"
+    },
+    "velocity": {
+     "value": "40",
+     "why": "Cadence cooled into the acquisition; standalone roadmap now folding into Sitecore"
+    },
+    "agent_readiness": {
+     "value": "Medium",
+     "why": "API available; agent surface limited"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": true
+   },
+   "links": {
+    "homepage": "https://scrunch.com",
+    "pricing": "https://scrunch.com/pricing",
+    "docs": "https://scrunch.com/docs/",
+    "linkedin": "https://linkedin.com/company/scrunchai"
+   },
+   "canonical_url": "https://stack.adamgtm.com/scrunch-ai/",
+   "md_url": "https://stack.adamgtm.com/scrunch-ai/index.md",
+   "last_updated": "2026-06-07",
+   "ai_visibility": {
+    "web_mentions": 7,
+    "parametric_mentions": 1,
+    "engines": [
+     "ChatGPT",
+     "Perplexity",
+     "Claude"
+    ]
+   }
+  },
+  {
+   "slug": "seer",
+   "name": "Seer Interactive",
+   "solution_type": "Hire",
+   "entity_type": "agency",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "Philadelphia data-driven digital agency founded by Wil Reynolds in 2002, now a 200+ person certified B-Corp serving 130+ enterprise clients at ~92% retention. Seer runs GEO/AEO inside a broader modern-search practice spanning SEO, paid media, analytics, and CRO, backed by a ~15-person AI R&D team building since January 2023.",
+   "scores": {},
+   "agent_surfaces": null,
+   "links": {
+    "homepage": "https://www.seerinteractive.com",
+    "ai_work": "https://www.seerinteractive.com/work/ai",
+    "generative_engine_optimization": "https://www.seerinteractive.com/generative-engine-optimization",
+    "wil_reynolds_on_linkedin": "https://www.linkedin.com/in/wilreynolds"
+   },
+   "canonical_url": "https://stack.adamgtm.com/seer/",
+   "md_url": "https://stack.adamgtm.com/seer/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "semrush",
+   "name": "Semrush (Enterprise AIO)",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "The SEO incumbent extending into AI visibility, now an Adobe company. The classic Semrush keyword, backlink, and rank suite now sits alongside Enterprise AI Optimization (AIO) and the AI Visibility Index, an industry benchmark built on AIO data. AI-specific products reportedly grew to ~$38M ARR (from ~$4M a year earlier). Recent releases: AI Search Forecasting, Query Fan-Out Analysis, and Agent An",
+   "scores": {
+    "presence": {
+     "value": "80",
+     "why": "SEO incumbent, ~$444M rev, now an Adobe company; built AIO + AI Visibility Index in-house"
+    },
+    "velocity": {
+     "value": "70",
+     "why": "Real monthly AIO cadence — forecasting, fan-out, agent analytics"
+    },
+    "agent_readiness": {
+     "value": "Medium",
+     "why": "Official hosted MCP plus public API; no dedicated SDK/CLI"
+    }
+   },
+   "agent_surfaces": {
+    "api": true,
+    "mcp": true,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.semrush.com",
+    "enterprise_aio": "https://enterprise.semrush.com/solutions/ai-optimization/",
+    "ai_visibility_index": "https://ai-visibility-index.semrush.com/",
+    "developer_/_api": "https://developer.semrush.com/api/",
+    "linkedin": "https://www.linkedin.com/company/semrush"
+   },
+   "canonical_url": "https://stack.adamgtm.com/semrush/",
+   "md_url": "https://stack.adamgtm.com/semrush/index.md",
+   "last_updated": "2026-06-06"
+  },
+  {
+   "slug": "siteimprove",
+   "name": "Siteimprove",
+   "solution_type": "Buy",
+   "entity_type": "tool",
+   "categories": [
+    "aeo"
+   ],
+   "summary": "A web-governance platform (accessibility, SEO, content compliance, analytics) retrofitting into AEO/GEO via its Siteimprove.ai agentic platform. Customers include Barclays, Shell, Harvard, and BlackRock. $55M raised; majority-owned by Nordic Capital. Recent releases: a Content Writing & Optimization Agent, a PDF Remediation Agent, and Advanced AEO Insights.",
+   "scores": {
+    "presence": {
+     "value": "66",
+     "why": "$100M+ ARR, 5500 customers, Gartner-listed"
+    },
+    "velocity": {
+     "value": "42",
+     "why": "Slow incumbent cadence; AEO peripheral"
+    },
+    "agent_readiness": {
+     "value": "Medium",
+     "why": "Public REST API; no agent-native layer"
+    }
+   },
+   "agent_surfaces": {
+    "api": false,
+    "mcp": false,
+    "sdk": false,
+    "cli": false,
+    "llms_txt": false
+   },
+   "links": {
+    "homepage": "https://www.siteimprove.com",
+    "linkedin": "https://www.linkedin.com/company/siteimprove"
+   },
+   "canonical_url": "https://stack.adamgtm.com/siteimprove/",
+   "md_url": "https://stack.adamgtm.com/siteimprove/index.md",
+   "last_updated": "2026-06-14"
+  }
+ ]
+}
