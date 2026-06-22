@@ -1,6 +1,6 @@
 > **Canonical source:** [https://stack.adamgtm.com/aeo-changelog/](https://stack.adamgtm.com/aeo-changelog/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-06-14 -->
+<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-06-21 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Changelog: What Moved This Week
 
@@ -10,7 +10,9 @@ Every guide claims it's kept current. This page is the proof: a dated record of 
 
 | Date | | What changed |
 |---|---|---|
+| 2026-06-21 | Profiles | **[Profiles refreshed: AirOps, Clay, Conductor, OtterlyAI, Peec AI, Scrunch AI, daydream](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless the Analyst Desk moved them. |
 | 2026-06-14 | Profiles | **[Profiles refreshed: Ahrefs, AthenaHQ, Bluefish AI, Botify, BrightEdge, Clay, Graphite, HubSpot, OtterlyAI, Siteimprove, daydream, iPullRank](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless the Analyst Desk moved them. |
+| 2026-06-14 | Data | **[AI-visibility run 2026-06-14](https://stack.adamgtm.com/aeo-ai-visibility/)** — 58 web-grounded answers across 4 engines. Most named: Profound (28), Otterly AI (24), Peec AI (23). adamgtm.com cited in 0/60. |
 | 2026-06-12 | Guide | **[AI-visibility leaderboard goes front-of-house](https://stack.adamgtm.com/aeo-ai-visibility/)** — The weekly engine-citation tracker we run behind the Presence score is now a public page: who ChatGPT, Gemini, Perplexity, and Claude actually name on buyer questions, by engine, with the method published. |
 | 2026-06-12 | Guide | **[The Stack gets a machine-readable face](https://stack.adamgtm.com/aeo-changelog/)** — The category now ships a structured data.json — every vendor with scores, reasons, agent surfaces, and AI-visibility counts — and this changelog publishes as RSS at /feed.xml. |
 | 2026-06-03 | Market | **[Sitecore acquires Scrunch AI](https://stack.adamgtm.com/scrunch-ai/)** — ~$225M per Bloomberg, terms undisclosed. With Adobe's Semrush acquisition closed in April, that's two consolidation signals in mid-2026: the incumbents are buying their way into AEO. |
