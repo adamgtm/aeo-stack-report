@@ -3,12 +3,12 @@
 A working map of the **Answer Engine Optimization (AEO / GEO)** market: every serious vendor, scored and sourced, in a format your AI can read. AEO is how a brand gets cited in AI answers (ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude).
 
 **Canonical, always-current:** https://stack.adamgtm.com/aeo
-**Updated:** 2026-06-21, refreshed weekly. This repo is the agent-ready mirror. Adam's GTM Report website is the source of truth.
+**Updated:** 2026-06-28, refreshed weekly. This repo is the agent-ready mirror. Adam's GTM Report website is the source of truth.
 
 ## Why this beats asking Claude with web search
 
 - **Carefully curated research and data.** Every real player in one place (specialists, incumbents, agencies, open source), including the ones a cold search misses.
-- **Sourced and documented, so you can check the work.** Every claim traces to a primary reference: the funding post, the launch, the analyst note. All 251 sources live in `sources/sources.md` with content and external links.
+- **Sourced and documented, so you can check the work.** Every claim traces to a primary reference: the funding post, the launch, the analyst note. All 257 sources live in `sources/sources.md` with content and external links.
 - **Agent-read, built to be interrogated.** Clean markdown plus a CSV your AI parses in one pass. A build your own mental model in minutes, not days of open tabs or copy/pasting.
 
 ## Use it (two minutes)
@@ -32,7 +32,7 @@ A working map of the **Answer Engine Optimization (AEO / GEO)** market: every se
 - **`report.md`**: the AEO map. What it is, how to choose (Buy / Build / Hire), the six jobs, the market POV. Start here.
 - **`profiles/`**: 40 deep profiles (product, platform, agency, open source) with scores, funding, customers, agent-surfaces, and recent moves.
 - **`data/vendors.csv`**: the structured dataset. Scores, reasons, classification, and canonical URLs, ready to sort.
-- **`sources/sources.md`**: 251 external references, each with the claim it supports.
+- **`sources/sources.md`**: 257 external references, each with the claim it supports.
 
 ## Refresh Process
 

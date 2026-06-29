@@ -11,8 +11,8 @@ athenahq,AthenaHQ,Buy,tool,aeo,72,Punches above $2.7M seed on influencer visibil
 bluefish-ai,Bluefish AI,Buy,tool,aeo,70,"$68M raised, $43M Series B, F500 logos; invisible socially",86,Well-funded and shipping fast post-raise,Low,Zero agent surfaces despite funding,https://stack.adamgtm.com/bluefish-ai/,2026-06-14
 botify,Botify,Buy,tool,aeo,62,"~$82M, 500+ brands, Forrester Strong Performer",62,Steady incumbent shipping; AEO additions ongoing,High,API + MCP + llms.txt — strong agent stack,https://stack.adamgtm.com/botify/,2026-06-14
 brandlight,Brandlight,Buy,tool,aeo,70,"$30M Series A (~$35.75M total), real F500 logos (Kimberly-Clark, Estée Lauder, LG, The Hartford); but quiet corpus share-of-voice",80,"Fresh Feb-2026 raise; actively expanding from AI search into AI ads + agentic commerce, though public ship trail is thin",Low,"RESTful API only, enterprise-gated; no public MCP/SDK/CLI/llms.txt",https://stack.adamgtm.com/brandlight/,2026-06-06
-brightedge,BrightEdge,Buy,tool,aeo,71,"~$120M ARR, 57% of F500; corpus SOV gap",56,Real AEO line but slow legacy-platform cadence,Low,Enterprise APIs but no agent-native surface,https://stack.adamgtm.com/brightedge/,2026-06-14
-clay,Clay,Build,tool,aeo,98,"$5B val, $100M+ ARR, 14k customers — ubiquitous GTM product",93,Relentless shipping cadence; close behind Profound,High,"Deep API, integrations, agentic enrichment surfaces",https://stack.adamgtm.com/clay/,2026-06-21
+brightedge,BrightEdge,Buy,tool,aeo,71,"~$120M ARR, 57% of F500; corpus SOV gap",56,Real AEO line but slow legacy-platform cadence,Low,Enterprise APIs but no agent-native surface,https://stack.adamgtm.com/brightedge/,2026-06-28
+clay,Clay,Build,tool,aeo,98,"$5B val, $100M+ ARR, 14k customers — ubiquitous GTM product",93,Relentless shipping cadence; close behind Profound,High,"Deep API, integrations, agentic enrichment surfaces",https://stack.adamgtm.com/clay/,2026-06-28
 conductor,Conductor,Buy,tool,aeo,73,"$210M, 16yr enterprise platform, Forrester Leader",76,AgentStack AEO shipped Apr 2026; steady incumbent pace,Medium,AgentStack AEO new; enterprise integrations but thin agent surface,https://stack.adamgtm.com/conductor/,2026-06-21
 daydream,daydream,Hire,agency,aeo,—,,—,,Low,,https://stack.adamgtm.com/daydream/,2026-06-21
 demand-genius,Demand-Genius,Buy,tool,aeo,52,"Early and small (2-10 staff); funding not disclosed, but real B2B logos (Braze, Cognism, Captify)",58,"Shipping fast off a 2024 launch; evolved attribution → AEO platform, steady content research cadence",Low,"No API, MCP, SDK, CLI, or llms.txt found",https://stack.adamgtm.com/demand-genius/,2026-06-06
@@ -20,11 +20,11 @@ discovered-labs,Discovered Labs,Hire,agency,aeo,,,,,,,https://stack.adamgtm.com/
 evertune,Evertune,Buy,tool,aeo,53,"$19M, Gartner Representative Vendor; measurement→media play",82,Ships fast; aggressive product expansion,Low,No public agent surfaces yet,https://stack.adamgtm.com/evertune/,2026-05-31
 foundation,Foundation,Hire,agency,aeo,,,,,,,https://stack.adamgtm.com/foundation/,2026-05-26
 goodie-ai,Goodie AI,Buy,tool,aeo,60,Bootstrapped ~$1.2M ARR; broadest model coverage (11),68,Ships steadily for a small bootstrapped team,Low,No public API or MCP,https://stack.adamgtm.com/goodie-ai/,2026-05-31
-graphite,Graphite,Hire,agency,aeo,—,,—,,Low,,https://stack.adamgtm.com/graphite/,2026-06-14
+graphite,Graphite,Hire,agency,aeo,—,,—,,Low,,https://stack.adamgtm.com/graphite/,2026-06-28
 growthx,GrowthX,Hire,agency,aeo,,,,,,,https://stack.adamgtm.com/growthx/,2026-06-06
 gumshoe-ai,Gumshoe AI,Buy,tool,aeo,55,"Early-stage ($2M pre-seed), but credible founders + real press; broad freemium reach",45,Steady research/content cadence; no major product launches since the raise,Low,API in development; no MCP/SDK/CLI; no root llms.txt,https://stack.adamgtm.com/gumshoe-ai/,2026-06-06
-hubspot,HubSpot,Buy,tool,aeo,61,Young product (beta Apr 2026) on ~300k HubSpot distribution,78,Fast beta iteration; backed by HubSpot machine,Low,Nascent product; no dedicated AEO agent surface,https://stack.adamgtm.com/hubspot/,2026-06-14
-ipullrank,iPullRank,Hire,agency,aeo,—,,—,,Low,,https://stack.adamgtm.com/ipullrank/,2026-06-14
+hubspot,HubSpot,Buy,tool,aeo,61,Young product (beta Apr 2026) on ~300k HubSpot distribution,78,Fast beta iteration; backed by HubSpot machine,Low,Nascent product; no dedicated AEO agent surface,https://stack.adamgtm.com/hubspot/,2026-06-28
+ipullrank,iPullRank,Hire,agency,aeo,—,,—,,Low,,https://stack.adamgtm.com/ipullrank/,2026-06-28
 meltwater,Meltwater,Buy,tool,aeo,68,"Huge company (~28K customers, ~3.5B NOK rev); AEO is a 2025 bolt-on, not the brand",48,"Incumbent cadence; AEO line ships in spurts, not weekly",Medium,REST API plus an official Mira MCP server; no SDK/CLI/llms.txt,https://stack.adamgtm.com/meltwater/,2026-06-06
 noble,Noble,Hire,agency,aeo,,,,,,,https://stack.adamgtm.com/noble/,2026-06-06
 notebook-agency,Notebook Agency,Hire,agency,aeo,,,,,,,https://stack.adamgtm.com/notebook-agency/,2026-06-06

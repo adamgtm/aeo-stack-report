@@ -1,6 +1,6 @@
 > **Canonical source:** [https://stack.adamgtm.com/aeo-changelog/](https://stack.adamgtm.com/aeo-changelog/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-06-21 -->
+<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-06-28 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Changelog: What Moved This Week
 
@@ -10,6 +10,7 @@ Every guide claims it's kept current. This page is the proof: a dated record of 
 
 | Date | | What changed |
 |---|---|---|
+| 2026-06-28 | Profiles | **[Profiles refreshed: BrightEdge, Clay, Graphite, HubSpot, iPullRank](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless the Analyst Desk moved them. |
 | 2026-06-21 | Profiles | **[Profiles refreshed: AirOps, Clay, Conductor, OtterlyAI, Peec AI, Scrunch AI, daydream](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless the Analyst Desk moved them. |
 | 2026-06-14 | Profiles | **[Profiles refreshed: Ahrefs, AthenaHQ, Bluefish AI, Botify, BrightEdge, Clay, Graphite, HubSpot, OtterlyAI, Siteimprove, daydream, iPullRank](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless the Analyst Desk moved them. |
 | 2026-06-14 | Data | **[AI-visibility run 2026-06-14](https://stack.adamgtm.com/aeo-ai-visibility/)** — 58 web-grounded answers across 4 engines. Most named: Profound (28), Otterly AI (24), Peec AI (23). adamgtm.com cited in 0/60. |

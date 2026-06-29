@@ -6,7 +6,7 @@
   "canonical_url": "https://stack.adamgtm.com/aeo/",
   "md_url": "https://stack.adamgtm.com/aeo/index.md"
  },
- "generated": "2026-06-21",
+ "generated": "2026-06-28",
  "maintainer": "Adam's GTM Report — https://adamgtm.com",
  "method": {
   "scores": "Presence / Velocity / Agent-Readiness, set by the AdamGTM Analyst Desk, refreshed weekly, relative across the tracked set. Each carries a short reason.",
@@ -480,7 +480,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise SEO platform founded in 2007, now retrofitting for the AEO/GEO era. Serves 57% of the Fortune 500, with customer speakers including Persimmon, Kantar, and Belron. Raised $63.9M in venture funding. Recent releases: AI Hyper Cube, Share of Voice V2, and AI Agent Insights, all shipped at Spark Live 2026.",
+   "summary": "Enterprise SEO platform retrofitting for the answer-engine era, now tracking brand visibility across ChatGPT, Gemini, and Perplexity. Serves 57% of the Fortune 500. $63.9M raised across four rounds. Recent releases: AI Hyper Cube cross-engine tracking, AI Agent Insights, and Share of Voice V2.",
    "scores": {
     "presence": {
      "value": "71",
@@ -500,7 +500,7 @@
     "mcp": false,
     "sdk": false,
     "cli": false,
-    "llms_txt": false
+    "llms_txt": true
    },
    "links": {
     "homepage": "https://www.brightedge.com",
@@ -508,7 +508,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/brightedge/",
    "md_url": "https://stack.adamgtm.com/brightedge/index.md",
-   "last_updated": "2026-06-14",
+   "last_updated": "2026-06-28",
    "ai_visibility": {
     "web_mentions": 5,
     "parametric_mentions": 2,
@@ -526,7 +526,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AI-native GTM data and enrichment platform used by OpenAI, Anthropic, Stripe, and HubSpot. $202M raised at a $5B valuation, with over $100M ARR. Recent releases: Clay in OpenAI Codex, the natural-language Claygent Builder free on every plan, and Clay MCP across Claude and ChatGPT.",
+   "summary": "AI-native GTM data platform for enrichment, scoring, and agentic outbound, used by OpenAI, Anthropic, Stripe, and HubSpot. $202M raised at a $5B valuation. Recent releases: Audiences with unlimited searches, distribution inside OpenAI Codex, and Clay Functions callable from Claude and ChatGPT.",
    "scores": {
     "presence": {
      "value": "98",
@@ -555,7 +555,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/clay/",
    "md_url": "https://stack.adamgtm.com/clay/index.md",
-   "last_updated": "2026-06-21"
+   "last_updated": "2026-06-28"
   },
   {
    "slug": "conductor",
@@ -829,7 +829,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Growth-marketing agency turned AEO/GEO product, pairing a self-service Topical SEO platform (Topic Graph, Internal Links API) with done-for-you services. Customers include Webflow and Fourthwall. Recent work includes the 'AI Is Much Bigger Than You Think' study and co-hosting AEO Conf 2026.",
+   "summary": "Graphite is a growth-marketing agency turned self-service topical-SEO and AEO product, focused on topical authority and answer-engine visibility. Clients include Webflow and Fourthwall. Recent work: a June 2026 model-collapse study, \"AI Is Much Bigger Than You Think,\" and a search-isn't-dying analysis.",
    "scores": {
     "presence": {
      "value": "—",
@@ -856,7 +856,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/graphite/",
    "md_url": "https://stack.adamgtm.com/graphite/index.md",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-28"
   },
   {
    "slug": "growthx",
@@ -926,7 +926,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "HubSpot is a Boston CRM and marketing platform, founded 2006, now built around Breeze, its AI agent layer. Public on NYSE, about 300,000 customers, $881M Q1 2026 revenue. Recent: the first AEO tool from a major platform, a Breeze Agent CLI, and the INBOUND-to-UNBOUND rebrand.",
+   "summary": "HubSpot is a Boston CRM and marketing platform, public on the NYSE, that shipped the first AEO tool from a major platform under its Breeze AI brand. About 300,000 customers. Recent releases: Revenue Hub, the HubSpot Agent CLI public beta, and proprietary AEO buyer-behavior research.",
    "scores": {
     "presence": {
      "value": "61",
@@ -945,7 +945,7 @@
     "api": true,
     "mcp": true,
     "sdk": true,
-    "cli": false,
+    "cli": true,
     "llms_txt": false
    },
    "links": {
@@ -955,7 +955,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/hubspot/",
    "md_url": "https://stack.adamgtm.com/hubspot/index.md",
-   "last_updated": "2026-06-14",
+   "last_updated": "2026-06-28",
    "ai_visibility": {
     "web_mentions": 10,
     "parametric_mentions": 0,
@@ -974,7 +974,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "iPullRank is Mike King's New York technical-SEO agency, repositioned around AI search under its Relevance Engineering framework. Recent work spans the open-source Qforia query fan-out tool, the 24-chapter AI Search Manual, a click-to-citation measurement framework, and original research on AI bot traffic and Gmail as a ranking signal.",
+   "summary": "iPullRank is Mike King's New York technical-SEO agency, now built around AI search and his Relevance Engineering framework. Recent work: the AI Search Strategic Roadmap service, click-to-citation measurement metrics, and the open-source Qforia query-fan-out tool.",
    "scores": {
     "presence": {
      "value": "—",
@@ -1001,7 +1001,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/ipullrank/",
    "md_url": "https://stack.adamgtm.com/ipullrank/index.md",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-28"
   },
   {
    "slug": "meltwater",

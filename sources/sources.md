@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **251 sources across 39 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **257 sources across 39 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -36,7 +36,7 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AEO Changelog: What Moved This Week  ·  [changelog.md](changelog.md)
 
-- **[Web]** [Profiles refreshed: AirOps, Clay, Conductor, OtterlyAI, Peec AI, Scrunch AI, daydream](https://stack.adamgtm.com/aeo/) — | 2026-06-21 | Profiles | Profiles refreshed: AirOps, Clay, Conductor, OtterlyAI, Peec AI, Scrunch AI, daydream — Re-derived from the wiki after new evidence landed (funding, launc
+- **[Web]** [Profiles refreshed: BrightEdge, Clay, Graphite, HubSpot, iPullRank](https://stack.adamgtm.com/aeo/) — | 2026-06-28 | Profiles | Profiles refreshed: BrightEdge, Clay, Graphite, HubSpot, iPullRank — Re-derived from the wiki after new evidence landed (funding, launches, customer moves
 - **[Web]** [AI-visibility run 2026-06-14](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-06-14 | Data | AI-visibility run 2026-06-14 — 58 web-grounded answers across 4 engines. Most named: Profound (28), Otterly AI (24), Peec AI (23). adamgtm.com cited in 0/60. 
 - **[Web]** [The Stack gets a machine-readable face](https://stack.adamgtm.com/aeo-changelog/) — | 2026-06-12 | Guide | The Stack gets a machine-readable face — The category now ships a structured data.json — every vendor with scores, reasons, agent surfaces, and AI-visibility
 - **[Web]** [Sitecore acquires Scrunch AI](https://stack.adamgtm.com/scrunch-ai/) — | 2026-06-03 | Market | Sitecore acquires Scrunch AI — ~$225M per Bloomberg, terms undisclosed. With Adobe's Semrush acquisition closed in April, that's two consolidation signals i
@@ -122,26 +122,29 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## BrightEdge  ·  [profiles/brightedge.md](profiles/brightedge.md)
 
-- **[Web]** [source](https://www.brightedge.com/spark-live-london-2026) — 2026-06-10: Held its first in-person enterprise events outside North America, Spark Live London (June 10) and Spark Live Sydney (June 18), signaling a UK and APAC enterprise push. 
-- **[News/Press]** [source](https://www.brightedge.com/news/press-releases/brightedge-data-gemini-second-largest-ai-referral-source-q1-2026) — 2026-05-20: Published Q1 2026 AI referral data showing Gemini is now the #2 consumer AI referral source, larger than every other ChatGPT rival combined, as ChatGPT's share slid. so
-- **[News/Press]** [source](https://www.brightedge.com/news/press-releases/brightedge-data-ai-search-reaching-tipping-point-ai-agents-2026) — 2026-04-08: Published research framing AI search at a tipping point, projecting most online customers will be AI agents by the end of 2026 and reframing agent visibility as a disti
-- **[News/Press]** [source](https://www.brightedge.com/news/press-releases/brightedge-ai-hypercube-brands-ai-search-visibility) — 2026-03-10: Launched AI Hyper Cube at Spark Live 2026, its cross-engine surface tracking brand presence across ChatGPT, Gemini, and Perplexity, alongside AI Agent Insights and Shar
-- **[News/Press]** [source](https://www.brightedge.com/news/press-releases/brightedge-data-google-ai-overviews-more-likely-to-criticize-brands-than-chatgpt) — 2026-03-05: Published research finding Google AI Overviews are 44% more likely to criticize brands than ChatGPT, framing AI engines as a brand's new editorialist that needs active 
-- **[News/Press]** [source](https://company.g2.com/news/inside-the-2000-percent-growth-of-the-aeo-software-category-on-g2) — 2026-01-30: Featured in G2's retrospective on the AEO category's 2,000% growth as a Contender alongside Semrush and Conductor, with Profound holding the Leader slot. source
-- **[News/Press]** [source](https://company.g2.com/news/g2-winter-2026-reports) — Placed as a Contender in G2's inaugural Answer Engine Optimization Grid (Winter 2026 Reports, December 2025), alongside Semrush and Conductor, behind Leader Profound and High Perfo
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/06/16/3312658/0/en/BrightEdge-Finds-ChatGPT-Represents-96-of-Live-AI-User-Agent-Activity.html) — 2026-06-16: Published AI Market Pulse data finding ChatGPT represents 96% of live AI user-agent activity across the web, with ChatGPT's LLM-referral share at 84.7% in May. source
+- **[Web]** [source](https://www.brightedge.com/spark-live-london-2026) — 2026-06-10: Held its first in-person enterprise events outside North America, Spark Live London and Spark Live Sydney, signaling a UK and APAC distribution push. source
+- **[News/Press]** [source](https://www.brightedge.com/news/press-releases/brightedge-data-gemini-second-largest-ai-referral-source-q1-2026) — 2026-05-20: Published Q1 2026 AI referral data showing Gemini is now the #2 consumer AI referral source while ChatGPT's share slid from 89.2% to 81.4%. source
+- **[News/Press]** [source](https://www.brightedge.com/news/press-releases/brightedge-data-ai-search-reaching-tipping-point-ai-agents-2026) — 2026-04-08: Released research framing AI search at a tipping point, projecting most online customers will be AI agents by end of 2026. source
+- **[News/Press]** [source](https://www.brightedge.com/news/press-releases/brightedge-ai-hypercube-brands-ai-search-visibility) — 2026-03-10: Launched AI Hyper Cube at Spark Live 2026, its deepest cross-engine AEO/GEO surface, alongside AI Agent Insights and Share of Voice V2. source
+- **[News/Press]** [source](https://www.brightedge.com/news/press-releases/brightedge-data-google-ai-overviews-more-likely-to-criticize-brands-than-chatgpt) — 2026-03-05: Published research finding Google AI Overviews are 44% more likely to criticize brands than ChatGPT, positioning AI engines as a brand's new editorialist. source
+- **[News/Press]** [source](https://company.g2.com/news/g2-winter-2026-reports) — G2's inaugural Answer Engine Optimization Grid (Winter 2026 Reports, December 2025) placed BrightEdge as a Contender alongside Semrush and Conductor, behind Leader Profound and Hig
 
 ## Clay  ·  [profiles/clay.md](profiles/clay.md)
 
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-from-inside-claude-and-chatgpt) — How Clay uses Clay from inside Claude and ChatGPT source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-closed-lost-deals) — Turning closed-lost deals into pipeline, product, and buyer intelligence source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-recruiting-top-talent) — How Clay uses Clay for recruiting top talent source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-seo-and-aeo) — How Clay uses Clay for SEO and AEO source
 - **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-runs-abm-campaigns) — How Clay runs ABM at scale: 300 accounts, 1:1 personalization source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_luca-prando-built-a-clay-function-that-writes-activity-7469824510318321664-ddtG) — 2026-06-08: Showcased ClayDR, a Clay function that returns three grounded outbound variants from a single Claude call, replacing a roughly 30-minute manual rep workflow. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_gtm-was-gmt-thank-you-to-everyone-who-activity-7468693989681057792-v3sA) — 2026-06-05: Recapped its GTM London event and a workflow that scores PE firms before a call using PitchBook data. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-clay-is-officially-in-openai-codex-activity-7467616966292307969-B74I) — 2026-06-02: Shipped inside OpenAI Codex as a named launch partner, letting reps prioritize accounts, research buyers, and send outreach from the coding agent. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — Named to the Forbes AI 50 (2026), the only GTM company on the list (source). Ranked #3 on Brex's Spring 2026 list of fastest-growing software vendors by spend (source).
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — Named to the Forbes AI 50 (2026), the only GTM company on the list (source). Ranked #3 on Brex's Spring 2026 list of fastest-growing software vendors by spend (source).
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-seo-and-aeo) — How Clay uses Clay for SEO and AEO source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-recruiting-top-talent) — How Clay uses Clay for recruiting top talent (47% of hires from referrals) source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-closed-lost-deals) — How Clay turns closed-lost deals into pipeline, product signals, and buyer intelligence source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_eleanor-dorfman-head-of-industries-commercial-activity-7463266048805539840-b-zr) — Anthropic's Eleanor Dorfman uses Clay to enrich and score every inbound lead source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/langchain_clays-claygent-runs-350-million-gtm-agents-activity-7475536976725630976-MB7F) — 2026-06-24: Clay's Claygent passed 350 million GTM agents run per month, disclosed in a talk at LangChain's Interrupt conference. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/announcing-audiences) — 2026-06-23: Clay shipped Audiences with unlimited searches, removing the 50,000-row table ceiling for a persistent, self-refreshing audience layer. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-from-inside-claude-and-chatgpt) — 2026-06-18: Clay published 'How Clay uses Clay from inside Claude and ChatGPT,' framing the product as a callable function layer rather than a UI a human opens. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_luca-prando-built-a-clay-function-that-writes-activity-7469824510318321664-ddtG) — 2026-06-08: A Clay function called ClayDR shipped that writes three personalized outbound variants from a single Claude call. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_gtm-was-gmt-thank-you-to-everyone-who-activity-7468693989681057792-v3sA) — 2026-06-05: Clay recapped its GTM community event in London, with speakers from Adyen, Verkada, and Terrapinn. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-clay-is-officially-in-openai-codex-activity-7467616966292307969-B74I) — 2026-06-02: Clay shipped inside OpenAI Codex as a launch partner, letting reps prioritize accounts, research buyers, and send outreach from the coding agent. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — Named to the Forbes AI 50 in 2026 as the only GTM company on the list (source). Brex's Spring 2026 ranking of the 25 fastest-growing software vendors by spend placed Clay at #3 (so
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — Named to the Forbes AI 50 in 2026 as the only GTM company on the list (source). Brex's Spring 2026 ranking of the 25 fastest-growing software vendors by spend placed Clay at #3 (so
 
 ## Conductor  ·  [profiles/conductor.md](profiles/conductor.md)
 
@@ -194,12 +197,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Graphite  ·  [profiles/graphite.md](profiles/graphite.md)
 
-- **[Web]** [source](https://graphite.io/five-percent/how-webflow-turned-ai-chats-into-a-growth-channel) — How Webflow 2x'd sign-ups from LLMs (LLM share of voice 33% to 64%) source
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/graphite-unveils-new-ai-driven-topical-seo-platform-302132427.html) — Fourthwall: 2,301% traffic growth and 936% SEO revenue increase in nine months source
-- **[Web]** [source](https://graphite.io/five-percent/ai-is-much-bigger-than-you-think) — 2026-04-20: Published 'AI Is Much Bigger Than You Think,' a Similarweb-based study finding AI assistants generate 45 billion monthly sessions, 56% of search engine volume, with 83%
-- **[Web]** [source](https://graphite.io/five-percent/debunking-the-myth-that-seo-traffic-has-dramatically-declined) — 2026-04-16: Published 'Debunking The Myth That Search Is Dying,' finding organic search traffic declined only 2.5% year over year in 2025, far below the 25-60% drops cited elsewher
-- **[Web]** [source](https://graphite.io/five-percent/topical-authority-white-paper) — 2026-04-16: Released a Topical Authority white paper showing top-bracket articles (score above 80) earned first impressions and clicks faster, validating the Topic Graph scoring ac
-- **[Web]** [source](https://searchengineland.com/ai-assistants-global-search-engine-volume-study-471118) — 2026-03-09: Search Engine Land covered Graphite's 56%-of-search-volume study, with Rand Fishkin of SparkToro issuing a public rebuttal challenging the methodology and Ethan Smith r
+- **[Web]** [source](https://graphite.io/five-percent/how-webflow-turned-ai-chats-into-a-growth-channel) — Webflow: LLM share of voice grew from 33% to 64% and LLM-driven signups doubled source
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/graphite-unveils-new-ai-driven-topical-seo-platform-302132427.html) — Fourthwall: 2,301% traffic growth and 936% SEO revenue increase in nine months (beta client) source
+- **[Web]** [source](https://graphite.io/five-percent/ai-search-collapse) — 2026-06-24: Published "AI Responses Collapse When AI Retrieves Its Own Generations," a simulation finding 79.6% of runs collapse when AI retrieves self-authored content, with 42.7%
+- **[Web]** [source](https://graphite.io/five-percent/ai-is-much-bigger-than-you-think) — 2026-04-20: Published "AI Is Much Bigger Than You Think," finding AI assistants generate 45 billion monthly sessions, 56% of search engine volume, with 83% occurring in mobile apps
+- **[Web]** [source](https://graphite.io/five-percent/debunking-the-myth-that-seo-traffic-has-dramatically-declined) — 2026-04-16: Published "Debunking The Myth That Search Is Dying," finding organic search declined only 2.5% year over year in 2025 across 40,000+ U.S. websites. source
+- **[Web]** [source](https://graphite.io/five-percent/topical-authority-white-paper) — 2026-04-16: Published a Topical Authority white paper showing top-bracket articles earned impressions and clicks faster, validating its Topic Graph scoring across 332 articles on 1
+- **[Web]** [source](https://searchengineland.com/ai-assistants-global-search-engine-volume-study-471118) — 2026-03-09: Search Engine Land covered Graphite's finding that AI assistants reach 56% of global search engine volume, with Rand Fishkin of SparkToro issuing a public rebuttal on m
 - **[Web]** [source](https://aeoconf.com/) — 2026-02-19: Co-hosted AEO Conf 2026, the first conference dedicated to Answer Engine Optimization, with AirOps and Webflow in San Francisco. source
 
 ## GrowthX  ·  [profiles/growthx.md](profiles/growthx.md)
@@ -216,23 +220,25 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## HubSpot  ·  [profiles/hubspot.md](profiles/hubspot.md)
 
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot's own AEO results: #1 most visible CRM, leads from AI engines converting up to 3x better source
-- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot as its own reference customer: AEO Agent drove 1,850% growth in qualified leads from AI answers (Q1 2025 to Q1 2026) source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_woo-hoo-hubspot-turns-20-years-old-today-activity-7470149851733803008-XgSk) — 2026-06-09: Co-founder Dharmesh Shah marked HubSpot's 20th anniversary, anchoring the company's arc from inbound-marketing methodology to agentic customer platform. source
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/website/hubspot-agent-cli) — 2026-05-27: HubSpot shipped its Agent CLI for building, deploying, and managing Breeze agents from the terminal, completing an API-plus-MCP-plus-CLI distribution trio. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/jasonmlemkin_the-hubspot-agent-story-is-finally-real-activity-7461474798242549762-buIi) — 2026-05-16: HubSpot ranked #1 in the CRM category in SaaStr's Appy API Agent Grader, ahead of Salesforce, Attio, and Pipedrive, per Jason Lemkin. source
-- **[News/Press]** [source](https://ir.hubspot.com/news-releases/news-release-details/tom-brady-cynthia-erivo-mel-robbins-sunita-suni-williams-and) — 2026-05-14: HubSpot named headliners for UNBOUND 2026 (Sept 16-18, Boston), the rebrand of its 15-year INBOUND conference, with AI-company execs from Runway, Glean, and Databricks 
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_breaking-news-hubspot-co-foundercto-buys-activity-7460377283405496320-qOM6) — 2026-05-13: Co-founder and CTO Dharmesh Shah disclosed a $1.8M open-market purchase of HubSpot stock, his first significant buy since 2022. source
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot's own AEO case study source
+- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — How HubSpot grows with agent-first GTM (its own reference customer) source
+- **[Web]** [source](https://developers.hubspot.com/changelog/hubspot-agent-cli-available-in-public-beta) — 2026-06-23: HubSpot's Agent CLI moved from private to public beta, a binary built for AI agents to drive HubSpot CRM via Claude Code, OpenAI Codex, and similar tools with full CRUD
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dan-m-rosenthal_the-hubspot-cli-claude-code-will-completely-activity-7475155909128929281-j7dK) — 2026-06-23: RevOps practitioner Dan Rosenthal showed the HubSpot CLI plus Claude Code wiring up a client's workflow in minutes, arguing 80% of RevOps admin can now be eliminated. s
+- **[Web]** [source](https://www.hubspot.com/company-news/introducing-revenue-hub-quote-to-cash-finally-in-one-place) — 2026-06-18: HubSpot launched Revenue Hub, rebranding Commerce Hub into a quote-to-cash platform with Connected CPQ, MRR reporting, a Revenue Agent, and a Billing Portal. source
+- **[Web]** [source](https://www.hubspot.com/company-news/aeo-data-buyers-using-ai-search-more-likely-to-purchase) — 2026-06-12: HubSpot published research that CRM buyers using AI search were 36% more likely to purchase and AEO-optimizing companies generated 170% more MQLs, positioning its AEO t
+- **[Web]** [source](https://www.hubspot.com/company-news/hubspot-expands-collaboration-with-amazon-web-services-aws-to-further-enable-growth-for-startups-and-partners) — 2026-06-11: HubSpot expanded its agreement with AWS, raising the Series A first-year discount to 90% and putting 20+ products on AWS Marketplace. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_woo-hoo-hubspot-turns-20-years-old-today-activity-7470149851733803008-XgSk) — 2026-06-09: HubSpot turned 20; co-founder Dharmesh Shah marked the June 9, 2006 founding date. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/jasonmlemkin_the-hubspot-agent-story-is-finally-real-activity-7461474798242549762-buIi) — SaaStr's Appy API Agent Grader ranked HubSpot #1 in the CRM category in May 2026, ahead of Salesforce, Attio, and Pipedrive (source).
 
 ## iPullRank  ·  [profiles/ipullrank.md](profiles/ipullrank.md)
 
-- **[Web]** [source](https://ipullrank.com/wikipedia-25th-anniversary) — 2026-06-04: Published "Wikipedia at 25," arguing Wikipedia presence is a critical AI-search visibility lever and citing that Wikipedia accounts for roughly 50% of ChatGPT citations
-- **[Web]** [source](https://ipullrank.com/content-golden-era) — 2026-05-28: Published "Is AI Visibility Ushering in a Golden Era of Digital Content?", naming "agentic chunking" as a methodology for structuring content so AI retrieval systems ex
-- **[Web]** [source](https://ipullrank.com/machine-media) — 2026-05-26: Mike King published "Machine Media: The Death of the Open Web," reporting AI bot traffic grew 187% in 2025 versus 3.1% human growth and projecting bots to exceed human 
-- **[Web]** [source](https://ipullrank.com/google-personal-intelligence-experiment) — 2026-05-21: Published original research showing seeded Gmail messages raised brand visibility in Google's AI Mode from 23.9% to 66.8%, suggesting lifecycle email may influence AI-m
-- **[Web]** [source](https://ipullrank.com/agentic-rag) — 2026-05-20: Mike King published "Beyond RAG," arguing single-shot RAG is obsolete and that content must survive five gatekeepers in agentic search pipelines. source
-- **[Web]** [source](https://finance.yahoo.com/sectors/technology/articles/seo-week-2026-brings-ai-195300269.html) — 2026-04-27: Hosted SEO Week 2026 in New York, its second annual flagship conference, where Microsoft previewed unreleased AI Search reporting features for Bing Webmaster Tools. sou
-- **[Web]** [source](https://ipullrank.com/sel-search-marketer-of-the-year-2025) — Search Engine Land named Mike King its 2025 AI Search Marketer of the Year, the second time it gave him the recognition, citing SEO Week, the Relevance Engineering framework, the A
+- **[Web]** [source](https://ipullrank.com/seo-week-2026-in-review-day-4) — 2026-06-12: Published its SEO Week 2026 Day 4 recap covering answer engine optimization, the 'validation layer' concept, and 'Earned Architecture' framing third-party validation ov
+- **[Web]** [source](https://ipullrank.com/ai-safety-tips) — 2026-06-11: Published 'AI Security and Safety: A Wake-Up Call to Marketers,' an educational piece on AI security threats and mitigation strategies. source
+- **[Web]** [source](https://ipullrank.com/wikipedia-25th-anniversary) — 2026-06-04: Published 'Wikipedia at 25,' arguing Wikipedia presence is a critical AI-search visibility lever and introducing a seven-step framework. source
+- **[Web]** [source](https://ipullrank.com/content-golden-era) — 2026-05-28: Published 'Is AI Visibility Ushering in a Golden Era of Digital Content?', naming 'agentic chunking' as a methodology for AI retrieval. source
+- **[Web]** [source](https://ipullrank.com/machine-media) — 2026-05-26: Mike King published 'Machine Media: The Death of the Open Web,' citing 187% AI bot traffic growth in 2025 and positioning Relevance Engineering as the required operatin
+- **[Web]** [source](https://ipullrank.com/google-personal-intelligence-experiment) — 2026-05-21: Published original research showing Gmail seeding raised brand visibility in Google's AI Mode from 23.9% to 66.8% versus control. source
+- **[Web]** [source](https://ipullrank.com/sel-search-marketer-of-the-year-2025) — Search Engine Land named founder Mike King its 2025 AI Search Marketer of the Year, his second such recognition, citing SEO Week, the Relevance Engineering framework, the AI Search
 
 ## Meltwater  ·  [profiles/meltwater.md](profiles/meltwater.md)
 
