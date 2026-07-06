@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **257 sources across 39 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **245 sources across 38 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -20,43 +20,29 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 - **[GitHub]** [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) — Drop skills into your coding agent. Skill packs like seo-geo-claude-skills (1,761★) and gtm-engineer-skills (961★, MIT) add AEO audits and content workflows straight into Claude Co
 - **[Web]** [OpenRouter](https://openrouter.ai) — Run your own measurement. OpenRouter gives you one API across GPT, Gemini, Perplexity, and Claude, enough to query the answer engines yourself and track who gets cited. It is how w
 - **[GitHub]** [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) — Audit on the research. geo-optimizer-skill (432★) implements the Princeton KDD 2024 methodology, the most academically grounded option.
-- **[GitHub]** [codex-seo](https://github.com/AgriciDaniel/codex-seo) — | codex-seo | 170 | Skill pack | Codex-first SEO suite; DataForSEO integration |
-- **[GitHub]** [geo-optimizer (Go)](https://github.com/geo-team-red/geo-optimizer) — | geo-optimizer (Go) | 218 | Framework | Pluggable AEO/GEO framework for embedding in Go services |
-- **[GitHub]** [geo-lint](https://github.com/IJONIS/geo-lint) — | geo-lint | 22 | Audit | First open-source AEO/GEO linter; 92 rules, drops into CI |
-- **[GitHub]** [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) — | geo-aeo-tracker | 132 | Tracker | Local-first AI-visibility dashboard; "the simple Profound" |
-- **[GitHub]** [elmo](https://github.com/elmohq/elmo) — | elmo | 113 | Tracker | Open-source AI-visibility tracking |
-- **[GitHub]** [oneglanse](https://github.com/aryamantodkar/oneglanse) — | oneglanse | 61 | Tracker | Free, open-source AEO/GEO tracker across the major engines |
-- **[GitHub]** [dualmark](https://github.com/dodopayments/dualmark) — | dualmark | 66 | Publisher-side | Serves markdown twins to agents alongside HTML, via content negotiation |
-- **[GitHub]** [aeo-god-mode](https://github.com/AEO-God-Mode/aeo-god-mode) — | aeo-god-mode | 23 | Publisher-side | WordPress plugin: schema, llms.txt, AI-crawler controls |
-- **[GitHub]** [AutoGEO](https://github.com/cxcscmu/AutoGEO) — | AutoGEO | 152 | Research | ICLR'26 framework that learns AEO/GEO strategies automatically |
-
-## AEO AI Visibility: Who the Engines Recommend  ·  [ai-visibility.md](ai-visibility.md)
-
-- **[Web]** [Add a Company](https://airtable.com/app5ANdeTK06YtG0k/pag6V5L6XtCMBD9Th/form) — Why isn't my company on the leaderboard? Either the engines didn't name it this run, or it isn't in our tracked roster yet. Profiles and roster additions start at Add a Company.
 
 ## AEO Changelog: What Moved This Week  ·  [changelog.md](changelog.md)
 
-- **[Web]** [Profiles refreshed: BrightEdge, Clay, Graphite, HubSpot, iPullRank](https://stack.adamgtm.com/aeo/) — | 2026-06-28 | Profiles | Profiles refreshed: BrightEdge, Clay, Graphite, HubSpot, iPullRank — Re-derived from the wiki after new evidence landed (funding, launches, customer moves
-- **[Web]** [AI-visibility run 2026-06-14](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-06-14 | Data | AI-visibility run 2026-06-14 — 58 web-grounded answers across 4 engines. Most named: Profound (28), Otterly AI (24), Peec AI (23). adamgtm.com cited in 0/60. 
+- **[Web]** [Profiles refreshed: Ahrefs, AirOps, Bluefish AI, Clay, Goodie AI, OtterlyAI, Peec AI](https://stack.adamgtm.com/aeo/) — | 2026-07-05 | Profiles | Profiles refreshed: Ahrefs, AirOps, Bluefish AI, Clay, Goodie AI, OtterlyAI, Peec AI — Re-derived from the wiki after new evidence landed (funding, launch
+- **[Web]** [AI-visibility run 2026-06-28](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-06-28 | Data | AI-visibility run 2026-06-28 — 57 web-grounded answers across 4 engines. Most named: Profound (28), Peec AI (23), Otterly AI (20). adamgtm.com cited in 0/60. 
 - **[Web]** [The Stack gets a machine-readable face](https://stack.adamgtm.com/aeo-changelog/) — | 2026-06-12 | Guide | The Stack gets a machine-readable face — The category now ships a structured data.json — every vendor with scores, reasons, agent surfaces, and AI-visibility
 - **[Web]** [Sitecore acquires Scrunch AI](https://stack.adamgtm.com/scrunch-ai/) — | 2026-06-03 | Market | Sitecore acquires Scrunch AI — ~$225M per Bloomberg, terms undisclosed. With Adobe's Semrush acquisition closed in April, that's two consolidation signals i
 - **[Web]** [Profound publishes its 2026 roadmap](https://stack.adamgtm.com/profound/) — | 2026-05-13 | Market | Profound publishes its 2026 roadmap — Profound Docs, image generation, and always-on Background Agents. The category leader is betting on automation, not da
 
 ## Ahrefs  ·  [profiles/ahrefs.md](profiles/ahrefs.md)
 
-- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) — 2026-06-01: Published a five-article research series on the 50 most-cited websites across Google AI Overviews, Gemini, Copilot, Perplexity, and Grok, each drawing on Brand Radar da
-- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/new-features/) — 2026-05-28: Updated Site Explorer's Organic Keywords and Intent charts to count every ranking position rather than unique keywords only, improving accuracy for large, multi-positio
-- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/agent-a-for-content-marketing/) — 2026-05-19: Launched Agent A, a standalone $99/month AI marketing agent with full access to Ahrefs data that autonomously runs content pipelines, competitor monitoring, performance
+- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/new-features/) — 2026-06-19: Web Analytics added a Cloned Pages view, surfacing when Ahrefs content appears on external domains via iframes, copies, or translation tools. source
+- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) — 2026-06-01: Ahrefs published a five-article 50 Most-Cited Websites research series on AI citation patterns, each generated and auto-updated monthly by Agent A. source
 
 ## AirOps  ·  [profiles/airops.md](profiles/airops.md)
 
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/brainlabs-customer-story) — Brainlabs grew AI share of voice 35% and reached 91% share of voice in Google AI Overview source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/legalzoom-customer-story) — LegalZoom saved $600K+ and cut article-refresh time 90% source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio drove a 46% increase in clicks with a one-person marketing team source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1) — Anthropic case study on the AirOps collaboration (2x productivity, 300% content velocity for Carta) source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/webinar-recap-whats-new-at-airops-and-quill) — 2026-05-27: Detailed Quill's campaign-management layer in a webinar recap, with Fetch demoing live sentiment-gap analysis as the first named Quill customer shown publicly. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/airops-next-2026-recap) — 2026-05-20: Released AirOps Next 2026 research finding that YouTube has passed Reddit as the most-cited domain in AI answers and that off-site presence drives up to 85% of top-of-f
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_today-were-launching-quill-your-ai-agent-activity-7460305455597330432-nGvh) — 2026-05-13: Launched Quill at AirOps Next NYC, an end-to-end agent Halliday framed as a captain to win AI search. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/brainlabs-customer-story) — Brainlabs: 35% AI share-of-voice growth from a three-month engagement source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/legalzoom-customer-story) — LegalZoom: $600K+ saved, 90% faster article refresh source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio: 46% click lift from a one-person marketing team source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1) — Anthropic + AirOps collaboration case study (2x productivity, 5x revenue growth) source
+- **[Web]** [source](https://cannes.airops.com/) — 2026-06-24: Confirmed its Cannes Lions 2026 presence, including a Claude-and-Clay panel moderated by CMO Christy Roach on brands, creators, and the answer era. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/webinar-recap-whats-new-at-airops-and-quill) — 2026-05-27: Detailed Quill's campaign-management layer in a webinar recap, with Fetch demoing live sentiment-gap analysis as the first named Quill customer. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/airops-next-2026-recap) — 2026-05-20: Released AirOps Next 2026 research finding that YouTube has surpassed Reddit as the most-cited domain in AI answers. source
 
 ## AIVO  ·  [profiles/aivo-meridian.md](profiles/aivo-meridian.md)
 
@@ -94,13 +80,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Bluefish AI  ·  [profiles/bluefish-ai.md](profiles/bluefish-ai.md)
 
-- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/state-of-enterprise-brands-in-ai-report-2026) — 2026-06-09: Published the State of Enterprise Brands in AI benchmark, covering 194 of the world's largest enterprises across five categories and nine verticals. source
-- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/bluefish-proves-super-bowl-ads-influence-ai-recommendations) — 2026-05-21: Released an analysis of Super Bowl LX advertising, arguing the spots drove measurable lifts in AI visibility and AI favorability across 52 advertisers. source
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/bluefish-launches-ai-accuracy-bringing-brand-verification-to-ai-channels-for-the-first-time-302762378.html) — 2026-05-05: Launched AI Accuracy, billed as the first brand-verification product for AI channels, extracting and verifying every factual claim AI makes about a brand. source
+- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/state-of-enterprise-brands-in-ai-report-2026) — State of Enterprise Brands in AI: benchmark of 194 large enterprises across five categories and nine verticals source
+- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/bluefish-proves-super-bowl-ads-influence-ai-recommendations) — Super Bowl LX analysis: Budweiser topped both USA Today's Ad Meter and Bluefish's AI leaderboard source
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/bluefish-launches-agentic-campaigns-to-power-ai-optimization-workflows-for-the-fortune-500-302804641.html) — 2026-06-18: Launched Agentic Campaigns, an automated workflow tool that sets AI performance targets and generates targeted AEO tactics across ChatGPT and Google Gemini. source
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/bluefish-launches-ai-accuracy-bringing-brand-verification-to-ai-channels-for-the-first-time-302762378.html) — 2026-05-05: Launched AI Accuracy, billed as the first brand-verification product for AI channels, extracting and verifying every factual claim made about a brand. source
 - **[News/Press]** [source](https://www.prnewswire.com/news-releases/bluefish-raises-43-million-series-b-to-power-agentic-marketing-for-the-fortune-500-302741124.html) — 2026-04-14: Raised a $43M Series B co-led by Threshold and NEA, bringing total funding to $68M and reframing the company around agentic marketing for the Fortune 500. source
-- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/introducing-collections-measure-the-roi-of-your-digital-marketing-campaigns-in-the-ai-channel) — 2026-02-02: Launched Collections, which groups related assets into a single campaign-level ROI signal tracked across AI channels. source
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/bluefish-releases-2025-holiday-ai-commerce-report-how-generative-ai-rewrote-the-holiday-marketing-playbook-302652766.html) — 2026-01-05: Released the 2025 Holiday AI Commerce Report, finding 95% of AI citations during the holiday season came from non-paid, organic sources. source
-- **[Web]** [CB Insights](https://www.cbinsights.com/research/geo-companies-winning-ai-search/) — Named a Category Leader in Generative Engine Optimization by CB Insights (October 2025), placed in the 'native' AEO/GEO leader group built for LLM visibility rather than retrofitte
+- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/introducing-collections-measure-the-roi-of-your-digital-marketing-campaigns-in-the-ai-channel) — 2026-02-02: Launched Collections, grouping related assets into a single measurement signal tracked over time for campaign-level ROI inside AI channels. source
+- **[Web]** [source](https://www.cbinsights.com/research/geo-companies-winning-ai-search/) — CB Insights named Bluefish a Category Leader in Generative Engine Optimization (AEO/GEO) in its October 2025 analysis "The GEO companies winning the AI search arms race," placing i
 
 ## Botify  ·  [profiles/botify.md](profiles/botify.md)
 
@@ -132,19 +118,18 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Clay  ·  [profiles/clay.md](profiles/clay.md)
 
+- **[Web]** [source](https://www.clay.com/customers/pendo) — How Pendo surfaced roughly 13,000 top-fit accounts in two days source
 - **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-runs-abm-campaigns) — How Clay runs ABM at scale: 300 accounts, 1:1 personalization source
 - **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-seo-and-aeo) — How Clay uses Clay for SEO and AEO source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-recruiting-top-talent) — How Clay uses Clay for recruiting top talent (47% of hires from referrals) source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-closed-lost-deals) — How Clay turns closed-lost deals into pipeline, product signals, and buyer intelligence source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_eleanor-dorfman-head-of-industries-commercial-activity-7463266048805539840-b-zr) — Anthropic's Eleanor Dorfman uses Clay to enrich and score every inbound lead source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/langchain_clays-claygent-runs-350-million-gtm-agents-activity-7475536976725630976-MB7F) — 2026-06-24: Clay's Claygent passed 350 million GTM agents run per month, disclosed in a talk at LangChain's Interrupt conference. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-closed-lost-deals) — How Clay turns closed-lost deals into pipeline and product signals source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-for-recruiting-top-talent) — How Clay uses Clay for recruiting top talent source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/new-homepage-2026) — 2026-07-02: Clay refreshed its homepage for the first time in 18 months, repositioning from data-enrichment tool to the infrastructure GTM engineers build on. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/langchain_clays-claygent-runs-350-million-gtm-agents-activity-7475536976725630976-MB7F) — 2026-06-24: A LangChain talk disclosed that Clay's Claygent now runs 350 million GTM agents a month, alongside a published GTM-engineering systems framing. source
 - **[Blog/Newsletter]** [source](https://www.clay.com/blog/announcing-audiences) — 2026-06-23: Clay shipped Audiences with unlimited searches, removing the 50,000-row table ceiling for a persistent, self-refreshing audience layer. source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-from-inside-claude-and-chatgpt) — 2026-06-18: Clay published 'How Clay uses Clay from inside Claude and ChatGPT,' framing the product as a callable function layer rather than a UI a human opens. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_luca-prando-built-a-clay-function-that-writes-activity-7469824510318321664-ddtG) — 2026-06-08: A Clay function called ClayDR shipped that writes three personalized outbound variants from a single Claude call. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_gtm-was-gmt-thank-you-to-everyone-who-activity-7468693989681057792-v3sA) — 2026-06-05: Clay recapped its GTM community event in London, with speakers from Adyen, Verkada, and Terrapinn. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-clay-is-officially-in-openai-codex-activity-7467616966292307969-B74I) — 2026-06-02: Clay shipped inside OpenAI Codex as a launch partner, letting reps prioritize accounts, research buyers, and send outreach from the coding agent. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — Named to the Forbes AI 50 in 2026 as the only GTM company on the list (source). Brex's Spring 2026 ranking of the 25 fastest-growing software vendors by spend placed Clay at #3 (so
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — Named to the Forbes AI 50 in 2026 as the only GTM company on the list (source). Brex's Spring 2026 ranking of the 25 fastest-growing software vendors by spend placed Clay at #3 (so
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-from-inside-claude-and-chatgpt) — 2026-06-18: Clay published how its own reps run plays from inside Claude and ChatGPT, positioning the product as a callable function layer rather than a UI. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_luca-prando-built-a-clay-function-that-writes-activity-7469824510318321664-ddtG) — 2026-06-08: Clay showcased ClayDR, a Clay function that writes three grounded outbound variants from a single Claude call. source
+- **[LinkedIn]** [Forbes AI 50](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — Named to the Forbes AI 50 in 2026 as the only GTM company on the list, and ranked #3 on Brex's Spring 2026 list of the fastest-growing software vendors by spend.
+- **[LinkedIn]** [Brex's Spring 2026 list of the fastest-growing software vendors by spend](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — Named to the Forbes AI 50 in 2026 as the only GTM company on the list, and ranked #3 on Brex's Spring 2026 list of the fastest-growing software vendors by spend.
 
 ## Conductor  ·  [profiles/conductor.md](profiles/conductor.md)
 
@@ -188,12 +173,12 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Goodie AI  ·  [profiles/goodie-ai.md](profiles/goodie-ai.md)
 
-- **[Blog/Newsletter]** [source](https://higoodie.com/blog/ai-search-traffic-report-2026/) — 2026-05-21: Published its 2026 AI Search Traffic Report, finding ChatGPT's share of B2B AI referrals fell from 89.1% to 62.6% over eight months while Claude rose from 1.4% to 18.5%
-- **[Blog/Newsletter]** [source](https://higoodie.com/blog/introducing-goodie-2-0/) — 2026-05-06: Launched Goodie 2.0, a full platform rebuild with a redesigned dashboard, weekly competitor position tracking, function-specific AI agents, and expanded AI-surface cove
-- **[Blog/Newsletter]** [source](https://higoodie.com/blog/agentic-commerce-guide-ucp-acp/) — 2026-01-16: Published an Agentic Commerce Guide covering OpenAI's Agentic Commerce Protocol and Google's Universal Commerce Protocol, with Commerce Suite monitoring across ChatGPT 
+- **[Blog/Newsletter]** [source](https://higoodie.com/blog/aeo-periodic-table-v4/) — 2026-06-23: Published the AEO Periodic Table V4, its versioned AI-visibility framework, drawing on analysis of 1.13 million prompts across six AI platforms. source
+- **[Blog/Newsletter]** [source](https://higoodie.com/blog/ai-search-traffic-report-2026/) — 2026-05-21: Released its 2026 AI Search Traffic Report, finding ChatGPT's share of B2B AI referrals fell from 89.1% to 62.6% over eight months while Claude rose to 18.5%. source
+- **[Blog/Newsletter]** [source](https://higoodie.com/blog/introducing-goodie-2-0/) — 2026-05-06: Launched Goodie 2.0, a full platform rebuild with a redesigned dashboard, weekly competitor position tracking, and function-specific AI agents for gap analysis and brie
+- **[Blog/Newsletter]** [source](https://higoodie.com/blog/agentic-commerce-guide-ucp-acp/) — 2026-01-16: Published its Agentic Commerce Guide covering OpenAI's Agentic Commerce Protocol and Google's Universal Commerce Protocol, and confirmed Commerce Suite monitoring acros
 - **[Blog/Newsletter]** [source](https://higoodie.com/blog/future-of-ai-search-aeo) — 2026-01-05: Published 'The Future of AI Search: AEO in 2026 & Beyond,' reinforcing its commerce-AEO positioning across ChatGPT, Google AI Mode, Amazon Rufus, and Perplexity. source
-- **[Blog/Newsletter]** [source](https://higoodie.com/blog/amazon-rufus-ai/) — 2025-11-19: Published an Amazon Rufus AI optimization guide documenting Rufus-specific features including Prompt Research, Visibility Monitoring, Optimization Actions, and AEO Writ
-- **[Blog/Newsletter]** [source](http://higoodie.com/blog/agentic-commerce-optimizer/) — 2025-10-08: Announced its Agentic Commerce Optimizer, adding SKU-level monitoring across ChatGPT, Google AI Mode, Amazon Rufus, and Perplexity Shopping, plus one-click feed remedia
+- **[Web]** [source](https://getlatka.com/companies/higoodie.com) — 2025-12-11: Reported roughly $1.2M ARR as a bootstrapped, roughly 11-person team with no outside funding raised (third-party reported, unaudited). source
 
 ## Graphite  ·  [profiles/graphite.md](profiles/graphite.md)
 
@@ -299,25 +284,25 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## OtterlyAI  ·  [profiles/otterly-ai.md](profiles/otterly-ai.md)
 
-- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/06/01/3304018/0/en/otterlyai-launches-a-public-api-a-claude-skill-and-a-marketplace-of-101-marketing-workflows-for-ai-search.html) — 2026-06-01: Formalized its Public API and Claude Skill via press release and launched the OtterlyAI Marketplace, a library of 101-plus production-tested marketing workflows open fo
-- **[Blog/Newsletter]** [source](https://otterly.ai/blog/otterlyai-public-api-claude-skill-launch/) — 2026-05-27: Launched its Public API and a packaged Claude Skill, giving developers programmatic access to every brand report, prompt, citation, recommendation, and GEO audit, with 
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/06/24/3316982/0/en/OtterlyAI-Doubles-Down-on-the-US-Becomes-Headline-Sponsor-of-BrightonSEO-San-Diego-2026.html) — 2026-06-24: Became headline sponsor of BrightonSEO San Diego 2026, its first major US conference sponsorship, with North America now 47% of its customer base. source
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/06/01/3304018/0/en/otterlyai-launches-a-public-api-a-claude-skill-and-a-marketplace-of-101-marketing-workflows-for-ai-search.html) — 2026-06-01: Formalized its Public API and Claude Skill and launched a Marketplace of 101-plus production-tested marketing workflows open for community submissions. source
+- **[Blog/Newsletter]** [source](https://otterly.ai/blog/otterlyai-public-api-claude-skill-launch/) — 2026-05-27: Launched a Public REST API and a packaged Claude Skill giving programmatic access to every brand report, prompt, citation, recommendation, and GEO audit. source
 - **[Web]** [source](https://www.manilatimes.net/2026/05/22/tmt-newswire/globenewswire/otterlyai-wins-european-search-awards-2026-cementing-its-status-as-the-award-winning-ai-search-analytics-tool-for-the-generative-era/2349552) — 2026-05-22: Won Best AI Search Software Solution at the European Search Awards 2026 in Porto, and reported passing 30,000 active users. source
-- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/03/02/3247558/0/en/First-Large-Scale-Study-by-AI-Search-Monitoring-Platform-OtterlyAI-Shows-YouTube-is-2-Social-Platform-for-AI-Citations.html) — 2026-03-02: Published a YouTube Citation Study of 100-million-plus AI citation instances, finding YouTube is the #2 social source for AI citations behind Reddit and that 94% of cit
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/03/02/3247558/0/en/First-Large-Scale-Study-by-AI-Search-Monitoring-Platform-OtterlyAI-Shows-YouTube-is-2-Social-Platform-for-AI-Citations.html) — 2026-03-02: Published a YouTube Citation Study of 100-plus million AI citations, finding YouTube is the No. 2 social platform for AI citations behind Reddit. source
 - **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/02/25/3244814/0/en/OtterlyAI-Earns-Top-AEO-Platform-on-G2-s-Best-New-Software-Awards-2026.html) — 2026-02-25: Placed 10th on G2's 2026 Best New Software Awards, the only Answer Engine Optimization vendor in the overall top 10. source
-- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/02/19/3241387/0/en/OtterlyAI-Unveils-Groundbreaking-Data-AI-Search-Engines-Depend-95-on-Third-Party-Sources.html) — 2026-02-19: Released research on 1-million-plus AI citations showing 95% draw from third-party sources, and announced a partnership with media-outreach platform Noble to turn that 
-- **[News/Press]** [GlobeNewswire](https://www.globenewswire.com/news-release/2025/11/04/3180758/0/en/OtterlyAI-Recognized-as-a-Cool-Vendor-in-the-2025-Gartner-Cool-Vendors-for-AI-in-Marketing.html) — Named one of five vendors in the 2025 Gartner Cool Vendors in AI for Marketing report, its first analyst-house recognition (GlobeNewswire). Placed 10th on G2's 2026 Best New Softwa
+- **[News/Press]** [2025 Gartner Cool Vendors in AI for Marketing](https://www.globenewswire.com/news-release/2025/11/04/3180758/0/en/OtterlyAI-Recognized-as-a-Cool-Vendor-in-the-2025-Gartner-Cool-Vendors-for-AI-in-Marketing.html) — Named one of five 2025 Gartner Cool Vendors in AI for Marketing, and the only Answer Engine Optimization vendor in the overall top 10 of G2's 2026 Best New Software Awards.
 
 ## Peec AI  ·  [profiles/peec-ai.md](profiles/peec-ai.md)
 
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-momentum-boosted-ai-search-visibility-by-10x-with-peec-ai) — Momentum boosted AI search visibility 10x with Peec AI source
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai) — Mint Position unlocks 16% more AI search visibility for fintech clients source
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/using-mcp-for-seos-geos-and-aeos) — 2026-06-11: Published a tutorial showing integrated SEO/GEO/AEO workflows that pull Google Search Console, Peec AI, and Screaming Frog data simultaneously through MCP-connected mod
-- **[Web]** [source](https://peec.ai/changelog) — 2026-06-04: Changelog promoted the Chats table to general availability, added three new Crawl Insights log-connection methods, and began tracking Gemini 3 Flash and Qwen 3.7. sourc
-- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/05/28/3303009/0/en/peec-ai-hits-10m-arr-16-months-after-launch-as-brands-race-to-optimize-for-ai-search.html) — 2026-05-28: Official press release confirmed $10M ARR 16 months after launch, with 2,500+ customers, 70+ employees, an open NYC office, and new named customers Squarespace and Hugo
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/ai-overviews-is-the-most-undertracked-ai-search-500-000-prompts-show-why) — 2026-05-28: Published 500,000-prompt research arguing AI Overviews is the most undertracked AI search surface, appearing in 86.7% of April 2026 searches. source
-- **[Web]** [source](https://peec.ai/mcp-challenge) — 2026-05-28: Concluded the first round of its MCP Challenge build competition, with 100+ global builders and $10,000 in prizes, and announced a second round for June. source
-- **[News/Press]** [source](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/) — 2026-05-23: TechCrunch reported Peec crossed $10M ARR, more than doubling from $4M at the November 2025 Series A in about six months. source
-- **[Web]** [source](https://www.g2.com/products/peec-ai/reviews) — Holds a 4.9/5 rating across 11 verified reviews on G2 and ranked #2 in Harmonic's Q2 2026 Hot 25; the AEO category G2 Grid Leader designation in the Winter 2026 reports is held by 
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-momentum-boosted-ai-search-visibility-by-10x-with-peec-ai) — Momentum boosted AI-search visibility 10x with Peec AI source
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai) — Agency Mint Position unlocks 16% more AI search visibility for fintech clients source
+- **[News/Press]** [source](https://sifted.eu/articles/peec-ai-fundraise-new-valuation) — 2026-06-26: In talks to raise ~$10M at a ~$200M pre-money valuation, roughly double the Series A mark, though the round remains open and unclosed. source
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/06/26/3318325/0/en/Peec-AI-the-AI-visibility-monitoring-company-assembles-a-team-to-decode-how-ChatGPT-and-other-LLMs-recommend-brands.html) — 2026-06-26: Introduced a research team dedicated to reverse-engineering how ChatGPT, Perplexity, Google AI Mode, and Claude select and recommend brands. source
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/ai-shopping-analytics) — 2026-06-17: Launched AI Shopping Analytics, extending the platform from brand-level tracking into SKU-level product visibility inside AI shopping answers. source
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/using-mcp-for-seos-geos-and-aeos) — 2026-06-11: Published an MCP tutorial for SEOs, GEOs, and AEOs showing workflows that pull Search Console, Peec, and Screaming Frog data through MCP-connected models. source
+- **[Web]** [source](https://peec.ai/changelog) — 2026-06-04: June changelog promoted the Chats table to general availability, added Crawl Insights log connectors, and began tracking Gemini 3 Flash and Qwen 3.7. source
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/05/28/3303009/0/en/peec-ai-hits-10m-arr-16-months-after-launch-as-brands-race-to-optimize-for-ai-search.html) — 2026-05-28: Press release confirmed $10M ARR 16 months post-launch, with 2,500+ customers, 70+ employees, and a new NYC office. source
+- **[Web]** [G2 reviews](https://www.g2.com/products/peec-ai/reviews) — Carries a 4.9/5 rating across 11 verified reviews on G2, where reviewers cite its citation-tracking focus and simplicity; the AEO category's G2 Grid "Leader" badge (Winter 2026) is
 
 ## Pixis Visibility  ·  [profiles/pixis.md](profiles/pixis.md)
 

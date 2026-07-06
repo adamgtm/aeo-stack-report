@@ -76,7 +76,7 @@ We hold this guide to the same bar. On the 2026-06-14 run, adamgtm.com was cited
 
 ## FAQ
 
-**Why isn't my company on the leaderboard?** Either the engines didn't name it this run, or it isn't in our tracked roster yet. Profiles and roster additions start at [Add a Company](https://airtable.com/app5ANdeTK06YtG0k/pag6V5L6XtCMBD9Th/form).
+**Why isn't my company on the leaderboard?** Either the engines didn't name it this run, or it isn't in our tracked roster yet. Profiles and roster additions start at [Add a Company](/gtm-dev/#add).
 
 **Can vendors game this?** The queries are fixed, published above, and phrased as buyer questions, not vendor names. If a vendor earns more citations in real answers, the number goes up. That's the point.
 

@@ -1,14 +1,24 @@
 > **Canonical source:** [https://stack.adamgtm.com/aeo/](https://stack.adamgtm.com/aeo/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/aeo/ · last updated 2026-06-06 -->
+<!-- canonical: https://stack.adamgtm.com/aeo/ · last updated 2026-07-04 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Tools, Build Stacks, and Agencies
 
-**This report provides AEO market intelligence for agents and humans to evaluate approaches and options.** This resource is [continuously updated](/aeo-changelog/) and explores 3 options for AEO: Buy, Build, and Hire. 
+**This report is the AEO market map for agents and humans — the options for getting cited in AI answers, and how to read them.** It's [continuously updated](/aeo/changelog) and covers three approaches: **Buy** a platform, **Build** your own, or **Hire** an agency.
 
 [Download the full dataset + markdown library →](#download)
 
 **AEO** (answer engine optimization), also called **GEO** (generative engine optimization), is the practice of getting your brand cited in AI-generated answers: ChatGPT, Google AI Overviews, Perplexity, Claude, Gemini. SEO earned blue-link rankings. AEO earns the citation inside the answer.
+
+## How to read the map
+
+The real question is not which vendor fits. It's which *approach* fits, then which player within it.
+
+- **Buy** if you want time-to-value and a managed surface, and you have budget for a platform.
+- **Build** if you have a technical or GTM-engineering team and want control plus lower cost.
+- **Hire** if you want outcomes without staffing it, or want senior strategy on top of a tool.
+
+Within each approach, players are ranked on three axes built for this market (not Gartner's static snapshot): **Presence**, **Velocity**, and **Agent-Readiness**. Hover any logo for its scores; the full, sortable set is in the **Vendor Tracker** tab, and the rigor is in **Methodology**.
 
 ## Why AEO matters in 2026
 
@@ -32,44 +42,17 @@ And it's in the GTM conversation, not just SEO Twitter:
 
 
 
-## How to evaluate (Buy vs Build vs Hire)
-
-The real question is not which vendor fits. It's which *approach* fits, then which player within it. A quick read:
-
-- **Buy** if you want time-to-value and a managed surface, and you have budget for a platform.
-- **Build** if you have a technical or GTM-engineering team and want control plus lower cost.
-- **Hire** if you want outcomes without staffing it, or want senior strategy on top of a tool.
-
-We score the players on three axes built for this market (not Gartner's static snapshot):
-
-- **Presence**: where they stand in the consensus now (share of voice, mentions, funding, logos).
-- **Velocity**: how fast they're moving (shipping cadence from our evidence trail). The dimension a yearly analyst snapshot can't capture.
-- **Agent-Readiness**: how well you can build on them (API, MCP, SDK, CLI, docs). The lens that matters when your buyers are agents.
-
 ## Who the engines actually recommend
 
-We don't estimate AI visibility — we measure it. Every week we put 15 buyer-intent questions ("best AEO tools for a B2B startup", "what tools track how my brand appears in ChatGPT") to ChatGPT, Gemini, Perplexity, and Claude, and count which vendors get named. Last run: [Ahrefs (25), Profound (24), and Otterly (23)](/aeo-ai-visibility/) led across 59 web-grounded answers. AdamGTM took 0 — our own number is on the board too.
+We don't estimate AI visibility — we measure it. Every week we put 15 buyer-intent questions ("best AEO tools for a B2B startup", "what tools track how my brand appears in ChatGPT") to ChatGPT, Gemini, Perplexity, and Claude, and count which vendors get named. Last run: [Ahrefs (25), Profound (24), and Otterly (23)](/aeo/ai-visibility) led across 59 web-grounded answers. AdamGTM took 0 — our own number is on the board too.
 
-[The full leaderboard, by engine and by query →](/aeo-ai-visibility/)
+[The full leaderboard, by engine and by query →](/aeo/ai-visibility)
 
 ## Buy: specialist platforms
 
-| Vendor                       | Founded | Raised       | Best for                 | The angle                                       | Try it     |
-| ---------------------------- | ------- | ------------ | ------------------------ | ----------------------------------------------- | ---------- |
-| [Profound](/profound/) | 2023    | $155M        | Enterprise, full-stack   | Measurement + automation + citation marketplace | Sales-led  |
-| [Bluefish](/bluefish-ai/)                     | 2024    | $68M         | Fortune 500 brands       | Brand protection / claim verification           | Sales-led  |
-| [Brandlight](/brandlight/)                  | 2024    | $30M         | Enterprise CMOs          | "AI Market Shelf"; visibility → AI-native ads   | Sales-led  |
-| [Evertune](/evertune/)                     | 2024    | $19M         | Stats-grade measurement  | 100K+ prompts/report; adtech DNA                | Sales-led  |
-| [Scrunch](/scrunch-ai/)                      | 2023    | $19M (acq.)  | Getting served to agents | Optimization for how AI fetches you · now Sitecore | Self-serve |
-| [Peec](/peec-ai/)                         | 2025    | $29M         | Mid-market, fast         | Analytics + competitor benchmarking             | Self-serve |
-| [AthenaHQ](/athenahq/)                     | 2024    | ~$3M         | Mid-market entry         | Lean SEO + GEO services platform                | Self-serve |
-| [AirOps](/airops/)                          | 2022    | $62M         | Content + AEO workflows  | Build AI content workflows; agent-ready         | Sales-led  |
-| [Goodie AI](/goodie-ai/)                    | 2023    | Bootstrapped | Commerce + model breadth | 11 engines tracked + agentic fixes              | Self-serve |
-| [AIVO](/aivo-meridian/)                     | —       | Undisclosed  | Decision-stage measurement | Do you survive to the *recommendation*, not just appear | Free assessment |
-| [Gumshoe AI](/gumshoe-ai/)                  | 2024    | $2M          | SMB / fast read          | Simulated AI answers; pay-as-you-go             | Self-serve |
-| [OtterlyAI](/otterly-ai/)                    | 2024    | Bootstrapped | Solo marketer / SMB      | "Semrush for AI search," $29/mo                 | Free trial |
+The map's **Buy a Platform** box holds the specialists and the incumbents folding AEO into a suite you may already own. A few reads beyond the logos:
 
-Two more specialists worth a look, a tier down on funding: [Quattr](/quattr/) (AI-native SEO + AEO execution), [Demand-Genius](/demand-genius/) (B2B-only, intent-cluster aggregation, revenue attribution), and [Pixis Visibility](/pixis/) (one of the few that *executes* — audit → brief → draft → publish — not just monitors).
+Two specialists a tier down on funding are worth a look: [Quattr](/quattr/) (AI-native SEO + AEO execution) and [Demand-Genius](/demand-genius/) (B2B-only, intent-cluster aggregation, revenue attribution), plus [Pixis Visibility](/pixis/), one of the few that *executes* — audit → brief → draft → publish — not just monitors.
 
 Or let a tool you already own absorb it. The incumbents are retrofitting fast: [Adobe (LLM Optimizer)](/adobe-llm-optimizer/), [Semrush (Enterprise AIO)](/semrush/), HubSpot, Ahrefs, BrightEdge, Conductor, Siteimprove, Botify — plus the listening and analytics giants, [Meltwater](/meltwater/) (AI-answer monitoring on its media-intelligence suite) and [Amplitude](/amplitude/) (free AI Visibility that wires mentions to conversion in its analytics graph).
 
@@ -86,43 +69,13 @@ A real third option in 2026. The edge is control and cost; the cost is you own t
 - **Run your own measurement.** [OpenRouter](https://openrouter.ai) gives you one API across GPT, Gemini, Perplexity, and Claude, enough to query the answer engines yourself and track who gets cited. It is how we built our own tracker for this guide.
 - **Audit on the research.** [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) (432★) implements the Princeton KDD 2024 methodology, the most academically grounded option.
 
-The open-source space is moving fast. These are the projects worth knowing, grouped by what they do:
-
-| Project | ★ | Type | What it does |
-| ------- | - | ---- | ------------ |
-| [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 1,761 | Skill pack | 20 SEO + GEO skills for Claude Code / Cursor / Codex |
-| [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) | 961 | Skill pack | GTM + AEO agent workflows, MIT-licensed |
-| [codex-seo](https://github.com/AgriciDaniel/codex-seo) | 170 | Skill pack | Codex-first SEO suite; DataForSEO integration |
-| [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) | 432 | Audit | Implements the Princeton KDD 2024 AEO/GEO methodology |
-| [geo-optimizer (Go)](https://github.com/geo-team-red/geo-optimizer) | 218 | Framework | Pluggable AEO/GEO framework for embedding in Go services |
-| [geo-lint](https://github.com/IJONIS/geo-lint) | 22 | Audit | First open-source AEO/GEO linter; 92 rules, drops into CI |
-| [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) | 132 | Tracker | Local-first AI-visibility dashboard; "the simple Profound" |
-| [elmo](https://github.com/elmohq/elmo) | 113 | Tracker | Open-source AI-visibility tracking |
-| [oneglanse](https://github.com/aryamantodkar/oneglanse) | 61 | Tracker | Free, open-source AEO/GEO tracker across the major engines |
-| [dualmark](https://github.com/dodopayments/dualmark) | 66 | Publisher-side | Serves markdown twins to agents alongside HTML, via content negotiation |
-| [aeo-god-mode](https://github.com/AEO-God-Mode/aeo-god-mode) | 23 | Publisher-side | WordPress plugin: schema, llms.txt, AI-crawler controls |
-| [AutoGEO](https://github.com/cxcscmu/AutoGEO) | 152 | Research | ICLR'26 framework that learns AEO/GEO strategies automatically |
-
-The full landscape, 40+ projects including the academic papers and curated awesome-lists, lives on the [Open Source AEO Projects & Resources](/aeo-open-source/) page, and ships in the [downloadable library](#download).
+The **Build Your Own** box on the map lists the top open-source projects by stars. The full landscape — 40+ projects including the academic papers and curated awesome-lists — lives on the [Open Source AEO Projects & Resources](/aeo/open-source) page, and ships in the [downloadable library](#download).
 
 ## Hire: agencies
 
 Two kinds: the SEO old guard repointing a decade of muscle, and the AI-native upstarts. Most run a platform underneath (their own build, or Profound / AirOps), so you are paying for the expertise on top. Two questions to ask any of them: what platform do you run underneath, and do we keep the system when the engagement ends?
 
-| Agency                              | Lead                | Origin               | The pitch                                                                     |
-| ----------------------------------- | ------------------- | -------------------- | ----------------------------------------------------------------------------- |
-| [Graphite](/graphite/)         | Ethan Smith         | Growth / SEO         | Operator method; controlled testing; the "6x LLM-vs-Google conversion" data   |
-| [iPullRank](/ipullrank/)       | Mike King           | Technical SEO        | "Relevance engineering"; runs SEO Week; 2025 AI Search Marketer of the Year   |
-| [Seer Interactive](/seer/)     | Wil Reynolds        | Data-driven SEO      | 200+ person B-Corp; GEO inside a modern search practice; cited AI research    |
-| [Amsive](/amsive/)             | Lily Ray            | Enterprise SEO       | Named-expert AEO for larger cos; E-E-A-T + technical + AI-search strategy      |
-| [Animalz](/animalz/)           | Ty Magnin           | B2B SaaS content     | Premium expert-interview content; AEO audit → 90-day roadmap                  |
-| [Foundation](/foundation/)     | Ross Simmonds       | Content distribution | Distribution-led AEO/GEO; "Create Once, Distribute Forever"                       |
-| [daydream](/daydream/)         | Thenuka Karunaratne | AI-native            | Agency-as-product: agents plus a human lead; $21M raised, YC's #3 most-wanted |
-| [GrowthX](/growthx/)           | Marcel Santilli     | AI-native            | AI content engine as pipeline; $12M Series A; Ramp/Reddit/Webflow             |
-| [Discovered Labs](/discovered-labs/) | Liam Dunne + Ben Moore | AI-native      | "First AEO/GEO agency for B2B SaaS"; ex-Instantly + ex-Stanford AI            |
-| [Obility](/obility/)           | Mike Nierengarten   | B2B demand gen       | GEO managed alongside SEO; pipeline-not-traffic; B2B tech focus               |
-
-Two specialists that don't fit the table: [Noble](/noble/) is the **earned-media activation layer** — it works the prompts where you're absent and negotiates placements on the publishers LLMs cite, then plugs into trackers like Profound, Otterly, and Conductor (it's the "source acquisition" job below, done-for-you). And [Notebook Agency](/notebook-agency/) is Steve Toth's founder-led boutique for B2B SaaS ("AEO is eating SEO").
+The **Hire an Agency** box holds the roster; the [Vendor Tracker](#data) has the full read on each. Two specialists that don't fit the row format: [Noble](/noble/) is the **earned-media activation layer** — it works the prompts where you're absent and negotiates placements on the publishers LLMs cite, then plugs into trackers like Profound, Otterly, and Conductor (it's the "source acquisition" job below, done-for-you). And [Notebook Agency](/notebook-agency/) is Steve Toth's founder-led boutique for B2B SaaS ("AEO is eating SEO").
 
 ## AEO is six jobs, not one
 
@@ -139,7 +92,39 @@ Most platforms nail one or two. Measurement is already commoditizing. Source acq
 
 Deep dives on every platform, build resource, and agency: scores, funding, customers, pricing, analyst placement, and the claim each one makes. Plus the raw dataset (CSV) and an agent-readable markdown library.
 
-[Download the full library (.zip)](/downloads/aeo-stack-library.zip) · [raw dataset (CSV)](/downloads/vendors.csv)
+[Download the full library (.zip)](/downloads/aeo-report-library.zip) · [raw dataset (CSV)](/downloads/vendors.csv)
+
+## Methodology {: #methodology .methodology-doc }
+
+### What's covered
+
+Three approaches to the same job — getting cited in AI answers:
+
+- **Buy a Platform** — managed AEO/GEO software: specialist measurement + optimization tools, and the incumbents (Adobe, Semrush, HubSpot, Ahrefs, and the analytics/listening giants) folding AEO into a suite.
+- **Build Your Own** — managed primitives (Clay, Supabase, Vercel), coding agents (Claude Code) with AEO skill packs, and the open-source projects that track and audit visibility.
+- **Hire an Agency** — the SEO old guard repointing their muscle, and the AI-native upstarts. Most run a platform underneath.
+
+A vendor earns a spot if it does real AEO/GEO work in one of these lanes. If a field can't be verified against the vendor's own material, it stays blank.
+
+### The three scores
+
+We score the players on three axes built for this market, each relative across the tracked set — refreshed weekly from live signals, not a once-a-year analyst snapshot.
+
+- **Presence** — where a vendor stands in the consensus now: share of voice across our tracked corpus (excluding their own pages), influencer and analyst mentions, funding, and customer logos. Includes measured AI visibility (how often the engines name them).
+- **Velocity** — how fast they're moving: shipping cadence and recency from our evidence trail, plus recent funding and customer wins. The dimension a yearly analyst snapshot can't capture.
+- **Agent-Readiness** — how well you can build on them: API, MCP, SDK, CLI, and docs. The lens that matters when your buyers are agents.
+
+Published scores are shown on a clamped band so normalization artifacts (a leader pinned to 100, a quiet incumbent at a literal 0) don't read as bugs. The raw inputs ship in the [downloadable dataset](#download).
+
+### How we measure AI visibility
+
+We don't estimate it — we measure it. Every week we put 15 buyer-intent questions to ChatGPT, Gemini, Perplexity, and Claude, and count which vendors get named across the web-grounded answers. The [full leaderboard](/aeo/ai-visibility), by engine and by query, is its own page — and our own number (AdamGTM) is on the board too.
+
+### Curation & corrections
+
+Adam curates the entity set; agents do the research fan-out and scoring under analyst review. Every row is web-verified against the vendor's own material. The map is living and refreshes as vendors ship, raise, and get acquired.
+
+Corrections are welcome. Send any issues to adam at adamgtm.com — I verify them, write the fix back to the source layer, and regenerate the map.
 
 ## FAQ
 
