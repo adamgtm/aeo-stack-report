@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/ahrefs/](https://stack.adamgtm.com/ahrefs/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/ahrefs/ · last updated 2026-06-14 -->
+<!-- canonical: https://stack.adamgtm.com/ahrefs/ · last updated 2026-07-19 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Ahrefs
 
-Singapore-based, bootstrapped SEO platform (~196 employees) extending from its crawler infrastructure into AEO/GEO. Recent releases: the Brand Radar AI-visibility index plus Custom Prompt Tracking, the free Firehose web-mentions API, official MCP across five AI clients, and Agent A, a standalone $99/month AI marketing agent.
+Bootstrapped, Singapore-based SEO platform (~196 employees) extending into AEO/GEO from its own crawler infrastructure. Recent releases: Brand Radar's unified AI-visibility view across six AI platforms, the free Firehose web-mentions API, and Agent A, a standalone AI marketing agent at $99/month.
 
 
 ## Scores
@@ -19,19 +19,19 @@ Singapore-based, bootstrapped SEO platform (~196 employees) extending from its c
 
 ## The Solution & Approach
 
-Ahrefs is an SEO platform built on its own crawler infrastructure, with a classic surface of Site Explorer, Keywords Explorer, Site Audit, and Rank Tracker. Starting in 2026 it extended into AEO/GEO with Brand Radar, an AI-visibility index that tracks brand mentions across six AI platforms, plus a Custom Prompt Tracking add-on and the free Firehose web-mentions API.
+Ahrefs is a bootstrapped, Singapore-headquartered SEO platform built on its own crawler infrastructure, with the classic Site Explorer, Keywords Explorer, Site Audit, and Rank Tracker surface. In 2026 it extended into the AEO/GEO category with Brand Radar, an AI-visibility index across six AI platforms, and Custom Prompt Tracking, both sold as add-ons on top of the core plans.
 
-The category bet, stated by Tim Soulo, is that owning the crawler is a structural cost advantage over AI-visibility pure-plays. An April 2026 long-form piece positioned Brand Radar directly against Profound, framing Ahrefs' bootstrapped, infrastructure-first model as the smarter choice for AI-visibility measurement.
+The 2026 cadence pushed methodically outward from that base: the free Firehose web-mentions API in March, official MCP live across Claude, ChatGPT, Cursor, Claude Code, and Copilot Studio in April, the standalone $99/month Agent A in May, and API v3 keyword endpoints plus Share-of-Voice widgets in June. Agent A now serves as the engine behind Ahrefs' own AEO research content, generating and auto-updating series like "The 50 Most-Cited Websites" across AI Overviews, Gemini, Copilot, Perplexity, and Grok.
 
-The direction points at automation. In May 2026 Ahrefs launched Agent A, a standalone $99/month AI marketing agent with full access to Ahrefs data that executes content, monitoring, and reporting workflows. By June it had turned Agent A on its own content, publishing a research series on AI citation patterns that the agent generates and updates monthly.
+The category POV is stated plainly by Tim Soulo: owning the crawler is a structural cost advantage over AI-visibility pure-plays like Profound. His long-form case positions Brand Radar as the smarter choice against Profound and the other AEO specialists.
 
 ## Best for
 
-Teams already running Ahrefs for SEO who want AI-visibility tracking on the same crawler-backed data at a lower price point than the AEO pure-plays.
+Teams that want AI-visibility tracking layered onto a full SEO suite from a bootstrapped incumbent with its own crawler infrastructure.
 
 ## Pricing & trial
 
-Public self-serve pricing from a free tier and a $29 Starter plan up to $1,499/year Enterprise, with the Brand Radar AI Index as a $199–$699/month add-on, Custom Prompts at $50–$250/month, and Agent A standalone at $99/month with a free one-month trial for existing customers. [Pricing](https://ahrefs.com/pricing).
+Self-serve tiers running from a free Webmaster Tools plan and a $29 Starter plan up to a $1,499/month Enterprise plan, with Brand Radar AI Index ($199–$699) and Custom Prompts ($50–$250) as AEO add-ons; Agent A offers a free one-month trial to existing customers. [Pricing](https://ahrefs.com/pricing).
 
 ## Agent Experience
 
@@ -45,24 +45,28 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | No | — |
 
-Strong build-on surface: an official remote MCP server (Streamable HTTP) live across Claude, ChatGPT, Cursor, Claude Code, and Copilot Studio on Lite and up, a public API on Standard and higher, plus the free Firehose web-mentions API, so its crawler data is directly agent-readable.
+Ahrefs exposes an official API on Standard plans and up plus a remote MCP server live across Claude, ChatGPT, Cursor, Claude Code, and Copilot Studio, making it one of the more agent-ready SEO/AEO platforms to build on.
+
+## Case studies & customer stories
+
+- Ahrefs' internal Data Refresh Hub: an agent that keeps data-driven content fresh [source](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/)
 
 ## Recent moves
 
-- **2026-06-01**: Published a five-article research series on the 50 most-cited websites across Google AI Overviews, Gemini, Copilot, Perplexity, and Grok, each drawing on Brand Radar data and generated plus auto-updated monthly by Agent A. [source](https://ahrefs.com/blog/most-cited-domains-ai-overviews/)
-- **2026-05-28**: Updated Site Explorer's Organic Keywords and Intent charts to count every ranking position rather than unique keywords only, improving accuracy for large, multi-position sites. [source](https://ahrefs.com/blog/new-features/)
-- **2026-05-22**: Released new Rank Tracker API endpoints for Enterprise users to fully automate project and keyword management, and added conversion event tracking to the free Web Analytics tool. [source](https://ahrefs.com/blog/new-features/)
-- **2026-05-21**: Added click-and-drag chart zooming to Web Analytics, letting users select any date range on a chart to inspect traffic spikes or dips. [source](https://ahrefs.com/blog/new-features/)
-- **2026-05-20**: Added rising-keyword identification to Keywords Explorer by growth trend type over 3, 6, or 12-month windows, plus a GSC Insights widget breaking performance down by position range. [source](https://ahrefs.com/blog/new-features/)
-- **2026-05-19**: Launched Agent A, a standalone $99/month AI marketing agent with full access to Ahrefs data that autonomously runs content pipelines, competitor monitoring, performance reports, and link-building, with native connections to Slack, HubSpot, WordPress, and Notion. [source](https://ahrefs.com/blog/agent-a-for-content-marketing/)
+- **2026-07-01**: Brand Kits in AI Content Helper began supporting sample articles, letting users attach example pieces so AI-generated drafts better match voice, tone, and structure. [source](https://ahrefs.com/blog/new-features/)
+- **2026-06-30**: Brand Radar's AI visibility reports now consolidate all tracked platforms, including the AI Overview and AI Mode indexes, into a single unified view. [source](https://ahrefs.com/blog/new-features/)
+- **2026-06-26**: Bot Analytics (beta) added bot-legitimacy verification, checking IP ranges and Cloudflare's verified-bots database and flagging unverified crawlers as spoofed. [source](https://ahrefs.com/blog/new-features/)
+- **2026-06-25**: Ahrefs published a case study on its internal Data Refresh Hub, an agent built on Letaido that monthly refreshes data across 14 blog posts with human review, reporting roughly 90% automation. [source](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/)
+- **2026-06-19**: Web Analytics added a Cloned Pages view, surfacing when Ahrefs content appears on external domains via iframes, copies, or translation tools. [source](https://ahrefs.com/blog/new-features/)
+- **2026-06-16**: Web Analytics tables became exportable directly from individual reports, simplifying sharing and archiving of traffic snapshots. [source](https://ahrefs.com/blog/new-features/)
 
 ## Company, Financials & Funding History
 
-Founded in 2010 and headquartered in Singapore, Ahrefs has grown to roughly 196 employees while remaining bootstrapped, building its position on owned crawler infrastructure rather than outside funding.
+Founded in 2010 and headquartered in Singapore, Ahrefs is a bootstrapped SEO platform of roughly 196 employees. Its category direction is set publicly by Tim Soulo, who frames Ahrefs' crawler infrastructure as a structural advantage in the shift toward AI visibility.
 
 
 ## Links
 
 [Homepage](https://ahrefs.com) · [Pricing](https://ahrefs.com/pricing) · [LinkedIn](https://www.linkedin.com/company/ahrefs)
 
-*Last updated 2026-06-14 · refreshed weekly*
+*Last updated 2026-07-19 · refreshed weekly*

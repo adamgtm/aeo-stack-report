@@ -6,16 +6,16 @@
   "canonical_url": "https://stack.adamgtm.com/aeo/",
   "md_url": "https://stack.adamgtm.com/aeo/index.md"
  },
- "generated": "2026-07-04",
+ "generated": "2026-07-21",
  "maintainer": "Adam's GTM Report — https://adamgtm.com",
  "method": {
   "scores": "Presence / Velocity / Agent-Readiness, set by the AdamGTM Analyst Desk, refreshed weekly, relative across the tracked set. Each carries a short reason.",
-  "ai_visibility": "Weekly run of buyer-intent queries across ChatGPT, Gemini, Perplexity, and Claude; counts are how often each vendor is named in web-grounded answers. Latest run: 2026-06-14."
+  "ai_visibility": "Weekly run of buyer-intent queries across ChatGPT, Gemini, Perplexity, and Claude; counts are how often each vendor is named in web-grounded answers. Latest run: 2026-07-12."
  },
  "ai_visibility_run": {
-  "run_date": "2026-06-14",
+  "run_date": "2026-07-12",
   "n_queries": 15,
-  "n_web_answers": 58,
+  "n_web_answers": 60,
   "engines": [
    "ChatGPT",
    "Gemini",
@@ -61,7 +61,14 @@
    },
    "canonical_url": "https://stack.adamgtm.com/adobe-llm-optimizer/",
    "md_url": "https://stack.adamgtm.com/adobe-llm-optimizer/index.md",
-   "last_updated": "2026-05-26"
+   "last_updated": "2026-05-26",
+   "ai_visibility": {
+    "web_mentions": 1,
+    "parametric_mentions": 0,
+    "engines": [
+     "Claude"
+    ]
+   }
   },
   {
    "slug": "aeo-open-source",
@@ -87,7 +94,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Singapore-based, bootstrapped SEO platform (~196 employees) extending from its crawler infrastructure into AEO/GEO. Recent releases: the Brand Radar AI-visibility index plus Custom Prompt Tracking, the free Firehose web-mentions API, official MCP across five AI clients, and Agent A, a standalone $99/month AI marketing agent.",
+   "summary": "Bootstrapped, Singapore-based SEO platform (~196 employees) extending into AEO/GEO from its own crawler infrastructure. Recent releases: Brand Radar's unified AI-visibility view across six AI platforms, the free Firehose web-mentions API, and Agent A, a standalone AI marketing agent at $99/month.",
    "scores": {
     "presence": {
      "value": "70",
@@ -116,9 +123,9 @@
    },
    "canonical_url": "https://stack.adamgtm.com/ahrefs/",
    "md_url": "https://stack.adamgtm.com/ahrefs/index.md",
-   "last_updated": "2026-06-14",
+   "last_updated": "2026-07-19",
    "ai_visibility": {
-    "web_mentions": 14,
+    "web_mentions": 16,
     "parametric_mentions": 6,
     "engines": [
      "ChatGPT",
@@ -136,7 +143,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AI content-operations platform for marketing teams in the AEO/GEO category. Customers include Carta, Webflow, Klaviyo, and Ramp. $62.5M raised at a $225M valuation. Recent releases: the Quill AI-search agent, Prompt Discovery, and the Page360 content-performance layer.",
+   "summary": "AI content automation platform for marketing teams, the content ops layer of the AEO/GEO category, with customers including Webflow, Klaviyo, Ramp, and Chime. Raised $62.5M total, including a $40M Series B at a $225M valuation. Recent ships: Quill, Prompt Discovery, and Page360.",
    "scores": {
     "presence": {
      "value": "76",
@@ -165,13 +172,13 @@
    },
    "canonical_url": "https://stack.adamgtm.com/airops/",
    "md_url": "https://stack.adamgtm.com/airops/index.md",
-   "last_updated": "2026-06-21",
+   "last_updated": "2026-07-05",
    "ai_visibility": {
-    "web_mentions": 2,
+    "web_mentions": 3,
     "parametric_mentions": 0,
     "engines": [
      "ChatGPT",
-     "Perplexity"
+     "Claude"
     ]
    }
   },
@@ -333,12 +340,13 @@
    "md_url": "https://stack.adamgtm.com/athenahq/index.md",
    "last_updated": "2026-06-14",
    "ai_visibility": {
-    "web_mentions": 9,
-    "parametric_mentions": 0,
+    "web_mentions": 19,
+    "parametric_mentions": 1,
     "engines": [
      "ChatGPT",
      "Gemini",
-     "Perplexity"
+     "Perplexity",
+     "Claude"
     ]
    }
   },
@@ -350,7 +358,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise AEO/GEO platform for Fortune 500 brands, focused on AI visibility, influence, and brand verification across ChatGPT, Google AI, Claude, and Perplexity. Customers include Adidas, LVMH, and American Express. $68M raised. Recent releases: AI Accuracy verification, the State of Enterprise Brands benchmark, and Collections.",
+   "summary": "Enterprise AEO/GEO platform for Fortune 500 brands, focused on visibility, influence, and verification across AI channels like ChatGPT, Google AI, and Perplexity. Customers include Adidas, American Express, LVMH, and Ulta Beauty. $68M raised. Recent releases: Agentic Campaigns, AI Accuracy claim verification, and the State of Enterprise Brands in AI benchmark.",
    "scores": {
     "presence": {
      "value": "70",
@@ -378,12 +386,14 @@
    },
    "canonical_url": "https://stack.adamgtm.com/bluefish-ai/",
    "md_url": "https://stack.adamgtm.com/bluefish-ai/index.md",
-   "last_updated": "2026-06-14",
+   "last_updated": "2026-07-19",
    "ai_visibility": {
-    "web_mentions": 1,
+    "web_mentions": 5,
     "parametric_mentions": 0,
     "engines": [
-     "ChatGPT"
+     "Gemini",
+     "Perplexity",
+     "Claude"
     ]
    }
   },
@@ -395,7 +405,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise SEO platform from Paris, now an AEO/GEO platform built on first-party crawl and log-file data, with 500+ customers and ~$85M raised. Recent releases include AI Visibility, Agentic Feeds, and Product Cards that track brand presence in AI shopping carousels.",
+   "summary": "An enterprise SEO platform founded in 2012 that has repointed its first-party crawl and log-file data into AEO/GEO, measuring brand visibility across ChatGPT, Google AI Mode, and Perplexity. 500+ customers across 30 countries, ~$82M raised. Recent releases: AgenticCatalog GA, Product Cards in AI Visibility, and AI Visibility.",
    "scores": {
     "presence": {
      "value": "62",
@@ -411,7 +421,7 @@
     }
    },
    "agent_surfaces": {
-    "api": false,
+    "api": true,
     "mcp": false,
     "sdk": false,
     "cli": false,
@@ -423,14 +433,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/botify/",
    "md_url": "https://stack.adamgtm.com/botify/index.md",
-   "last_updated": "2026-06-14",
-   "ai_visibility": {
-    "web_mentions": 1,
-    "parametric_mentions": 0,
-    "engines": [
-     "Gemini"
-    ]
-   }
+   "last_updated": "2026-07-19"
   },
   {
    "slug": "brandlight",
@@ -480,7 +483,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise SEO platform retrofitting for the answer-engine era, now tracking brand visibility across ChatGPT, Gemini, and Perplexity. Serves 57% of the Fortune 500. $63.9M raised across four rounds. Recent releases: AI Hyper Cube cross-engine tracking, AI Agent Insights, and Share of Voice V2.",
+   "summary": "Enterprise SEO platform, founded 2007, retrofitting for AI search. Serves 57% of the Fortune 500. $63.9M raised. Recent releases: AI Hyper Cube tracking presence across ChatGPT, Gemini, and Perplexity, plus AI Agent Insights and Share of Voice V2, all shipped March 2026.",
    "scores": {
     "presence": {
      "value": "71",
@@ -508,13 +511,13 @@
    },
    "canonical_url": "https://stack.adamgtm.com/brightedge/",
    "md_url": "https://stack.adamgtm.com/brightedge/index.md",
-   "last_updated": "2026-06-28",
+   "last_updated": "2026-07-12",
    "ai_visibility": {
-    "web_mentions": 5,
-    "parametric_mentions": 2,
+    "web_mentions": 4,
+    "parametric_mentions": 3,
     "engines": [
-     "Gemini",
-     "Claude"
+     "ChatGPT",
+     "Gemini"
     ]
    }
   },
@@ -526,7 +529,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AI-native GTM data platform for enrichment, scoring, and agentic outbound, used by OpenAI, Anthropic, Stripe, and HubSpot. $202M raised at a $5B valuation. Recent releases: Audiences with unlimited searches, distribution inside OpenAI Codex, and Clay Functions callable from Claude and ChatGPT.",
+   "summary": "AI-native GTM data and workflow platform where GTM engineers build revenue systems across enrichment, agents, and orchestration. Customers include OpenAI, Anthropic, Notion, and Figma. $202M raised at a $5B valuation. Recent releases: Clay for Reps, an API and CLI with an Agent Plugin, and Audiences.",
    "scores": {
     "presence": {
      "value": "98",
@@ -555,7 +558,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/clay/",
    "md_url": "https://stack.adamgtm.com/clay/index.md",
-   "last_updated": "2026-06-28"
+   "last_updated": "2026-07-19"
   },
   {
    "slug": "conductor",
@@ -565,7 +568,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise SEO and content intelligence platform, founded 2010, now retrofitting for AEO/GEO. Customers include IBM, Coca-Cola, Airbnb, and Atlassian. $210M raised. Recent moves: the AgentStack enterprise AEO suite, a State of AEO/GEO CMO report, and a 2026 AEO/GEO benchmarks study.",
+   "summary": "Legacy enterprise SEO and content-intelligence platform (founded 2010, New York) now positioned as the industry's \"system of record for AEO.\" Customers include Airbnb, Coca-Cola, and Atlassian. $210M raised. Recent moves: the AgentStack enterprise AEO suite, an official ChatGPT app for citation tracking, and an exclusive Optimizely AEO partnership.",
    "scores": {
     "presence": {
      "value": "73",
@@ -594,10 +597,10 @@
    },
    "canonical_url": "https://stack.adamgtm.com/conductor/",
    "md_url": "https://stack.adamgtm.com/conductor/index.md",
-   "last_updated": "2026-06-21",
+   "last_updated": "2026-07-19",
    "ai_visibility": {
-    "web_mentions": 4,
-    "parametric_mentions": 1,
+    "web_mentions": 12,
+    "parametric_mentions": 2,
     "engines": [
      "ChatGPT",
      "Gemini",
@@ -714,7 +717,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "An AEO/GEO platform whose AI Brand Index measures how often brands surface in AI answers to category questions where they aren't named, across nine engines. Customers include Canada Goose, Miro, and Roku. $19M raised. Recent moves: a Visibility Boost ad agent for ChatGPT, a Gartner Market Guide listing, and AI retargeting partnerships.",
+   "summary": "Evertune measures how brands surface across AI engines when they aren't named in the prompt, running 100,000+ prompts per report across nine surfaces. Customers include Canada Goose, Miro, and Roku. $19M raised. Recent releases: the Visibility Boost ad agent, AI retargeting with The Trade Desk, and Shopping Intelligence.",
    "scores": {
     "presence": {
      "value": "53",
@@ -734,23 +737,24 @@
     "mcp": false,
     "sdk": false,
     "cli": false,
-    "llms_txt": false
+    "llms_txt": true
    },
    "links": {
     "homepage": "https://www.evertune.ai",
+    "pricing": "https://www.evertune.ai/pricing",
     "docs": "https://docs.evertune.ai/",
     "linkedin": "https://www.linkedin.com/company/evertune"
    },
    "canonical_url": "https://stack.adamgtm.com/evertune/",
    "md_url": "https://stack.adamgtm.com/evertune/index.md",
-   "last_updated": "2026-05-31",
+   "last_updated": "2026-07-12",
    "ai_visibility": {
-    "web_mentions": 5,
-    "parametric_mentions": 0,
+    "web_mentions": 4,
+    "parametric_mentions": 1,
     "engines": [
-     "ChatGPT",
      "Gemini",
-     "Perplexity"
+     "Perplexity",
+     "Claude"
     ]
    }
   },
@@ -781,7 +785,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Commerce-vertical AEO/GEO platform tracking brand visibility across ChatGPT, Amazon Rufus, and Perplexity Shopping. Founded 2024 by NoGood's Mostafa ElBermawy and bootstrapped to roughly $1.2M ARR. Recent moves: the 2026 AI Search Traffic Report, the Goodie 2.0 rebuild, and an Agentic Commerce Optimizer.",
+   "summary": "Goodie AI is a commerce-focused AEO/GEO platform that tracks brand visibility across ChatGPT, Amazon Rufus, and Perplexity Shopping. Bootstrapped at roughly $1.2M ARR. Recent releases include the AEO Periodic Table V4, its 2026 AI Search Traffic Report, and the Goodie 2.0 platform rebuild.",
    "scores": {
     "presence": {
      "value": "60",
@@ -810,16 +814,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/goodie-ai/",
    "md_url": "https://stack.adamgtm.com/goodie-ai/index.md",
-   "last_updated": "2026-05-31",
-   "ai_visibility": {
-    "web_mentions": 5,
-    "parametric_mentions": 0,
-    "engines": [
-     "Gemini",
-     "Perplexity",
-     "Claude"
-    ]
-   }
+   "last_updated": "2026-07-12"
   },
   {
    "slug": "graphite",
@@ -926,7 +921,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "HubSpot is a Boston CRM and marketing platform, public on the NYSE, that shipped the first AEO tool from a major platform under its Breeze AI brand. About 300,000 customers. Recent releases: Revenue Hub, the HubSpot Agent CLI public beta, and proprietary AEO buyer-behavior research.",
+   "summary": "HubSpot is a CRM and marketing, sales, and service platform (public on the NYSE) now threading AI agents across the stack under the Breeze brand. In AEO it shipped the first tool from a major platform, then bought XFunnel for $30M; recent releases include Revenue Hub and the Agent CLI public beta.",
    "scores": {
     "presence": {
      "value": "61",
@@ -955,14 +950,15 @@
    },
    "canonical_url": "https://stack.adamgtm.com/hubspot/",
    "md_url": "https://stack.adamgtm.com/hubspot/index.md",
-   "last_updated": "2026-06-28",
+   "last_updated": "2026-07-19",
    "ai_visibility": {
-    "web_mentions": 10,
-    "parametric_mentions": 0,
+    "web_mentions": 16,
+    "parametric_mentions": 1,
     "engines": [
      "ChatGPT",
      "Gemini",
-     "Perplexity"
+     "Perplexity",
+     "Claude"
     ]
    }
   },
@@ -974,7 +970,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "iPullRank is Mike King's New York technical-SEO agency, now built around AI search and his Relevance Engineering framework. Recent work: the AI Search Strategic Roadmap service, click-to-citation measurement metrics, and the open-source Qforia query-fan-out tool.",
+   "summary": "iPullRank is Mike King's New York technical-SEO agency, repositioned around AI search under its Relevance Engineering framework. Recent work includes the AI Search Strategic Roadmap service, click-to-citation measurement metrics, and original research showing Gmail can lift a brand's Google AI Mode visibility.",
    "scores": {
     "presence": {
      "value": "—",
@@ -1001,7 +997,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/ipullrank/",
    "md_url": "https://stack.adamgtm.com/ipullrank/index.md",
-   "last_updated": "2026-06-28"
+   "last_updated": "2026-07-12"
   },
   {
    "slug": "meltwater",
@@ -1118,7 +1114,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Bootstrapped AI-search monitoring platform positioned as \"Semrush for AI search,\" tracking brand visibility across six AI engines, with customers including Videoloft and Bacula Enterprise. Recent releases: a Public API, a packaged Claude Skill, and a Marketplace of 101 marketing workflows.",
+   "summary": "Bootstrapped AI-search monitoring platform, positioned as 'Semrush for AI search,' tracking brand visibility across six AI engines for customers like BenQ, Videoloft, and Bacula Enterprise; recent releases include a Public API, a packaged Claude Skill, and a 101-workflow Marketplace.",
    "scores": {
     "presence": {
      "value": "54",
@@ -1147,9 +1143,9 @@
    },
    "canonical_url": "https://stack.adamgtm.com/otterly-ai/",
    "md_url": "https://stack.adamgtm.com/otterly-ai/index.md",
-   "last_updated": "2026-06-21",
+   "last_updated": "2026-07-19",
    "ai_visibility": {
-    "web_mentions": 24,
+    "web_mentions": 28,
     "parametric_mentions": 2,
     "engines": [
      "ChatGPT",
@@ -1167,7 +1163,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "An AEO/GEO platform for AI search analytics, brand tracking, and competitor benchmarking, built for mid-market teams and agencies. Customers include Squarespace, Hugo Boss, and Attio. About $29M raised at a $100M+ valuation, with $10M ARR. Recent releases: the Actions worklist, an MCP server, and Crawl Insights.",
+   "summary": "An AEO/GEO analytics platform that tracks brand visibility across ChatGPT, Perplexity, and Google AI Overviews, used by Squarespace, Hugo Boss, and Attio. $29M raised with a ~$200M valuation round in talks and $10M ARR. Recent releases: Query Fanouts, AI Shopping Analytics, and a citation-research team.",
    "scores": {
     "presence": {
      "value": "74",
@@ -1197,9 +1193,9 @@
    },
    "canonical_url": "https://stack.adamgtm.com/peec-ai/",
    "md_url": "https://stack.adamgtm.com/peec-ai/index.md",
-   "last_updated": "2026-06-21",
+   "last_updated": "2026-07-19",
    "ai_visibility": {
-    "web_mentions": 23,
+    "web_mentions": 30,
     "parametric_mentions": 2,
     "engines": [
      "ChatGPT",
@@ -1290,7 +1286,7 @@
    "md_url": "https://stack.adamgtm.com/profound/index.md",
    "last_updated": "2026-05-26",
    "ai_visibility": {
-    "web_mentions": 28,
+    "web_mentions": 33,
     "parametric_mentions": 2,
     "engines": [
      "ChatGPT",
@@ -1348,7 +1344,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Platform for brand optimization in generative AI environments, built around an Agent Experience Platform that serves machine-readable content to AI crawlers. Customers include RunPod, Lenovo, and Crunchbase. About $19M raised before its June 2026 acquisition by Sitecore. Recent moves: Scrunch MCP, Agent Traffic Monitoring, and G2 High Performer status.",
+   "summary": "An AEO/GEO Agent Experience Platform that serves machine-readable content to AI crawlers and tracks how brands show up in AI answers, used by Akamai, Lenovo, and ADP. Raised ~$19M, acquired by Sitecore in June 2026 (~$225M per Bloomberg). Recent: AXP relaunch, Scrunch MCP, Agent Traffic Monitoring.",
    "scores": {
     "presence": {
      "value": "66",
@@ -1378,13 +1374,12 @@
    },
    "canonical_url": "https://stack.adamgtm.com/scrunch-ai/",
    "md_url": "https://stack.adamgtm.com/scrunch-ai/index.md",
-   "last_updated": "2026-06-21",
+   "last_updated": "2026-07-19",
    "ai_visibility": {
-    "web_mentions": 7,
+    "web_mentions": 10,
     "parametric_mentions": 2,
     "engines": [
-     "Gemini",
-     "Perplexity",
+     "ChatGPT",
      "Claude"
     ]
    }
@@ -1459,7 +1454,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "A web-governance platform (accessibility, SEO, content compliance, analytics) retrofitting into AEO/GEO via its Siteimprove.ai agentic platform. Customers include Barclays, Shell, Harvard, and BlackRock. $55M raised; majority-owned by Nordic Capital. Recent releases: a Content Writing & Optimization Agent, a PDF Remediation Agent, and Advanced AEO Insights.",
+   "summary": "Enterprise web-governance platform (accessibility, SEO quality, and content compliance) retrofitting into AEO, with customers including Barclays, Shell, and BlackRock. Majority-owned by Nordic Capital, $55M in prior growth funding. Recent releases: an MCP server, Content Writing and PDF Remediation agents, and Advanced AEO Insights.",
    "scores": {
     "presence": {
      "value": "66",
@@ -1475,7 +1470,7 @@
     }
    },
    "agent_surfaces": {
-    "api": false,
+    "api": true,
     "mcp": false,
     "sdk": false,
     "cli": false,
@@ -1483,11 +1478,12 @@
    },
    "links": {
     "homepage": "https://www.siteimprove.com",
+    "pricing": "https://www.siteimprove.com/de/pricing/",
     "linkedin": "https://www.linkedin.com/company/siteimprove"
    },
    "canonical_url": "https://stack.adamgtm.com/siteimprove/",
    "md_url": "https://stack.adamgtm.com/siteimprove/index.md",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-07-19"
   }
  ]
 }

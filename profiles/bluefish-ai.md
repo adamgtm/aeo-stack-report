@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/bluefish-ai/](https://stack.adamgtm.com/bluefish-ai/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/bluefish-ai/ · last updated 2026-06-14 -->
+<!-- canonical: https://stack.adamgtm.com/bluefish-ai/ · last updated 2026-07-19 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Bluefish AI
 
-Enterprise AEO/GEO platform for Fortune 500 brands, focused on AI visibility, influence, and brand verification across ChatGPT, Google AI, Claude, and Perplexity. Customers include Adidas, LVMH, and American Express. $68M raised. Recent releases: AI Accuracy verification, the State of Enterprise Brands benchmark, and Collections.
+Enterprise AEO/GEO platform for Fortune 500 brands, focused on visibility, influence, and verification across AI channels like ChatGPT, Google AI, and Perplexity. Customers include Adidas, American Express, LVMH, and Ulta Beauty. $68M raised. Recent releases: Agentic Campaigns, AI Accuracy claim verification, and the State of Enterprise Brands in AI benchmark.
 
 
 ## Scores
@@ -19,19 +19,19 @@ Enterprise AEO/GEO platform for Fortune 500 brands, focused on AI visibility, in
 
 ## The Solution & Approach
 
-Bluefish AI is an enterprise AEO/GEO platform for Fortune 500 brands, founded in 2024 and based in New York. The job it takes on is brand visibility, influence, and verification across AI channels including ChatGPT, Google AI, Claude, Perplexity, and Amazon Rufus. As of its April 2026 Series B it reported usage by roughly 10% of the Fortune 500 across 12+ verticals.
+Bluefish AI (legal entity Bluefish Labs) is a New York enterprise AI marketing platform that positions itself as "the AI marketing platform of choice for the Fortune 500." The job is brand visibility, influence, and verification across AI channels including ChatGPT, Google AI, Claude, Perplexity, and Amazon Rufus. As of its April 2026 Series B, the company reported usage by roughly 10% of the Fortune 500 across 12+ verticals.
 
-Against peer Profound, Bluefish separates on protection rather than data depth. Its November 2025 AI Impact and Influence Analytics moved measurement past raw citation counts to an authority score, using an Impact Score and an Influence Rank to surface the sources that consistently shape AI answers. Its May 2026 AI Accuracy product extracts and verifies every factual claim AI channels make about a brand, traces each mismatch to the exact response, and scores it by severity.
+Its pitch separates from peer Profound on protection rather than data depth. The signature bet is verification. The May 2026 AI Accuracy product extracts and checks every factual claim AI channels make about a brand, tracing each mismatch to the exact channel and response, while the November 2025 AI Impact and Influence Analytics moved measurement past raw citation counts to an authority and influence score.
 
-The company runs a steady research cadence (Black Friday, Holiday, Super Bowl, and the June State of Enterprise Brands in AI benchmark) that doubles as its category-marketing engine, turning its own measurement corpus into public proof. The recurring POV: citation frequency alone overstates true influence, and topic authority matters beyond raw counts.
+In June 2026 Bluefish extended past measurement and verification into orchestration with Agentic Campaigns, an automated workflow tool that sets AI performance targets and generates AEO tactics across ChatGPT and Gemini. A steady research cadence (Black Friday, Holiday, Super Bowl, and the June State of Enterprise Brands in AI benchmark) turns its own measurement corpus into public proof and doubles as the category-marketing engine.
 
 ## Best for
 
-Enterprise and Fortune 500 brands that want to measure and protect their visibility, influence, and factual accuracy across AI channels, not just track raw citations.
+Enterprise and Fortune 500 brands that want brand protection and factual-claim verification across AI channels, not just citation measurement.
 
 ## Pricing & trial
 
-Sales-led; no public pricing page or self-serve trial.
+Sales-led with no public pricing page, and no free trial is advertised.
 
 ## Agent Experience
 
@@ -45,7 +45,7 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | No | — |
 
-Sales-led with no public API, MCP, SDK, llms.txt, or developer docs, so there is no surface to build on or wire into your own agents directly.
+Weak build-on surface: sales-led with no public API, MCP, SDK, llms.txt, docs, or status page, so there is nothing to wire into your own agents today.
 
 ## Reference customers
 
@@ -53,29 +53,29 @@ Adidas, American Express, Hearst, LVMH, Ulta Beauty, Tishman Speyer.
 
 ## Recent moves
 
-- **2026-06-09**: Published the State of Enterprise Brands in AI benchmark, covering 194 of the world's largest enterprises across five categories and nine verticals. [source](https://www.bluefishai.com/blog/state-of-enterprise-brands-in-ai-report-2026)
-- **2026-05-21**: Released an analysis of Super Bowl LX advertising, arguing the spots drove measurable lifts in AI visibility and AI favorability across 52 advertisers. [source](https://www.bluefishai.com/blog/bluefish-proves-super-bowl-ads-influence-ai-recommendations)
-- **2026-05-05**: Launched AI Accuracy, billed as the first brand-verification product for AI channels, extracting and verifying every factual claim AI makes about a brand. [source](https://www.prnewswire.com/news-releases/bluefish-launches-ai-accuracy-bringing-brand-verification-to-ai-channels-for-the-first-time-302762378.html)
+- **2026-07-06**: Published "Where Retail Media Budgets Go Next," arguing AI shopping assistants are becoming a meaningful e-commerce discovery channel and brands should shift retail-media investment toward AI ranking. [source](https://www.bluefishai.com/blog/where-retail-media-budgets-go-next)
+- **2026-06-18**: Launched Agentic Campaigns, an automated workflow tool that sets AI performance targets and generates AEO tactics across channels like ChatGPT and Google Gemini, moving the product from measurement into campaign orchestration. [source](https://www.prnewswire.com/news-releases/bluefish-launches-agentic-campaigns-to-power-ai-optimization-workflows-for-the-fortune-500-302804641.html)
+- **2026-06-09**: Published "State of Enterprise Brands in AI," a benchmark of 194 large enterprises across five categories and nine verticals measuring AI visibility performance. [source](https://www.bluefishai.com/blog/state-of-enterprise-brands-in-ai-report-2026)
+- **2026-05-21**: Released an analysis of Super Bowl LX advertising, reporting that the spots drove measurable lifts in AI visibility and AI favorability across 52 advertisers. [source](https://www.bluefishai.com/blog/bluefish-proves-super-bowl-ads-influence-ai-recommendations)
+- **2026-05-05**: Launched AI Accuracy, billed as the first brand-verification product for AI channels, which extracts and verifies every factual claim AI makes about a brand and scores each mismatch by severity. [source](https://www.prnewswire.com/news-releases/bluefish-launches-ai-accuracy-bringing-brand-verification-to-ai-channels-for-the-first-time-302762378.html)
 - **2026-04-14**: Raised a $43M Series B co-led by Threshold and NEA, bringing total funding to $68M and reframing the company around agentic marketing for the Fortune 500. [source](https://www.prnewswire.com/news-releases/bluefish-raises-43-million-series-b-to-power-agentic-marketing-for-the-fortune-500-302741124.html)
-- **2026-02-02**: Launched Collections, which groups related assets into a single campaign-level ROI signal tracked across AI channels. [source](https://www.bluefishai.com/blog/introducing-collections-measure-the-roi-of-your-digital-marketing-campaigns-in-the-ai-channel)
-- **2026-01-05**: Released the 2025 Holiday AI Commerce Report, finding 95% of AI citations during the holiday season came from non-paid, organic sources. [source](https://www.prnewswire.com/news-releases/bluefish-releases-2025-holiday-ai-commerce-report-how-generative-ai-rewrote-the-holiday-marketing-playbook-302652766.html)
 
 ## Company, Financials & Funding History
 
-Founded in 2024 in New York by Alex Sherman (CEO, co-founder of PromoteIQ, acquired by Microsoft), Andrei Dunca (CTO, co-founder of LiveRail, acquired by Facebook), and Jing Feng (COO, ex-PromoteIQ and LiveRail). The team went from a closed pilot to roughly 10% of the Fortune 500 in under two years.
+Bluefish was founded in 2024 in New York by Alex Sherman (CEO, co-founder of PromoteIQ, acquired by Microsoft), Andrei Dunca (CTO, co-founder of LiveRail, acquired by Facebook), and Jing Feng (COO, formerly of PromoteIQ and LiveRail). That martech and adtech exit pedigree carried the company from a 2024 pre-seed to $68M raised by the April 2026 Series B.
 
 | Date | Round | Amount |
 |---|---|---|
 | 2024-05 | Pre-seed | $3.5M reported (Crane Venture Partners, Bloomberg Beta, Laconia, Swift Ventures) |
-| 2025-08 | Series A | $20M (NEA), $24M total |
+| 2025-08 | Series A | $20M (led by NEA), $24M total |
 | 2026-04 | Series B | $43M (co-led by Threshold and NEA), $68M total |
 
 ## Analyst placement
 
-Named a Category Leader in Generative Engine Optimization by [CB Insights](https://www.cbinsights.com/research/geo-companies-winning-ai-search/) (October 2025), placed in the 'native' AEO/GEO leader group built for LLM visibility rather than retrofitted SEO tools.
+CB Insights named Bluefish a Category Leader in its AEO/GEO (Generative Engine Optimization) market analysis, "The GEO companies winning the AI search arms race" (October 2025), placing it in the native-leader group of purpose-built companies. [source](https://www.cbinsights.com/research/geo-companies-winning-ai-search/)
 
 ## Links
 
 [Homepage](https://www.bluefishai.com) · [LinkedIn](https://www.linkedin.com/company/bluefish-ai)
 
-*Last updated 2026-06-14 · refreshed weekly*
+*Last updated 2026-07-19 · refreshed weekly*
