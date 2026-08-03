@@ -1,6 +1,6 @@
 # Adam's GTM Report — AEO/GEO Market Guide (agent-ready)
 
-A continuously-refreshed map of the AEO/GEO market: a scored, sourced vendor landscape built to be loaded into an AI project and interrogated. This repo is the agent-ready mirror; the website is the source of truth: https://stack.adamgtm.com/aeo (last updated 2026-07-26).
+A continuously-refreshed map of the AEO/GEO market: a scored, sourced vendor landscape built to be loaded into an AI project and interrogated. This repo is the agent-ready mirror; the website is the source of truth: https://stack.adamgtm.com/aeo (last updated 2026-08-02).
 
 - README.md — what this is + how to interrogate it
 - report.md — the AEO map (start here)
