@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **252 sources across 38 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **258 sources across 38 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -23,7 +23,7 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AEO Changelog: What Moved This Week  ·  [changelog.md](changelog.md)
 
-- **[Web]** [Profiles refreshed: Ahrefs, AirOps, AthenaHQ, Bluefish AI, Botify, Clay, Conductor, Evertune, Goodie AI, HubSpot, OtterlyAI, Scrunch AI, daydream](https://stack.adamgtm.com/aeo/) — | 2026-08-30 | Profiles | Profiles refreshed: Ahrefs, AirOps, AthenaHQ, Bluefish AI, Botify, Clay, Conductor, Evertune, Goodie AI, HubSpot, OtterlyAI, Scrunch AI, daydream — Re-der
+- **[Web]** [Profiles refreshed: AirOps, Clay, Evertune, HubSpot, Scrunch AI](https://stack.adamgtm.com/aeo/) — | 2026-09-06 | Profiles | Profiles refreshed: AirOps, Clay, Evertune, HubSpot, Scrunch AI — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). 
 - **[Web]** [AI-visibility run 2026-08-23](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-08-23 | Data | AI-visibility run 2026-08-23 — 60 web-grounded answers across 4 engines. Most named: Profound (34), Otterly AI (29), Peec AI (29). adamgtm.com cited in 0/60. 
 - **[Web]** [The Stack gets a machine-readable face](https://stack.adamgtm.com/aeo-changelog/) — | 2026-06-12 | Guide | The Stack gets a machine-readable face — The category now ships a structured data.json — every vendor with scores, reasons, agent surfaces, and AI-visibility
 - **[Web]** [Sitecore acquires Scrunch AI](https://stack.adamgtm.com/scrunch-ai/) — | 2026-06-03 | Market | Sitecore acquires Scrunch AI — ~$225M per Bloomberg, terms undisclosed. With Adobe's Semrush acquisition closed in April, that's two consolidation signals i
@@ -41,15 +41,15 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AirOps  ·  [profiles/airops.md](profiles/airops.md)
 
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/legalzoom-customer-story) — LegalZoom reduced article refresh time by 90% and reported more than $600K in savings. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio increased clicks by 46.1% in 28 days with a one-person marketing team. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/brainlabs-customer-story) — Brainlabs increased AI share of voice from 28.57% to 38.67% over three months. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1) — Anthropic published AirOps results including 2x productivity, 5x revenue growth, and a 300% content-velocity increase for Carta. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/winners-and-losers-of-ai-search-kevin-indig-webinar) — 2026-08-28: AirOps published an analysis of more than 1 million AI-search answers and 100,000 citations, finding that search rank remains foundational while trust signals and off-s
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/fastest-growing-source-in-ai-search) — 2026-08-11: AirOps reported that creator and social content gained 140% in AI-search citation share over eleven months, based on roughly 3.5 billion source citations. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/ai-search-is-moving-from-answers-to-actions) — 2026-08-07: AirOps published research showing that the preferred brand changed in 232 of 449 matched comparisons when agents moved from recommending software to considering impleme
-- **[Web]** [source](https://cannes.airops.com/) — 2026-06-24: AirOps confirmed a Cannes Lions panel with Anthropic and Clay focused on brands, creators, and AI-generated answers. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/webinar-recap-whats-new-at-airops-and-quill) — 2026-05-27: AirOps detailed Quill's campaign-management layer, including campaign scoping, cadence controls, sentiment-gap analysis, and human-review checkpoints. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/brainlabs-customer-story) — Brainlabs grew AI share of voice from 28.57% to 38.67% over three months and reached 91.03% share of voice in Google AI Overview source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/legalzoom-customer-story) — LegalZoom cut article refresh time from 10 hours to 45 minutes and reported $600K+ in cost savings source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio, a one-person marketing team, reported a 46.1% click increase in the first 28 days source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1) — Anthropic published a case study on the AirOps collaboration, with AirOps citing 2x productivity and 300% content velocity for Carta source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/the-next-chapter-for-airops) — 2026-09-02: Launched AirOps Services, a strategy and execution arm covering owned content, external placements, AI ads, community, social, and influencer work, putting the company 
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/winners-and-losers-of-ai-search-kevin-indig-webinar) — 2026-08-28: Published a webinar recap with Kevin Indig drawing on more than 1 million AI search answers and 100,000 citations, arguing search rank still underpins AI visibility whi
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/fastest-growing-source-in-ai-search) — 2026-08-11: Research across roughly 3.5 billion source citations found creator and social content is the fastest-growing citation source in AI search, up 140% in eleven months, whi
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/ai-search-is-moving-from-answers-to-actions) — 2026-08-07: Ran 1,350 trials across Claude Code, Codex, and Cursor and found the brand an agent recommends differs from the one it reaches for to implement in 232 of 449 matched co
+- **[Web]** [source](https://cannes.airops.com/) — 2026-06-24: Staged a Cannes Lions panel with Anthropic and Clay, moderated by CMO Christy Roach, as part of a week-long Cannes presence. source
 
 ## AIVO  ·  [profiles/aivo-meridian.md](profiles/aivo-meridian.md)
 
@@ -127,15 +127,19 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Clay  ·  [profiles/clay.md](profiles/clay.md)
 
-- **[Web]** [source](https://www.clay.com/customers/pendo) — Pendo sourced approximately 13,000 top-fit accounts in two days and attributed more than 55% of Q1 Agent Analytics revenue to the resulting infrastructure. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_depthfirst-cut-google-ads-cpl-by-40-after-activity-7495909975320539136-AIn3) — depthfirst cut Google Ads cost per lead by 40% after moving customer audiences into Clay Ads. source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat) — Verkada described using first-party CRM notes, reply text, and call transcripts as proprietary GTM signals. source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/agent-use-cases-gtm) — 2026-08-27: Clay reported more than 5 billion Claygent runs and published guidance for shared agents with version history, credit limits, and deployment across tables and Workflows
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/account-agents-workflows) — 2026-08-25: Clay connected Account Agents to Workflows, allowing account research outputs to trigger subsequent GTM actions automatically. source
-- **[Web]** [source](https://www.clay.com/changelog/product-roundup-week-of-aug-17-2026) — 2026-08-24: Credit Budgets reached general availability for Enterprise workspaces, alongside Testing Functions for validating functions before live deployment. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/davidegrieco_last-week-i-made-a-slightly-very-dramatic-activity-7496231931051655169-MSY8) — 2026-08-20: Clay's AI writing policy gained public detail, including rules that make authors accountable for every sentence while permitting disclosed use of model output. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_big-quality-of-life-update-on-the-snowflake-activity-7495844624914382848-MelU) — 2026-08-19: Clay added natural-language SQL generation for Snowflake, translating plain-language data requests into SQL. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A3%F0%9D%97%A3%F0%9D%97%98%F0%9D%97%97-topic-intent-just-landed-activity-7495620163526914048-ICyD) — 2026-08-18: Clay shipped Topic Intent, combining Bombora, Delivr.ai, and Intentsify signals into a scored view of subjects target accounts are researching. source
+- **[Web]** [source](https://www.clay.com/customers/pendo) — Pendo surfaced ~13,000 top-fit accounts in two days for a multi-product AI launch source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_depthfirst-cut-google-ads-cpl-by-40-after-activity-7495909975320539136-AIn3) — depthfirst cut Google Ads cost-per-lead 40% after moving audiences into Clay Ads source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat) — Verkada on first-party signals as a GTM moat source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-clay-uses-clay-automated-growth-plays) — How Clay uses Clay: the automated growth plays behind its self-serve and enterprise motions source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/clay-email-sequencer) — 2026-09-01: Clay made its email sequencer generally available, pulling sourcing, enrichment, and outbound execution into one product. source
+- **[Web]** [source](https://www.axios.com/pro/all-deals/2026/08/31/clay-7-billion-pre-money-valuation) — 2026-08-31: Axios Pro reported Clay in talks to raise at a $7B pre-money valuation led by Wellington Management, unconfirmed by the company. source
+- **[Web]** [source](https://docs.replit.com/updates/2026/08/28/changelog) — 2026-08-28: Clay shipped as a launch partner in Replit's Growth Kit, putting Clay-built growth logic inside a coding agent's own product. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/agent-use-cases-gtm) — 2026-08-27: Claygent crossed 5 billion cumulative runs, and Clay named its two agent-work categories for the first time: web research and data transformation. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/account-agents-workflows) — 2026-08-25: Account Agents can now run inside a workflow, so account research fires the next play instead of landing in a column for a human to read. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A3%F0%9D%97%A3%F0%9D%97%98%F0%9D%97%97-topic-intent-just-landed-activity-7495620163526914048-ICyD) — 2026-08-18: Topic Intent shipped, aggregating Bombora, Delivr.ai, and Intentsify into one scored surface of what target accounts are researching. source
+- **[LinkedIn]** [Forbes AI 50](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — Named to the Forbes AI 50 in April 2026, the only GTM company on the list. Ranked #3 on Brex's Spring 2026 list of the fastest-growing software vendors by spend, and named a HubSpo
+- **[LinkedIn]** [Brex's Spring 2026 list of the fastest-growing software vendors by spend](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — Named to the Forbes AI 50 in April 2026, the only GTM company on the list. Ranked #3 on Brex's Spring 2026 list of the fastest-growing software vendors by spend, and named a HubSpo
+- **[LinkedIn]** [HubSpot Essential App for Sales](https://www.linkedin.com/posts/grow-with-clay_clay-was-just-named-one-of-hubspots-essential-activity-7451980511725563904-qxzv) — Named to the Forbes AI 50 in April 2026, the only GTM company on the list. Ranked #3 on Brex's Spring 2026 list of the fastest-growing software vendors by spend, and named a HubSpo
 
 ## Conductor  ·  [profiles/conductor.md](profiles/conductor.md)
 
@@ -171,12 +175,12 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Evertune  ·  [profiles/evertune.md](profiles/evertune.md)
 
-- **[Web]** [source](https://www.evertune.ai/resources/insights-on-ai/introducing-ai-retargeting-re-engage-high-intent-buyers-after-theyve-left-ai) — 2026-08-10: Evertune launched AI Retargeting in beta, turning AI category-research behavior into programmatic audiences distributed through The Trade Desk and Index Exchange. sourc
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/brian-stempeck-1705b35_geo-activity-7488573462207221761--8g1) — 2026-07-30: CEO Brian Stempeck published a sampling analysis arguing that repeated prompt runs produce more actionable AEO/GEO visibility data than broad sets of prompts run once. 
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/brian-stempeck-1705b35_profound-has-a-data-problem-their-sampling-activity-7483492381544042496-ZWLQ) — 2026-07-16: Stempeck challenged single-run visibility measurement using polling-style margins of error and argued that important prompts should be sampled repeatedly. source
-- **[Web]** [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-visibility-boost-ad-agent) — 2026-05-19: Evertune launched Visibility Boost, an invite-only advertising agent that identifies weak organic visibility in ChatGPT and manages paid campaigns against those gaps. s
-- **[Web]** [source](https://www.evertune.ai/resources/insights-on-ai/evertune-named-a-representative-vendor-in-the-inaugural-2026-gartner-market-guide-for-answer-engine-visibility-tools) — 2026-03-23: Gartner named Evertune a Representative Vendor in its inaugural Market Guide for Answer Engine Visibility Tools. source
-- **[Web]** [source](https://www.evertune.ai/resources/insights-on-ai/evertune-announces-ai-retargeting-through-new-partnerships-with-index-exchange-and-the-trade-desk) — 2026-02-11: Evertune integrated Partner Connect with Index Exchange and The Trade Desk to activate programmatic campaigns using AEO/GEO source intelligence. source
+- **[Web]** [source](https://www.evertune.ai/resources/insights-on-ai/introducing-ai-retargeting-re-engage-high-intent-buyers-after-theyve-left-ai) — 2026-08-10: Launched AI Retargeting in beta, identifying users who researched a category inside AI chatbots and pushing that audience to The Trade Desk and Index Exchange for open-
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/brian-stempeck-1705b35_geo-activity-7488573462207221761--8g1) — 2026-07-30: CEO Brian Stempeck published part two of his critique of Profound's sampling method, arguing that repeated sampling cuts the margin of error from roughly plus or minus 
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/brian-stempeck-1705b35_profound-has-a-data-problem-their-sampling-activity-7483492381544042496-ZWLQ) — 2026-07-16: Part one of the same critique argued that one daily run of a prompt cannot produce a usable margin of error, drawing 502 likes and 204 comments. source
+- **[Web]** [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-visibility-boost-ad-agent) — 2026-05-19: Launched Visibility Boost, an invite-only ad agent that buys ChatGPT placements against the queries where a brand's organic AI visibility is weakest. source
+- **[Web]** [source](https://www.evertune.ai/resources/insights-on-ai/evertune-named-a-representative-vendor-in-the-inaugural-2026-gartner-market-guide-for-answer-engine-visibility-tools) — 2026-03-23: Named a Representative Vendor in Gartner's inaugural 2026 Market Guide for Answer Engine Visibility Tools. source
+- **[News/Press]** [source](https://www.indexexchange.com/press/press-releases/evertune-new-partnerships-with-index-exchange-and-the-trade-desk/) — 2026-02-11: Extended Partner Connect into programmatic through Index Exchange and The Trade Desk, letting brands run campaigns on the publisher sites cited in AI recommendations. s
 
 ## Goodie AI  ·  [profiles/goodie-ai.md](profiles/goodie-ai.md)
 
@@ -213,15 +217,17 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## HubSpot  ·  [profiles/hubspot.md](profiles/hubspot.md)
 
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot reports that leads from AI engines converted up to three times better than other channels source
-- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot documents its internal agent-first GTM program and operating results source
-- **[Web]** [source](https://www.hubspot.com/company-news/how-we-operate-as-an-ai-first-company) — HubSpot reports company-wide adoption of AI across engineering and operations source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_woo-hoo-thrilled-to-announce-youspot-the-activity-7499106535822987264-0foC) — 2026-08-28: HubSpot Next and Dharmesh Shah launched YouSpot, an AI-native solo CRM with a $1 monthly introductory price for its first 1,000 customers. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_one-of-the-biggest-shifts-that-will-happen-activity-7494789848797499392-fRbd) — 2026-08-16: Dharmesh Shah introduced HubSpot Next in private beta and positioned HubSpot data as accessible to agents through API, CLI, and MCP. source
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-vs-profound) — 2026-08-14: HubSpot published a comparison with Profound that priced HubSpot AEO at $45 per month billed annually while promoting its bundled Marketing Hub tier. source
-- **[News/Press]** [source](https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2026-results) — 2026-08-05: HubSpot reported $911.7 million in quarterly revenue and 306,446 customers, while Data Agent, Prospecting Agent, and Customer Agent each passed 10,000 customer accounts
-- **[News/Press]** [source](https://ir.hubspot.com/news-releases/news-release-details/hubspot-announces-jerry-dischler-joins-board-directors) — 2026-08-05: HubSpot appointed former Google advertising and cloud applications executive Jerry Dischler to its board of directors. source
-- **[Web]** [source](https://knowledge.hubspot.com/integrations/set-up-and-use-the-hubspot-connector-for-claude) — 2026-07-31: HubSpot expanded its Claude connector with campaign creation, attribution, marketing-email analytics, revenue objects, Help Desk access, and administrative controls. so
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot's own AEO case study source
+- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — How HubSpot grows with agent-first GTM (AEO Agent drove 1,850% growth in qualified leads from AI answers) source
+- **[Web]** [source](https://www.hubspot.com/company-news/aeo-data-buyers-using-ai-search-more-likely-to-purchase) — Proprietary research: CRM buyers using AI search were 36% more likely to purchase source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dan-m-rosenthal_the-hubspot-cli-claude-code-will-completely-activity-7475155909128929281-j7dK) — RevOps practitioner wiring client workflows with the HubSpot CLI plus Claude Code source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_woo-hoo-thrilled-to-announce-youspot-the-activity-7499106535822987264-0foC) — 2026-08-28: HubSpot Next and Dharmesh Shah launched YouSpot, an AI-native personal CRM for one-person companies at a $1 a month intro price for the first 1,000 customers. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_one-of-the-biggest-shifts-that-will-happen-activity-7494789848797499392-fRbd) — 2026-08-16: Dharmesh Shah reframed agent readiness as an organizational problem, pitching an "open brain" available via API, CLI, and MCP, and named HubSpot Next as a private beta.
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-vs-profound) — 2026-08-14: Published a head-to-head comparison page against Profound, its fifth competitor-named alternatives page in eighteen days, listing HubSpot AEO at $45 a month against Pro
+- **[News/Press]** [source](https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2026-results) — 2026-08-05: Q2 revenue came in at $911.7M, up 20% as reported, but net new customers hit 7,000 against a 9,000 to 10,000 guide, with management attributing the miss to its own tria
+- **[News/Press]** [source](https://ir.hubspot.com/news-releases/news-release-details/hubspot-announces-jerry-dischler-joins-board-directors) — 2026-08-05: Jerry Dischler joined the board, bringing nearly 20 years at Google including running the Ads business and leading Cloud Applications. source
+- **[Web]** [source](https://knowledge.hubspot.com/integrations/set-up-and-use-the-hubspot-connector-for-claude) — 2026-07-31: Expanded the Claude connector with campaign creation, revenue and deal attribution, marketing-email analytics, and admin domain controls, billed as the first in a recur
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/jasonmlemkin_the-hubspot-agent-story-is-finally-real-activity-7461474798242549762-buIi) — Ranked #1 in the CRM category on Jason Lemkin's SaaStr Appy API Agent Grader in May 2026, tied with Lightfield and ahead of Salesforce, Attio, and Pipedrive. No G2, Gartner, or For
 
 ## iPullRank  ·  [profiles/ipullrank.md](profiles/ipullrank.md)
 
@@ -339,14 +345,14 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Scrunch AI  ·  [profiles/scrunch-ai.md](profiles/scrunch-ai.md)
 
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-/) — RunPod reported a 4x increase in monthly new paying customers and roughly 40 new customers per day from ChatGPT. source
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/site-diagnostics-always-on-action-plan-for-winning-ai-search) — 2026-08-19: Launched Site Diagnostics, an always-on product that scores page-level AI retrievability and citability and prioritizes remediation by predicted impact. source
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/surviving-the-clickpocalypse-ai-eating-the-news) — 2026-08-13: Published research finding that direct AI referrals accounted for 1.1% of post-conversation news visits in its analyzed dataset. source
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/keyword-volume-estimator-measure-ai-search-demand-and-whats-behind-it) — 2026-07-28: Released Keyword Volume Estimator in beta across all plans, adding AI-query demand, commercial-intent, topic, and 20-week trend data. source
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/agent-experience-platform) — 2026-07-08: Relaunched its product line under the Agent Experience Platform banner, organized around Signals, Site Diagnostics, and Optimizer. source
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/scrunch-is-now-a-sitecore-company/) — 2026-06-03: Sitecore acquired Scrunch and began folding its Agent Experience Platform into SitecoreAI; Bloomberg reported a price of approximately $225M, while official terms remai
-- **[Blog/Newsletter]** [source](https://scrunch.com/blog/scrunch-mcp-talk-to-and-act-on-ai-search-data-in-natural-language) — 2026-05-12: Launched Scrunch MCP with conversational analytics and write actions for brands, prompts, competitors, audits, and optimization workflows. source
-- **[News/Press]** [Source](https://www.prnewswire.com/news-releases/aeo-software-category-grows-over-2000-on-g2-as-half-of-b2b-buyers-start-their-search-with-ai-chatbots-over-google-302674557.html) — Scrunch was named a High Performer in G2's first AEO Grid for Winter 2026. Source
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-/) — RunPod turned ChatGPT into a top acquisition channel in 90 days, reporting ~40 new customers/day and 4x growth in monthly paying customers source
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/site-diagnostics-always-on-action-plan-for-winning-ai-search) — 2026-08-19: Launched Site Diagnostics, an always-on product that scores each page for AI retrievability and citability and ranks fixes by predicted impact, with no CDN integration 
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/surviving-the-clickpocalypse-ai-eating-the-news) — 2026-08-13: Published a study of millions of news-search events from February through June 2026 finding that direct AI referrals accounted for only 1.1% of post-conversation news v
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/keyword-volume-estimator-measure-ai-search-demand-and-whats-behind-it) — 2026-07-28: Launched Keyword Volume Estimator in beta on all plans, sizing weekly demand for AI-assistant queries from real consumer AI conversations rather than keyword matching. 
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/agent-experience-platform) — 2026-07-08: Relaunched the product line as the Agent Experience Platform, organized into Signals, Site Diagnostics, and Optimizer. source
+- **[News/Press]** [source](https://www.sitecore.com/company/newsroom/press-releases/2026/06/sitecore-acquires-scrunch-to-help-brands-influence-discovery--and-buying-decisions) — 2026-06-03: Sitecore acquired Scrunch and folded the Agent Experience Platform into SitecoreAI's content products; terms were undisclosed, though Bloomberg reported roughly $225M. 
+- **[Blog/Newsletter]** [source](https://scrunch.com/blog/scrunch-mcp-talk-to-and-act-on-ai-search-data-in-natural-language) — 2026-05-12: Launched Scrunch MCP, connecting its AI-search data to Claude, ChatGPT, and Copilot with both read and write actions, available on all plan levels. source
+- **[News/Press]** [PRNewswire](https://www.prnewswire.com/news-releases/aeo-software-category-grows-over-2000-on-g2-as-half-of-b2b-buyers-start-their-search-with-ai-chatbots-over-google-302674557.html) — Named a High Performer in G2's first AEO Grid, Winter 2026, alongside Otterly.AI, with Profound taking Leader status. PRNewswire
 
 ## Semrush (Enterprise AIO)  ·  [profiles/semrush.md](profiles/semrush.md)
 
