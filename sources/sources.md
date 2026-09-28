@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **262 sources across 38 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **260 sources across 38 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -23,8 +23,8 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AEO Changelog: What Moved This Week  ·  [changelog.md](changelog.md)
 
+- **[Web]** [Profiles refreshed: Ahrefs, Bluefish AI, Clay, HubSpot](https://stack.adamgtm.com/aeo/) — | 2026-09-27 | Profiles | Profiles refreshed: Ahrefs, Bluefish AI, Clay, HubSpot — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores pr
 - **[Web]** [New profile: Limy AI](https://stack.adamgtm.com/limy/) — | 2026-09-20 | Profiles | New profile: Limy AI — Limy AI joins the tracked set, scored and sourced. |
-- **[Web]** [Profiles refreshed: AthenaHQ, Clay, HubSpot, Siteimprove](https://stack.adamgtm.com/aeo/) — | 2026-09-20 | Profiles | Profiles refreshed: AthenaHQ, Clay, HubSpot, Siteimprove — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores 
 - **[Web]** [AI-visibility run 2026-08-23](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-08-23 | Data | AI-visibility run 2026-08-23 — 60 web-grounded answers across 4 engines. Most named: Profound (34), Otterly AI (29), Peec AI (29). adamgtm.com cited in 0/60. 
 - **[Web]** [The Stack gets a machine-readable face](https://stack.adamgtm.com/aeo-changelog/) — | 2026-06-12 | Guide | The Stack gets a machine-readable face — The category now ships a structured data.json — every vendor with scores, reasons, agent surfaces, and AI-visibility
 - **[Web]** [Sitecore acquires Scrunch AI](https://stack.adamgtm.com/scrunch-ai/) — | 2026-06-03 | Market | Sitecore acquires Scrunch AI — ~$225M per Bloomberg, terms undisclosed. With Adobe's Semrush acquisition closed in April, that's two consolidation signals i
@@ -32,14 +32,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Ahrefs  ·  [profiles/ahrefs.md](profiles/ahrefs.md)
 
-- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) — Ahrefs' internal Data Refresh Hub: an agent that refreshes 14 data-driven blog posts monthly, saving at least 20 hours a month at roughly 90% automation with human review source
-- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) — Five-article research series on AI citation patterns, generated and auto-updated monthly by Agent A on Brand Radar data source
-- **[Web]** [source](https://siliconangle.com/2026/08/12/ahrefs-launches-ai-agent-workspace-letaido-marketers-agencies/) — 2026-08-12: Launched Letaido, a standalone agent workspace from $99/month with native Ahrefs data access, always-on hosting for scheduled workflows, and connectors to Slack, HubSpo
-- **[X/Twitter]** [source](https://x.com/ahrefs/status/2087086648404103194) — 2026-08-11: Site Explorer shipped Adaptive, a traffic estimation model that factors in 15 SERP features including AI Overviews and featured snippets. source
-- **[X/Twitter]** [source](https://x.com/ahrefs/status/2086090063960563967) — 2026-08-08: Report Builder added Brand Radar reports to the AI visibility widget, carrying tracked prompts, tags, and project scope across automatically. source
-- **[X/Twitter]** [source](https://x.com/ahrefs/status/2085287428550496326) — 2026-08-06: Brand Radar re-based prompt volume and impression estimates from raw Google search volume to a platform-usage-adjusted figure, and published the derivation. source
-- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/new-features/) — 2026-07-30: Site Explorer's Top Pages report now shows how many AI responses each page appears in, across platforms. source
-- **[X/Twitter]** [source](https://x.com/ahrefs/status/2082028316186284190) — 2026-07-28: Brand Radar added Claude as a tracked platform, running on the official Claude API with web search enabled at 8 checks per update, for custom prompts only. source
+- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) — Ahrefs on automating its own data-content refresh with Letaido: 14 posts updated monthly, at least 20 hours saved per month source
+- **[X/Twitter]** [source](https://x.com/timsoulo/status/2102446325681860710) — 2026-09-22: Doubled API and MCP limits on all plans, arguing that data, not code, is now the bottleneck for marketers building their own tools. source
+- **[Web]** [source](https://siliconangle.com/2026/08/12/ahrefs-launches-ai-agent-workspace-letaido-marketers-agencies/) — 2026-08-12: Launched Letaido, a standalone agent workspace from $99/month with native Ahrefs data, always-on hosting, and connectors to Slack, HubSpot, WordPress, and Notion. sourc
+- **[X/Twitter]** [source](https://x.com/ahrefs/status/2087086648404103194) — 2026-08-11: Shipped Adaptive, a Site Explorer traffic model that factors in 15 SERP features including AI Overviews. source
+- **[X/Twitter]** [source](https://x.com/ahrefs/status/2086090063960563967) — 2026-08-08: Added Brand Radar reports to Report Builder's AI visibility widget, carrying over tracked prompts, tags, and project scope. source
+- **[X/Twitter]** [source](https://x.com/ahrefs/status/2085287428550496326) — 2026-08-06: Rebased Brand Radar prompt volumes from raw Google search volume to a figure adjusted by each AI platform's usage relative to Google. source
+- **[Blog/Newsletter]** [source](https://ahrefs.com/blog/new-features/) — 2026-07-30: Site Explorer's Top Pages report began showing how many AI responses each page appears in, across platforms. source
 
 ## AirOps  ·  [profiles/airops.md](profiles/airops.md)
 
@@ -92,13 +91,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Bluefish AI  ·  [profiles/bluefish-ai.md](profiles/bluefish-ai.md)
 
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/mmc-introduces-a-new-ai-methodology-for-understanding-culture-302841824.html) — Omnicom agency MMC built its WEATHERVaiNE cultural-intelligence product on the Bluefish platform. source
-- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/ai-ranks-brands-differently-for-every-audience) — 2026-08-07: Published research showing that AI brand visibility varies sharply by audience profile, using Costco's 77-point presence spread between two shopper segments as the exam
-- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/why-keyword-optimization-does-not-improve-ai-visibility) — 2026-08-05: Published its case against keyword and fixed-prompt optimization, positioning audience-segmented prompt simulation as the alternative. source
-- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/models-operate-on-topics-not-keywords) — 2026-07-31: Published an argument that AI models reward topical authority rather than isolated keyword optimization. source
-- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/synthetic-is-not-a-dirty-word) — 2026-07-27: Detailed its controlled synthetic-prompt methodology, combining AI behavioral data, search-demand validation, and brand input. source
-- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/where-retail-media-budgets-go-next) — 2026-07-06: Published its view that AI shopping assistants are becoming an e-commerce discovery channel that retail-media teams should measure and fund. source
-- **[Web]** [The GEO companies winning the AI search arms race](https://www.cbinsights.com/research/geo-companies-winning-ai-search/) — CB Insights named Bluefish a Category Leader among native AEO/GEO companies in its October 2025 market analysis, The GEO companies winning the AI search arms race.
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/mmc-introduces-a-new-ai-methodology-for-understanding-culture-302841824.html) — Omnicom agency MMC built its WEATHERVaiNE cultural-intelligence engine on Bluefish source
+- **[News/Press]** [source](https://www.globenewswire.com/news-release/2026/09/17/3364022/19098/en/bazaarvoice-and-bluefish-team-up-as-new-research-shows-9-in-10-shoppers-want-real-reviews-behind-ai-product-recommendations.html) — 2026-09-17: Partnered with Bazaarvoice to feed AEO insights into review campaigns across its 12,500+ brands and retailers. source
+- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/ai-ranks-brands-differently-for-every-audience) — 2026-08-07: Published research showing AI ranks brands differently by audience, with Costco at 84% presence for one segment and 7% for another. source
+- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/why-keyword-optimization-does-not-improve-ai-visibility) — 2026-08-05: Argued that keyword optimization does not improve AI visibility, positioning simulated prompts across audience segments as the alternative. source
+- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/models-operate-on-topics-not-keywords) — 2026-07-31: Argued that AI models reward topical authority over isolated keywords, citing Adobe and Microsoft commentary. source
+- **[Blog/Newsletter]** [source](https://www.bluefishai.com/blog/synthetic-is-not-a-dirty-word) — 2026-07-27: Made the case for controlled synthetic prompts as a more reliable AEO measurement baseline than fixed real-world queries. source
+- **[Web]** [CB Insights' market analysis](https://www.cbinsights.com/research/geo-companies-winning-ai-search/) — Named a Category Leader among AEO/GEO-native companies in CB Insights' market analysis (October 2025).
 
 ## Botify  ·  [profiles/botify.md](profiles/botify.md)
 
@@ -131,19 +130,19 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Clay  ·  [profiles/clay.md](profiles/clay.md)
 
-- **[Web]** [source](https://www.clay.com/customers/pendo) — Pendo surfaced ~13,000 top-fit accounts in two days for a multi-product AI launch source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_depthfirst-cut-google-ads-cpl-by-40-after-activity-7495909975320539136-AIn3) — depthfirst cut Google Ads cost-per-lead 40% after moving audiences into Clay Ads source
-- **[Web]** [source](https://www.clay.com/changelog/clay-ads) — Clay Ads 2.0 launch, with Northbeam driving 5x SQLs off Clay-built lookalikes source
+- **[Web]** [source](https://www.clay.com/customers/pendo) — Pendo surfaced about 13,000 top-fit accounts in two days for a multi-product AI launch source
 - **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_eleanor-dorfman-head-of-industries-commercial-activity-7463266048805539840-b-zr) — Anthropic's Eleanor Dorfman uses Clay to enrich and score every inbound lead source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_depthfirst-cut-google-ads-cpl-by-40-after-activity-7495909975320539136-AIn3) — depthfirst cut Google Ads cost per lead 40% with Clay Ads source
 - **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat) — Verkada's Cody Leovic on first-party signals as a GTM moat source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/everettberry_last-week-was-my-last-week-at-clay-i-am-activity-7506535981144219648-MLAg) — 2026-09-18: Everett Berry, Clay's Head of GTM Engineering and the person most publicly identified with the discipline, announced his departure to go back to a Clay customer. source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/legacy-try-before-you-buy) — 2026-09-17: Customers on legacy Starter, Explorer, and Pro plans got free access to Audiences, Account Agents, Workflows, the Plugin, and Sequencer through the end of the year. sou
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/build-custom-gtm-tooling-on-clay) — 2026-09-15: The Clay API and CLI shipped with an agent plugin, so a coding agent can find prospects, enrich them, and build workflows from the terminal. source
-- **[Web]** [source](https://www.clay.com/community-scholarship) — 2026-09-11: Clay launched a $1,000,000 community scholarship covering partner academies and cohorts for people training as GTM engineers. source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/series-d) — 2026-09-09: Clay raised a $115M Series D at a $7.1B valuation led by Wellington, reporting 4x revenue growth in 2025, 17,000+ customers, and 80% of the Forbes AI 50. source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/clay-email-sequencer) — 2026-09-01: The Clay email sequencer reached general availability, pulling sourcing, enrichment, and outbound execution into one product. source
-- **[LinkedIn]** [Forbes AI 50](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — No G2, Gartner, or Forrester placement in the public record. Named to the Forbes AI 50 in April 2026 as the only GTM company on the list, and ranked #3 on Brex's Spring 2026 list o
-- **[LinkedIn]** [Brex's Spring 2026 list](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — No G2, Gartner, or Forrester placement in the public record. Named to the Forbes AI 50 in April 2026 as the only GTM company on the list, and ranked #3 on Brex's Spring 2026 list o
+- **[Web]** [source](https://www.clay.com/changelog/clay-ads) — Clay Ads 2.0 launch, with Northbeam driving 5x SQLs from Clay-built lookalikes source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/clay-agent-plugin-use-cases) — 2026-09-24: Published nine internal workflows built on its Agent Plugin, eight of them tied to specific GTM roles. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/claygent-experiment-speed-to-lead) — 2026-09-22: Had Claygents submit 6,346 demo and contact forms and found only 32% got an email reply and 96% of companies never called. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/everettberry_last-week-was-my-last-week-at-clay-i-am-activity-7506535981144219648-MLAg) — 2026-09-18: Head of GTM Engineering Everett Berry left Clay to work at a Clay customer. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/legacy-try-before-you-buy) — 2026-09-17: Opened Audiences, Account Agents, Workflows, the API and CLI plugin, and Sequencer to legacy Starter, Explorer, and Pro customers through year end. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/build-custom-gtm-tooling-on-clay) — 2026-09-15: Made its API and CLI officially available, installed by pasting one sentence into Claude, Codex, or Cursor. source
+- **[Web]** [source](https://www.clay.com/community-scholarship) — 2026-09-11: Launched a $1,000,000 Community Scholarship to fund GTM engineer training. source
+- **[LinkedIn]** [Forbes AI 50](https://www.linkedin.com/posts/grow-with-clay_we-made-the-forbes-ai-50-list-again-activity-7450559404900306944-Ikgi) — Named to the Forbes AI 50 again in April 2026, the only GTM company on the list by Clay's account. Ranked #3 on Brex's Spring 2026 list of fastest-growing software vendors by spend
+- **[LinkedIn]** [Brex's Spring 2026 list](https://www.linkedin.com/posts/grow-with-clay_new-brex-just-dropped-its-spring-2026-list-activity-7462592937160351745-ZhpS) — Named to the Forbes AI 50 again in April 2026, the only GTM company on the list by Clay's account. Ranked #3 on Brex's Spring 2026 list of fastest-growing software vendors by spend
 
 ## Conductor  ·  [profiles/conductor.md](profiles/conductor.md)
 
@@ -221,16 +220,15 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## HubSpot  ·  [profiles/hubspot.md](profiles/hubspot.md)
 
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot on its own AEO results: leads from AI engines converting up to 3x better (HubSpot's own data) source
-- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot running agent-first GTM on itself: AEO Agent credited with 1,850% growth in qualified leads from AI-generated answers, Q1 2025 to Q1 2026 (HubSpot's own data) source
-- **[Web]** [source](https://www.hubspot.com/company-news/aeo-data-buyers-using-ai-search-more-likely-to-purchase) — Proprietary buyer research: CRM buyers using AI search were 36% more likely to purchase, and AEO-optimizing companies generated 170% more MQLs (HubSpot's own data, and HubSpot sell
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/christopher-tveter_hubspot-dreamforce-unbound-activity-7506316249677807616-1nAX) — 2026-09-18: HubSpot implementation partner Chris Tveter published a comparison arguing HubSpot shipped its Claude connector on 2025-07-29, free on every tier including Free, fourte
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/yaminirangan_at-unbound-i-shared-what-weve-learned-from-activity-7506150565077307392-y6s9) — 2026-09-17: CEO Yamini Rangan used her UNBOUND keynote to put a number on the gap: roughly 90% of companies use AI, only 6% report transformational results, with no published metho
-- **[Web]** [source](https://www.hubspot.com/company-news/hubspot-and-openai-deepen-partnership) — 2026-09-16: UNBOUND day one: a rebuilt Breeze Assistant over a self-updating Smart CRM, a new Marketing Studio, and a deepened OpenAI partnership making HubSpot the first CRM to ru
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/yaminirangan_partner-day-at-unbound-was-incredible-today-activity-7505746916018708480-Y_TF) — 2026-09-15: Rangan told 1,300-plus partners on Partner Day to own data and context services, moving the billable work from implementation to context preparation. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/hubspot_some-of-your-marketers-live-in-claude-others-activity-7505267441661562880-cLWq) — 2026-09-14: HubSpot claimed to be the first and only CRM with live connectors across Claude, Gemini, ChatGPT and Microsoft Copilot, available to all customers, a vendor claim with 
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_unbound-unbound26-activity-7504243910907564032-pIop) — 2026-09-11: Dharmesh Shah announced that INBOUND is now UNBOUND, retiring from its own conference the word for the category HubSpot invented. source
-- **[LinkedIn]** [ranked HubSpot #1 in the CRM category](https://www.linkedin.com/posts/jasonmlemkin_the-hubspot-agent-story-is-finally-real-activity-7461474798242549762-buIi) — No G2, Gartner or Forrester placement appears in the public record for this profile. The closest third-party read is SaaStr's Appy API Agent Grader (May 2026), which ranked HubSpot
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot on using its own AEO tool to grow visibility across LLMs source
+- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot reports its AEO Agent drove 1,850% growth in qualified leads from AI answers, Q1 2025 to Q1 2026 source
+- **[News/Press]** [source](https://rallies.ai/news/haatch-exits-trigify-stake-as-hubspot-buys-sales-signals-startup-in-cash-at-up-to-353x-return-3849f0ed7d0e51ac) — 2026-09-23: Acquired the Trigify team, a signal-monitoring platform for warm outbound, and is winding down the standalone product. source
+- **[Web]** [source](https://www.hubspot.com/company-news/hubspot-and-openai-deepen-partnership) — 2026-09-16: Deepened its OpenAI partnership and billed itself as the first CRM to run and measure ChatGPT Ads. source
+- **[Web]** [source](https://www.hubspot.com/company-news/fall-26-spotlight) — 2026-09-16: Rebuilt Breeze Assistant as one surface over the platform, on a Smart CRM that updates itself from calls, emails and meetings, and launched Marketing Studio. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/hubspot_some-of-your-marketers-live-in-claude-others-activity-7505267441661562880-cLWq) — 2026-09-14: Claimed live connectors into Claude, ChatGPT, Gemini and Microsoft Copilot, available to all customers. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_unbound-unbound26-activity-7504243910907564032-pIop) — 2026-09-11: Renamed its 15-year-old INBOUND conference to UNBOUND. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_woo-hoo-thrilled-to-announce-youspot-the-activity-7499106535822987264-0foC) — 2026-08-28: Launched YouSpot, a $1/month solo CRM for one-person companies, under the separate HubSpot Next brand. source
+- **[LinkedIn]** [Appy API Agent Grader](https://www.linkedin.com/posts/jasonmlemkin_the-hubspot-agent-story-is-finally-real-activity-7461474798242549762-buIi) — Ranked #1 in the CRM category, tied with Lightfield, in SaaStr's Appy API Agent Grader (May 2026), ahead of Salesforce, Attio and Pipedrive.
 
 ## iPullRank  ·  [profiles/ipullrank.md](profiles/ipullrank.md)
 
