@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **260 sources across 38 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **258 sources across 38 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -23,7 +23,7 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AEO Changelog: What Moved This Week  ·  [changelog.md](changelog.md)
 
-- **[Web]** [Profiles refreshed: Ahrefs, Bluefish AI, Clay, HubSpot](https://stack.adamgtm.com/aeo/) — | 2026-09-27 | Profiles | Profiles refreshed: Ahrefs, Bluefish AI, Clay, HubSpot — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores pr
+- **[Web]** [Profiles refreshed: AirOps, Conductor, HubSpot](https://stack.adamgtm.com/aeo/) — | 2026-10-04 | Profiles | Profiles refreshed: AirOps, Conductor, HubSpot — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved 
 - **[Web]** [New profile: Limy AI](https://stack.adamgtm.com/limy/) — | 2026-09-20 | Profiles | New profile: Limy AI — Limy AI joins the tracked set, scored and sourced. |
 - **[Web]** [AI-visibility run 2026-08-23](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-08-23 | Data | AI-visibility run 2026-08-23 — 60 web-grounded answers across 4 engines. Most named: Profound (34), Otterly AI (29), Peec AI (29). adamgtm.com cited in 0/60. 
 - **[Web]** [The Stack gets a machine-readable face](https://stack.adamgtm.com/aeo-changelog/) — | 2026-06-12 | Guide | The Stack gets a machine-readable face — The category now ships a structured data.json — every vendor with scores, reasons, agent surfaces, and AI-visibility
@@ -42,16 +42,15 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AirOps  ·  [profiles/airops.md](profiles/airops.md)
 
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/brainlabs-customer-story) — Brainlabs grew AI share of voice from 28.57% to 38.67% over three months, running content marketing with one person source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/legalzoom-customer-story) — LegalZoom cut article refresh time 90% and reported $600K+ in savings source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio's one-person marketing team drove 46% more clicks in 28 days from sales-call-derived content source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_customer-story-airops-claude-activity-7453110455281111041-sEt1) — Anthropic published a case study on the AirOps collaboration: 2x productivity, 5x revenue growth, 300% content velocity for Carta source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/airopshq_a-new-buyer-journey-requires-a-new-strategy-activity-7503091049435807744-dzbB) — 2026-09-08: Positioned against both AI visibility tools and execution agencies, naming the agent "your brand's second customer." source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/the-next-chapter-for-airops) — 2026-09-02: Launched AirOps Services, an end-to-end strategy and execution layer across owned content, external placements, AI ads, community, social, and influencers. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/winners-and-losers-of-ai-search-kevin-indig-webinar) — 2026-08-28: Published a webinar recap with Kevin Indig drawing on over 1 million AI search answers and more than 100,000 citations. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/fastest-growing-source-in-ai-search) — 2026-08-11: Research found creator and social content is the fastest-growing citation source in AI search, up 140% over eleven months while owned brand pages fell 10%. source
-- **[Blog/Newsletter]** [source](https://www.airops.com/blog/ai-search-is-moving-from-answers-to-actions) — 2026-08-07: Published the recommend-vs-implement study: across 1,350 trials in Claude Code, Codex, and Cursor, the winning brand changed in 232 of 449 matched comparisons. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/alexhalliday_today-were-launching-quill-your-ai-agent-activity-7460305455597330432-nGvh) — 2026-05-13: Launched Quill at AirOps Next NYC, an end-to-end AI search agent that finds gaps, closes them, and ties actions back to metrics. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/brainlabs-customer-story) — Brainlabs increased AI share of voice from 28.57% to 38.67% over three months. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/legalzoom-customer-story) — LegalZoom reported more than $600K in savings and a 90% reduction in article refresh time. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/skio-customer-story) — Skio reported a 46.1% increase in clicks from a content pipeline operated by one marketer. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/introducing-ai-ads-in-airops) — 2026-09-24: AirOps launched AI Ads, adding tools to identify, create, and measure advertising inside AI answers. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/airopshq_a-new-buyer-journey-requires-a-new-strategy-activity-7503091049435807744-dzbB) — 2026-09-08: AirOps repositioned around AI discovery programs and described the agent as a brand’s second customer. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/the-next-chapter-for-airops) — 2026-09-02: AirOps launched AirOps Services, pairing its platform with strategy and execution across content, AI ads, community, social, and influencer channels. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/winners-and-losers-of-ai-search-kevin-indig-webinar) — 2026-08-28: AirOps published research arguing that search rankings remain foundational to AI visibility while trust signals and off-site presence influence citations. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/fastest-growing-source-in-ai-search) — 2026-08-11: AirOps reported that creator and social content’s share of AI-search citations rose 140% over eleven months, based on roughly 3.5 billion citations. source
+- **[Blog/Newsletter]** [source](https://www.airops.com/blog/ai-search-is-moving-from-answers-to-actions) — 2026-08-07: AirOps found that the product agents recommended differed from the product they preferred to implement in 232 of 449 matched comparisons. source
 
 ## AIVO  ·  [profiles/aivo-meridian.md](profiles/aivo-meridian.md)
 
@@ -146,13 +145,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Conductor  ·  [profiles/conductor.md](profiles/conductor.md)
 
-- **[Blog/Newsletter]** [source](https://www.conductor.com/blog/content-api-release/) — 2026-07-29: Launched Content API, exposing AEO and SEO research, draft generation, and content scoring to external content systems, with Acquia as the first named integration partn
-- **[Blog/Newsletter]** [source](https://www.conductor.com/blog/2026-pages-release/) — 2026-07-23: Launched Pages Report, combining AI visibility, traditional search rankings, engagement metrics, technical health, and page-level change history in one view. source
-- **[News/Press]** [source](https://www.prnewswire.com/news-releases/optimizely-launches-full-aeo-platform-to-help-marketers-understand-and-act-on-ai-driven-content-discovery-302795999.html) — 2026-06-10: Expanded its distribution through an exclusive Optimizely partnership combining Conductor's AEO and SEO intelligence with analytics and three autonomous agents. source
-- **[News/Press]** [source](https://www.businesswire.com/news/home/20260420121997/en/Conductor-Launches-Enterprise-AgentStack-to-Power-the-Next-Era-of-AI-Visibility) — 2026-04-20: Launched AgentStack, combining native LLM surfaces, APIs, an MCP server, and turnkey agents for enterprise AEO workflows. source
-- **[Web]** [source](https://www.conductor.com/academy/state-of-aeo-geo-report/) — 2026-04-14: Published its State of AEO/GEO in 2026 report, based on a vendor-run survey of more than 250 enterprise executives and functional leaders. source
-- **[Web]** [source](https://martechseries.com/content/conductor-delivers-next-generation-ai-search-performance-introducing-the-industrys-only-system-of-record-for-aeo/) — 2026-04-01: Expanded AI Search Performance capabilities spanning AI-visibility measurement, content recommendations, and execution. source
-- **[News/Press]** [G2's inaugural AEO Grid](https://company.g2.com/news/inside-the-2000-percent-growth-of-the-aeo-software-category-on-g2) — Named a Contender on G2's inaugural AEO Grid for Winter 2026.
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/conductor-inc-_ask-conductor-activity-7510700435901583360-NAjC) — 2026-09-29: Conductor announced Ask Conductor, a conversational layer for analyzing brand visibility, sentiment, topic performance, competitors, and recommended actions. source
+- **[Blog/Newsletter]** [source](https://www.conductor.com/blog/content-api-release/) — 2026-07-29: Conductor launched its Content API to deliver AEO and SEO research, generation, and scoring capabilities inside external content systems, with Acquia as the first named
+- **[Blog/Newsletter]** [source](https://www.conductor.com/blog/2026-pages-release/) — 2026-07-23: Conductor launched Pages Report, combining AI visibility, search rankings, engagement metrics, technical health, and page-level change histories in one view. source
+- **[News/Press]** [source](https://www.prnewswire.com/news-releases/optimizely-launches-full-aeo-platform-to-help-marketers-understand-and-act-on-ai-driven-content-discovery-302795999.html) — 2026-06-10: Optimizely launched an AEO platform through an exclusive Conductor partnership, combining Conductor's AEO and SEO intelligence with Optimizely analytics and autonomous 
+- **[News/Press]** [source](https://www.businesswire.com/news/home/20260420121997/en/Conductor-Launches-Enterprise-AgentStack-to-Power-the-Next-Era-of-AI-Visibility) — 2026-04-20: Conductor launched AgentStack, bundling native LLM applications, APIs, an MCP server, and turnkey AEO agents for enterprise content teams. source
+- **[Web]** [source](https://www.conductor.com/academy/state-of-aeo-geo-report/) — 2026-04-14: Conductor published its State of AEO/GEO in 2026 report, based on a vendor-run survey of more than 250 enterprise executives and marketing leaders. source
+- **[News/Press]** [G2's inaugural AEO Grid](https://company.g2.com/news/inside-the-2000-percent-growth-of-the-aeo-software-category-on-g2) — Named a Contender in G2's inaugural AEO Grid for Winter 2026.
 
 ## daydream  ·  [profiles/daydream.md](profiles/daydream.md)
 
@@ -220,15 +219,14 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## HubSpot  ·  [profiles/hubspot.md](profiles/hubspot.md)
 
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot on using its own AEO tool to grow visibility across LLMs source
-- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot reports its AEO Agent drove 1,850% growth in qualified leads from AI answers, Q1 2025 to Q1 2026 source
-- **[News/Press]** [source](https://rallies.ai/news/haatch-exits-trigify-stake-as-hubspot-buys-sales-signals-startup-in-cash-at-up-to-353x-return-3849f0ed7d0e51ac) — 2026-09-23: Acquired the Trigify team, a signal-monitoring platform for warm outbound, and is winding down the standalone product. source
-- **[Web]** [source](https://www.hubspot.com/company-news/hubspot-and-openai-deepen-partnership) — 2026-09-16: Deepened its OpenAI partnership and billed itself as the first CRM to run and measure ChatGPT Ads. source
-- **[Web]** [source](https://www.hubspot.com/company-news/fall-26-spotlight) — 2026-09-16: Rebuilt Breeze Assistant as one surface over the platform, on a Smart CRM that updates itself from calls, emails and meetings, and launched Marketing Studio. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/hubspot_some-of-your-marketers-live-in-claude-others-activity-7505267441661562880-cLWq) — 2026-09-14: Claimed live connectors into Claude, ChatGPT, Gemini and Microsoft Copilot, available to all customers. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_unbound-unbound26-activity-7504243910907564032-pIop) — 2026-09-11: Renamed its 15-year-old INBOUND conference to UNBOUND. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_woo-hoo-thrilled-to-announce-youspot-the-activity-7499106535822987264-0foC) — 2026-08-28: Launched YouSpot, a $1/month solo CRM for one-person companies, under the separate HubSpot Next brand. source
-- **[LinkedIn]** [Appy API Agent Grader](https://www.linkedin.com/posts/jasonmlemkin_the-hubspot-agent-story-is-finally-real-activity-7461474798242549762-buIi) — Ranked #1 in the CRM category, tied with Lightfield, in SaaStr's Appy API Agent Grader (May 2026), ahead of Salesforce, Attio and Pipedrive.
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot's internal AEO program and AI-search conversion results source
+- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot's agent-first GTM implementation source
+- **[Web]** [source](https://www.hubspot.com/products/artificial-intelligence/breeze-ai-agents) — 2026-10-01: HubSpot added a visible $7-per-month self-serve purchase option to Agent Hub while retaining credit-based pricing for custom agents. source
+- **[Web]** [source](https://openai.com/index/devday-2026-recap/) — 2026-09-29: HubSpot became an OpenAI Marketplace launch partner, allowing eligible enterprises to apply existing OpenAI spending commitments toward HubSpot purchases. source
+- **[Web]** [source](https://knowledge.hubspot.com/ai/review-estimated-credit-costs-when-using-agents) — 2026-09-28: HubSpot documented that all of its agents consume HubSpot Credits, extending outcome-based pricing into a broader usage model. source
+- **[Web]** [source](https://www.trigify.io/) — 2026-09-23: HubSpot acquired the Trigify team and its signal-monitoring expertise; the standalone product began winding down without customer-account migration. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/christopher-tveter_hubspot-dreamforce-unbound-activity-7506316249677807616-1nAX) — 2026-09-18: A HubSpot implementation partner documented that the Claude connector is available across every HubSpot tier, including Free, without connector-level credit consumption
+- **[Web]** [source](https://www.hubspot.com/company-news/fall-26-spotlight) — 2026-09-16: HubSpot introduced a rebuilt Breeze Assistant, self-updating Smart CRM, Marketing Studio, and an integration for running and measuring ChatGPT Ads. source
 
 ## iPullRank  ·  [profiles/ipullrank.md](profiles/ipullrank.md)
 
