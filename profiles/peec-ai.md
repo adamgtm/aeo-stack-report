@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/peec-ai/](https://stack.adamgtm.com/peec-ai/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/peec-ai/ · last updated 2026-07-19 -->
+<!-- canonical: https://stack.adamgtm.com/peec-ai/ · last updated 2026-08-23 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
-# Peec AI
+# Peec Ai
 
-An AEO/GEO analytics platform that tracks brand visibility across ChatGPT, Perplexity, and Google AI Overviews, used by Squarespace, Hugo Boss, and Attio. $29M raised with a ~$200M valuation round in talks and $10M ARR. Recent releases: Query Fanouts, AI Shopping Analytics, and a citation-research team.
+AI search analytics platform in the AEO/GEO category, built for mid-market teams and agencies. Customers include Chanel, Squarespace, and Hugo Boss. About $29M raised, with $10M ARR and 2,500+ customers as of May 2026. Recent releases: Brand Perception, an Ads page tracking competitor placements inside ChatGPT, and AI Shopping Analytics.
 
 
 ## Scores
@@ -15,23 +15,23 @@ An AEO/GEO analytics platform that tracks brand visibility across ChatGPT, Perpl
 | Velocity | 86 | Fast specialist shipping; capable MCP recently added |
 | Agent-Readiness | High | Capable MCP server plus monitoring API |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 
-Peec AI is the mid-market and agency play in AEO. It launched in Berlin in 2025 and grew from €650K ARR four months in to a company-confirmed $10M ARR by May 2026, with 2,500+ customers and 70+ employees, on the bet that volume buyers rather than the enterprise accounts Profound chases are where AI-search measurement scales. It tracks brand visibility across eight engines, the broadest coverage in the category, and differentiates on UI scraping of real interactions rather than API-only sampling.
+Peec AI tracks how often, where, and why AI answer engines cite a brand. It monitors eight engines, with ChatGPT, Perplexity, and Google AI Overviews on every plan and Claude, Gemini, DeepSeek, Grok, Copilot, Llama, and Google AI Mode sold as add-ons at roughly 20 to 30 euros per engine per month. The stated technical differentiator is UI scraping of real interactions rather than the API-only sampling competitors use, plus a data pipeline that filters raw query sets down to brand and purchase questions instead of running generic prompts.
 
-The product has widened steadily from a citation tracker into prescriptive Actions, crawl analytics (Crawl Insights and Crawlability), an MCP server, and SKU-level AI Shopping Analytics for conversational commerce. A July 2026 Query Fanouts page exposes the underlying searches AI engines run before answering, and an agency program with dedicated tiers formalizes agencies as a core distribution channel.
+The positioning is volume, not enterprise. CEO Marius Meiners called it "more of a mid-market mass product," with two thirds of customers at 100 to 200 employees, and the company formalized that with dedicated agency tiers, an agency partner program, and multi-client prompt tracking without per-seat fees. The product has widened steadily from a citation tracker: Actions turns visibility data into a prioritized worklist, Crawl Insights and Crawlability cover the technical side, AI Shopping Analytics extends tracking to SKU-level product visibility, and Query Fanouts exposes the underlying searches engines run before answering.
 
-On the category-POV side, Peec stood up a research team to reverse-engineer how answer engines select and recommend brands. CPO Malte Landwehr frames the durability case directly: "Many tactics that currently work well for short-term gains in AI visibility will stop working in a year." The research output runs alongside the roadmap as a credibility play.
+The category POV is a durability bet. Peec stood up a research team to reverse-engineer how answer engines select brands, hiring Metehan Yesilyurt, Tomek Rudzki, and CPO Malte Landwehr, who says "many tactics that currently work well for short-term gains in AI visibility will stop working in a year." Two 2026 launches show where the measurement thesis is going. Brand Perception scores what AI thinks about a brand rather than how often it names one, and the Ads page monitors paid placements inside ChatGPT answers, a concession that earned and paid visibility will sit side by side in the same answer.
 
 ## Best for
 
-Mid-market and agency teams that want broad multi-engine AI-search visibility tracking at volume pricing, rather than enterprise-first tooling.
+Mid-market marketing teams and agencies that need multi-client AI visibility tracking with self-serve pricing rather than an enterprise contract.
 
 ## Pricing & trial
 
-Self-serve tiered pricing from €75/month (25 prompts) and €169/month (100 prompts) up to enterprise from €424/month, with additional AI engines sold à la carte at roughly €20 to €30 each per month and API access gated to the top plan. [Pricing](https://peec.ai/pricing).
+Public self-serve tiers, reported at 75 euros a month for 25 prompts, 169 euros for 100 prompts, and enterprise from 424 euros, with API access gated to the 499 euro Enterprise plan and separate agency tiers at [peec.ai/pricing-agencies](https://peec.ai/pricing-agencies). No free trial disclosed in public sources. [Pricing](https://peec.ai/pricing).
 
 ## Agent Experience
 
@@ -45,43 +45,43 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | Yes | [docs](https://docs.peec.ai/llms.txt) |
 
-A strong build-on surface: a read/write MCP server integrated with Claude, Cursor, and VS Code, plus a Customer API and a Looker Studio connector, and recurring MCP build competitions, though full API access is gated to the top plan.
+Strong build-on surface for a mid-market vendor: an MCP server with read and write operations and bulk actions across up to 50 entities, a Customer API that exposes Brand Perception and AI Shopping data, public docs with an llms.txt, and a Looker Studio connector for the reporting path.
 
 ## Reference customers
 
-Squarespace, Hugo Boss, Attio, TUI, Chanel, Axel Springer, ElevenLabs, n8n, Peak Ace, DEPT.
+Chanel, Squarespace, Hugo Boss, Axel Springer, ElevenLabs, TUI, n8n, Attio, Peak Ace, DEPT.
 
 ## Case studies & customer stories
 
-- Momentum: 10x AI-search visibility increase, 2x AI-search sessions, outranking Salesforce and Zapier on dozens of prompts [source](https://peec.ai/blog/how-momentum-boosted-ai-search-visibility-by-10x-with-peec-ai)
-- Mint Position (agency): 16% ChatGPT visibility lift in 90 days for fintech clients, #1 most-cited domain for a client on SME-funding queries [source](https://peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai)
+- Momentum: 10x AI search visibility, 2x sessions from AI search [source](https://peec.ai/blog/how-momentum-boosted-ai-search-visibility-by-10x-with-peec-ai)
+- Mint Position: 16% ChatGPT visibility lift in 90 days for client Duckfund [source](https://peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai)
 
 ## Recent moves
 
+- **2026-08-11**: Published research finding AI assistants describe companies more positively when the brand name contains positive-sounding words, an effect that fades once the model has real information about the company. [source](https://peec.ai/blog/ai-assistants-judge-your-company-by-its-name-i-measured-how-much)
+- **2026-08-06**: Published research arguing AI search visibility has to be diagnosed in three stages, retrieval, reranking, and generation, since a relevant page can still lose the citation at the reranking gate. [source](https://peec.ai/blog/rerankers-for-geo-aeo-how-ai-search-chooses-passages-and-sources)
+- **2026-08-03**: Brand Perception went generally available, scoring what attributes AI associates with a brand and how it holds ground on them, with both scores exposed via the Customer API and MCP server; the Ads page moved to GA in the same release. [source](https://peec.ai/changelog)
+- **2026-07-28**: Launched an Ads page that monitors competitor advertising inside ChatGPT responses, covering advertiser identity, ad copy, landing pages, bidding on branded queries, and estimated spend tiers. [source](https://peec.ai/blog/introducing-ads-page)
 - **2026-07-06**: Shipped a Query Fanouts page exposing the underlying searches AI engines run before answering, and folded AI Shopping data into the MCP server and Customer API. [source](https://peec.ai/changelog)
-- **2026-06-30**: Published research on why server logs matter for AI search strategy, pairing crawl-pattern analysis with citation data to diagnose visibility problems. [source](https://peec.ai/blog/why-server-logs-are-crucial-for-ai-search-strategy)
-- **2026-06-26**: Reported to be in talks to raise ~$10M at a ~$200M pre-money valuation, roughly double the valuation implied by its November 2025 Series A, though the round remains unclosed per Sifted. [source](https://sifted.eu/articles/peec-ai-fundraise-new-valuation)
-- **2026-06-26**: Introduced a research team dedicated to reverse-engineering how ChatGPT, Perplexity, Google AI Mode, and Claude select and recommend brands. [source](https://www.globenewswire.com/news-release/2026/06/26/3318325/0/en/Peec-AI-the-AI-visibility-monitoring-company-assembles-a-team-to-decode-how-ChatGPT-and-other-LLMs-recommend-brands.html)
-- **2026-06-17**: Launched AI Shopping Analytics, extending the platform from brand-level tracking into SKU-level product visibility inside AI shopping answers. [source](https://peec.ai/blog/ai-shopping-analytics)
-- **2026-06-11**: Published a tutorial on using MCP for SEOs, GEOs, and AEOs, pulling Search Console, Peec AI, and Screaming Frog data through MCP-connected models. [source](https://peec.ai/blog/using-mcp-for-seos-geos-and-aeos)
+- **2026-06-30**: Published a post on pairing server log analysis with citation data to diagnose AI search visibility, breaking AI bot traffic into training, indexing, and user-query types. [source](https://peec.ai/blog/why-server-logs-are-crucial-for-ai-search-strategy)
 
 ## Company, Financials & Funding History
 
-Peec AI was founded in early 2025 in Berlin by Marius Meiners (CEO, a former esports pro turned software engineer with a stint in PwC's venture-deals practice), Tobias Siwonia (CTO, a serial AI and consumer-tech founder), and Daniel Drabo (CRO). The three met in Antler's Berlin Winter 2024 cohort and grew the company from launch to a company-confirmed $10M ARR in about 16 months.
+Founded in Berlin by Marius Meiners (CEO), Tobias Siwonia (CTO), and Daniel Drabo (CRO), who met in Antler's Berlin Winter 2024 cohort and launched the product in early 2025. Sixteen months later the company reported $10M ARR, 2,500+ customers, 70+ employees, and an open New York office.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2026-06 | New round (in talks) | ~$10M at a ~$200M pre-money valuation, unclosed per Sifted |
-| 2025-11 | Series A | $21M (Singular), with Antler, Combination VC, identity.vc, S20; >$100M post-money, ~$29M total raised |
-| 2025-07 | Seed | €5.2M (20VC), with Antler, Foreword VC, Identity.VC, Combination VC, S20 |
-| 2025-04 | Pre-seed | €1.8M (Antler participating) |
+| 2026-06 | In talks | ~$10M at a ~$200M pre-money valuation, open and unclosed as of Sifted's June 26 report |
+| 2025-11 | Series A | $21M (Singular), with Antler, Combination VC, identity.vc, S20; ~$29M total raised at a >$100M post-money valuation |
+| 2025-07 | Seed | 5.2M euros (20VC), with Antler, Foreword VC, Identity.VC, Combination VC, S20; closed less than four weeks after the pre-seed |
+| 2025-04 | Pre-Seed | 1.8M euros (Antler participating) |
 
 ## Analyst placement
 
-Carries a 4.9/5 rating across 11 verified G2 reviews in the AI search / answer-engine-optimization category, where the Winter 2026 Grid "Leader" badge is held by Profound rather than Peec, with Peec positioned as the accessible mid-market and agency option; also ranked #2 in Harmonic's Q2 2026 Hot 25. [source](https://www.g2.com/products/peec-ai/reviews)
+Rated 4.9 out of 5 across 11 verified reviews on [G2](https://www.g2.com/products/peec-ai/reviews); the Winter 2026 G2 Grid Leader designation in the AEO category is held by Profound, not Peec. Ranked #2 in Harmonic's Q2 2026 Hot 25 and featured by Ramp as a breakout software vendor, [per the company's May 2026 release](https://www.globenewswire.com/news-release/2026/05/28/3303009/0/en/peec-ai-hits-10m-arr-16-months-after-launch-as-brands-race-to-optimize-for-ai-search.html).
 
 ## Links
 
 [Homepage](https://peec.ai) · [Pricing](https://peec.ai/pricing) · [Docs](https://docs.peec.ai/) · [LinkedIn](https://linkedin.com/company/peec-ai)
 
-*Last updated 2026-07-19 · refreshed weekly*
+*Last updated 2026-08-23 · refreshed weekly*

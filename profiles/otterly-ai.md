@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/otterly-ai/](https://stack.adamgtm.com/otterly-ai/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/otterly-ai/ · last updated 2026-07-19 -->
+<!-- canonical: https://stack.adamgtm.com/otterly-ai/ · last updated 2026-08-30 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # OtterlyAI
 
-Bootstrapped AI-search monitoring platform, positioned as 'Semrush for AI search,' tracking brand visibility across six AI engines for customers like BenQ, Videoloft, and Bacula Enterprise; recent releases include a Public API, a packaged Claude Skill, and a 101-workflow Marketplace.
+Self-serve AEO/GEO monitoring and optimization platform used by BenQ, Stella Rising, and RDA. Bootstrapped since 2024, OtterlyAI recently shipped Agent Analytics, redesigned citation reporting, and write endpoints for its REST API and MCP server.
 
 
 ## Scores
@@ -15,23 +15,21 @@ Bootstrapped AI-search monitoring platform, positioned as 'Semrush for AI search
 | Velocity | 58 | Decent cadence for solo-scale tool |
 | Agent-Readiness | Low | Consume-only; no agent surfaces |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 
-OtterlyAI is a bottom-up, product-led AI-search monitoring platform that positions itself as "Semrush for AI search." It tracks where a brand appears, what's said about it, and which sites get cited across six AI search engines: ChatGPT, Google AI Overviews, Google AI Mode, Perplexity, Gemini, and Microsoft Copilot. A GEO Audit scores 25-plus on-page factors, from content and page speed to structured data and AI readiness, tying the monitoring to concrete optimization work.
+OtterlyAI is a product-led AEO/GEO platform positioned as "Semrush for AI search." It monitors brand visibility, answer content, and citations across six AI search engines, then uses an audit covering 25+ on-page factors to produce prioritized optimization recommendations.
 
-The company's angle is distribution through an incumbent rather than against it. It launched inside the Semrush App Center in January 2025, reaching the SEO installed base directly, and runs a product-led motion: a 7-day, 3-prompt free trial feeding self-serve paid tiers from $29 a month, with sales-only at the Enterprise band. Fully bootstrapped, it sits as the self-serve floor of the AEO/GEO category against venture-funded peers Profound and Peec AI.
-
-Otterly pushes a data-backed category POV through its own research. It reported that 95% of AI search citations draw from third-party sources rather than brand-owned content, and that YouTube is the #2 social platform for AI citations behind Reddit. Through 2026 it moved from pure monitoring toward a programmatic surface, shipping a Public API, a Claude Skill, and a Marketplace of 101-plus marketing workflows, with an MCP server announced but not yet live.
+Its angle is accessible self-serve monitoring backed by incumbent distribution through the Semrush App Center. Public API access, an MCP server, a Claude Skill, and Agent Analytics have extended the product from dashboard reporting into programmable workflows and server-log measurement of which AI agents visit a site.
 
 ## Best for
 
-Marketing and SEO teams that want self-serve AI-search visibility monitoring without enterprise sales, especially those already working inside Semrush.
+SEO teams, marketing teams, and agencies that want self-serve AEO/GEO monitoring, citation analysis, and site audits without an enterprise-first contract.
 
 ## Pricing & trial
 
-Self-serve paid tiers run from $29 to $489 a month with a sales-only Enterprise band, fed by a 7-day, 3-prompt free trial that requires no card; there is no free plan. [Pricing](https://otterly.ai/pricing).
+Self-serve plans start at $29 per month, with a card-free seven-day trial covering three prompts and custom sales-led pricing for Enterprise. [Pricing](https://otterly.ai/pricing).
 
 ## Agent Experience
 
@@ -45,32 +43,32 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | No | — |
 
-A moderately strong build-on surface: a versioned REST Public API with read-only and read-write key tiers plus a packaged Claude Skill shipped in May 2026, with an MCP server announced but not yet live.
+OtterlyAI is a credible platform for agent workflows, with a versioned REST API, read-write API keys, an MCP server with prompt and tag management, and a packaged Claude Skill.
 
 ## Reference customers
 
-Videoloft, Bacula Enterprise, BenQ, Stella Rising, RDA, Skale, Downtown Ecommerce.
+BenQ, Stella Rising, RDA, Videoloft, Bacula Enterprise, Skale, Downtown Ecommerce.
 
 ## Recent moves
 
-- **2026-06-30**: Extended its free trial to seven days, framing it as more time to explore the platform before committing to a plan. [source](https://help.otterly.ai/changelog)
-- **2026-06-25**: Added Query Fan-Out to its GEO Audit tool, surfacing the related, implicit-intent, and comparative queries AI engines may generate from a prompt, each taggable as a monitored prompt. [source](https://help.otterly.ai/changelog)
-- **2026-06-24**: Became headline sponsor of BrightonSEO San Diego 2026, its first major US conference sponsorship and a deliberate push into the North American GEO-buyer market. [source](https://www.globenewswire.com/news-release/2026/06/24/3316982/0/en/OtterlyAI-Doubles-Down-on-the-US-Becomes-Headline-Sponsor-of-BrightonSEO-San-Diego-2026.html)
-- **2026-06-01**: Formalized its Public API and Claude Skill and launched the OtterlyAI Marketplace, a library of 101-plus production-tested marketing workflows open for community submissions. [source](https://www.globenewswire.com/news-release/2026/06/01/3304018/0/en/otterlyai-launches-a-public-api-a-claude-skill-and-a-marketplace-of-101-marketing-workflows-for-ai-search.html)
-- **2026-05-27**: Launched its Public API and a packaged Claude Skill, giving developers programmatic access to every brand report, prompt, citation, recommendation, and GEO audit on the platform. [source](https://otterly.ai/blog/otterlyai-public-api-claude-skill-launch/)
-- **2026-05-22**: Won Best AI Search Software Solution at the European Search Awards 2026 and reported passing 30,000 active users. [source](https://www.manilatimes.net/2026/05/22/tmt-newswire/globenewswire/otterlyai-wins-european-search-awards-2026-cementing-its-status-as-the-award-winning-ai-search-analytics-tool-for-the-generative-era/2349552)
+- **2026-08-20**: OtterlyAI and Press Ranger published a study of 129.3 million AI citations that found publishers with OpenAI licensing deals received 48% more ChatGPT citations than unlicensed publishers. [source](https://www.globenewswire.com/news-release/2026/08/20/3348287/0/en/press-ranger-and-otterlyai-release-study-showing-publishers-with-openai-deals-earn-48-more-ai-citations-on-chatgpt.html)
+- **2026-08-13**: OtterlyAI launched Agent Analytics to identify which AI agents and crawlers visit a site and which pages they access using server-log data. [source](https://www.linkedin.com/posts/thomaspeham_the-biggest-launch-of-otterlyai-to-answer-activity-7493562645774667776-ckuS)
+- **2026-08-04**: OtterlyAI shipped Agent Analytics with data ingestion through file upload, webhook, Cloudflare, or a WordPress plugin, and added one-click recommendation exports. [source](https://help.otterly.ai/changelog)
+- **2026-07-22**: OtterlyAI redesigned its Citations report with winners-and-losers analysis, URL bookmarking, a citations-over-time chart, and a refreshed cited-URLs table. [source](https://help.otterly.ai/changelog)
+- **2026-07-21**: OtterlyAI added write endpoints to its REST API and MCP server for creating, updating, and deleting prompts and tags. [source](https://help.otterly.ai/changelog)
+- **2026-06-30**: OtterlyAI extended its complimentary product trial to seven days. [source](https://help.otterly.ai/changelog)
 
 ## Company, Financials & Funding History
 
-Founded in 2024 in Vienna, Austria by Thomas Peham (CEO, ex-Storyblok VP Marketing and first growth hire at Usersnap), Josef Trauner (ex-Usersnap CEO), and Klaus-M. Schremser (ex-Usersnap head of growth, who runs the GroWTF incubator that supported Otterly); Trauner and Schremser sold Usersnap to saas.group in 2023. The fully bootstrapped company grew from about 1,000 users at its December 2024 stealth exit to 30,000-plus active users by May 2026.
+Thomas Peham, Josef Trauner, and Klaus-M. Schremser founded OtterlyAI in Vienna in 2024. The bootstrapped company grew from more than 1,000 users at its December 2024 stealth exit to more than 40,000 by August 2026.
 
 
 ## Analyst placement
 
-Named a 2025 Gartner Cool Vendor in AI for Marketing, one of five vendors ([source](https://www.globenewswire.com/news-release/2025/11/04/3180758/0/en/OtterlyAI-Recognized-as-a-Cool-Vendor-in-the-2025-Gartner-Cool-Vendors-for-AI-in-Marketing.html)); placed 10th on G2's 2026 Best New Software Awards, the only Answer Engine Optimization vendor in the overall top 10 ([source](https://www.globenewswire.com/news-release/2026/02/25/3244814/0/en/OtterlyAI-Earns-Top-AEO-Platform-on-G2-s-Best-New-Software-Awards-2026.html)).
+Named one of five vendors in Gartner's 2025 Cool Vendors in AI for Marketing report ([source](https://www.globenewswire.com/news-release/2025/11/04/3180758/0/en/OtterlyAI-Recognized-as-a-Cool-Vendor-in-the-2025-Gartner-Cool-Vendors-for-AI-in-Marketing.html)). Placed 10th in G2's 2026 Rookies of the Year ranking and was the only AEO vendor in the overall top 10 ([source](https://www.globenewswire.com/news-release/2026/02/25/3244814/0/en/OtterlyAI-Earns-Top-AEO-Platform-on-G2-s-Best-New-Software-Awards-2026.html)).
 
 ## Links
 
 [Homepage](https://otterly.ai) · [Pricing](https://otterly.ai/pricing) · [LinkedIn](https://www.linkedin.com/company/otterly-ai)
 
-*Last updated 2026-07-19 · refreshed weekly*
+*Last updated 2026-08-30 · refreshed weekly*

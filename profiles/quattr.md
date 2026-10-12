@@ -15,7 +15,7 @@ Quattr is an AI-native search visibility platform that unifies SEO, AEO, and GEO
 | Velocity | 70 | Steady ship cadence — GIGA agent + Landing Page Generator in 2026; no fresh round to add lift |
 | Agent-Readiness | Low | Deployment API + WordPress/HubSpot SDKs, but no public dev docs, MCP, CLI, or llms.txt |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

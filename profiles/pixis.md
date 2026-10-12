@@ -15,7 +15,7 @@ Pixis Visibility is a unified SEO + GEO "operating system" that not only tracks 
 | Velocity | 70 | Active comparison-page output and a $99/site self-serve launch; not yet a steady dated release cadence |
 | Agent-Readiness | Low | No public API, MCP, SDK, CLI, or llms.txt found for the Visibility product |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

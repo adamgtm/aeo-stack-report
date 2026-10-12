@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/evertune/](https://stack.adamgtm.com/evertune/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/evertune/ · last updated 2026-07-12 -->
+<!-- canonical: https://stack.adamgtm.com/evertune/ · last updated 2026-09-06 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Evertune
 
-Evertune measures how brands surface across AI engines when they aren't named in the prompt, running 100,000+ prompts per report across nine surfaces. Customers include Canada Goose, Miro, and Roku. $19M raised. Recent releases: the Visibility Boost ad agent, AI retargeting with The Trade Desk, and Shopping Intelligence.
+Enterprise AEO/GEO measurement and media platform. Customers include Canada Goose, Miro, and WPP Media's Choreograph. $19M raised across a $4M Eniac seed and a $15M Felicis Series A. Recent releases: AI Retargeting, Visibility Boost ad agent for ChatGPT, and Shopping Intelligence.
 
 
 ## Scores
@@ -15,23 +15,23 @@ Evertune measures how brands surface across AI engines when they aren't named in
 | Velocity | 82 | Ships fast; aggressive product expansion |
 | Agent-Readiness | Low | No public agent surfaces yet |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 
-Evertune's flagship AI Brand Index measures how often and how prominently a brand surfaces in AI answers to category questions like "what's the best espresso machine under $200," when the brand is not named in the prompt. It tracks nine AI surfaces (ChatGPT, Gemini, Claude, Perplexity, Meta, DeepSeek, Copilot, Google AI Overviews, and AI Mode) and runs more than 100,000 prompts per brand report. The Index resolves to three scores: a Visibility Score for frequency of appearance, an Average Position for where the brand lands in the answer, and a combined AI Brand Score.
+Evertune measures where brands show up in AI answers, then turns the gaps into media. It samples each prompt 100 times per model rather than running it once, and grounds prompt selection in EverPanel, a vendor-described panel of more than 150 million user prompts. The output is the AI Brand Index plus Prompt, Insights & Action, and Ads agents.
 
-The angle is statistical scale plus adtech pedigree. Felicis contrasted Evertune's 100,000+ prompts per report against competitors that "prompt the model just a handful of times." The founding team came out of The Trade Desk, and through 2026 Evertune extended from measurement into media activation: programmatic AI retargeting with Index Exchange and The Trade Desk, affiliate activation with impact.com, B2B partner activation with PartnerStack, and a paid-placement ad agent, Visibility Boost, that buys ChatGPT ad placements against the queries where a brand's organic AI visibility is weakest.
+The angle is adtech, not SEO. The founders came from The Trade Desk, and the roadmap reads like it. Partner Connect surfaces AI visibility inside impact.com and PartnerStack with one-click affiliate and partner activation. Index Exchange and The Trade Desk integrations let brands run programmatic campaigns against the publishers cited in AI answers. Visibility Boost buys ChatGPT placements against queries where the brand is not recommended. AI Retargeting turns AI research behavior into an addressable audience. Evertune calls it the first product in market to do that.
 
-That media-buying step is the category POV. Evertune is the first tracked AEO/GEO vendor to ship a paid-placement agent on top of its measurement layer, moving from measuring AI visibility to buying it. Its Topic Relevance and Brand Relevance metrics push a related argument that citation frequency is not influence. In one internal test the most-cited source ranked 33rd in actual influence, and the 48th most-cited source was the most influential.
+The category POV is statistical rigor, argued in public. CEO Brian Stempeck published a two-part critique of Profound's sampling method in July 2026, using a running-shoe example where 100 unique prompts asked once put adidas at 29% visibility with a plus or minus 9 point margin of error, while sampling each prompt 100 times produced the same headline score with a plus or minus 1 point interval. The claim is that only the tighter interval supports topic-level action. It is checkable arithmetic from a commercially interested source.
 
 ## Best for
 
-Enterprise marketing teams that want out-of-prompt AI brand measurement at statistical scale and a path from measurement into media activation.
+Enterprise brand and performance teams that want AI visibility measured at statistical scale and wired straight into affiliate, programmatic, and in-chat ad buying.
 
 ## Pricing & trial
 
-Sales-led with no public pricing; a third-party comparison puts it around $36K per year, and there is no listed free trial. [Pricing](https://www.evertune.ai/pricing).
+Sales-led with no public pricing or free trial; a third-party comparison puts it around $36K per year. [Pricing](https://www.evertune.ai/pricing).
 
 ## Agent Experience
 
@@ -45,36 +45,37 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | Yes | [docs](https://www.evertune.ai/llms.txt) |
 
-Thin platform to build on: the docs are a roughly six-article help center with no public API reference, and Evertune's direct model access powers its own reports rather than a developer surface you build on top of.
+Thin: the docs surface is a help center of roughly six articles with no public API reference, so Evertune is a product to buy rather than a platform to build on.
 
 ## Reference customers
 
-Canada Goose, Miro, athenahealth, Roku, Virgin Voyages, HexClad, WPP Media's Choreograph.
+Canada Goose, Miro, WPP Media's Choreograph.
 
 ## Recent moves
 
-- **2026-05-19**: Launched Visibility Boost, an invite-only ad agent for ChatGPT that buys ad placements against queries where a brand's organic AI visibility is weakest. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-visibility-boost-ad-agent)
+- **2026-08-10**: Launched AI Retargeting in beta, identifying users who researched a category inside AI chatbots and pushing that audience to The Trade Desk and Index Exchange for open-web retargeting. [source](https://www.evertune.ai/resources/insights-on-ai/introducing-ai-retargeting-re-engage-high-intent-buyers-after-theyve-left-ai)
+- **2026-07-30**: CEO Brian Stempeck published part two of his critique of Profound's sampling method, arguing that repeated sampling cuts the margin of error from roughly plus or minus 9 points to plus or minus 1. [source](https://www.linkedin.com/posts/brian-stempeck-1705b35_geo-activity-7488573462207221761--8g1)
+- **2026-07-16**: Part one of the same critique argued that one daily run of a prompt cannot produce a usable margin of error, drawing 502 likes and 204 comments. [source](https://www.linkedin.com/posts/brian-stempeck-1705b35_profound-has-a-data-problem-their-sampling-activity-7483492381544042496-ZWLQ)
+- **2026-05-19**: Launched Visibility Boost, an invite-only ad agent that buys ChatGPT placements against the queries where a brand's organic AI visibility is weakest. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-visibility-boost-ad-agent)
 - **2026-03-23**: Named a Representative Vendor in Gartner's inaugural 2026 Market Guide for Answer Engine Visibility Tools. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-named-a-representative-vendor-in-the-inaugural-2026-gartner-market-guide-for-answer-engine-visibility-tools)
-- **2026-02-11**: Extended Partner Connect into programmatic advertising with Index Exchange and The Trade Desk, enabling AI retargeting on the publisher sites cited in AI recommendations. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-announces-ai-retargeting-through-new-partnerships-with-index-exchange-and-the-trade-desk)
-- **2026-01-29**: Extended Partner Connect to B2B SaaS via a PartnerStack integration connecting AI-visibility intelligence to partner ecosystems. [source](https://www.evertune.ai/resources/insights-on-ai/partner-connect-expands-to-b2b-saas-partnerships-with-partnerstack)
-- **2026-01-14**: Launched Shopping Intelligence to track how AI models recommend specific products in the emerging ChatGPT structured-shopping channel. [source](https://www.evertune.ai/resources/insights-on-ai/evertune-launches-shopping-intelligence-to-track-brand-visibility-in-ai-powered-product-recommendations)
-- **2025-12-16**: Partnered with impact.com, which also made a strategic investment, launching Partner Connect to activate affiliate and creator campaigns against the publishers most influential on AI answers. [source](https://www.evertune.ai/resources/insights-on-ai/introducing-partner-connect-evertune-and-impact-com-partner-to-bridge-ai-intelligence-and-affiliate-action)
+- **2026-02-11**: Extended Partner Connect into programmatic through Index Exchange and The Trade Desk, letting brands run campaigns on the publisher sites cited in AI recommendations. [source](https://www.indexexchange.com/press/press-releases/evertune-new-partnerships-with-index-exchange-and-the-trade-desk/)
 
 ## Company, Financials & Funding History
 
-Founded in 2024 in New York City, with a Seattle office, by early members of The Trade Desk. CEO Brian Stempeck was The Trade Desk's strategy chief and grew it from eight people to IPO; co-founders Ed Chater (CPO) and Poul Costinsky (CSO) joined The Trade Desk through its Adbrain acquisition.
+Founded in 2024 in New York by early Trade Desk operators: CEO Brian Stempeck, former strategy chief and board member who saw The Trade Desk go from eight people to IPO, with co-founders Ed Chater (CPO) and Poul Costinsky (CSO), who joined The Trade Desk through its Adbrain acquisition. Out of stealth in October 2024, commercially launched that November, and by August 2026 selling both measurement and media activation.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2025-08 | Series A | $15M (Felicis), $19M total; Eniac Ventures, NextView Ventures, and Roger Ehrenberg returning, plus strategic angels from OpenAI, Meta, Uber, and Antenna |
-| 2024-10 | Seed | $4M (Eniac Ventures), with NextView Ventures and angel Roger Ehrenberg |
+| 2025-12 | Strategic investment | Undisclosed (impact.com), alongside the Partner Connect launch |
+| 2025-08 | Series A | $15M (Felicis), $19M total; Eniac Ventures, NextView Ventures, and Roger Ehrenberg returning, plus angels from OpenAI, Meta, Uber, and Antenna |
+| 2024-10 | Seed | $4M (Eniac Ventures), with NextView Ventures and Roger Ehrenberg |
 
 ## Analyst placement
 
-Representative Vendor in Gartner's inaugural 2026 Market Guide for Answer Engine Visibility Tools, the first Gartner document to define the answer-engine-visibility category (March 2026). [source](https://www.evertune.ai/resources/insights-on-ai/evertune-named-a-representative-vendor-in-the-inaugural-2026-gartner-market-guide-for-answer-engine-visibility-tools)
+Representative Vendor in Gartner's inaugural [2026 Market Guide for Answer Engine Visibility Tools](https://www.evertune.ai/resources/insights-on-ai/evertune-named-a-representative-vendor-in-the-inaugural-2026-gartner-market-guide-for-answer-engine-visibility-tools) (March 2026), the first Gartner document to define the category.
 
 ## Links
 
 [Homepage](https://www.evertune.ai) · [Pricing](https://www.evertune.ai/pricing) · [Docs](https://docs.evertune.ai/) · [LinkedIn](https://www.linkedin.com/company/evertune)
 
-*Last updated 2026-07-12 · refreshed weekly*
+*Last updated 2026-09-06 · refreshed weekly*

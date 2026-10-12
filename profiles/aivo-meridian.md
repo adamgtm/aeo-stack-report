@@ -15,7 +15,7 @@ Decision-stage AI-answer measurement platform that scores whether a brand surviv
 | Velocity | 60 | Active publish/ship cadence — AIVO Optimize, AIVO Edge, and the Agentic Brand Control category paper all May 2026 |
 | Agent-Readiness | Low | No API/MCP/SDK/CLI product surface; only a public spec repo for the AIVO Standard |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

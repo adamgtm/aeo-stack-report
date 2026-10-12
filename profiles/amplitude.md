@@ -15,7 +15,7 @@ Public product-analytics platform (NASDAQ: AMPL) extending into AI visibility. T
 | Velocity | 66 | Launched Oct 2025, shipped AI Visibility 1.5 in Feb 2026 — real cadence on the AEO line, above an SEO bolt-on |
 | Agent-Readiness | High | Official OAuth MCP server (free on Starter), mature REST APIs, Browser/Node/Python SDKs |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

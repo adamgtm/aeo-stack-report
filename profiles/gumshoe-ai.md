@@ -15,7 +15,7 @@ Pure-play AEO/GEO analytics that simulates buyer conversations across AI models 
 | Velocity | 45 | Steady research/content cadence; no major product launches since the raise |
 | Agent-Readiness | Low | API in development; no MCP/SDK/CLI; no root llms.txt |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

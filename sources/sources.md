@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **258 sources across 38 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **261 sources across 38 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -15,6 +15,7 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 - **[LinkedIn]** [Teams that rely on MQLs and content downloads to nurture leads are in big trouble.](https://www.linkedin.com/posts/davegerhardt_i-dont-think-people-realize-how-big-of-a-activity-7461007518966779904-Qh-t) — Dave Gerhardt (Exit Five): "Teams that rely on MQLs and content downloads to nurture leads are in big trouble."
 - **[LinkedIn]** [one of only two AI use cases](https://www.linkedin.com/posts/eric-linssen-b2985b132_a-pickle-im-seeing-marketers-in-right-now-activity-7448432368962531328-h4Ov) — Eric Linssen (Demand Collective), names AEO one of only two AI use cases actually driving pipeline.
 - **[Blog/Newsletter]** [a 6x conversion difference](https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith) — Ethan Smith (Graphite) on Lenny's Podcast: Webflow saw a 6x conversion difference between LLM traffic and Google traffic, and early-stage companies can win citations quickly.
+- **[Web]** [Adobe Brand Visibility](https://business.adobe.com/products/brand-visibility.html) — The category is consolidating. Two signals in mid-2026: Sitecore acquired Scrunch (announced June 3, ~$225M per Bloomberg, terms undisclosed), and Adobe completed its ~$1.9B acquis
 - **[Blog/Newsletter]** [Clay's AEO playbook](https://www.clay.com/blog/how-clay-uses-clay-for-seo-and-aeo) — Build on managed primitives. Clay's AEO playbook is the blueprint: an AI-visibility dashboard assembled on Clay, Supabase, Claude Code, and Vercel. You get the B2B data and orchest
 - **[GitHub]** [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) — Drop skills into your coding agent. Skill packs like seo-geo-claude-skills (1,761★) and gtm-engineer-skills (961★, MIT) add AEO audits and content workflows straight into Claude Co
 - **[GitHub]** [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) — Drop skills into your coding agent. Skill packs like seo-geo-claude-skills (1,761★) and gtm-engineer-skills (961★, MIT) add AEO audits and content workflows straight into Claude Co
@@ -23,7 +24,7 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AEO Changelog: What Moved This Week  ·  [changelog.md](changelog.md)
 
-- **[Web]** [Profiles refreshed: AirOps, Conductor, HubSpot](https://stack.adamgtm.com/aeo/) — | 2026-10-04 | Profiles | Profiles refreshed: AirOps, Conductor, HubSpot — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved 
+- **[Web]** [Profiles refreshed: Botify, HubSpot](https://stack.adamgtm.com/aeo/) — | 2026-10-11 | Profiles | Profiles refreshed: Botify, HubSpot — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam
 - **[Web]** [New profile: Limy AI](https://stack.adamgtm.com/limy/) — | 2026-09-20 | Profiles | New profile: Limy AI — Limy AI joins the tracked set, scored and sourced. |
 - **[Web]** [AI-visibility run 2026-08-23](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-08-23 | Data | AI-visibility run 2026-08-23 — 60 web-grounded answers across 4 engines. Most named: Profound (34), Otterly AI (29), Peec AI (29). adamgtm.com cited in 0/60. 
 - **[Web]** [The Stack gets a machine-readable face](https://stack.adamgtm.com/aeo-changelog/) — | 2026-06-12 | Guide | The Stack gets a machine-readable face — The category now ships a structured data.json — every vendor with scores, reasons, agent surfaces, and AI-visibility
@@ -100,13 +101,13 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Botify  ·  [profiles/botify.md](profiles/botify.md)
 
-- **[Web]** [source](https://www.botify.com/product-releases/july-2026-release-highlights) — 2026-08-04: The July release put PageWorkers at Edge into open beta and added AI-configured SpeedWorkers quality controls plus AgenticCatalog enrichment and reporting tools. source
-- **[Blog/Newsletter]** [source](https://www.botify.com/blog/markdown-new-research-insights) — 2026-07-13: Botify published crawler-log research showing that purpose-built AI crawlers request Markdown more often than legacy search crawlers and that Markdown reduced page weig
-- **[Web]** [source](https://www.botify.com/product-releases/june-2026-release-highlights) — 2026-07-08: AgenticCatalog reached general availability, while AI Visibility gained domain and related-search analysis and SpeedWorkers added a Markdown-delivery preview for AI bot
-- **[Web]** [source](https://www.botify.com/product-releases/may-2026-release-highlights) — 2026-05-29: Botify added product-card tracking, Citation Intelligence, brand and competitor reporting, and natural-language log-data analysis to its AI visibility products. source
-- **[Blog/Newsletter]** [source](https://www.botify.com/blog/openai-tripled-web-crawl) — 2026-04-23: An analysis of roughly seven billion log events found that OpenAI's web crawling had tripled since August 2025, with GPTBot activity rising 2.9 times after GPT-5. sourc
-- **[News/Press]** [source](https://www.businesswire.com/news/home/20260323764887/en/Botify-Launches-Agentic-Feeds-to-Power-the-Shift-from-Search-to-Agent-Driven-Discovery) — 2026-03-24: Botify launched Agentic Feeds in technical preview to create AI-optimized product feeds for OpenAI's ACP and Google's UCP. source
-- **[News/Press]** [Source](https://www.businesswire.com/news/home/20250701273121/en/Botify-Named-a-Strong-Performer-in-Search-Engine-Optimization-Solutions-Q3-2025-Evaluation) — Forrester named Botify a Strong Performer in The Forrester Wave: Search Engine Optimization Solutions, Q3 2025, with the highest possible score in 11 criteria including Vision and 
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/botify_retailers-your-shoppers-changed-how-they-activity-7513262272354643968-64oB) — 2026-10-06: Botify launched AgenticCatalog for enriching and distributing AI-ready product catalogs. source
+- **[Web]** [source](https://www.botify.com/product-releases/july-2026-release-highlights) — 2026-08-04: The July release introduced PageWorkers at Edge, AI-configured SpeedWorkers quality controls, and new AgenticCatalog enrichment and reporting tools. source
+- **[Blog/Newsletter]** [source](https://www.botify.com/blog/markdown-new-research-insights) — 2026-07-13: Botify published crawler-log research showing that purpose-built AI crawlers request Markdown more often than traditional search crawlers and that Markdown reduces page
+- **[Web]** [source](https://www.botify.com/product-releases/june-2026-release-highlights) — 2026-07-08: The June release brought AgenticCatalog to general availability and added domain analysis, related-search visibility, and Markdown delivery for AI bots. source
+- **[Web]** [source](https://www.botify.com/product-releases/may-2026-release-highlights) — 2026-05-29: Botify added Product Cards, Citation Intelligence, competitor reporting, and natural-language log-data analysis to its AI Visibility and Assist products. source
+- **[Blog/Newsletter]** [source](https://www.botify.com/blog/openai-tripled-web-crawl) — 2026-04-23: Botify analyzed roughly seven billion log events and reported that OpenAI's web crawling had tripled since August 2025. source
+- **[News/Press]** [Source](https://www.businesswire.com/news/home/20250701273121/en/Botify-Named-a-Strong-Performer-in-Search-Engine-Optimization-Solutions-Q3-2025-Evaluation) — Forrester named Botify a Strong Performer in The Forrester Wave: Search Engine Optimization Solutions, Q3 2025, with the highest possible scores in 11 criteria, including Vision an
 
 ## Brandlight  ·  [profiles/brandlight.md](profiles/brandlight.md)
 
@@ -219,14 +220,15 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## HubSpot  ·  [profiles/hubspot.md](profiles/hubspot.md)
 
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot's internal AEO program and AI-search conversion results source
-- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot's agent-first GTM implementation source
-- **[Web]** [source](https://www.hubspot.com/products/artificial-intelligence/breeze-ai-agents) — 2026-10-01: HubSpot added a visible $7-per-month self-serve purchase option to Agent Hub while retaining credit-based pricing for custom agents. source
-- **[Web]** [source](https://openai.com/index/devday-2026-recap/) — 2026-09-29: HubSpot became an OpenAI Marketplace launch partner, allowing eligible enterprises to apply existing OpenAI spending commitments toward HubSpot purchases. source
-- **[Web]** [source](https://knowledge.hubspot.com/ai/review-estimated-credit-costs-when-using-agents) — 2026-09-28: HubSpot documented that all of its agents consume HubSpot Credits, extending outcome-based pricing into a broader usage model. source
-- **[Web]** [source](https://www.trigify.io/) — 2026-09-23: HubSpot acquired the Trigify team and its signal-monitoring expertise; the standalone product began winding down without customer-account migration. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/christopher-tveter_hubspot-dreamforce-unbound-activity-7506316249677807616-1nAX) — 2026-09-18: A HubSpot implementation partner documented that the Claude connector is available across every HubSpot tier, including Free, without connector-level credit consumption
-- **[Web]** [source](https://www.hubspot.com/company-news/fall-26-spotlight) — 2026-09-16: HubSpot introduced a rebuilt Breeze Assistant, self-updating Smart CRM, Marketing Studio, and an integration for running and measuring ChatGPT Ads. source
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot reports that leads from AI engines converted up to 3x better than other channels in its own AEO program. source
+- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot reports that its AEO Agent drove 1,850% growth in qualified leads from AI-generated answers between Q1 2025 and Q1 2026. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dan-m-rosenthal_the-hubspot-cli-claude-code-will-completely-activity-7475155909128929281-j7dK) — RevOps practitioner Dan Rosenthal used HubSpot CLI and Claude Code to configure a client workflow in minutes rather than hours. source
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr) — 2026-10-09: Published ten role-specific and buyer-specific AEO guides, extending its AEO content program across marketing functions. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/dharmesh_woo-hoo-hubspot-makes-it-to-number-21-on-activity-7511989020990545920-ftd0) — 2026-10-03: Co-founder Dharmesh Shah said HubSpot ranked number 21 on a TIME list, although the specific list and position were not independently confirmed. source
+- **[Web]** [source](https://www.hubspot.com/products/artificial-intelligence/breeze-ai-agents) — 2026-10-01: Added a $7 per month self-serve purchase button to the Agent Hub page while retaining credit-based usage for custom agents. source
+- **[Web]** [source](https://openai.com/index/devday-2026-recap/) — 2026-09-29: Joined the OpenAI Marketplace as a launch partner, allowing eligible enterprises to apply OpenAI spending commitments toward HubSpot purchases. source
+- **[Web]** [source](https://knowledge.hubspot.com/ai/review-estimated-credit-costs-when-using-agents) — 2026-09-28: Documented that all HubSpot agents began consuming HubSpot Credits on July 23, with controls for testing usage and setting monthly run limits. source
+- **[Web]** [source](https://www.trigify.io/) — 2026-09-23: Acquired the Trigify team for sales-signal monitoring while winding down the standalone Trigify platform. source
 
 ## iPullRank  ·  [profiles/ipullrank.md](profiles/ipullrank.md)
 
@@ -355,6 +357,7 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Semrush (Enterprise AIO)  ·  [profiles/semrush.md](profiles/semrush.md)
 
+- **[Web]** [Adobe Brand Visibility](https://business.adobe.com/products/brand-visibility.html) — Correcting a common misread: Semrush did not acquire an AEO startup. It *built* AIO and the AI Visibility Index in-house, off its existing crawler and prompt-data infrastructure. T
 - **[News/Press]** [source](https://news.adobe.com/news/2026/04/adobe-completes-semrush-acquisition) — 2026-04-28: Adobe completed its ~$1.9B all-cash acquisition of Semrush ($12.00/share), folding it into Adobe's CX Enterprise stack alongside LLM Optimizer and Brand Concierge. sour
 - **[News/Press]** [source](https://www.semrush.com/news/445236-semrush-enterprise-adds-log-file-analysis-to-site-intelligence-and-ai-optimization/) — 2026-02-02: Added log-file analysis — Bot Analytics in Site Intelligence and Agent Analytics in AIO — to show how search and AI bots crawl and read a site. source
 - **[News/Press]** [source](https://www.semrush.com/news/442193-query-fan-out-analysis-comes-to-semrush-enterprise-ai-optimization-revealing-the-search-signals-behind-ai-responses/) — 2026-01-15: Released Query Fan-Out Analysis in AIO, revealing the Google search queries that fuel AI responses in systems like ChatGPT. source

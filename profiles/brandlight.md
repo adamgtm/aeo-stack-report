@@ -17,7 +17,7 @@ Enterprise AI-visibility platform positioning toward AI-native advertising — w
 | Velocity | 80 | Fresh Feb-2026 raise; actively expanding from AI search into AI ads + agentic commerce, though public ship trail is thin |
 | Agent-Readiness | Low | RESTful API only, enterprise-gated; no public MCP/SDK/CLI/llms.txt |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

@@ -15,7 +15,7 @@ Media-intelligence incumbent that bolted AI-answer monitoring onto its listening
 | Velocity | 48 | Incumbent cadence; AEO line ships in spurts, not weekly |
 | Agent-Readiness | Medium | REST API plus an official Mira MCP server; no SDK/CLI/llms.txt |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

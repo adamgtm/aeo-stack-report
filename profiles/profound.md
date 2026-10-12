@@ -17,7 +17,7 @@ Full-suite AEO/GEO platform, enterprise-focused. Customers include Snap, Coinbas
 | Velocity | 100 | Most shipping in the group — sets the pace |
 | Agent-Readiness | High | Mature API plus agent surfaces; category-defining tooling |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

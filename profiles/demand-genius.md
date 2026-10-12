@@ -15,7 +15,7 @@ B2B-specific AEO and content-intelligence platform that tracks how AI engines pr
 | Velocity | 58 | Shipping fast off a 2024 launch; evolved attribution → AEO platform, steady content research cadence |
 | Agent-Readiness | Low | No API, MCP, SDK, CLI, or llms.txt found |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 

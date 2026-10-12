@@ -15,13 +15,13 @@ The SEO incumbent extending into AI visibility, now an Adobe company. The classi
 | Velocity | 70 | Real monthly AIO cadence — forecasting, fan-out, agent analytics |
 | Agent-Readiness | Medium | Official hosted MCP plus public API; no dedicated SDK/CLI |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 
 Semrush is the incumbent SEO platform — keyword, backlink, rank, and competitive-intelligence tooling at scale — extending that base into the AEO/GEO category. The AI line is **Enterprise AI Optimization (AIO)**, sold inside the enterprise tier, plus the **AI Visibility Index**, a public benchmark of brand performance across AI search platforms built on AIO data.
 
-**Correcting a common misread: Semrush did not acquire an AEO startup.** It *built* AIO and the AI Visibility Index in-house, off its existing crawler and prompt-data infrastructure. The acquisition ran the other way — **Adobe bought Semrush** (announced Nov 2025, closed April 28, 2026, ~$1.9B all-cash, $12.00/share). Semrush is now an Adobe company, folded into Adobe's CX Enterprise stack alongside Adobe LLM Optimizer and Brand Concierge. So the AEO landscape now has two Adobe-owned visibility products sitting next to each other — a consolidation worth watching.
+**Correcting a common misread: Semrush did not acquire an AEO startup.** It *built* AIO and the AI Visibility Index in-house, off its existing crawler and prompt-data infrastructure. The acquisition ran the other way — **Adobe bought Semrush** (announced Nov 2025, closed April 28, 2026, ~$1.9B all-cash, $12.00/share). Semrush is now an Adobe company. [Adobe Brand Visibility](https://business.adobe.com/products/brand-visibility.html), formerly Adobe LLM Optimizer, combines LLM Optimizer capabilities with Semrush market intelligence.
 
 The product runs outward from the SEO base. AIO monitors a large global pool of LLM prompts (Semrush cites 261M+) and ties AI-visibility gaps back to the search signals that feed them — Query Fan-Out Analysis surfaces the Google queries fueling AI answers, Agent Analytics reads server logs to show how AI bots crawl a site, and AI Search Forecasting projects traffic, reach, and mention gains. The AI Visibility Index packages the data as a live microsite plus a downloadable report, which is doing real category-vocabulary work.
 

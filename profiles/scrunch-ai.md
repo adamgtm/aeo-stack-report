@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/scrunch-ai/](https://stack.adamgtm.com/scrunch-ai/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/scrunch-ai/ · last updated 2026-07-19 -->
+<!-- canonical: https://stack.adamgtm.com/scrunch-ai/ · last updated 2026-09-06 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Scrunch AI
 
-An AEO/GEO Agent Experience Platform that serves machine-readable content to AI crawlers and tracks how brands show up in AI answers, used by Akamai, Lenovo, and ADP. Raised ~$19M, acquired by Sitecore in June 2026 (~$225M per Bloomberg). Recent: AXP relaunch, Scrunch MCP, Agent Traffic Monitoring.
+AI customer experience platform for AEO/GEO, spanning measurement and delivery. Customers include Lenovo, Crunchbase, and RunPod. Raised about $19M before Sitecore acquired it in June 2026, reportedly for roughly $225M. Recent releases: Site Diagnostics, Keyword Volume Estimator, and Scrunch MCP.
 
 
 ## Scores
@@ -15,23 +15,23 @@ An AEO/GEO Agent Experience Platform that serves machine-readable content to AI 
 | Velocity | 40 | Cadence cooled into the acquisition; standalone roadmap now folding into Sitecore |
 | Agent-Readiness | Medium | API available; agent surface limited |
 
-*Product-overall scores from the AdamGTM Analyst Desk (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
+*Product-overall scores set by Adam (floor 50). Canonical, always-current: https://stack.adamgtm.com/aeo*
 
 ## The Solution & Approach
 
-Scrunch AI is an AEO/GEO platform built around what it calls the Agent Experience Platform (AXP). Where measurement-first rivals like Profound and Peec AI report on how often AI answers cite a brand, Scrunch adds a serve-side layer: CDN-level infrastructure that detects AI crawler traffic and routes it to a compressed, machine-readable version of the site, reducing a typical pricing page from roughly 124K tokens to about 1.3K.
+Scrunch is an AEO/GEO platform that does two jobs. It measures how brands appear in AI answers, and it serves machine-readable content to the agents doing the retrieving. The current line spans Signals, Site Diagnostics, Optimizer, Agent Traffic Monitoring, and an MCP interface that reads and writes.
 
-The 2026 relaunch organized the product into three capabilities: Signals (automated detection of how AI agents represent the brand), Site Diagnostics (predictive, page-by-page optimization with no CDN integration required), and Optimizer (agent-ready content creation). A Scrunch MCP server pushed the platform past reporting into action, letting users query brand presence and trigger audits or optimization workflows from Claude, ChatGPT, or Copilot.
+The delivery layer is the differentiator. The Agent Experience Platform sits at the CDN layer, detects AI crawler traffic, and routes it to a compressed version of the site. Scrunch reported cutting a typical pricing page from roughly 124K tokens to 1.3K. It runs on Akamai, Cloudflare, and Vercel. Site Diagnostics, launched August 2026, added page-by-page remediation without requiring that CDN integration.
 
-CEO Chris Andrew frames the category around one claim: 'For humans, websites are now the last mile. For AI, the website is the starting point,' with the roadmap summed up as 'The future isn't visibility. It's action.' That serve-side bet is what a DXP incumbent bought. Sitecore acquired Scrunch in June 2026 (Bloomberg reported roughly $225M), the first major exit in the AEO specialist cohort.
+The category POV is that measurement alone is not the product. Scrunch positions against measurement-only AEO tools by serving content to agents rather than only counting citations. CEO Chris Andrew frames the July 2026 platform relaunch around AI agents now generating more web traffic than humans. Its own research argues the same point from the data side: across millions of news-search events from February to June 2026, direct AI referrals accounted for just 1.1% of post-conversation visits, so last-click reporting misses most of the path.
 
 ## Best for
 
-Enterprise brands and agencies that want to actively serve machine-readable content to AI crawlers, not just measure how often AI answers cite them.
+Brands and agencies that want AI visibility measurement and the serve-side infrastructure to act on it in one platform, especially teams already running a CDN they can integrate at.
 
 ## Pricing & trial
 
-Tiered SaaS: Core at $250/mo (125 prompts, 4 LLMs) and Enterprise via sales (9 LLMs, API plus MCP access, SSO), with a 7-day free trial. [Pricing](https://scrunch.com/pricing).
+Core starts at $250/month for 125 prompts, 5 site audits, and 4 LLMs; Enterprise is contact-sales and adds 9 LLMs, API plus MCP access, and SSO, with a 7-day free trial available. [Pricing](https://scrunch.com/pricing).
 
 ## Agent Experience
 
@@ -45,40 +45,40 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | Yes | [docs](https://scrunch.com/llms.txt) |
 
-A strong build-on option for the category, pairing a documented API and reference docs with an MCP server that supports both reads and write actions such as creating brands, tracking new prompts, and triggering site audits.
+Strong: public API reference, an llms.txt, and a Scrunch MCP server that supports write actions like creating brands, tracking prompts, and triggering audits from Claude, ChatGPT, or Copilot, though API and MCP access sit behind the Enterprise tier.
 
 ## Reference customers
 
-Akamai, Lenovo, ADP, Publicis, Seer Interactive, RunPod, Crunchbase, BairesDev, Fictiv, Penn State.
+Lenovo, Crunchbase, BairesDev, Fictiv, Penn State, RunPod.
 
 ## Case studies & customer stories
 
-- RunPod turned ChatGPT into a top acquisition channel: ~40 new customers/day and 4x growth in monthly paying customers [source](https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-/)
+- RunPod turned ChatGPT into a top acquisition channel in 90 days, reporting ~40 new customers/day and 4x growth in monthly paying customers [source](https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-/)
 
 ## Recent moves
 
-- **2026-07-08**: Relaunched the product line under the Agent Experience Platform banner, organized into Signals (beta brand-representation detection), Site Diagnostics (CDN-free predictive optimization), and Optimizer (agent-ready content creation). [source](https://scrunch.com/blog/agent-experience-platform)
-- **2026-06-03**: Acquired by Sitecore, becoming 'a Sitecore Company' with its Agent Experience Platform folding into SitecoreAI's content products (Bloomberg reported ~$225M, terms officially undisclosed). [source](https://scrunch.com/blog/scrunch-is-now-a-sitecore-company/)
-- **2026-05-12**: Launched Scrunch MCP, a Model Context Protocol server connecting Scrunch's AI-search data to Claude, ChatGPT, and Copilot with read plus write actions, available on all plan levels. [source](https://scrunch.com/blog/scrunch-mcp-talk-to-and-act-on-ai-search-data-in-natural-language)
-- **2026-02-02**: Named a High Performer in G2's first AEO Grid, Winter 2026, alongside Otterly.AI, with Profound taking Leader status. [source](https://company.g2.com/news/g2-winter-2026-reports)
-- **2026-01-29**: Partnered with Stacker to embed AI search visibility reporting into the Stacker platform, focused on how earned media influences AI citations. [source](https://stacker.com/blog/stacker-and-scrunch-team-up-to-make-ai-search-visibility-more-measurable)
-- **2026-01-08**: Announced a partnership with Noble, pairing Scrunch's citation-source identification with Noble's automated publisher outreach to close the monitor-to-act loop. [source](https://scrunch.com/blog/2026-01-partnership-scrunch-noble)
+- **2026-08-19**: Launched Site Diagnostics, an always-on product that scores each page for AI retrievability and citability and ranks fixes by predicted impact, with no CDN integration required. [source](https://scrunch.com/blog/site-diagnostics-always-on-action-plan-for-winning-ai-search)
+- **2026-08-13**: Published a study of millions of news-search events from February through June 2026 finding that direct AI referrals accounted for only 1.1% of post-conversation news visits. [source](https://scrunch.com/blog/surviving-the-clickpocalypse-ai-eating-the-news)
+- **2026-07-28**: Launched Keyword Volume Estimator in beta on all plans, sizing weekly demand for AI-assistant queries from real consumer AI conversations rather than keyword matching. [source](https://scrunch.com/blog/keyword-volume-estimator-measure-ai-search-demand-and-whats-behind-it)
+- **2026-07-08**: Relaunched the product line as the Agent Experience Platform, organized into Signals, Site Diagnostics, and Optimizer. [source](https://scrunch.com/blog/agent-experience-platform)
+- **2026-06-03**: Sitecore acquired Scrunch and folded the Agent Experience Platform into SitecoreAI's content products; terms were undisclosed, though Bloomberg reported roughly $225M. [source](https://www.sitecore.com/company/newsroom/press-releases/2026/06/sitecore-acquires-scrunch-to-help-brands-influence-discovery--and-buying-decisions)
+- **2026-05-12**: Launched Scrunch MCP, connecting its AI-search data to Claude, ChatGPT, and Copilot with both read and write actions, available on all plan levels. [source](https://scrunch.com/blog/scrunch-mcp-talk-to-and-act-on-ai-search-data-in-natural-language)
 
 ## Company, Financials & Funding History
 
-Founded in fall 2023 in San Francisco by Chris Andrew (CEO), previously CPO at Hearsay Systems, and Robert MacCloy (CTO), also ex-Hearsay. The company launched publicly in November 2024 and out of beta in March 2025, then went from a $15M Series A to a Sitecore acquisition in roughly two and a half years.
+Founded in 2023 by Chris Andrew and Robert MacCloy, previously CPO and CTO at Hearsay Systems, and headquartered in San Francisco. The company went from a $4M seed in November 2024 to an acquisition by Sitecore in June 2026, having raised about $19M in total.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2025-07 | Series A | $15M (led by Decibel, with Mayfield and Homebrew); $19M total pre-acquisition |
-| 2024-11 | Seed | $4M (led by Patrick Salyer at Mayfield; angels Clara Shih, TJ Parker, Bryant Chou) |
+| 2025-07 | Series A | $15M (Decibel), with Mayfield and Homebrew; announced alongside the Agent Experience Platform at 500+ brands |
+| 2024-11 | Seed | $4M (Mayfield), at public launch of the AI-search monitoring product |
 
 ## Analyst placement
 
-High Performer in [G2's inaugural AEO Grid](https://company.g2.com/news/g2-winter-2026-reports) (Winter 2026); Profound took Leader, with Scrunch and Otterly.AI named the High Performers as the AEO category grew from 7 to 150+ products.
+Named a High Performer in G2's first AEO Grid, Winter 2026, alongside Otterly.AI, with Profound taking Leader status. [PRNewswire](https://www.prnewswire.com/news-releases/aeo-software-category-grows-over-2000-on-g2-as-half-of-b2b-buyers-start-their-search-with-ai-chatbots-over-google-302674557.html)
 
 ## Links
 
 [Homepage](https://scrunch.com) · [Pricing](https://scrunch.com/pricing) · [Docs](https://scrunch.com/docs/) · [LinkedIn](https://linkedin.com/company/scrunchai)
 
-*Last updated 2026-07-19 · refreshed weekly*
+*Last updated 2026-09-06 · refreshed weekly*
