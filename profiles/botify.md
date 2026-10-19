@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/botify/](https://stack.adamgtm.com/botify/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/botify/ · last updated 2026-10-11 -->
+<!-- canonical: https://stack.adamgtm.com/botify/ · last updated 2026-10-19 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Botify
 
-Enterprise SEO platform refitted for AEO/GEO, serving The New York Times, Levi's, Sephora, and Carrefour. It has raised $82M and recently launched AgenticCatalog, PageWorkers at Edge, and product-card tracking in AI Visibility.
+Enterprise search platform extending technical SEO into AEO/GEO and agentic commerce, with 500+ customers and roughly $85M raised, combining crawl and log data with AI Visibility measurement, AgenticCatalog product feeds, and the PageWorkers at Edge open beta.
 
 
 ## Scores
@@ -19,17 +19,17 @@ Enterprise SEO platform refitted for AEO/GEO, serving The New York Times, Levi's
 
 ## The Solution & Approach
 
-Botify applies its enterprise SEO foundation, including full-site crawling, raw server-log analysis, and Google Search Console data, to AEO/GEO measurement. AI Visibility tracks mentions, citations, sentiment, competitors, and product appearances across Google AI Mode, ChatGPT, and Perplexity.
+Botify brings its enterprise SEO infrastructure to AEO/GEO. Full-site crawling and first-party log data show whether AI bots reach important content, while AI Visibility measures brand mentions, citations, sentiment, and competitive presence across AI answers. Its differentiation is the connection between website access, answer visibility, and implementation.
 
-Its position is that first-party crawl and log data provide a stronger measurement base than prompt scraping alone. Botify is extending that base into action through agentic workflows, Markdown and edge delivery for AI bots, and AgenticCatalog feeds built for OpenAI's ACP and Google's UCP.
+The platform spans AI Readiness, AI Visibility, and AI Activation. AgenticCatalog enriches product feeds for OpenAI and Google, while PageWorkers and SpeedWorkers deploy changes to help bots access and interpret content. Botify's category position is that visibility requires both measurement and control over what agents can read, extending search optimization into product discovery and agentic commerce.
 
 ## Best for
 
-Large retailers, publishers, and other enterprises that need AEO/GEO visibility grounded in first-party crawl and log data, backed by managed services.
+Enterprise search and ecommerce teams managing large websites or product catalogs that need AI visibility measurement alongside crawl diagnostics, content deployment, and managed services.
 
 ## Pricing & trial
 
-Pricing not public. Botify uses enterprise sales with request-a-demo access, negotiated contracts, and no documented self-serve tier or free trial.
+Pricing not public; Botify sells negotiated enterprise contracts through a demo-led sales process, with managed services included and free-trial availability unspecified.
 
 ## Agent Experience
 
@@ -43,35 +43,31 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | No | — |
 
-Botify is stronger as a managed system for optimizing content and product data for external agents than as a developer platform for building custom agents on its data.
-
-## Reference customers
-
-The New York Times, Levi's, Sephora, Carrefour.
+Botify supports automated workflows and content delivery to AI agents, but the available sources do not establish API, MCP, SDK, or CLI access for building external agents on its platform.
 
 ## Recent moves
 
-- **2026-10-06**: Botify launched AgenticCatalog for enriching and distributing AI-ready product catalogs. [source](https://www.linkedin.com/posts/botify_retailers-your-shoppers-changed-how-they-activity-7513262272354643968-64oB)
-- **2026-08-04**: The July release introduced PageWorkers at Edge, AI-configured SpeedWorkers quality controls, and new AgenticCatalog enrichment and reporting tools. [source](https://www.botify.com/product-releases/july-2026-release-highlights)
-- **2026-07-13**: Botify published crawler-log research showing that purpose-built AI crawlers request Markdown more often than traditional search crawlers and that Markdown reduces page weight by three to five times. [source](https://www.botify.com/blog/markdown-new-research-insights)
-- **2026-07-08**: The June release brought AgenticCatalog to general availability and added domain analysis, related-search visibility, and Markdown delivery for AI bots. [source](https://www.botify.com/product-releases/june-2026-release-highlights)
-- **2026-05-29**: Botify added Product Cards, Citation Intelligence, competitor reporting, and natural-language log-data analysis to its AI Visibility and Assist products. [source](https://www.botify.com/product-releases/may-2026-release-highlights)
-- **2026-04-23**: Botify analyzed roughly seven billion log events and reported that OpenAI's web crawling had tripled since August 2025. [source](https://www.botify.com/blog/openai-tripled-web-crawl)
+- **2026-10-06**: Expanded promotion of AgenticCatalog, emphasizing catalog enrichment with reviews, Q&A, and contextual product information for AI discovery and shopping. [source](https://www.linkedin.com/posts/botify_retailers-your-shoppers-changed-how-they-activity-7513262272354643968-64oB)
+- **2026-08-04**: July release introduced PageWorkers at Edge in open beta, AI-configured quality controls in SpeedWorkers, and AgenticCatalog enrichment settings and coverage reporting. [source](https://www.botify.com/product-releases/july-2026-release-highlights)
+- **2026-07-13**: Published first-party bot-log research reporting that purpose-built AI crawlers request Markdown more often than legacy search crawlers and that Markdown reduces page weight by 3–5x. [source](https://www.botify.com/blog/markdown-new-research-insights)
+- **2026-07-08**: June release brought AgenticCatalog to general availability, added domain filtering and related-search details to AI Visibility, and introduced a Markdown-delivery preview in SpeedWorkers. [source](https://www.botify.com/product-releases/june-2026-release-highlights)
+- **2026-05-29**: May release added Product Cards, Citation Intelligence, and Brand & Competitor Reporting to AI Visibility, plus natural-language queries of bot logs in Botify Assist. [source](https://www.botify.com/product-releases/may-2026-release-highlights)
+- **2026-04-23**: Published an analysis of approximately seven billion log files reporting that OpenAI's web crawl had tripled since August 2025 while ChatGPT-User events fell 28%. [source](https://www.botify.com/blog/openai-tripled-web-crawl)
 
 ## Company, Financials & Funding History
 
-Adrien Menard, Thomas Grange, and Stanislas "Stan" Chauvin founded Botify in Paris in 2012. The company expanded to New York and other international offices before repositioning its enterprise SEO platform around AEO/GEO and agentic commerce.
+Adrien Menard, Thomas Grange, and Stanislas "Stan" Chauvin founded Botify in Paris in 2012 as a technical SEO analytics platform for large websites. Now headquartered in New York, it has extended its crawl, log-analysis, and deployment infrastructure into AEO/GEO and agentic commerce.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2021-09 | Series C | $55M (InfraVia Growth), bringing total funding to approximately $82M |
+| 2021-09 | Series C | $55M (InfraVia Growth), with Bpifrance Large Venture, Eurazeo, and Ventech; approximately $82M total disclosed funding at the time. |
 
 ## Analyst placement
 
-Forrester named Botify a Strong Performer in The Forrester Wave: Search Engine Optimization Solutions, Q3 2025, with the highest possible scores in 11 criteria, including Vision and AI-Integrated SEO. [Source](https://www.businesswire.com/news/home/20250701273121/en/Botify-Named-a-Strong-Performer-in-Search-Engine-Optimization-Solutions-Q3-2025-Evaluation)
+Strong Performer in The Forrester Wave: Search Engine Optimization Solutions, Q3 2025, with highest-possible scores in 11 criteria, including Vision, AI-Integrated SEO, workflow and process automation, and technical SEO. This placement covers SEO rather than AEO specifically. [Source](https://www.businesswire.com/news/home/20250701273121/en/Botify-Named-a-Strong-Performer-in-Search-Engine-Optimization-Solutions-Q3-2025-Evaluation)
 
 ## Links
 
 [Homepage](https://www.botify.com) · [LinkedIn](https://www.linkedin.com/company/botify)
 
-*Last updated 2026-10-11 · refreshed weekly*
+*Last updated 2026-10-19 · refreshed weekly*

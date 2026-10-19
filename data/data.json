@@ -6,7 +6,7 @@
   "canonical_url": "https://stack.adamgtm.com/aeo/",
   "md_url": "https://stack.adamgtm.com/aeo/index.md"
  },
- "generated": "2026-10-11",
+ "generated": "2026-10-19",
  "maintainer": "Adam's GTM Report — https://adamgtm.com",
  "method": {
   "scores": "Presence / Velocity / Agent-Readiness, set by Adam, refreshed weekly, relative across the tracked set. Each carries a short reason.",
@@ -264,7 +264,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AEO/GEO measurement and remediation platform for brand teams, tracking what ChatGPT, Perplexity, Claude, and Gemini say about a company and then changing it. Customers include Coinbase, SoFi, Slalom, and Hearst. About $2.7M raised. Recent releases: Ask Athena copilot, the Athena Citation Engine, and Oracle.",
+   "summary": "AthenaHQ is an AEO/GEO measurement and remediation platform serving customers including Coinbase and SoFi, with approximately $2.7M raised; recent releases include the Athena Citation Engine for predicting citation likelihood, an agentic copilot for AI-search visibility, and Oracle for identifying incorrect brand claims.",
    "scores": {
     "presence": {
      "value": "72",
@@ -282,7 +282,7 @@
    "agent_surfaces": {
     "api": true,
     "mcp": false,
-    "sdk": true,
+    "sdk": false,
     "cli": false,
     "llms_txt": true
    },
@@ -293,7 +293,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/athenahq/",
    "md_url": "https://stack.adamgtm.com/athenahq/index.md",
-   "last_updated": "2026-09-20",
+   "last_updated": "2026-10-19",
    "ai_visibility": {
     "web_mentions": 20,
     "parametric_mentions": 2,
@@ -360,7 +360,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise SEO platform refitted for AEO/GEO, serving The New York Times, Levi's, Sephora, and Carrefour. It has raised $82M and recently launched AgenticCatalog, PageWorkers at Edge, and product-card tracking in AI Visibility.",
+   "summary": "Enterprise search platform extending technical SEO into AEO/GEO and agentic commerce, with 500+ customers and roughly $85M raised, combining crawl and log data with AI Visibility measurement, AgenticCatalog product feeds, and the PageWorkers at Edge open beta.",
    "scores": {
     "presence": {
      "value": "62",
@@ -388,7 +388,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/botify/",
    "md_url": "https://stack.adamgtm.com/botify/index.md",
-   "last_updated": "2026-10-11",
+   "last_updated": "2026-10-19",
    "ai_visibility": {
     "web_mentions": 1,
     "parametric_mentions": 0,
@@ -445,7 +445,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise SEO platform, founded 2007, retrofitting its search-data stack for AEO/GEO. Serves 57% of the Fortune 500, with customers including Kantar, Belron, Persimmon, and Telstra. $63.9M raised. Recent releases: AI Hyper Cube, AI Agent Insights, Share of Voice V2, and the AI Early Detection System.",
+   "summary": "BrightEdge is an enterprise SEO platform extending into AEO, with customers including Kantar and Telstra and reported funding of $61.9M; recent releases include Agent Edge for agent-accessible website content, AI Hyper Cube for cross-engine visibility, and AI Agent Insights.",
    "scores": {
     "presence": {
      "value": "71",
@@ -473,7 +473,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/brightedge/",
    "md_url": "https://stack.adamgtm.com/brightedge/index.md",
-   "last_updated": "2026-07-26",
+   "last_updated": "2026-10-19",
    "ai_visibility": {
     "web_mentions": 2,
     "parametric_mentions": 0,
@@ -491,7 +491,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "GTM data and agent workflow platform built for GTM engineers, used by Anthropic, OpenAI, and Stripe. Raised a $115M Series D at a $7.1B valuation in September 2026. Recent releases: the API, CLI, and Agent Plugin, an email Sequencer, and Workflows.",
+   "summary": "Clay is GTM data and workflow infrastructure for building revenue systems, used by OpenAI and Anthropic, with $317M raised at a $7.1B valuation; recent releases include an agent-first build experience in early access, Workflows in open beta, and a Skills Marketplace.",
    "scores": {
     "presence": {
      "value": "98",
@@ -520,7 +520,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/clay/",
    "md_url": "https://stack.adamgtm.com/clay/index.md",
-   "last_updated": "2026-09-27"
+   "last_updated": "2026-10-19"
   },
   {
    "slug": "conductor",
@@ -677,7 +677,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise AEO/GEO measurement and media platform. Customers include Canada Goose, Miro, and WPP Media's Choreograph. $19M raised across a $4M Eniac seed and a $15M Felicis Series A. Recent releases: AI Retargeting, Visibility Boost ad agent for ChatGPT, and Shopping Intelligence.",
+   "summary": "Evertune is an enterprise AEO platform connecting AI visibility measurement to affiliate and advertising actions, with customers including Roku and Canada Goose, $19M in disclosed funding, and releases including AI Retargeting, the Visibility Boost ad agent, and Shopping Intelligence.",
    "scores": {
     "presence": {
      "value": "53",
@@ -703,11 +703,11 @@
     "homepage": "https://www.evertune.ai",
     "pricing": "https://www.evertune.ai/pricing",
     "docs": "https://docs.evertune.ai/",
-    "linkedin": "https://www.linkedin.com/company/evertune"
+    "linkedin": "https://www.linkedin.com/company/evertune-ai"
    },
    "canonical_url": "https://stack.adamgtm.com/evertune/",
    "md_url": "https://stack.adamgtm.com/evertune/index.md",
-   "last_updated": "2026-09-06",
+   "last_updated": "2026-10-19",
    "ai_visibility": {
     "web_mentions": 5,
     "parametric_mentions": 1,

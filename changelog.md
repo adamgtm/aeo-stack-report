@@ -1,6 +1,6 @@
 > **Canonical source:** [https://stack.adamgtm.com/aeo-changelog/](https://stack.adamgtm.com/aeo-changelog/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-10-11 -->
+<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-10-19 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Changelog: What Moved This Week
 
@@ -10,6 +10,7 @@ Every guide claims it's kept current. This page is the proof: a dated record of 
 
 | Date | | What changed |
 |---|---|---|
+| 2026-10-19 | Profiles | **[Profiles refreshed: AthenaHQ, Botify, BrightEdge, Clay, Evertune](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam moved them. |
 | 2026-10-11 | Profiles | **[Profiles refreshed: Botify, HubSpot](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam moved them. |
 | 2026-10-04 | Profiles | **[Profiles refreshed: AirOps, Conductor, HubSpot](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam moved them. |
 
