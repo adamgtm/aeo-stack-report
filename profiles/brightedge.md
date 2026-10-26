@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/brightedge/](https://stack.adamgtm.com/brightedge/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/brightedge/ · last updated 2026-10-19 -->
+<!-- canonical: https://stack.adamgtm.com/brightedge/ · last updated 2026-10-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # BrightEdge
 
-BrightEdge is an enterprise SEO platform extending into AEO, with customers including Kantar and Telstra and reported funding of $61.9M; recent releases include Agent Edge for agent-accessible website content, AI Hyper Cube for cross-engine visibility, and AI Agent Insights.
+Enterprise SEO platform extending into AEO, BrightEdge serves customers including Bloomfire, Kantar, and Telstra, has approximately $62M in reported funding, and has added Agent Edge for AI-agent access, AI Hyper Cube for cross-engine visibility, and AI Agent Insights for monitoring site access.
 
 
 ## Scores
@@ -19,15 +19,15 @@ BrightEdge is an enterprise SEO platform extending into AEO, with customers incl
 
 ## The Solution & Approach
 
-BrightEdge adds AEO capabilities to an established enterprise SEO platform. AI Catalyst consolidates its AI-search products, while AI Hyper Cube tracks brand mentions, citations, competitors, and sentiment across ChatGPT, Gemini, and Perplexity.
+BrightEdge brings AEO into an established enterprise SEO platform. AI Catalyst consolidated its AI-search products in April 2025. AI Hyper Cube expanded coverage across ChatGPT, Gemini, and Perplexity in March 2026, tracking brand mentions, citations, competitors, and sentiment.
 
-Its enterprise pitch connects visibility to business outcomes. The AI Early Detection System attributes traffic, leads, and revenue to AI search. Agent Edge extends the approach to website delivery, serving CDN-layer pages to verified AI agents while leaving human-facing pages unchanged.
+Its approach connects visibility measurement to business outcomes. The AI Early Detection System attributes traffic, leads, and revenue to AI search. Agent Edge extends the platform into delivery, serving CDN-layer pages to verified AI agents while leaving human-facing pages unchanged.
 
-BrightEdge presents AI search as an extension of organic search. Its September 2025 research put AI surfaces below 1% of search, reinforcing the case for retaining SEO investment while adding AI measurement. Subsequent products address both AI answers and agents accessing websites.
+BrightEdge positions AI search as an extension of organic search. Its research emphasizes Google's continuing role in referral traffic while tracking growth in AI referrals and agent activity. That position supports enterprise teams adding AEO to existing SEO programs.
 
 ## Best for
 
-Enterprise marketing and SEO teams that want AEO measurement, revenue attribution, and agent-accessible content delivery alongside an established organic-search platform.
+Enterprise marketing and SEO teams that want AEO measurement, revenue attribution, and AI-agent visibility within an established organic-search platform.
 
 ## Pricing & trial
 
@@ -45,7 +45,7 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | Yes | [docs](https://www.brightedge.com/llms.txt) |
 
-Agent Edge supports website access by verified AI agents, but the supplied research does not document APIs, MCP, SDKs, or CLI access for building agents on BrightEdge.
+Agent Edge supports website delivery to verified AI agents, but the supplied research does not establish documented API, MCP, SDK, or CLI access for building agents on BrightEdge.
 
 ## Reference customers
 
@@ -53,31 +53,31 @@ Bloomfire, Persimmon, Kantar, Belron, Telstra.
 
 ## Case studies & customer stories
 
-- Bloomfire grew direct AI referral traffic 30%, according to BrightEdge's Agent Edge launch announcement. [source](https://www.brightedge.com/news/press-releases/brightedge-launches-agent-edge-to-get-your-website-ready-for-agents)
+- BrightEdge reports Bloomfire grew direct AI referral traffic 30% with Agent Edge. [source](https://www.brightedge.com/news/press-releases/brightedge-launches-agent-edge-to-get-your-website-ready-for-agents)
 
 ## Recent moves
 
-- **2026-08-26**: Launched Agent Edge to serve CDN-layer pages to verified AI agents while keeping human-facing pages unchanged. [source](https://www.brightedge.com/news/press-releases/brightedge-launches-agent-edge-to-get-your-website-ready-for-agents)
-- **2026-07-20**: Published research finding Facebook cited in 19.5 million Google AI Overviews answers and Instagram in 877,000, using an AI Hyper Cube sample representing approximately 300 million monthly searches. [source](https://www.brightedge.com/news/press-releases/research-google-ai-cites-facebook-in-19-5-million-ai-answers)
-- **2026-06-16**: Published AI Market Pulse data reporting that OpenAI accounted for 96% of live AI user-agent activity and ChatGPT reached 84.7% of LLM referral share in May. [source](https://www.globenewswire.com/news-release/2026/06/16/3312658/0/en/BrightEdge-Finds-ChatGPT-Represents-96-of-Live-AI-User-Agent-Activity.html)
+- **2026-08-26**: Launched Agent Edge to serve CDN-layer pages to verified AI agents while leaving human-facing pages unchanged. [source](https://www.brightedge.com/news/press-releases/brightedge-launches-agent-edge-to-get-your-website-ready-for-agents)
+- **2026-07-20**: Published AI Hyper Cube research finding Facebook cited in 19.5 million Google AI Overviews answers and Instagram in 877,000. [source](https://www.brightedge.com/news/press-releases/research-google-ai-cites-facebook-in-19-5-million-ai-answers)
+- **2026-06-16**: Published AI Market Pulse data reporting OpenAI accounted for 96% of live AI user-agent activity and ChatGPT held 84.7% of LLM referral traffic in May. [source](https://www.globenewswire.com/news-release/2026/06/16/3312658/0/en/BrightEdge-Finds-ChatGPT-Represents-96-of-Live-AI-User-Agent-Activity.html)
 - **2026-06-10**: Held Spark Live London, its first in-person enterprise event outside North America, with customer speakers from Persimmon, Kantar, and Belron. [source](https://www.brightedge.com/spark-live-london-2026)
-- **2026-05-20**: Published Q1 referral data showing Gemini became the second-largest consumer AI referral source, increasing its share from 4.3% to 11.6%. [source](https://www.brightedge.com/news/press-releases/brightedge-data-gemini-second-largest-ai-referral-source-q1-2026)
-- **2026-04-08**: Published research reporting AI-agent requests at 88% of human organic search activity and agent traffic at approximately 15% of total website traffic. [source](https://www.brightedge.com/news/press-releases/brightedge-data-ai-search-reaching-tipping-point-ai-agents-2026)
+- **2026-05-20**: Published research finding Gemini became the second-largest consumer AI referral source in Q1 2026 as its share rose from 4.3% to 11.6%. [source](https://www.brightedge.com/news/press-releases/brightedge-data-gemini-second-largest-ai-referral-source-q1-2026)
+- **2026-04-08**: Published research reporting AI-agent requests reached 88% of human organic-search activity and only 19% of sites had specific directives for ChatGPT-related bots. [source](https://www.brightedge.com/news/press-releases/brightedge-data-ai-search-reaching-tipping-point-ai-agents-2026)
 
 ## Company, Financials & Funding History
 
-Jim Yu and Lemuel Park founded BrightEdge in 2007 and serve as CEO and CTO, respectively. Headquartered in Foster City, California, the company developed an enterprise SEO platform before adding generative-search capabilities in 2023 and expanding into cross-engine AEO measurement.
+Jim Yu and Lemuel Park founded BrightEdge in 2007; the company is headquartered in Foster City, California. Its enterprise SEO platform launched publicly in June 2010 and later expanded into AEO through AI Catalyst, AI Hyper Cube, and Agent Edge.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2013-06 | Series D | $42.8M (Insight Venture Partners), reported total venture funding reached $63.9M at the time. |
+| 2013-06 | Series D | $42.8M (Insight Venture Partners), reported total venture funding of $63.9M at the time |
 
 ## Analyst placement
 
-Contender in G2's inaugural AEO Grid, released with the Winter 2026 Reports in December 2025; G2 restated the placement in its [January 2026 category retrospective](https://company.g2.com/news/inside-the-2000-percent-growth-of-the-aeo-software-category-on-g2).
+Contender in G2's inaugural AEO Grid, released with the Winter 2026 Reports in December 2025, alongside Semrush and Conductor. [G2's January 2026 retrospective](https://company.g2.com/news/inside-the-2000-percent-growth-of-the-aeo-software-category-on-g2) restated the placement.
 
 ## Links
 
 [Homepage](https://www.brightedge.com) · [LinkedIn](https://www.linkedin.com/company/brightedge)
 
-*Last updated 2026-10-19 · refreshed weekly*
+*Last updated 2026-10-26 · refreshed weekly*

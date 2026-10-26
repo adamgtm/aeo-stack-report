@@ -6,14 +6,14 @@
   "canonical_url": "https://stack.adamgtm.com/aeo/",
   "md_url": "https://stack.adamgtm.com/aeo/index.md"
  },
- "generated": "2026-10-19",
+ "generated": "2026-10-26",
  "maintainer": "Adam's GTM Report — https://adamgtm.com",
  "method": {
   "scores": "Presence / Velocity / Agent-Readiness, set by Adam, refreshed weekly, relative across the tracked set. Each carries a short reason.",
-  "ai_visibility": "Weekly run of buyer-intent queries across ChatGPT, Gemini, Perplexity, and Claude; counts are how often each vendor is named in web-grounded answers. Latest run: 2026-08-23."
+  "ai_visibility": "Weekly run of buyer-intent queries across ChatGPT, Gemini, Perplexity, and Claude; counts are how often each vendor is named in web-grounded answers. Latest run: 2026-10-19."
  },
  "ai_visibility_run": {
-  "run_date": "2026-08-23",
+  "run_date": "2026-10-19",
   "n_queries": 15,
   "n_web_answers": 60,
   "engines": [
@@ -79,8 +79,8 @@
    "md_url": "https://stack.adamgtm.com/ahrefs/index.md",
    "last_updated": "2026-09-27",
    "ai_visibility": {
-    "web_mentions": 16,
-    "parametric_mentions": 5,
+    "web_mentions": 25,
+    "parametric_mentions": 6,
     "engines": [
      "ChatGPT",
      "Gemini",
@@ -97,7 +97,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AirOps is an AEO content operations platform for marketing teams, used by Webflow and Chime. It has raised $62.5M and was valued at $225M, with recent launches including AI Ads, AirOps Services, and Quill.",
+   "summary": "AirOps combines AEO measurement with content workflows for marketing teams, serving customers including Webflow and Chime, with $62.5M raised at a $225M valuation in November 2025 and recent launches spanning AI Ads, AirOps Services, and the Quill campaign agent.",
    "scores": {
     "presence": {
      "value": "76",
@@ -126,13 +126,14 @@
    },
    "canonical_url": "https://stack.adamgtm.com/airops/",
    "md_url": "https://stack.adamgtm.com/airops/index.md",
-   "last_updated": "2026-10-04",
+   "last_updated": "2026-10-26",
    "ai_visibility": {
-    "web_mentions": 5,
+    "web_mentions": 6,
     "parametric_mentions": 0,
     "engines": [
      "ChatGPT",
      "Gemini",
+     "Perplexity",
      "Claude"
     ]
    }
@@ -264,7 +265,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AthenaHQ is an AEO/GEO measurement and remediation platform serving customers including Coinbase and SoFi, with approximately $2.7M raised; recent releases include the Athena Citation Engine for predicting citation likelihood, an agentic copilot for AI-search visibility, and Oracle for identifying incorrect brand claims.",
+   "summary": "AthenaHQ is an AEO/GEO platform for measuring and improving brand visibility in AI answers, with customers including Coinbase and SoFi and approximately $2.7M raised; its recent releases include the Athena Citation Engine, an agentic copilot, and Oracle for correcting inaccurate brand claims.",
    "scores": {
     "presence": {
      "value": "72",
@@ -293,9 +294,9 @@
    },
    "canonical_url": "https://stack.adamgtm.com/athenahq/",
    "md_url": "https://stack.adamgtm.com/athenahq/index.md",
-   "last_updated": "2026-10-19",
+   "last_updated": "2026-10-26",
    "ai_visibility": {
-    "web_mentions": 20,
+    "web_mentions": 22,
     "parametric_mentions": 2,
     "engines": [
      "ChatGPT",
@@ -313,7 +314,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise AEO/GEO platform focused on brand visibility and the accuracy of AI answers. Customers include American Express, Adidas, LVMH, and Ulta Beauty. $68M raised. Recent releases: a Bazaarvoice review partnership, Agentic Campaigns workflow automation, and AI Accuracy claim verification.",
+   "summary": "Bluefish AI is an enterprise AEO platform focused on brand visibility and factual accuracy across AI channels, with customers including American Express and Adidas, $68M raised, and recent releases spanning Agentic Campaigns, AI Accuracy, and Collections for campaign-level measurement.",
    "scores": {
     "presence": {
      "value": "70",
@@ -341,13 +342,12 @@
    },
    "canonical_url": "https://stack.adamgtm.com/bluefish-ai/",
    "md_url": "https://stack.adamgtm.com/bluefish-ai/index.md",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-10-26",
    "ai_visibility": {
     "web_mentions": 3,
     "parametric_mentions": 1,
     "engines": [
      "Gemini",
-     "Perplexity",
      "Claude"
     ]
    }
@@ -388,14 +388,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/botify/",
    "md_url": "https://stack.adamgtm.com/botify/index.md",
-   "last_updated": "2026-10-19",
-   "ai_visibility": {
-    "web_mentions": 1,
-    "parametric_mentions": 0,
-    "engines": [
-     "Gemini"
-    ]
-   }
+   "last_updated": "2026-10-19"
   },
   {
    "slug": "brandlight",
@@ -445,7 +438,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "BrightEdge is an enterprise SEO platform extending into AEO, with customers including Kantar and Telstra and reported funding of $61.9M; recent releases include Agent Edge for agent-accessible website content, AI Hyper Cube for cross-engine visibility, and AI Agent Insights.",
+   "summary": "Enterprise SEO platform extending into AEO, BrightEdge serves customers including Bloomfire, Kantar, and Telstra, has approximately $62M in reported funding, and has added Agent Edge for AI-agent access, AI Hyper Cube for cross-engine visibility, and AI Agent Insights for monitoring site access.",
    "scores": {
     "presence": {
      "value": "71",
@@ -473,13 +466,15 @@
    },
    "canonical_url": "https://stack.adamgtm.com/brightedge/",
    "md_url": "https://stack.adamgtm.com/brightedge/index.md",
-   "last_updated": "2026-10-19",
+   "last_updated": "2026-10-26",
    "ai_visibility": {
-    "web_mentions": 2,
-    "parametric_mentions": 0,
+    "web_mentions": 5,
+    "parametric_mentions": 2,
     "engines": [
      "ChatGPT",
-     "Gemini"
+     "Gemini",
+     "Perplexity",
+     "Claude"
     ]
    }
   },
@@ -491,7 +486,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Clay is GTM data and workflow infrastructure for building revenue systems, used by OpenAI and Anthropic, with $317M raised at a $7.1B valuation; recent releases include an agent-first build experience in early access, Workflows in open beta, and a Skills Marketplace.",
+   "summary": "Clay is GTM data and workflow infrastructure for custom builds, including AEO workflows, with customers OpenAI and Anthropic, $317M raised at a $7.1B valuation, and recent releases spanning Skills Marketplace, Workflows in open beta, and an agent-first build experience in early access.",
    "scores": {
     "presence": {
      "value": "98",
@@ -520,7 +515,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/clay/",
    "md_url": "https://stack.adamgtm.com/clay/index.md",
-   "last_updated": "2026-10-19"
+   "last_updated": "2026-10-26"
   },
   {
    "slug": "conductor",
@@ -561,9 +556,11 @@
    "md_url": "https://stack.adamgtm.com/conductor/index.md",
    "last_updated": "2026-10-04",
    "ai_visibility": {
-    "web_mentions": 4,
-    "parametric_mentions": 1,
+    "web_mentions": 14,
+    "parametric_mentions": 2,
     "engines": [
+     "ChatGPT",
+     "Gemini",
      "Perplexity",
      "Claude"
     ]
@@ -677,7 +674,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Evertune is an enterprise AEO platform connecting AI visibility measurement to affiliate and advertising actions, with customers including Roku and Canada Goose, $19M in disclosed funding, and releases including AI Retargeting, the Visibility Boost ad agent, and Shopping Intelligence.",
+   "summary": "Evertune is an enterprise AEO platform connecting AI brand visibility measurement to media activation, with customers including Canada Goose and Miro, $19M in disclosed seed and Series A funding, and releases spanning AI Retargeting, Visibility Boost, and Shopping Intelligence.",
    "scores": {
     "presence": {
      "value": "53",
@@ -707,14 +704,14 @@
    },
    "canonical_url": "https://stack.adamgtm.com/evertune/",
    "md_url": "https://stack.adamgtm.com/evertune/index.md",
-   "last_updated": "2026-10-19",
+   "last_updated": "2026-10-26",
    "ai_visibility": {
-    "web_mentions": 5,
+    "web_mentions": 6,
     "parametric_mentions": 1,
     "engines": [
-     "ChatGPT",
      "Gemini",
-     "Perplexity"
+     "Perplexity",
+     "Claude"
     ]
    }
   },
@@ -776,11 +773,10 @@
    "md_url": "https://stack.adamgtm.com/goodie-ai/index.md",
    "last_updated": "2026-08-30",
    "ai_visibility": {
-    "web_mentions": 2,
+    "web_mentions": 3,
     "parametric_mentions": 1,
     "engines": [
-     "Gemini",
-     "Perplexity"
+     "Claude"
     ]
    }
   },
@@ -792,7 +788,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Growth-marketing agency turned AEO operator, San Francisco. Best known for the Five Percent research series and founder Ethan Smith's AEO playbook. Recent work: a June 2026 model-collapse simulation, the 45-billion-session AI search study, and an August 2026 finding that forced search inflates prompt-tracking numbers.",
+   "summary": "Graphite is a growth-marketing agency focused on SEO and AEO, with Webflow and Fourthwall customer results and a supporting topical-SEO platform; recent research examines forced-search bias in ChatGPT tracking, response collapse from self-authored sources, and the scale of AI assistant usage.",
    "scores": {
     "presence": {
      "value": "—",
@@ -812,12 +808,15 @@
     "mcp": false,
     "sdk": false,
     "cli": false,
-    "llms_txt": false
+    "llms_txt": true
    },
-   "links": {},
+   "links": {
+    "homepage": "https://graphite.io",
+    "linkedin": "https://www.linkedin.com/company/graphite"
+   },
    "canonical_url": "https://stack.adamgtm.com/graphite/",
    "md_url": "https://stack.adamgtm.com/graphite/index.md",
-   "last_updated": "2026-08-23"
+   "last_updated": "2026-10-26"
   },
   {
    "slug": "growthx",
@@ -918,8 +917,8 @@
    "md_url": "https://stack.adamgtm.com/hubspot/index.md",
    "last_updated": "2026-10-11",
    "ai_visibility": {
-    "web_mentions": 19,
-    "parametric_mentions": 0,
+    "web_mentions": 16,
+    "parametric_mentions": 1,
     "engines": [
      "ChatGPT",
      "Gemini",
@@ -1131,7 +1130,7 @@
    "md_url": "https://stack.adamgtm.com/otterly-ai/index.md",
    "last_updated": "2026-08-30",
    "ai_visibility": {
-    "web_mentions": 29,
+    "web_mentions": 32,
     "parametric_mentions": 3,
     "engines": [
      "ChatGPT",
@@ -1143,13 +1142,13 @@
   },
   {
    "slug": "peec-ai",
-   "name": "Peec Ai",
+   "name": "Peec AI",
    "solution_type": "Buy",
    "entity_type": "tool",
    "categories": [
     "aeo"
    ],
-   "summary": "AI search analytics platform in the AEO/GEO category, built for mid-market teams and agencies. Customers include Chanel, Squarespace, and Hugo Boss. About $29M raised, with $10M ARR and 2,500+ customers as of May 2026. Recent releases: Brand Perception, an Ads page tracking competitor placements inside ChatGPT, and AI Shopping Analytics.",
+   "summary": "Peec AI is an AEO analytics platform focused on mid-market teams and agencies, with customers including Chanel and Squarespace and $29M raised; recent releases include Peec Agent, Brand Perception scoring, and an Ads page for monitoring competitor placements in ChatGPT.",
    "scores": {
     "presence": {
      "value": "74",
@@ -1179,10 +1178,10 @@
    },
    "canonical_url": "https://stack.adamgtm.com/peec-ai/",
    "md_url": "https://stack.adamgtm.com/peec-ai/index.md",
-   "last_updated": "2026-08-23",
+   "last_updated": "2026-10-26",
    "ai_visibility": {
-    "web_mentions": 29,
-    "parametric_mentions": 2,
+    "web_mentions": 32,
+    "parametric_mentions": 3,
     "engines": [
      "ChatGPT",
      "Gemini",
@@ -1362,9 +1361,10 @@
    "md_url": "https://stack.adamgtm.com/scrunch-ai/index.md",
    "last_updated": "2026-09-06",
    "ai_visibility": {
-    "web_mentions": 12,
+    "web_mentions": 19,
     "parametric_mentions": 2,
     "engines": [
+     "ChatGPT",
      "Gemini",
      "Perplexity",
      "Claude"

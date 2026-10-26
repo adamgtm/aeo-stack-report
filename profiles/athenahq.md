@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/athenahq/](https://stack.adamgtm.com/athenahq/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/athenahq/ · last updated 2026-10-19 -->
+<!-- canonical: https://stack.adamgtm.com/athenahq/ · last updated 2026-10-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AthenaHQ
 
-AthenaHQ is an AEO/GEO measurement and remediation platform serving customers including Coinbase and SoFi, with approximately $2.7M raised; recent releases include the Athena Citation Engine for predicting citation likelihood, an agentic copilot for AI-search visibility, and Oracle for identifying incorrect brand claims.
+AthenaHQ is an AEO/GEO platform for measuring and improving brand visibility in AI answers, with customers including Coinbase and SoFi and approximately $2.7M raised; its recent releases include the Athena Citation Engine, an agentic copilot, and Oracle for correcting inaccurate brand claims.
 
 
 ## Scores
@@ -19,19 +19,19 @@ AthenaHQ is an AEO/GEO measurement and remediation platform serving customers in
 
 ## The Solution & Approach
 
-AthenaHQ organizes its product around two jobs: measure what AI answer engines say about a brand, then act on the findings. Its measurement layer combines citation tracking, a catalog of 3M+ AI responses, and QVEM, a proprietary model for estimating AI-search query volume.
+AthenaHQ organizes its product around measurement and remediation. Its measurement layer tracks brand visibility and citations across AI answer engines, draws on a catalog of 3M+ AI responses, and uses its Query Volume Estimation Model to estimate prompt demand where keyword-volume data is unavailable.
 
-The remediation layer includes Oracle for identifying incorrect or conflicting brand claims and the Athena Citation Engine for scoring and refining content before publication. In June 2026, AthenaHQ introduced an agentic copilot as its primary interface, replacing the dashboard.
+The remediation layer addresses what models say and which content they cite. Oracle flags conflicting brand claims for review. The Athena Citation Engine scores drafts for citation likelihood before publication. An agentic copilot became the primary interface in June 2026, replacing the dashboard.
 
-Its category argument is that AEO should extend from reporting visibility to correcting claims and improving citation likelihood. AthenaHQ supports that position with proprietary research. Its own ACE study covered 1,761 articles and reported an 87% citation rate for top-decile content versus 38.6% for bottom-decile content. Those results are vendor-published.
+Its category argument rests on proprietary measurement. In a vendor-published study of 1,761 articles, content in the top ACE-score decile was cited 87% of the time, compared with 38.6% in the bottom decile. The study reports an association between scores and citations, rather than an independently verified customer outcome. [Study](https://athenahq.ai/blog/the-science-of-ai-citation)
 
 ## Best for
 
-Brand and marketing teams that want AI-search monitoring, claim correction, and content optimization in one platform, with self-serve entry and enterprise controls.
+Brand and content teams that want AI-search monitoring connected to claim correction and content optimization, with self-serve entry pricing and enterprise controls.
 
 ## Pricing & trial
 
-Self-serve pricing is $95 per month billed annually or $295 billed monthly, including 3,600 credits, eight LLMs, and unlimited seats; enterprise pricing is custom, and the research does not establish free-trial availability. [Pricing](https://athenahq.ai/pricing).
+Self-serve costs $95 per month with annual billing or $295 month-to-month for 3,600 credits, eight LLMs, and unlimited seats; enterprise pricing is custom, and no free trial is documented. [Pricing](https://athenahq.ai/pricing).
 
 ## Agent Experience
 
@@ -45,7 +45,7 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | Yes | [docs](https://athenahq.ai/llms.txt) |
 
-AthenaHQ offers documented API access on its enterprise plan, an MCP integration with OAuth-scoped authentication, and llms.txt, providing surfaces for agent integration; SDK and CLI availability are not established.
+AthenaHQ offers a documented API, an OAuth-authenticated MCP connection, and llms.txt, providing foundations for agent integrations, although API access is listed under the enterprise plan.
 
 ## Reference customers
 
@@ -53,36 +53,36 @@ Slalom, SoFi, Coinbase, Hearst, HexClad, PagerDuty, Checkr, Grüns, Nuvadermis, 
 
 ## Case studies & customer stories
 
-- Nuvadermis: AthenaHQ reports a 5x citation-rate increase and tripled AI-search share of voice. [source](https://www.linkedin.com/posts/andrew-yan-200_mr-worldwide-seo-the-good-news-ai-activity-7458512934076526593-EKxx)
-- AutoRFP: a customer account shared by AthenaHQ attributes 22.4% of inbound leads to ChatGPT discovery. [source](https://www.linkedin.com/posts/andrew-yan-200_a-perfect-partnership-how-autorfp-drove-activity-7447636170165022720-ELN4)
+- Nuvadermis: AthenaHQ reports a 5x citation rate versus competitors and tripled AI-search share of voice. [source](https://www.linkedin.com/posts/andrew-yan-200_mr-worldwide-seo-the-good-news-ai-activity-7458512934076526593-EKxx)
+- AutoRFP: a customer reports that 22.4% of inbound leads attributed discovery to ChatGPT. [source](https://www.linkedin.com/posts/andrew-yan-200_a-perfect-partnership-how-autorfp-drove-activity-7447636170165022720-ELN4)
 - Grüns: AthenaHQ reports a 23x increase in AI citations over two months. [source](https://www.linkedin.com/posts/andrew-yan-200_you-need-a-better-way-to-grow-how-gr%C3%BCns-activity-7440748066804006912-1xCM)
 - Rootly: AthenaHQ reports 52.6% AI-search share of voice. [source](https://www.linkedin.com/posts/andrew-yan-200_the-best-feeling-seeing-your-customers-win-activity-7438210343195123713-hL-N)
 - Lago: AthenaHQ reports a 50% increase in demos from AI search. [source](https://www.linkedin.com/posts/andrew-yan-200_how-lago-achieved-50-increase-in-demos-from-ugcPost-7421551783296020480-HGUV)
 
 ## Recent moves
 
-- **2026-10-16**: Announced the Athena Citation Engine, which scores content from 0 to 1 for predicted AI-citation likelihood. [source](https://www.linkedin.com/posts/andrew-yan-200_not_all-models-are-equal-but-there-activity-7516845568988442624-v6-r)
-- **2026-09-18**: Co-founder Andrew Yan stated that AthenaHQ serves 300+ brands, a self-reported count included in a LinkedIn post. [source](https://www.linkedin.com/posts/andrew-yan-200_tag-your-parents-speaking-of-ai-agents-activity-7506683461584404480-3oWO)
-- **2026-06-17**: Launched Athena AI, an agentic copilot that queries eight or more AI platforms and replaces the dashboard as the primary interface. [source](https://www.linkedin.com/posts/andrew-yan-200_speaking-of-firsts-were-hiring-a-founding-activity-7469731427627200512-xRlM)
-- **2026-05-28**: Published an ACE validation study covering 1,761 articles, reporting citation rates of 87% for top-decile content and 38.6% for bottom-decile content. [source](https://athenahq.ai/blog/the-science-of-ai-citation)
-- **2026-05-08**: Shared a Nuvadermis case study reporting a 5x citation-rate increase and tripled AI-search share of voice. [source](https://www.linkedin.com/posts/andrew-yan-200_mr-worldwide-seo-the-good-news-ai-activity-7458512934076526593-EKxx)
-- **2026-05-04**: Launched Oracle to identify incorrect or conflicting AI-generated brand claims and let teams review discrepancies with confidence scores and source URLs. [source](https://www.linkedin.com/posts/andrew-yan-200_that-a-boy-after-writing-what-i-activity-7457052581639536641-_fub)
+- **2026-10-24**: Three job postings were observed, including Growth Engineer and Founding Product Marketer; the observation date does not establish when the roles opened. [source](https://jobs.ashbyhq.com/athena-hq/e72f3099-2618-48a5-8fb4-e5e24c205cfb)
+- **2026-10-16**: Announced the Athena Citation Engine, which scores content from zero to one for AI-citation likelihood, following a published validation study in May. [source](https://www.linkedin.com/posts/andrew-yan-200_not_all-models-are-equal-but-there-activity-7516845568988442624-v6-r)
+- **2026-09-18**: Co-founder Andrew Yan reported serving more than 300 brands in a LinkedIn post sign-off, naming Coinbase, SoFi, and Grüns. [source](https://www.linkedin.com/posts/andrew-yan-200_tag-your-parents-speaking-of-ai-agents-activity-7506683461584404480-3oWO)
+- **2026-06-17**: Launched Athena AI, an agentic copilot that queries eight or more AI platforms and replaces the dashboard as the primary interface. [source](https://www.linkedin.com/posts/athena-hq_aisearch-geo-aeo-activity-7473129651918381056-QXmB)
+- **2026-05-28**: Published an ACE validation study covering 1,761 articles, reporting citation rates of 87% for the top score decile and 38.6% for the bottom decile. [source](https://athenahq.ai/blog/the-science-of-ai-citation)
+- **2026-05-08**: Published a Nuvadermis customer story reporting a 5x citation rate versus competitors and tripled AI-search share of voice. [source](https://www.linkedin.com/posts/andrew-yan-200_mr-worldwide-seo-the-good-news-ai-activity-7458512934076526593-EKxx)
 
 ## Company, Financials & Funding History
 
-Founded in 2024 in San Francisco by Andrew Yan, formerly of Google Search, and Alan Yao. AthenaHQ joined Y Combinator's Winter 2025 batch and emerged from stealth in June 2025 with 70+ customers.
+Founded in 2024 and based in San Francisco, AthenaHQ was co-founded by Andrew Yan, formerly of Google Search, and Alan Yao. It joined Y Combinator's Winter 2025 batch and emerged from stealth in June 2025 with more than 70 customers.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2025-06 | Seed | $2.2M (FCVC and Red Bike Capital), with Y Combinator and angel investors participating. |
-| 2025-02 | Pre-seed | $0.5M (Y Combinator), through the Winter 2025 batch. |
+| 2025-06 | Seed | $2.2M (FCVC and Red Bike Capital), with Y Combinator and angel investors participating |
+| 2025-02 | Pre-seed | $0.5M (Y Combinator), Winter 2025 batch |
 
 ## Analyst placement
 
-Co-founder Andrew Yan reported that Duane Forrester ranked AthenaHQ first on coverage and confidence in an AI-search tool assessment; this was an individual assessment, not a Forrester Research placement. [Source](https://www.linkedin.com/posts/andrew-yan-200_people-trust-specifics-duane-forrester-activity-7447993923194650624-4dai)
+According to Andrew Yan, independent search analyst Duane Forrester ranked AthenaHQ first on coverage and confidence in an AI-search tool assessment; this is an individual analyst assessment, not a Forrester Research placement. [Source](https://www.linkedin.com/posts/andrew-yan-200_people-trust-specifics-duane-forrester-activity-7447993923194650624-4dai)
 
 ## Links
 
 [Homepage](https://athenahq.ai) · [Pricing](https://athenahq.ai/pricing) · [LinkedIn](https://www.linkedin.com/company/athena-hq)
 
-*Last updated 2026-10-19 · refreshed weekly*
+*Last updated 2026-10-26 · refreshed weekly*

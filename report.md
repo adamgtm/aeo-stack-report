@@ -18,7 +18,7 @@ The real question is not which vendor fits. It's which *approach* fits, then whi
 - **Build** if you have a technical or GTM-engineering team and want control plus lower cost.
 - **Hire** if you want outcomes without staffing it, or want senior strategy on top of a tool.
 
-Within each approach, players are ranked on three axes built for this market (not Gartner's static snapshot): **Presence**, **Velocity**, and **Agent-Readiness**. Hover any logo for its scores; the full, sortable set is in the **Vendor Tracker** tab, and the rigor is in **Methodology**.
+Within each approach, players are ranked on three axes built for this market (not Gartner's static snapshot): **Presence**, **Velocity**, and **Agent-Readiness**. Hover or tap any logo for its scores; the full, sortable set is in the **Vendor Tracker** tab, and the rigor is in **Methodology**.
 
 ## Why AEO matters in 2026
 

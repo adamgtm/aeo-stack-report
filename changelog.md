@@ -1,6 +1,6 @@
 > **Canonical source:** [https://stack.adamgtm.com/aeo-changelog/](https://stack.adamgtm.com/aeo-changelog/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-10-19 -->
+<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-10-26 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Changelog: What Moved This Week
 
@@ -10,7 +10,9 @@ Every guide claims it's kept current. This page is the proof: a dated record of 
 
 | Date | | What changed |
 |---|---|---|
+| 2026-10-26 | Profiles | **[Profiles refreshed: AirOps, AthenaHQ, Bluefish AI, BrightEdge, Clay, Evertune, Graphite, Peec AI](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam moved them. |
 | 2026-10-19 | Profiles | **[Profiles refreshed: AthenaHQ, Botify, BrightEdge, Clay, Evertune](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam moved them. |
+| 2026-10-19 | Data | **[AI-visibility run 2026-10-19](https://stack.adamgtm.com/aeo-ai-visibility/)** — 60 web-grounded answers across 4 engines. Most named: Profound (34), Otterly AI (32), Peec AI (32). adamgtm.com cited in 0/60. |
 | 2026-10-11 | Profiles | **[Profiles refreshed: Botify, HubSpot](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam moved them. |
 | 2026-10-04 | Profiles | **[Profiles refreshed: AirOps, Conductor, HubSpot](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam moved them. |
 

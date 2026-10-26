@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/aeo-ai-visibility/](https://stack.adamgtm.com/aeo-ai-visibility/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/aeo-ai-visibility/ · last updated 2026-08-23 -->
+<!-- canonical: https://stack.adamgtm.com/aeo-ai-visibility/ · last updated 2026-10-19 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO AI Visibility: Who the Engines Recommend
 
-**The question behind this page: when a buyer asks an AI engine for AEO help, who gets named?** We run 15 buyer-intent queries through ChatGPT, Gemini, Perplexity and Claude every week and count the answers. No panel, no survey, no vendor self-reporting — just what the engines actually say. Latest run: 2026-08-23, 60 web-grounded answers.
+**The question behind this page: when a buyer asks an AI engine for AEO help, who gets named?** We run 15 buyer-intent queries through ChatGPT, Gemini, Perplexity and Claude every week and count the answers. No panel, no survey, no vendor self-reporting — just what the engines actually say. Latest run: 2026-10-19, 60 web-grounded answers.
 
 This is one of the two dimensions this guide tracks that a traditional analyst report can't: **AI visibility** (are you in the answers?) and **[agent-readiness](/aeo/)** (can agents build on you?). The counts below feed the AI-Visibility share of each vendor's Presence score.
 
@@ -12,24 +12,23 @@ This is one of the two dimensions this guide tracks that a traditional analyst r
 
 | # | Vendor | ChatGPT | Gemini | Perplexity | Claude | Total | Queries named in |
 |---|---|---|---|---|---|---|---|
-| 1 | [Profound](/profound/) | 6 | 6 | 9 | 13 | **34** | 13/15 |
-| 2 | [Otterly AI](/otterly-ai/) | 6 | 5 | 7 | 11 | **29** | 12/15 |
-| 3 | [Peec AI](/peec-ai/) | 6 | 5 | 8 | 10 | **29** | 12/15 |
-| 4 | [AthenaHQ](/athenahq/) | 5 | 4 | 5 | 6 | **20** | 8/15 |
-| 5 | [HubSpot](/hubspot/) | 7 | 5 | 5 | 2 | **19** | 10/15 |
-| 6 | [Ahrefs](/ahrefs/) | 4 | 2 | 3 | 7 | **16** | 9/15 |
-| 7 | [Scrunch AI](/scrunch-ai/) | 0 | 3 | 4 | 5 | **12** | 6/15 |
-| 8 | [AirOps](/airops/) | 1 | 1 | 0 | 3 | **5** | 4/15 |
-| 9 | [Evertune](/evertune/) | 2 | 1 | 2 | 0 | **5** | 4/15 |
-| 10 | [Conductor](/conductor/) | 0 | 0 | 1 | 3 | **4** | 3/15 |
-| 11 | [Bluefish AI](/bluefish-ai/) | 0 | 1 | 1 | 1 | **3** | 1/15 |
-| 12 | [BrightEdge](/brightedge/) | 1 | 1 | 0 | 0 | **2** | 2/15 |
-| 13 | [Goodie AI](/goodie-ai/) | 0 | 1 | 1 | 0 | **2** | 1/15 |
-| 14 | [Botify](/botify/) | 0 | 1 | 0 | 0 | **1** | 1/15 |
+| 1 | [Profound](/profound/) | 5 | 7 | 7 | 15 | **34** | 15/15 |
+| 2 | [Otterly AI](/otterly-ai/) | 7 | 5 | 7 | 13 | **32** | 14/15 |
+| 3 | [Peec AI](/peec-ai/) | 5 | 6 | 7 | 14 | **32** | 14/15 |
+| 4 | [Ahrefs](/ahrefs/) | 6 | 6 | 4 | 9 | **25** | 10/15 |
+| 5 | [AthenaHQ](/athenahq/) | 5 | 5 | 5 | 7 | **22** | 9/15 |
+| 6 | [Scrunch AI](/scrunch-ai/) | 3 | 3 | 3 | 10 | **19** | 10/15 |
+| 7 | [HubSpot](/hubspot/) | 4 | 3 | 6 | 3 | **16** | 10/15 |
+| 8 | [Conductor](/conductor/) | 1 | 4 | 3 | 6 | **14** | 8/15 |
+| 9 | [AirOps](/airops/) | 1 | 3 | 1 | 1 | **6** | 5/15 |
+| 10 | [Evertune](/evertune/) | 0 | 2 | 1 | 3 | **6** | 5/15 |
+| 11 | [BrightEdge](/brightedge/) | 1 | 1 | 1 | 2 | **5** | 4/15 |
+| 12 | [Bluefish AI](/bluefish-ai/) | 0 | 1 | 0 | 2 | **3** | 3/15 |
+| 13 | [Goodie AI](/goodie-ai/) | 0 | 0 | 0 | 3 | **3** | 3/15 |
 
-*Counts are answer-level mentions across the 2026-08-23 run: one query answered by one engine = one answer; a vendor named in that answer scores 1. Web-grounded answers only (the engine searched the live web).*
+*Counts are answer-level mentions across the 2026-10-19 run: one query answered by one engine = one answer; a vendor named in that answer scores 1. Web-grounded answers only (the engine searched the live web).*
 
-**Named zero times this run** (of the platforms we profile): AIVO, Adobe LLM Optimizer (now Adobe Brand Visibility), Amplitude, Brandlight, Demand-Genius, Gumshoe AI, Limy AI, Meltwater, Pixis Visibility, Quattr, Semrush (Enterprise AIO), Siteimprove. A zero here is a data point, not a verdict — it means the engines aren't naming them on these buyer questions yet.
+**Named zero times this run** (of the platforms we profile): AIVO, Adobe LLM Optimizer (now Adobe Brand Visibility), Amplitude, Botify, Brandlight, Demand-Genius, Gumshoe AI, Limy AI, Meltwater, Pixis Visibility, Quattr, Semrush (Enterprise AIO), Siteimprove. A zero here is a data point, not a verdict — it means the engines aren't naming them on these buyer questions yet.
 
 *Adobe LLM Optimizer is now Adobe Brand Visibility. Detection of the new name was added on October 6, 2026; earlier runs measured only the old name.*
 
@@ -68,12 +67,13 @@ Fixed buyer-intent prompts, spelled out the way a real buyer types them. Publish
 | 2026-07-26 | 72 | Profound (36), Otterly AI (31), Peec AI (27) |
 | 2026-08-09 | 72 | Profound (38), Otterly AI (32), Peec AI (30) |
 | 2026-08-23 | 72 | Profound (37), Otterly AI (32), Peec AI (31) |
+| 2026-10-19 | 72 | Profound (37), Peec AI (35), Otterly AI (35) |
 
 *Early runs used a different query set; counts are comparable within a run, directional across runs. The 2026-05-28 run onward is the stable methodology.*
 
 ## Our own number
 
-We hold this guide to the same bar. On the 2026-08-23 run, adamgtm.com was cited in **0 of 60** web-grounded answers. That's the baseline, published, tracked weekly. When it moves, you'll see it move here.
+We hold this guide to the same bar. On the 2026-10-19 run, adamgtm.com was cited in **0 of 60** web-grounded answers. That's the baseline, published, tracked weekly. When it moves, you'll see it move here.
 
 ## Method
 
