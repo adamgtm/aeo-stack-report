@@ -1,48 +1,62 @@
 > **Canonical source:** [https://stack.adamgtm.com/gtm-dev/](https://stack.adamgtm.com/gtm-dev/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/gtm-dev/ · last updated 2026-06-16 -->
+<!-- canonical: https://stack.adamgtm.com/gtm-dev/ · last updated 2026-10-28 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
-# GTM Developer Tools Map
+# GTM Developer Tools
 
-**The stack you built in 2020 is for a different world.** Coding agents are the new center of the GTM stack. The sales and marketing tools for 2026 are ones an agent can find, access, and use.
+**Agents are the center of the new stack.** Everything else is something an agent uses: tools, skills, context and plumbing.
+
+This is v2 of the map I started in June. It shows what your GTM agents run on.
 
 I call this new category "GTM Developer Tools."
 
-Agents are now the orchestrator of the stack, and they don't care about human usability ratings or Gartner grids. They care about which tools they can access to hit a goal. And builders are taking over the GTM org: GTM engineers, marketing engineers, applied-AI roles, plus any operator with Claude Code or Codex open. 
+Agents don't care about human usability ratings or Gartner grids. They care about what they can reach: the tools they can call, the context they can read, and where they can run. And builders are taking over the GTM org: GTM engineers, marketing engineers, applied-AI roles, plus any operator with Claude Code or Codex open.
 
 ## How to read the map
 
-- **Center** — coding agents (Claude Code, Codex, Cursor) and agent builders (LangChain, Lindy, Dust). This is what runs the work. Everything else orbits it.
-- **The eight jobs** — the primitives an agent calls: Web Search & Scraping, Computer Use, Data/Enrichment & Signals, Communication Infra, Orchestration, Deployment, Data Storage & Memory, Agent Tooling.
-- **SaaS going headless** — traditional GTM SaaS, on the map only where it went headless. A vendor with no surface an agent can call is invisible to the stack above it.
+Tools, skills, agents, context, plumbing.
 
-Download it, give it to Claude, make it your own. What's missing from this picture?
+- **Agents** are the center. Coding agents you build with: Claude Code, Codex, Cursor. Chat and personal agents you work with: ChatGPT, Claude, Gemini, Grok Bot. Custom agents are SDKs and frameworks you run yourself, like the Claude Agent SDK, the OpenAI Agents SDK and LangGraph. Agent builders are hosted harnesses: you build them, they run them. Agentforce, Agent Bricks, Cortex Agents, Swan, Lindy.
+- **Agentic Workflows** sit beside them. Agents to build, workflows to run: Clay, n8n, Zapier, OXYGEN, Pancake.
+- **Skills** are your playbooks, how your team does the work. They are mostly open source and things you write, so there are no logos here.
+- **Tools** are what an agent calls: Data & Signals, Web Search & Scraping, Browsers & Computer Use, Communication. At the base are SaaS Platforms Going Headless: the tools you already pay for, now usable by agents through an API, an MCP server or a CLI.
+- **Context** is Context & Memory: your warehouse, GTM context and memory. We know it's important. It's unclear how much you build and own versus buy, rent or integrate. Probably a hybrid.
+- **Plumbing** is Connectors & MCP, plus Run & Deploy.
+
+Get the [full dataset](/index/?cat=GTM%20Developer%20Tools#dataset), give it to Claude, make it your own. What's missing from this picture?
 
 ## Methodology {: #methodology .methodology-doc }
 
 ### What's covered
 
-A tool earns a spot if an agent can access it or call it to do go-to-market work. This include boths GTM-specific tools (e.g. Clay, People Data Labs, Resend,) as well as board dev tools with clear GTM use cases in this new paradigm (e.g. Supabase, Exa, Apify, Parallel Web Systems) Three layers:
+A tool earns a spot if an agent can access it or call it to do go-to-market work. This includes both GTM-specific tools (e.g. Clay, People Data Labs, Resend) and broad dev tools with clear GTM use cases in this new paradigm (e.g. Supabase, Exa, Apify, Parallel Web Systems). Four layers:
 
-- **Center** — the coding agents and agent builders that run the work.
-- **The eight jobs** — the primitives the agent calls to get GTM done.
-- **SaaS going headless** — traditional GTM SaaS, included only when it exposes a real headless surface: MCP, API, CLI, SDK.
+- **Agents** at the center, and the workflows that run alongside them.
+- **Tools, context and plumbing** the agent calls to get GTM done.
+- **SaaS Platforms Going Headless**: traditional GTM SaaS, included only when it exposes a real headless surface: MCP, API, CLI, SDK.
+- **Skills**, which are yours, not a vendor category.
 
-### The categories
+The rule for this map: a tool has to carry GTM Developer Tools (the outside boxes) or Coding Agents & Harnesses for GTM (the center box). AI-Native Challengers are not on this map unless the product itself is a developer tool or a GTM harness. SaaS Platforms Going Headless is the exception: it is SaaS samples with proof of an agent-ready surface, meaning an API, an MCP server or a CLI.
 
-To start, this GTM Developer Tools market map covers the following categories. This will likely expand as I monitor the space and update these resources.
+### The boxes
 
-- **Coding Agents** — the orchestrator at the center: Claude Code, Codex, Cursor.
-- **Agent Builders** — frameworks to build your own: LangChain, Lindy, Dust.
-- **Web Search & Scraping** — find and pull external data on demand: Firecrawl, Exa.ai, Apify.
-- **Computer Use** — drive the UIs that never shipped an API: Browserbase, Browser Use, Kernel.
-- **Data, Enrichment & Signals** — companies, people, events, intent: Clay, People Data Labs, LeadMagic.
-- **Communication Infra** — programmatically send email, SMS, voice: Twilio, Resend, ElevenLabs.
-- **Orchestration** — coordinate and manage agent workflows: n8n, Temporal, Trigger.dev.
-- **Deployment** — run, host, and sandbox the work: Vercel, Railway, Modal.
-- **Data Storage & Memory** — persist state between runs: Supabase, Pinecone, Redis.
-- **Agent Tooling** — MCP servers and the agent's toolbelt: Composio, Arcade.dev, Smithery.
-- **Traditional GTM SaaS** — GTM SaaS that went headless: Salesforce, HubSpot, Gong.
+This map has 13 boxes. A tool can sit in more than one. Some are not scored yet: ChatGPT, Claude and Gemini are on the map but not in the tracked set.
+
+- **Coding agents**: Claude Code, Codex, Cursor.
+- **Chat & personal agents**: ChatGPT, Claude, Gemini, Grok Bot.
+- **Custom agents**: Claude Agent SDK, OpenAI Agents SDK, LangGraph.
+- **Agent builders**: Agentforce, Agent Bricks, Cortex Agents, Swan, Lindy.
+- **Agentic Workflows**: Clay, n8n, Zapier.
+- **Data & Signals**: Clay, People Data Labs, LeadMagic.
+- **Web Search & Scraping**: Firecrawl, Exa, Apify.
+- **Browsers & Computer Use**: Browserbase, Browser Use, Kernel.
+- **Communication**: Twilio, Resend, ElevenLabs.
+- **Context & Memory**: Snowflake, Octave, Supermemory.
+- **Connectors & MCP**: Composio, Arcade, Smithery.
+- **Run & Deploy**: Vercel, Railway, Modal.
+- **SaaS Platforms Going Headless**: Salesforce, HubSpot, Gong.
+
+The June map (v1) used different boxes. Each tool's June category is kept in the data.
 
 ### Scores
 
@@ -60,7 +74,7 @@ Two scores help rank products, both relative across the tracked set.
 
 **Panel Share of Voice (SOV). 0–100 Score.** How much the market talks about a tool, not how much the tool talks about itself. Earned mentions only, across the GTM operators, builders, investors, publications, and podcasts we track on LinkedIn, X, RSS, and podcasts over a trailing six months. A company's own posts are stripped out. Each mention is weighted by engagement, then indexed against the loudest tool in the panel. A 75 means strong earned presence relative to the loudest voice, not 75% share. 
 
-Within each box, logos are sorted by a composite of those two scores plus the company's funding and scale, each scored as a percentile across the tracked set.
+Each box opens with the logos I picked to match the map graphic. The rest are sorted by a composite of those two scores plus the company's funding and scale, each scored as a percentile across the tracked set.
 
 ### Curation & research depth
 

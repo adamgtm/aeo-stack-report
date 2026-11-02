@@ -6,7 +6,7 @@
   "canonical_url": "https://stack.adamgtm.com/aeo/",
   "md_url": "https://stack.adamgtm.com/aeo/index.md"
  },
- "generated": "2026-10-26",
+ "generated": "2026-11-02",
  "maintainer": "Adam's GTM Report — https://adamgtm.com",
  "method": {
   "scores": "Presence / Velocity / Agent-Readiness, set by Adam, refreshed weekly, relative across the tracked set. Each carries a short reason.",
@@ -97,7 +97,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AirOps combines AEO measurement with content workflows for marketing teams, serving customers including Webflow and Chime, with $62.5M raised at a $225M valuation in November 2025 and recent launches spanning AI Ads, AirOps Services, and the Quill campaign agent.",
+   "summary": "AirOps combines AEO measurement with content workflows for marketing teams, serving Webflow and Chime; it has raised $62.5M at a reported $225M valuation and recently introduced AI Ads, AirOps Services, and a ChatGPT Ad Library.",
    "scores": {
     "presence": {
      "value": "76",
@@ -126,7 +126,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/airops/",
    "md_url": "https://stack.adamgtm.com/airops/index.md",
-   "last_updated": "2026-10-26",
+   "last_updated": "2026-11-02",
    "ai_visibility": {
     "web_mentions": 6,
     "parametric_mentions": 0,
@@ -265,7 +265,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AthenaHQ is an AEO/GEO platform for measuring and improving brand visibility in AI answers, with customers including Coinbase and SoFi and approximately $2.7M raised; its recent releases include the Athena Citation Engine, an agentic copilot, and Oracle for correcting inaccurate brand claims.",
+   "summary": "AthenaHQ is an AEO/GEO platform combining AI-search measurement with content and brand-accuracy tools, serving customers including Coinbase and SoFi, with approximately $2.7M raised and recent releases including the Athena Citation Engine, the Athena AI copilot, and Oracle for correcting inaccurate brand claims.",
    "scores": {
     "presence": {
      "value": "72",
@@ -294,7 +294,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/athenahq/",
    "md_url": "https://stack.adamgtm.com/athenahq/index.md",
-   "last_updated": "2026-10-26",
+   "last_updated": "2026-11-02",
    "ai_visibility": {
     "web_mentions": 22,
     "parametric_mentions": 2,
@@ -314,7 +314,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Bluefish AI is an enterprise AEO platform focused on brand visibility and factual accuracy across AI channels, with customers including American Express and Adidas, $68M raised, and recent releases spanning Agentic Campaigns, AI Accuracy, and Collections for campaign-level measurement.",
+   "summary": "Bluefish AI is an enterprise AEO platform focused on brand visibility, factual accuracy, and campaign execution, with customers including American Express and Adidas, $68M raised, and recent releases spanning Paid Media Briefs, Agentic Campaigns, and AI Accuracy.",
    "scores": {
     "presence": {
      "value": "70",
@@ -342,7 +342,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/bluefish-ai/",
    "md_url": "https://stack.adamgtm.com/bluefish-ai/index.md",
-   "last_updated": "2026-10-26",
+   "last_updated": "2026-11-02",
    "ai_visibility": {
     "web_mentions": 3,
     "parametric_mentions": 1,
@@ -438,7 +438,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Enterprise SEO platform extending into AEO, BrightEdge serves customers including Bloomfire, Kantar, and Telstra, has approximately $62M in reported funding, and has added Agent Edge for AI-agent access, AI Hyper Cube for cross-engine visibility, and AI Agent Insights for monitoring site access.",
+   "summary": "BrightEdge is an enterprise SEO platform expanding into AEO, with customers including Bloomfire and Kantar, about $62M in reported funding, and releases spanning Agent Edge for agent-accessible websites, AI Hyper Cube for cross-engine visibility, and AI Agent Insights for monitoring site access.",
    "scores": {
     "presence": {
      "value": "71",
@@ -466,7 +466,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/brightedge/",
    "md_url": "https://stack.adamgtm.com/brightedge/index.md",
-   "last_updated": "2026-10-26",
+   "last_updated": "2026-11-02",
    "ai_visibility": {
     "web_mentions": 5,
     "parametric_mentions": 2,
@@ -486,7 +486,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Clay is GTM data and workflow infrastructure for custom builds, including AEO workflows, with customers OpenAI and Anthropic, $317M raised at a $7.1B valuation, and recent releases spanning Skills Marketplace, Workflows in open beta, and an agent-first build experience in early access.",
+   "summary": "Clay is GTM data and workflow infrastructure for custom builds, including AEO workflows, with customers OpenAI and Anthropic, $317M raised and a $7.1B valuation, and recent releases spanning Claygent auto-mode, a Skills Marketplace and an early-access agent-first build experience.",
    "scores": {
     "presence": {
      "value": "98",
@@ -515,7 +515,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/clay/",
    "md_url": "https://stack.adamgtm.com/clay/index.md",
-   "last_updated": "2026-10-26"
+   "last_updated": "2026-11-02"
   },
   {
    "slug": "conductor",
@@ -788,7 +788,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Graphite is a growth-marketing agency focused on SEO and AEO, with Webflow and Fourthwall customer results and a supporting topical-SEO platform; recent research examines forced-search bias in ChatGPT tracking, response collapse from self-authored sources, and the scale of AI assistant usage.",
+   "summary": "Graphite is a growth-marketing agency focused on SEO and AEO, with Webflow and Fourthwall as reference customers, a proprietary Topical SEO platform, and recent research on ChatGPT prompt tracking, AI response collapse, and the scale of AI search.",
    "scores": {
     "presence": {
      "value": "—",
@@ -816,7 +816,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/graphite/",
    "md_url": "https://stack.adamgtm.com/graphite/index.md",
-   "last_updated": "2026-10-26"
+   "last_updated": "2026-11-02"
   },
   {
    "slug": "growthx",
@@ -886,7 +886,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Public CRM and customer platform extending into AEO/GEO through bundled AI-visibility measurement. Founded in 2006 with $100M in reported funding and 306,446 customers as of Q2 2026, HubSpot recently released a rebuilt Breeze Assistant, Smart CRM, and ChatGPT Ads integration.",
+   "summary": "Publicly traded CRM and marketing platform with bundled AEO measurement, 306,446 customers reported in Q2 2026 and a roughly $10.1B market capitalization reported in September; recent launches include Agent Builder, Marketing Studio and a rebuilt Breeze Assistant.",
    "scores": {
     "presence": {
      "value": "61",
@@ -915,7 +915,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/hubspot/",
    "md_url": "https://stack.adamgtm.com/hubspot/index.md",
-   "last_updated": "2026-10-11",
+   "last_updated": "2026-11-02",
    "ai_visibility": {
     "web_mentions": 16,
     "parametric_mentions": 1,
@@ -1329,7 +1329,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AI customer experience platform for AEO/GEO, spanning measurement and delivery. Customers include Lenovo, Crunchbase, and RunPod. Raised about $19M before Sitecore acquired it in June 2026, reportedly for roughly $225M. Recent releases: Site Diagnostics, Keyword Volume Estimator, and Scrunch MCP.",
+   "summary": "Scrunch AI is an AEO/GEO platform for measuring AI visibility and serving content to agents, with customers including Lenovo and RunPod; it raised $19M before Sitecore acquired it and recently introduced Site Diagnostics, Keyword Volume Estimator, and a reorganized Agent Experience Platform.",
    "scores": {
     "presence": {
      "value": "66",
@@ -1359,7 +1359,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/scrunch-ai/",
    "md_url": "https://stack.adamgtm.com/scrunch-ai/index.md",
-   "last_updated": "2026-09-06",
+   "last_updated": "2026-11-02",
    "ai_visibility": {
     "web_mentions": 19,
     "parametric_mentions": 2,

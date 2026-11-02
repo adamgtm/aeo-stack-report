@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/bluefish-ai/](https://stack.adamgtm.com/bluefish-ai/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/bluefish-ai/ · last updated 2026-10-26 -->
+<!-- canonical: https://stack.adamgtm.com/bluefish-ai/ · last updated 2026-11-02 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # Bluefish AI
 
-Bluefish AI is an enterprise AEO platform focused on brand visibility and factual accuracy across AI channels, with customers including American Express and Adidas, $68M raised, and recent releases spanning Agentic Campaigns, AI Accuracy, and Collections for campaign-level measurement.
+Bluefish AI is an enterprise AEO platform focused on brand visibility, factual accuracy, and campaign execution, with customers including American Express and Adidas, $68M raised, and recent releases spanning Paid Media Briefs, Agentic Campaigns, and AI Accuracy.
 
 
 ## Scores
@@ -19,19 +19,19 @@ Bluefish AI is an enterprise AEO platform focused on brand visibility and factua
 
 ## The Solution & Approach
 
-Bluefish combines AI visibility measurement, brand verification, and campaign orchestration for enterprise marketing teams. Its Impact Score measures alignment between cited sources and AI responses. Influence Rank aggregates that signal across thousands of responses to identify sources that consistently shape answers.
+Bluefish measures how AI channels describe enterprise brands and provides tools to influence and verify those answers. Its brand-protection angle is concrete: AI Accuracy checks factual claims, traces discrepancies to individual responses, and scores their severity. Brand Vault maintains first-party content as a reference for AI systems.
 
-Brand protection is a central product focus. AI Accuracy extracts and verifies factual claims about a brand, traces mismatches to individual responses, and scores their severity. Brand Vault maintains first-party brand content as a source of truth shareable with LLMs. Agentic Campaigns adds workflows that diagnose content gaps and generate AEO tactics against marketing teams' performance targets.
+Its measurement framework distinguishes citation frequency from influence. Impact Score measures alignment between a cited source and an AI response; Influence Rank aggregates that impact across responses. Agentic Campaigns extends the platform into content-gap diagnosis and AEO tactic generation, while Paid Media Briefs adds targeting, creative, and landing-page guidance for Google and ChatGPT.
 
-Bluefish argues that fixed prompt lists and keyword tracking cannot adequately measure personalized AI answers. Its proposed alternative is controlled synthetic prompts across audience segments, informed by AI behavioral data, Google Search demand, and brand priorities. MMC's WEATHERVaiNE, built on Bluefish, also establishes an agency distribution route for the platform.
+Bluefish argues that fixed prompt lists obscure differences between audiences. Its methodology uses controlled synthetic prompts informed by AI behavioral data, Google Search demand validation, and brand input. The company positions audience-specific measurement as a better basis for tracking AI visibility over time.
 
 ## Best for
 
-Enterprise brand and marketing teams that need audience-specific AI visibility measurement, factual-claim verification, and coordinated AEO campaign workflows.
+Enterprise brand and marketing teams that need audience-specific AI visibility measurement, factual-claim verification, and coordinated AEO campaigns.
 
 ## Pricing & trial
 
-Sales-led; pricing is not public, and free-trial availability is unspecified.
+Sales-led; pricing is not public, and free-trial availability is not documented.
 
 ## Agent Experience
 
@@ -45,41 +45,37 @@ How you build on this platform (or wire it into your own agents):
 | CLI | No | — |
 | llms.txt | No | — |
 
-Public developer access is limited: no public API, MCP, developer documentation, GitHub, or llms.txt surface is documented, so external agent integration capabilities remain unverified.
+Bluefish offers agentic marketing workflows, but no public API, MCP, developer documentation, or llms.txt is documented, limiting assessment of its suitability for building external agents.
 
 ## Reference customers
 
 Adidas, American Express, Hearst, LVMH, Ulta Beauty, Tishman Speyer.
 
-## Case studies & customer stories
-
-- MMC built its WEATHERVaiNE cultural-intelligence product on Bluefish's platform. [source](https://www.prnewswire.com/news-releases/mmc-introduces-a-new-ai-methodology-for-understanding-culture-302841824.html)
-
 ## Recent moves
 
-- **2026-10-24**: Eight job postings were observed, including a Chief Revenue Officer role covering new business, customer success, growth, and agency partnerships; the observation date does not establish when hiring began. [source](https://job-boards.greenhouse.io/bluefishai/jobs/5074977008)
-- **2026-09-17**: Partnered with Bazaarvoice to feed AEO insights into review campaigns across its network of more than 12,500 brands and retailers. [source](https://www.globenewswire.com/news-release/2026/09/17/3364022/19098/en/bazaarvoice-and-bluefish-team-up-as-new-research-shows-9-in-10-shoppers-want-real-reviews-behind-ai-product-recommendations.html)
-- **2026-08-07**: Published audience-segmented AI visibility research reporting Costco's presence at 84% for Suburban Family Shoppers and 7% for Trend-Driven Shoppers. [source](https://www.bluefishai.com/blog/ai-ranks-brands-differently-for-every-audience)
-- **2026-08-05**: Published its argument that keyword optimization and popular-prompt tracking understate AI discovery, positioning simulated prompts across custom audience segments as the alternative. [source](https://www.bluefishai.com/blog/why-keyword-optimization-does-not-improve-ai-visibility)
-- **2026-08-04**: Omnicom PR agency MMC launched WEATHERVaiNE, a cultural-intelligence product built on Bluefish that tracks cultural shifts and their effects on AI-generated brand narratives. [source](https://www.prnewswire.com/news-releases/mmc-introduces-a-new-ai-methodology-for-understanding-culture-302841824.html)
-- **2026-07-31**: Published its case for comprehensive topical authority over isolated keyword optimization, citing commentary from Adobe and Microsoft. [source](https://www.bluefishai.com/blog/models-operate-on-topics-not-keywords)
+- **2026-10-28**: A Sales Development Representative listing was observed on this date; the observation does not establish when the role opened. [source](https://job-boards.greenhouse.io/bluefishai/jobs/5465854008)
+- **2026-10-27**: Launched Paid Media Briefs in the AI Optimization Suite, providing targeting, creative, and landing-page guidance for Google and ChatGPT. [source](https://www.bluefishai.com/blog/bluefish-expands-agentic-marketing-platform-into-paid-media-to-unite-the-ai-marketing-funnel)
+- **2026-10-24**: Public job listings observed on this date included a Chief Revenue Officer role covering new business, customer success, growth, and agency partnerships. [source](https://job-boards.greenhouse.io/bluefishai/jobs/5074977008)
+- **2026-09-17**: Partnered with Bazaarvoice to connect AEO insights with customer review campaigns. [source](https://www.globenewswire.com/news-release/2026/09/17/3364022/19098/en/bazaarvoice-and-bluefish-team-up-as-new-research-shows-9-in-10-shoppers-want-real-reviews-behind-ai-product-recommendations.html)
+- **2026-08-07**: Published audience-segmented research showing Costco appearing in 84% of AI responses for Suburban Family Shoppers versus 7% for Trend-Driven Shoppers. [source](https://www.bluefishai.com/blog/ai-ranks-brands-differently-for-every-audience)
+- **2026-08-05**: Published its argument that keyword optimization does not improve AI visibility, advocating measurement across tens of thousands of prompts and custom audience segments. [source](https://www.bluefishai.com/blog/why-keyword-optimization-does-not-improve-ai-visibility)
 
 ## Company, Financials & Funding History
 
-Founded in 2024 and headquartered in New York, Bluefish was founded by Alex Sherman (CEO, co-founder of PromoteIQ, acquired by Microsoft), Andrei Dunca (CTO, co-founder of LiveRail, acquired by Facebook), and Jing Feng (COO, formerly of PromoteIQ and LiveRail). By its April 2026 Series B, the company reported $68M raised and usage by roughly 10% of the Fortune 500 across more than 12 verticals.
+Founded in 2024 and headquartered in New York, Bluefish was started by Alex Sherman (CEO, PromoteIQ co-founder), Andrei Dunca (CTO, LiveRail co-founder), and Jing Feng (COO, formerly PromoteIQ and LiveRail). By its April 2026 Series B, the company reported $68M in total funding and usage by roughly 10% of the Fortune 500 across more than 12 verticals.
 
 | Date | Round | Amount |
 |---|---|---|
-| 2026-04 | Series B | $43M (Threshold Ventures and NEA, co-leads), bringing reported total funding to $68M |
-| 2025-08 | Series A | $20M (NEA), with Salesforce Ventures, Crane Venture Partners, Swift Ventures, and Bloomberg Beta participating |
-| 2024-05 | Pre-seed | $3.5M reported; investors included Crane Venture Partners, Bloomberg Beta, Laconia, and Swift Ventures; originating investor posts did not disclose the amount |
+| 2026-04 | Series B | $43M (Threshold Ventures and NEA co-led), bringing reported total funding to $68M |
+| 2025-08 | Series A | $20M (NEA led), bringing reported total funding to $24M |
+| 2024-05 | Pre-seed | $3.5M reported; investors included Crane Venture Partners, Bloomberg Beta, Laconia, and Swift Ventures; investor announcements did not disclose the amount |
 
 ## Analyst placement
 
-CB Insights named Bluefish an AEO/GEO Category Leader in October 2025, placing it among native providers in an analysis using its Mosaic framework to assess private-company momentum. [CB Insights analysis](https://www.cbinsights.com/research/geo-companies-winning-ai-search/).
+CB Insights named Bluefish a Category Leader in AEO/GEO in its October 2025 market analysis, which assessed private-company momentum using its Mosaic framework. [CB Insights analysis](https://www.cbinsights.com/research/geo-companies-winning-ai-search/).
 
 ## Links
 
 [Homepage](https://www.bluefishai.com) · [LinkedIn](https://www.linkedin.com/company/bluefish-ai)
 
-*Last updated 2026-10-26 · refreshed weekly*
+*Last updated 2026-11-02 · refreshed weekly*

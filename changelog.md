@@ -1,10 +1,16 @@
 > **Canonical source:** [https://stack.adamgtm.com/aeo-changelog/](https://stack.adamgtm.com/aeo-changelog/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-10-26 -->
+<!-- canonical: https://stack.adamgtm.com/aeo-changelog/ · last updated 2026-11-02 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # AEO Changelog: What Moved This Week
 
 Every guide claims it's kept current. This page is the proof: a dated record of what changed in the AEO market and in this guide, written as it happens. Subscribe by [RSS](/feed.xml), or point your agent at it — each entry links to the page that moved.
+
+## November 2026
+
+| Date | | What changed |
+|---|---|---|
+| 2026-11-02 | Profiles | **[Profiles refreshed: AirOps, AthenaHQ, Bluefish AI, BrightEdge, Clay, Graphite, HubSpot, Scrunch AI](https://stack.adamgtm.com/aeo/)** — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores preserved unless Adam moved them. |
 
 ## October 2026
 

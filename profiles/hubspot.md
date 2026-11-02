@@ -1,10 +1,10 @@
 > **Canonical source:** [https://stack.adamgtm.com/hubspot/](https://stack.adamgtm.com/hubspot/). This file is the agent-ready mirror; the website is the source of truth, kept continuously updated.
 
-<!-- canonical: https://stack.adamgtm.com/hubspot/ · last updated 2026-10-11 -->
+<!-- canonical: https://stack.adamgtm.com/hubspot/ · last updated 2026-11-02 -->
 <!-- agent-readable twin, maintained by Adam's GTM Report · refreshed weekly. -->
 # HubSpot
 
-Public CRM and customer platform extending into AEO/GEO through bundled AI-visibility measurement. Founded in 2006 with $100M in reported funding and 306,446 customers as of Q2 2026, HubSpot recently released a rebuilt Breeze Assistant, Smart CRM, and ChatGPT Ads integration.
+Publicly traded CRM and marketing platform with bundled AEO measurement, 306,446 customers reported in Q2 2026 and a roughly $10.1B market capitalization reported in September; recent launches include Agent Builder, Marketing Studio and a rebuilt Breeze Assistant.
 
 
 ## Scores
@@ -19,19 +19,19 @@ Public CRM and customer platform extending into AEO/GEO through bundled AI-visib
 
 ## The Solution & Approach
 
-HubSpot brings AEO/GEO measurement into its broader CRM and marketing platform. Its AEO product is included at no additional cost with Marketing Hub Professional and Enterprise, giving existing customers an integrated alternative to standalone visibility tools.
+HubSpot brings AEO measurement into its existing marketing platform. It acquired XFunnel for $30M in cash in late 2025, following its own AEO Grader, and launched HubSpot AEO in April 2026. The product measures brand visibility in AI answers.
 
-The approach connects measurement with execution. HubSpot's remote MCP server can read content performance and create, edit, and publish pages, while the acquired XFunnel technology strengthens its visibility-tracking layer.
+Its competitive angle is distribution and bundling. AEO is "included at no additional cost" in Marketing Hub Professional and Enterprise, with 2,500 monthly answers. Existing subscribers can start measuring AI visibility within their marketing stack. [Source](https://www.hubspot.com/products/marketing/aeo)
 
-HubSpot treats AEO as standard marketing operations rather than a separate specialty. Its role-specific guides, competitor comparison pages, and Loop Marketing framework recast answer-engine visibility as part of campaign planning, content production, and reporting.
+HubSpot also packages AEO into its broader Loop Marketing methodology: Express, Tailor, Amplify and Evolve. Competitor comparison pages and guides for specific marketing roles position AEO as routine marketing work. [Source](https://www.hubspot.com/company-news/loop)
 
 ## Best for
 
-Existing HubSpot customers and SMB or mid-market marketing teams that want AEO/GEO measurement connected to CRM data, content workflows, and campaign reporting.
+Marketing teams already using HubSpot Professional or Enterprise that want capped AEO measurement included in their existing subscription.
 
 ## Pricing & trial
 
-HubSpot AEO costs $45 per month billed annually and is included at no additional cost with Marketing Hub Professional and Enterprise; no free trial is disclosed, but a free AEO Grader is available. [Pricing](https://www.hubspot.com/pricing).
+Standalone AEO costs $45/month billed annually for 25 tracked prompts; Marketing Hub Professional and Enterprise include AEO with 2,500 monthly answers, and a free AEO Grader is available, but an AEO product trial is not specified. [Pricing](https://www.hubspot.com/pricing).
 
 ## Agent Experience
 
@@ -45,30 +45,28 @@ How you build on this platform (or wire it into your own agents):
 | CLI | Yes | [docs](https://developers.hubspot.com/docs/developer-tooling/local-development/hubspot-cli/install-the-cli) |
 | llms.txt | No | — |
 
-Strong for a CRM incumbent, with broad APIs, a generally available remote MCP server, a public-beta Agent CLI, write access, and an stated goal of full API parity for agents.
+HubSpot offers APIs, a generally available remote MCP server and an Agent CLI in public beta for CRM operations and content workflows, although AEO-specific programmatic access is not established in the supplied research.
 
 ## Case studies & customer stories
 
-- HubSpot reports that leads from AI engines converted up to 3x better than other channels in its own AEO program. [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study)
-- HubSpot reports that its AEO Agent drove 1,850% growth in qualified leads from AI-generated answers between Q1 2025 and Q1 2026. [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm)
-- RevOps practitioner Dan Rosenthal used HubSpot CLI and Claude Code to configure a client workflow in minutes rather than hours. [source](https://www.linkedin.com/posts/dan-m-rosenthal_the-hubspot-cli-claude-code-will-completely-activity-7475155909128929281-j7dK)
+- HubSpot's own AEO case study, presented alongside its claim that AI-engine leads convert up to three times better than other channels. [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study)
+- HubSpot reports 1,850% growth in qualified leads from AI-generated answers between Q1 2025 and Q1 2026 through its internal AEO Agent. [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm)
 
 ## Recent moves
 
-- **2026-10-09**: Published ten role-specific and buyer-specific AEO guides, extending its AEO content program across marketing functions. [source](https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr)
-- **2026-10-03**: Co-founder Dharmesh Shah said HubSpot ranked number 21 on a TIME list, although the specific list and position were not independently confirmed. [source](https://www.linkedin.com/posts/dharmesh_woo-hoo-hubspot-makes-it-to-number-21-on-activity-7511989020990545920-ftd0)
-- **2026-10-01**: Added a $7 per month self-serve purchase button to the Agent Hub page while retaining credit-based usage for custom agents. [source](https://www.hubspot.com/products/artificial-intelligence/breeze-ai-agents)
-- **2026-09-29**: Joined the OpenAI Marketplace as a launch partner, allowing eligible enterprises to apply OpenAI spending commitments toward HubSpot purchases. [source](https://openai.com/index/devday-2026-recap/)
-- **2026-09-28**: Documented that all HubSpot agents began consuming HubSpot Credits on July 23, with controls for testing usage and setting monthly run limits. [source](https://knowledge.hubspot.com/ai/review-estimated-credit-costs-when-using-agents)
-- **2026-09-23**: Acquired the Trigify team for sales-signal monitoring while winding down the standalone Trigify platform. [source](https://www.trigify.io/)
+- **2026-10-30**: An active Manager, Corporate Sales opening for the Mexico territory was observed on October 30; the original posting date was not established. [source](https://www.hubspot.com/careers/jobs/8266546?gh_jid=8266546)
+- **2026-10-29**: An active Outbound Business Development Representative opening for ANZ was observed on October 29; the original posting date was not established. [source](https://www.hubspot.com/careers/jobs/8034906?gh_jid=8034906)
+- **2026-10-28**: An active Partner Development Manager, Growth opening for ANZ was observed on October 28; the original posting date was not established. [source](https://www.hubspot.com/careers/jobs/8316770?gh_jid=8316770)
+- **2026-10-27**: An active Renewal Specialist opening was observed on October 27; the original posting date was not established. [source](https://www.hubspot.com/careers/jobs/8081933?gh_jid=8081933)
+- **2026-10-09**: HubSpot published ten AEO guides for specific roles and buyer types, including digital PR, agencies, enterprise and marketing operations. [source](https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr)
 
 ## Company, Financials & Funding History
 
-Dharmesh Shah and Brian Halligan founded HubSpot in 2006, and the company is headquartered in Cambridge, Massachusetts. It became a public CRM platform and reported 306,446 customers in Q2 2026.
+Dharmesh Shah and Brian Halligan founded HubSpot on June 9, 2006. The Boston-area company grew from inbound marketing software into a publicly traded CRM and marketing platform, with Shah serving as CTO and Yamini Rangan succeeding Halligan as CEO in September 2021.
 
 
 ## Links
 
 [Homepage](https://www.hubspot.com) · [Pricing](https://www.hubspot.com/pricing) · [LinkedIn](https://www.linkedin.com/company/hubspot)
 
-*Last updated 2026-10-11 · refreshed weekly*
+*Last updated 2026-11-02 · refreshed weekly*
