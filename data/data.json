@@ -6,14 +6,14 @@
   "canonical_url": "https://stack.adamgtm.com/aeo/",
   "md_url": "https://stack.adamgtm.com/aeo/index.md"
  },
- "generated": "2026-11-02",
+ "generated": "2026-11-09",
  "maintainer": "Adam's GTM Report — https://adamgtm.com",
  "method": {
   "scores": "Presence / Velocity / Agent-Readiness, set by Adam, refreshed weekly, relative across the tracked set. Each carries a short reason.",
-  "ai_visibility": "Weekly run of buyer-intent queries across ChatGPT, Gemini, Perplexity, and Claude; counts are how often each vendor is named in web-grounded answers. Latest run: 2026-10-19."
+  "ai_visibility": "Weekly run of buyer-intent queries across ChatGPT, Gemini, Perplexity, and Claude; counts are how often each vendor is named in web-grounded answers. Latest run: 2026-11-02."
  },
  "ai_visibility_run": {
-  "run_date": "2026-10-19",
+  "run_date": "2026-11-02",
   "n_queries": 15,
   "n_web_answers": 60,
   "engines": [
@@ -79,7 +79,7 @@
    "md_url": "https://stack.adamgtm.com/ahrefs/index.md",
    "last_updated": "2026-09-27",
    "ai_visibility": {
-    "web_mentions": 25,
+    "web_mentions": 24,
     "parametric_mentions": 6,
     "engines": [
      "ChatGPT",
@@ -128,12 +128,11 @@
    "md_url": "https://stack.adamgtm.com/airops/index.md",
    "last_updated": "2026-11-02",
    "ai_visibility": {
-    "web_mentions": 6,
+    "web_mentions": 3,
     "parametric_mentions": 0,
     "engines": [
      "ChatGPT",
      "Gemini",
-     "Perplexity",
      "Claude"
     ]
    }
@@ -265,7 +264,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "AthenaHQ is an AEO/GEO platform combining AI-search measurement with content and brand-accuracy tools, serving customers including Coinbase and SoFi, with approximately $2.7M raised and recent releases including the Athena Citation Engine, the Athena AI copilot, and Oracle for correcting inaccurate brand claims.",
+   "summary": "AthenaHQ is an AEO/GEO measurement and remediation platform serving brands including Coinbase and SoFi, with approximately $2.7M in disclosed funding and recent releases spanning an official Claude connector, the Athena Citation Engine, and an agentic copilot for AI search visibility.",
    "scores": {
     "presence": {
      "value": "72",
@@ -294,9 +293,9 @@
    },
    "canonical_url": "https://stack.adamgtm.com/athenahq/",
    "md_url": "https://stack.adamgtm.com/athenahq/index.md",
-   "last_updated": "2026-11-02",
+   "last_updated": "2026-11-09",
    "ai_visibility": {
-    "web_mentions": 22,
+    "web_mentions": 24,
     "parametric_mentions": 2,
     "engines": [
      "ChatGPT",
@@ -344,8 +343,8 @@
    "md_url": "https://stack.adamgtm.com/bluefish-ai/index.md",
    "last_updated": "2026-11-02",
    "ai_visibility": {
-    "web_mentions": 3,
-    "parametric_mentions": 1,
+    "web_mentions": 2,
+    "parametric_mentions": 0,
     "engines": [
      "Gemini",
      "Claude"
@@ -472,8 +471,6 @@
     "parametric_mentions": 2,
     "engines": [
      "ChatGPT",
-     "Gemini",
-     "Perplexity",
      "Claude"
     ]
    }
@@ -486,7 +483,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Clay is GTM data and workflow infrastructure for custom builds, including AEO workflows, with customers OpenAI and Anthropic, $317M raised and a $7.1B valuation, and recent releases spanning Claygent auto-mode, a Skills Marketplace and an early-access agent-first build experience.",
+   "summary": "Clay is GTM data and workflow infrastructure for custom builds, including AEO workflows, with customers OpenAI and Anthropic, $317M raised and a $7.1B valuation; recent additions include Claygent auto-mode, a Gamma integration and an early-access agent-first build experience.",
    "scores": {
     "presence": {
      "value": "98",
@@ -515,7 +512,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/clay/",
    "md_url": "https://stack.adamgtm.com/clay/index.md",
-   "last_updated": "2026-11-02"
+   "last_updated": "2026-11-08"
   },
   {
    "slug": "conductor",
@@ -556,10 +553,9 @@
    "md_url": "https://stack.adamgtm.com/conductor/index.md",
    "last_updated": "2026-10-04",
    "ai_visibility": {
-    "web_mentions": 14,
+    "web_mentions": 10,
     "parametric_mentions": 2,
     "engines": [
-     "ChatGPT",
      "Gemini",
      "Perplexity",
      "Claude"
@@ -706,11 +702,10 @@
    "md_url": "https://stack.adamgtm.com/evertune/index.md",
    "last_updated": "2026-10-26",
    "ai_visibility": {
-    "web_mentions": 6,
+    "web_mentions": 2,
     "parametric_mentions": 1,
     "engines": [
-     "Gemini",
-     "Perplexity",
+     "ChatGPT",
      "Claude"
     ]
    }
@@ -773,9 +768,10 @@
    "md_url": "https://stack.adamgtm.com/goodie-ai/index.md",
    "last_updated": "2026-08-30",
    "ai_visibility": {
-    "web_mentions": 3,
+    "web_mentions": 6,
     "parametric_mentions": 1,
     "engines": [
+     "Perplexity",
      "Claude"
     ]
    }
@@ -886,7 +882,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Publicly traded CRM and marketing platform with bundled AEO measurement, 306,446 customers reported in Q2 2026 and a roughly $10.1B market capitalization reported in September; recent launches include Agent Builder, Marketing Studio and a rebuilt Breeze Assistant.",
+   "summary": "HubSpot is a public CRM and marketing platform with bundled AEO measurement and a reported September 2026 market capitalization of approximately $10.1B, with recent releases spanning Agent Builder, Marketing Studio, and a rebuilt Breeze Assistant.",
    "scores": {
     "presence": {
      "value": "61",
@@ -915,10 +911,10 @@
    },
    "canonical_url": "https://stack.adamgtm.com/hubspot/",
    "md_url": "https://stack.adamgtm.com/hubspot/index.md",
-   "last_updated": "2026-11-02",
+   "last_updated": "2026-11-09",
    "ai_visibility": {
-    "web_mentions": 16,
-    "parametric_mentions": 1,
+    "web_mentions": 19,
+    "parametric_mentions": 0,
     "engines": [
      "ChatGPT",
      "Gemini",
@@ -1130,7 +1126,7 @@
    "md_url": "https://stack.adamgtm.com/otterly-ai/index.md",
    "last_updated": "2026-08-30",
    "ai_visibility": {
-    "web_mentions": 32,
+    "web_mentions": 28,
     "parametric_mentions": 3,
     "engines": [
      "ChatGPT",
@@ -1148,7 +1144,7 @@
    "categories": [
     "aeo"
    ],
-   "summary": "Peec AI is an AEO analytics platform focused on mid-market teams and agencies, with customers including Chanel and Squarespace and $29M raised; recent releases include Peec Agent, Brand Perception scoring, and an Ads page for monitoring competitor placements in ChatGPT.",
+   "summary": "Peec AI is an AEO analytics platform for mid-market teams and agencies, with customers including Chanel and Squarespace and $29M raised; recent releases include Peec Agent and redesigned Actions, Brand Perception scoring, and monitoring of competitor ads in ChatGPT.",
    "scores": {
     "presence": {
      "value": "74",
@@ -1178,7 +1174,7 @@
    },
    "canonical_url": "https://stack.adamgtm.com/peec-ai/",
    "md_url": "https://stack.adamgtm.com/peec-ai/index.md",
-   "last_updated": "2026-10-26",
+   "last_updated": "2026-11-08",
    "ai_visibility": {
     "web_mentions": 32,
     "parametric_mentions": 3,
@@ -1361,7 +1357,7 @@
    "md_url": "https://stack.adamgtm.com/scrunch-ai/index.md",
    "last_updated": "2026-11-02",
    "ai_visibility": {
-    "web_mentions": 19,
+    "web_mentions": 23,
     "parametric_mentions": 2,
     "engines": [
      "ChatGPT",

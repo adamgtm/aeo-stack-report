@@ -1,6 +1,6 @@
 # Sources
 
-Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **259 sources across 38 pages.** Check the work.
+Every external reference cited in this guide: LinkedIn posts, X/Twitter, blogs, news, analyst notes, funding announcements, and the founding research, each with the claim it supports and a link. **258 sources across 38 pages.** Check the work.
 
 Canonical, always-current: https://stack.adamgtm.com/aeo
 
@@ -24,8 +24,8 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AEO Changelog: What Moved This Week  ·  [changelog.md](changelog.md)
 
-- **[Web]** [Profiles refreshed: AirOps, AthenaHQ, Bluefish AI, BrightEdge, Clay, Graphite, HubSpot, Scrunch AI](https://stack.adamgtm.com/aeo/) — | 2026-11-02 | Profiles | Profiles refreshed: AirOps, AthenaHQ, Bluefish AI, BrightEdge, Clay, Graphite, HubSpot, Scrunch AI — Re-derived from the wiki after new evidence landed (f
-- **[Web]** [AI-visibility run 2026-10-19](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-10-19 | Data | AI-visibility run 2026-10-19 — 60 web-grounded answers across 4 engines. Most named: Profound (34), Otterly AI (32), Peec AI (32). adamgtm.com cited in 0/60. 
+- **[Web]** [Profiles refreshed: AthenaHQ, Clay, HubSpot, Peec AI](https://stack.adamgtm.com/aeo/) — | 2026-11-09 | Profiles | Profiles refreshed: AthenaHQ, Clay, HubSpot, Peec AI — Re-derived from the wiki after new evidence landed (funding, launches, customer moves). Scores pres
+- **[Web]** [AI-visibility run 2026-11-02](https://stack.adamgtm.com/aeo-ai-visibility/) — | 2026-11-02 | Data | AI-visibility run 2026-11-02 — 60 web-grounded answers across 4 engines. Most named: Profound (34), Peec AI (32), Otterly AI (28). adamgtm.com cited in 0/60. 
 - **[Web]** [New profile: Limy AI](https://stack.adamgtm.com/limy/) — | 2026-09-20 | Profiles | New profile: Limy AI — Limy AI joins the tracked set, scored and sourced. |
 - **[Web]** [The Stack gets a machine-readable face](https://stack.adamgtm.com/aeo-changelog/) — | 2026-06-12 | Guide | The Stack gets a machine-readable face — The category now ships a structured data.json — every vendor with scores, reasons, agent surfaces, and AI-visibility
 - **[Web]** [Sitecore acquires Scrunch AI](https://stack.adamgtm.com/scrunch-ai/) — | 2026-06-03 | Market | Sitecore acquires Scrunch AI — ~$225M per Bloomberg, terms undisclosed. With Adobe's Semrush acquisition closed in April, that's two consolidation signals i
@@ -78,19 +78,18 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## AthenaHQ  ·  [profiles/athenahq.md](profiles/athenahq.md)
 
-- **[Blog/Newsletter]** [Source](https://athenahq.ai/blog/the-science-of-ai-citation) — The action layer addresses brand accuracy and content production. Oracle flags conflicting claims for review. Athena Citation Engine scores drafts for citation likelihood before pu
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_mr-worldwide-seo-the-good-news-ai-activity-7458512934076526593-EKxx) — Nuvadermis: founder reports 5x citation rate versus competitors and tripled AI-search share of voice. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_a-perfect-partnership-how-autorfp-drove-activity-7447636170165022720-ELN4) — AutoRFP: customer reports 22.4% of inbound leads attributed discovery to ChatGPT, in a founder-shared case study. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_you-need-a-better-way-to-grow-how-gr%C3%BCns-activity-7440748066804006912-1xCM) — Grüns: founder reports 23x growth in AI citations over two months. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_the-best-feeling-seeing-your-customers-win-activity-7438210343195123713-hL-N) — Rootly: founder reports 52.6% AI-search share of voice. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_how-lago-achieved-50-increase-in-demos-from-ugcPost-7421551783296020480-HGUV) — Lago: founder reports a 50% increase in demos from AI search. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_all-in-a-days-work-with-anthropics-activity-7521921431312539648-aPV8) — 2026-10-30: Andrew Yan argued for engine-specific AI-search strategies using AthenaHQ's rolling benchmark, without disclosing the prompt sample or sufficient methodology to establi
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_mr-worldwide-seo-the-good-news-ai-activity-7458512934076526593-EKxx) — Nuvadermis: AthenaHQ reports a 5x citation-rate increase and tripled AI search share of voice. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_a-perfect-partnership-how-autorfp-drove-activity-7447636170165022720-ELN4) — AutoRFP: customer reports 22.4% of inbound leads attributing discovery to ChatGPT. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_you-need-a-better-way-to-grow-how-gr%C3%BCns-activity-7440748066804006912-1xCM) — Grüns: AthenaHQ reports 23x growth in AI citations over two months. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_the-best-feeling-seeing-your-customers-win-activity-7438210343195123713-hL-N) — Rootly: AthenaHQ reports 52.6% AI search share of voice. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_how-lago-achieved-50-increase-in-demos-from-ugcPost-7421551783296020480-HGUV) — Lago: AthenaHQ reports a 50% increase in demos from AI search. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_all-in-a-days-work-with-anthropics-activity-7521921431312539648-aPV8) — 2026-10-30: Andrew Yan advocated engine-specific AI search strategies using AthenaHQ benchmark findings, without disclosing the prompt sample or sufficient methodology to establish
 - **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_every-marketer-will-understand-the-reason-activity-7520469314479763456-V4wa) — 2026-10-26: Andrew Yan recommended governed prompt portfolios organized by product, audience, buying stage, market, language, and engine. source
-- **[Job posting]** [source](https://jobs.ashbyhq.com/athena-hq/e72f3099-2618-48a5-8fb4-e5e24c205cfb) — 2026-10-24: A Growth Engineer posting observed on this date assigned ownership of acquisition experiments and marketing-to-sales-to-customer-success handoffs, and required applican
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_not-all-models-are-equal-but-there-activity-7516845568988442624-v6-r) — 2026-10-16: AthenaHQ announced Athena Citation Engine, which scores content for AI-citation likelihood, citing validation on 1,761 articles. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_tag-your-parents-speaking-of-ai-agents-activity-7506683461584404480-3oWO) — 2026-09-18: Andrew Yan described AthenaHQ as serving "300+ brands" in a post sign-off, a self-reported count without a separate measurement date. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_speaking-of-firsts-were-hiring-a-founding-activity-7469731427627200512-xRlM) — 2026-06-17: AthenaHQ launched Athena AI, an agentic copilot querying eight or more AI platforms and replacing the dashboard as the primary interface. source
-- **[LinkedIn]** [Source](https://www.linkedin.com/posts/andrew-yan-200_people-trust-specifics-duane-forrester-activity-7447993923194650624-4dai) — Co-founder Andrew Yan reported that Duane Forrester ranked AthenaHQ first on coverage and confidence in an AI-search tool evaluation. This is an individual evaluator's ranking, not
+- **[Job posting]** [source](https://jobs.ashbyhq.com/athena-hq/e72f3099-2618-48a5-8fb4-e5e24c205cfb) — 2026-10-24: Hiring listings observed on this date included Growth Engineer and Founding Product Marketer roles, with Growth Engineer applicants required to demonstrate a project bu
+- **[Web]** [source](https://docs.athenahq.ai/api-reference/mcp) — 2026-10-19: AthenaHQ announced an official connector listed in Claude's connector library, making AI search performance data available in chat. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_not-all-models-are-equal-but-there-activity-7516845568988442624-v6-r) — 2026-10-16: AthenaHQ announced the Athena Citation Engine, which scores content for citation likelihood and cites vendor validation across 1,761 articles. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/andrew-yan-200_tag-your-parents-speaking-of-ai-agents-activity-7506683461584404480-3oWO) — 2026-09-18: Andrew Yan described AthenaHQ as serving "300+ brands," a self-reported count included in a post sign-off. source
+- **[LinkedIn]** [Source](https://www.linkedin.com/posts/andrew-yan-200_people-trust-specifics-duane-forrester-activity-7447993923194650624-4dai) — According to Andrew Yan, Duane Forrester ranked AthenaHQ first on coverage and confidence in an April 2026 AI search tool assessment. This is attributed to the individual evaluator
 
 ## Bluefish AI  ·  [profiles/bluefish-ai.md](profiles/bluefish-ai.md)
 
@@ -132,15 +131,15 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Clay  ·  [profiles/clay.md](profiles/clay.md)
 
-- **[Blog/Newsletter]** [SEO and AEO playbook](https://www.clay.com/blog/how-clay-uses-clay-for-seo-and-aeo) — Clay combines third-party data, research agents and workflow orchestration so teams can build their own GTM systems. Its AEO application is documented in its own SEO and AEO playbo
-- **[Web]** [source](https://www.clay.com/customers/pendo) — Pendo identified approximately 13,000 target accounts in two days, according to Clay's customer story. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_depthfirst-cut-google-ads-cpl-by-40-after-activity-7495909975320539136-AIn3) — depthfirst cut Google Ads cost per lead by 40% after adopting Clay audiences, according to Clay. source
-- **[X/Twitter]** [source](https://x.com/joshwhitfieldai/status/2115971952187687350) — 2026-10-30: Clay agency partner Josh Whitfield described using Clay to expand contact lists and Claude to connect the results to outbound work, without reporting a sales-conversion
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal) — 2026-10-27: Clay published a champion-departure workflow that drafts outreach, enrolls records in Gong Engage and records context in Salesforce for rep review. source
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/automode-for-claygent) — 2026-10-27: Clay introduced auto-mode for new Claygent columns and workflow nodes, reporting 47% lower production cost than always selecting its most capable model. source
-- **[Job posting]** [source](https://jobs.ashbyhq.com/claylabs/0e68a973-af22-423f-8410-e14ff4d3fef0) — 2026-10-27: Clay listed Growth Strategist, Key (Deployment Strategist) roles in New York and San Francisco. source
-- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_were-partnering-with-spacex-super-intelligence-activity-7519416787126390784-JKIL) — 2026-10-23: Clay announced a SpaceX Super Intelligence partnership and an October 29 demonstration of Grok Bot creating workflows, researching companies and drafting emails for rep
-- **[Blog/Newsletter]** [source](https://www.clay.com/blog/gtm-self-learning-loops) — 2026-10-21: Clay described internal agent-learning experiments using versioned changes, logged runs and human approval before deployment. source
+- **[Blog/Newsletter]** [SEO and AEO playbook](https://www.clay.com/blog/how-clay-uses-clay-for-seo-and-aeo) — Clay combines data enrichment, research agents and workflow orchestration. Audiences holds continuously refreshed records; Workflows connects triggers, conditional logic and agents
+- **[Web]** [source](https://www.clay.com/customers/pendo) — Pendo identified approximately 13,000 top-fit accounts in two days, according to Clay's customer story. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_depthfirst-cut-google-ads-cpl-by-40-after-activity-7495909975320539136-AIn3) — depthfirst cut Google Ads cost per lead by 40%, according to Clay. source
+- **[LinkedIn]** [source](https://www.linkedin.com/posts/grow-with-clay_eleanor-dorfman-head-of-industries-commercial-activity-7463266048805539840-b-zr) — Anthropic uses Clay to enrich and score every inbound lead, according to Clay's account of Eleanor Dorfman's SaaStr remarks. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/ceiling-on-gtm-agent-is-data) — 2026-11-03: Clay reported 6.4x fewer input tokens and 2.6x faster answers in a vendor-run pre-call comparison of prepared account context against direct retrieval from connected sy
+- **[X/Twitter]** [source](https://x.com/joshwhitfieldai/status/2115971952187687350) — 2026-10-30: Clay partner Josh Whitfield described expanding a contact list with Clay and connecting it to ongoing outbound work through Claude, without reporting a revenue outcome.
+- **[Web]** [source](https://gamma.app/integrations/clay) — 2026-10-27: Gamma announced a Clay integration that brings Clay data into personalized decks and account plans. source
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal) — 2026-10-27: Clay documented a workflow that detects customer champions moving to noncustomers, drafts outreach, enrolls records in Gong Engage and records context in Salesforce for
+- **[Blog/Newsletter]** [source](https://www.clay.com/blog/automode-for-claygent) — 2026-10-27: Clay introduced auto-mode as the default for new Claygent columns and workflow nodes, reporting 47% lower production cost than always selecting its most capable model i
 
 ## Conductor  ·  [profiles/conductor.md](profiles/conductor.md)
 
@@ -217,15 +216,16 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## HubSpot  ·  [profiles/hubspot.md](profiles/hubspot.md)
 
-- **[Web]** [Source](https://www.hubspot.com/products/marketing/aeo) — Its competitive angle is distribution and bundling. AEO is "included at no additional cost" in Marketing Hub Professional and Enterprise, with 2,500 monthly answers. Existing subsc
-- **[Web]** [Source](https://www.hubspot.com/company-news/loop) — HubSpot also packages AEO into its broader Loop Marketing methodology: Express, Tailor, Amplify and Evolve. Competitor comparison pages and guides for specific marketing roles posi
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot's own AEO case study, presented alongside its claim that AI-engine leads convert up to three times better than other channels. source
-- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot reports 1,850% growth in qualified leads from AI-generated answers between Q1 2025 and Q1 2026 through its internal AEO Agent. source
-- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/8266546?gh_jid=8266546) — 2026-10-30: An active Manager, Corporate Sales opening for the Mexico territory was observed on October 30; the original posting date was not established. source
-- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/8034906?gh_jid=8034906) — 2026-10-29: An active Outbound Business Development Representative opening for ANZ was observed on October 29; the original posting date was not established. source
-- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/8316770?gh_jid=8316770) — 2026-10-28: An active Partner Development Manager, Growth opening for ANZ was observed on October 28; the original posting date was not established. source
-- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/8081933?gh_jid=8081933) — 2026-10-27: An active Renewal Specialist opening was observed on October 27; the original posting date was not established. source
-- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr) — 2026-10-09: HubSpot published ten AEO guides for specific roles and buyer types, including digital PR, agencies, enterprise and marketing operations. source
+- **[Web]** [Source](https://www.hubspot.com/products/marketing/aeo) — HubSpot brings AEO into the marketing platform its customers already use. Its AEO product launched in April 2026, following the acquisition of XFunnel. AI-visibility measurement is
+- **[Web]** [Source](https://www.hubspot.com/loop-marketing) — The commercial angle is distribution through the existing customer base. Standalone AEO starts at $45 per month billed annually, while eligible Marketing Hub customers pay no incre
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/hubspot-aeo-case-study) — HubSpot's own AEO program and AI-search visibility, reported by the vendor. source
+- **[Web]** [source](https://www.hubspot.com/company-news/how-we-grow-with-agent-first-gtm) — HubSpot reports 1,850% growth in qualified leads from AI-generated answers between Q1 2025 and Q1 2026. source
+- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/5986409?gh_jid=5986409) — 2026-11-03: Seventeen distinct active job postings were first observed, including Account Executive, Mid Market, Italy; this count does not establish opening dates or total vacanci
+- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/8266546?gh_jid=8266546) — 2026-10-30: Two distinct active job postings were first observed, including Manager, Corporate Sales, Mexico Territory; this count does not represent net hiring or total vacancies.
+- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/8034906?gh_jid=8034906) — 2026-10-29: Six distinct active job postings were first observed, including Outbound Business Development Representative, ANZ; this count does not represent net hiring or total vac
+- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/8316770?gh_jid=8316770) — 2026-10-28: Four distinct job postings were first observed, including Partner Development Manager, Growth, ANZ; this count does not represent net hiring or total vacancies. source
+- **[Job posting]** [source](https://www.hubspot.com/careers/jobs/8081933?gh_jid=8081933) — 2026-10-27: Seven distinct job postings were first observed, including Renewal Specialist; this count does not establish posting dates or total vacancies. source
+- **[Blog/Newsletter]** [source](https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr) — 2026-10-09: HubSpot published ten additional AEO guides for marketing roles and buyer types, including agencies, enterprise teams, and digital PR. source
 
 ## iPullRank  ·  [profiles/ipullrank.md](profiles/ipullrank.md)
 
@@ -304,16 +304,15 @@ Canonical, always-current: https://stack.adamgtm.com/aeo
 
 ## Peec AI  ·  [profiles/peec-ai.md](profiles/peec-ai.md)
 
-- **[News/Press]** [Series A coverage](https://sifted.eu/articles/peec-ai-raises-21m-series-a) — Peec AI tracks brand visibility, citations, sentiment, and competitors across AI search engines. Its approach uses UI scraping to capture user-facing answers, with regional benchma
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-momentum-boosted-ai-search-visibility-by-10x-with-peec-ai) — Momentum reported 10x AI-search visibility and 2x visits from AI search. source
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai) — Mint Position reported a 16% ChatGPT visibility increase in 90 days for client Duckfund. source
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/turn-opportunities-into-impact-with-peec-agent-and-actions) — 2026-10-21: Launched Peec Agent and redesigned Actions, adding prioritized AI-search recommendations and an agent with 30 skills and 25+ connections. source
-- **[Job posting]** [source](https://jobs.ashbyhq.com/peec/81c2cef1-6d8a-4fc6-aa32-e7be5803dd8e) — 2026-10-20: A Visiting Brand Designer job listing was observed on Peec's careers board. source
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-momentum-boosted-ai-search-visibility-by-10x-with-peec-ai) — Momentum: reported 10x AI-search visibility and 2x visits from AI search. source
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai) — Mint Position: reported 16% higher ChatGPT visibility for Duckfund in 90 days and the most-cited domain position for Lula on South African SME-funding queries. source
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/turn-opportunities-into-impact-with-peec-agent-and-actions) — 2026-10-21: Launched Peec Agent and redesigned Actions, adding evidence-backed AI-search recommendations and an agent powered by 30 skills and more than 25 connections. source
+- **[Job posting]** [source](https://jobs.ashbyhq.com/peec/81c2cef1-6d8a-4fc6-aa32-e7be5803dd8e) — 2026-10-20: A Visiting Brand Designer job listing was observed, without establishing the company's total open roles. source
 - **[Blog/Newsletter]** [source](https://peec.ai/blog/ai-assistants-judge-your-company-by-its-name-i-measured-how-much) — 2026-08-11: Published research finding that positive-sounding company names influence AI assistants' descriptions, with the effect diminishing for well-known companies. source
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/rerankers-for-geo-aeo-how-ai-search-chooses-passages-and-sources) — 2026-08-06: Published research separating AI-search visibility into retrieval, reranking, and generation, emphasizing direct answers and alignment with the requested answer format.
-- **[Web]** [source](https://peec.ai/changelog) — 2026-08-03: Released Brand Perception to general availability with attribute-association and competitive-positioning scores available through the Customer API and MCP server. sourc
-- **[Blog/Newsletter]** [source](https://peec.ai/blog/introducing-ads-page) — 2026-07-28: Launched an Ads page to monitor competitor advertising in ChatGPT responses, including advertisers, ad copy, landing pages, and coverage trends. source
-- **[Web]** [G2](https://www.g2.com/products/peec-ai/reviews) — As of May 2026, Peec AI had a 4.9/5 rating from 11 verified reviews on G2; no G2 Grid Leader designation was documented for Peec.
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/rerankers-for-geo-aeo-how-ai-search-chooses-passages-and-sources) — 2026-08-06: Published research separating AI-search visibility into retrieval, reranking, and generation, arguing that direct answers and alignment with the requested answer format
+- **[Web]** [source](https://peec.ai/changelog) — 2026-08-03: Released Brand Perception to general availability with association and competitive-positioning scores available through the Customer API and MCP server. source
+- **[Blog/Newsletter]** [source](https://peec.ai/blog/introducing-ads-page) — 2026-07-28: Launched an Ads Page for monitoring competitor advertising in ChatGPT responses, including advertisers, ad copy, landing pages, and coverage trends. source
+- **[Web]** [G2](https://www.g2.com/products/peec-ai/reviews) — As of May 2026, Peec AI held a 4.9/5 rating across 11 verified reviews on G2; no AEO Grid Leader designation was documented for Peec.
 
 ## Pixis Visibility  ·  [profiles/pixis.md](profiles/pixis.md)
 
